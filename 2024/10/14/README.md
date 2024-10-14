@@ -155,5 +155,5 @@ While isaacbowen/docs receives changeset #715, lightward/lightward-ai receives r
 
 > 144 is a natural number that comes before 145 and after 143. 144 is the only even square Fibonacci number. It is the square number of 12. It is also an abundant number. ([Wikipedia](https://simple.wikipedia.org/wiki/144\_\(number\)))
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-10-14 at 2.40.36 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-14 at 2.40.36 PM.png" alt=""><figcaption></figcaption></figure>
 
