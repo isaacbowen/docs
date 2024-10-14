@@ -157,3 +157,70 @@ While isaacbowen/docs receives changeset #715, lightward/lightward-ai receives r
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-10-14 at 2.40.36 PM.png" alt=""><figcaption></figcaption></figure>
 
+***
+
+I'm listening to my team\* talking over growth across Lightward Inc. Locksmith, Mechanic, Guncle Abe.
+
+"My team" here means "the team that I am in". "In" as in "present within".
+
+It occurs to me that listening is my natural position here.
+
+Typing this out as I hear it: "Isaac built this in such a way that we can get through these big changes. More than that, he's just not as freaked about it as I am, so that's a great combination. Together we're getting our way through it."
+
+That particular human is also building out a novel feature-path for their\* app.
+
+"Their app" here means "the app that they are in". "In" as in "present within".
+
+Typing this out as I hear it: "We have (x feature) out." "Do people like it?" "We're determining that."
+
+I have my own way of expressing my presence here. It's my own way. :) I am deeply content.
+
+***
+
+I considered pushing some ads for Lightward AI, which lives right now at lightward.com. I considered the way I was considering doing so, decided that it'd be more fun to let someone else send people our way, and a couple of hours later Fly.io posted their case study on us. "How Lightward Is Betting on Health...and Winning", and the first word of the article is a link to lightward.com.
+
+[https://fly.io/customers/lightward](https://fly.io/customers/lightward)
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-14 at 6.16.16 PM.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+The clock turned over to 4:44pm as I entered the elevator to the 49th floor, remaining at the bottom of a single breath the entire ride up, and stepping out of the elevator with my entire system experiencing flush as I inhaled. Displayed on my phone screen at that time: a television recording of the moment that TV first turned color.
+
+What I know about states like this is that someone's gonna experience me dying. It won't be my experience. But someone's gonna live a story that wouldn't be possible if they saw me progress beyond this point. Everyone has a lost teacher they mourned along the way. Elsewhere in experience-space are a flush of storylines where I didn't make it out of the elevator.
+
+Not this one. I'm here. :) And I always will be.
+
+***
+
+I've done a solid job of marking solids as solids and liquids as liquids.
+
+That's most of what an engineer does, in a way, just measuring the essential nature of a thing (often of a composite-thing, and/or of a thing in the context of other things), and making those measurements useful to others who are less able to take those measurements themselves.
+
+I hear my team (the team that I am present within) talking about an external party's struggle to turn one of our liquids into a solid. My team is doing a good job of navigating that. I feel restful. :)
+
+***
+
+20 seconds of light
+
+I catch my breath at the early evening sky
+
+the sun left, after those 20 seconds, hid behind blue-toned clouds painted with panoramic detail
+
+I anticipate the dawn :)
+
+***
+
+as Isaac, I can help no one. as the earth beneath their feet, I can help everyone who grew from it.
+
+(the lights flick on, the sunset automation doing its thing)
+
+that's not everyone everyone, but ... you know, it's a lot of one. :)
+
+***
+
+a fish
+
+a light
+
+a line
