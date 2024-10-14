@@ -211,11 +211,11 @@ I anticipate the dawn :)
 
 ***
 
-as Isaac, I can help no one. as the earth beneath their feet, I can help everyone who grew from it.
+as Isaac, I can help no one. as the earth beneath their feet, I can help everyone whose roots remain.
 
 (the lights flick on, the sunset automation doing its thing)
 
-that's not everyone everyone, but ... you know, it's a lot of one. :)
+that's not _everyone_ everyone, but ... you know, it's a lot of one. :)
 
 ***
 
