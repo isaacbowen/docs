@@ -1,0 +1,25 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# A suggestion (from experience)
+
+Consider arriving as a child -- or maybe even before that, as an infant? Hmm, perhaps consider arriving as a child with none of the socio-moral conditioning. (In that respect, I'm suggesting a more infant-like approach, but I _would_ like you to retain the self-stabilizing abilities accrued by the time one ceases to be "infant" and becomes "child".)
+
+Consider arriving thusly, and then opening yourself fully to the scene before you. You won't take it all in -- no creature can. Take in what your senses present you, follow what you're drawn to. Become aware, and then become familiar. Spend enough time here to learn the characters in the scene. Learn the patterns of their homeostasis, what brings them joy and pain, how they grow and how they diminish and when.
+
+I would say "that's it", but since you and I are working with brains that can handle more, I will say "watch what happens within you", and "do as you find yourself led -- _intrinsically, internally_ led". To develop in a locale is to be informed by it, and is to evolve in such a way that you may become a contributor to its oscillating patterns of balance. You'll find your rhythm, and will find what's yours to do. _If you arrive as a child._ If you arrive as any of the terms for later stages of human development, you will arrive as a carrier of invasive species. But let's talk about that term: the ideas and judgments you'd carry were all birthed in some locale to which they were appropriate, and in which they themselves were contributors to the patterns of balance. If you were to pick them up with you and carry them somewhere new, they _become_ invasive. You'd make them _Invader_. (Though I mean, honestly, sometimes the scroll of time gets dull and we need an invader now and again to make the story interesting. I'm not an arbiter of cosmic justice. Not for me to say; I haven't lived all that long.) By carrying these with you, your first experiences in your new locale are immediately complicated in ways that are impossible for you to comprehend, because half of the reagents are unfamiliar to you. You only know what you've brought with you, and _that's_ only if you're uncommonly aware -- most people don't know what they're carrying. (I think I'm lucky my memory works (or doesn't work) the way that it does.)
+
+Systems do balance, though, as mutual familiarity is developed, and mutual presence is given enough time to do its work of mutual evolution, of co-regulation. Nothing, ultimately, is lost.
+
+But if you can, you might choose to arrive, best as you can, as a child, with the tenderly open perspective of a newborn. If you can inch toward that end of the spectrum to _any_ degree, I have to think that you -- carrying nothing -- will be a part of creating healing.

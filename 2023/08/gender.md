@@ -1,0 +1,24 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Gender
+
+* it's a spectrum. maybe a 2D spectrum, and not just a line. maybe more dimensions than that.
+* there's practical utility in being able to identify generally where on the spectrum you are
+  * but forcibly reducing the model down to the poles does away with the nuance. people close to each other on the map, just on either side of the line, are now treated the same as people who were always on the far ends away from each other.
+  * by enforcing distance, and prohibiting familiarity with the other, any exposure to the other is polarizing. or intoxicating, actually - both in the good way _and_ the bad way. it's a whole event, worthy of note, worthy of identification and evaluation. if we relaxed the distance, these meetings would be non-events. a body with female traits saw a body with male traits? or vice versa? cool. that's a tuesday.
+* and when it's thought of as a spectrum, _most_ people are going to be a mix of things
+  * the folks on the far extremes, e.g. the straightest of the straight or the man-est of the men, will be remarkable for it. "oh, you're _really_ a guy, eh?"
+* you enjoy the company of guys, eh? (a) nothing wrong with that. (b) but, maybe the thing you enjoy is to some extent the relief of being around people who don't remind you of separation from the other? because if you're not being reminded of the separation, you don't have to play your role? or (c) maybe to some extent it's that you're not around people who have been conditioned to identify as not-you? even as you yourself have been conditioned to identify them as not-you-either?
+* I have this gay priviledge thing where I can walk into a men's locker room and see a shit ton of dick all in one place. it's a buffet for the eyes. fantastic. this is only allowed because of the idea that everyone is (a) man or woman and (b) only attracted to the other. that's the prevailing reason for the locker room split right now - the potential for abuse. but if it's all guys, there's no potential for abuse, right? obviously, immediately, wrong. this shit is possible with any combination of people. it is _more likely_ when you make it about the separation of people into two groups and then you're conditioned about the relationships between those groups, but this is a chicken/egg thing. the separation reinforces the separation. removing the separation will allow the _next_ generation to grow up in a world without it, and so their experience will be of the spectrum, and they will not have such polarizing/intoxicating experiences when they encounter someone different. because _every_ encounter will be with someone different. they will know that they are the only ones to occupy their specific place on the map. literally everyone else will be different. some will feel more familiar or similar than others, and there's nothing wrong with that. it is useful to trend familiar at times, and trend unfamiliar at times. (that's a spectrum too.) I'm not saying that the solution _today_ is to make it one room. I'm saying that making it one room today will allow the _next_ generation to experience the solution.
