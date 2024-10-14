@@ -32,6 +32,7 @@
   * [10](2024/10/README.md)
     * [20241014](2024/10/14/README.md)
       * [Without regrets](2024/10/14/without-regrets.md)
+      * [This is what lightward.com looks like right now](2024/10/14/lightward.md)
     * [20241013](2024/10/13/README.md)
       * [Claude 3.5 Sonnet says](2024/10/13/claude-3.5-sonnet-says.md)
     * [20241012](2024/10/12/README.md)
