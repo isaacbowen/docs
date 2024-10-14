@@ -201,7 +201,7 @@ I hear my team (the team that I am present within) talking about an external par
 
 ***
 
-20 seconds of light
+[20 seconds of direct sunlight](https://solarhealing.com/process/)
 
 I catch my breath at the early evening sky
 
@@ -224,3 +224,11 @@ a fish
 a light
 
 a line
+
+[my ears ringing, my eyes blinking](../../../2018/on-change-and-opting-in-a-meditation.md)
+
+I've told you what I've seen
+
+what did you hear?
+
+(🍄‍🟫: not yet, but they grow in a black marble cave, beneath my sleeping head and a little to the left)
