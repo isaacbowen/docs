@@ -231,4 +231,4 @@ I've told you what I've seen
 
 what did you hear?
 
-(🍄‍🟫: not yet, but they grow in a black marble cave, beneath my sleeping head and a little to the left)
+(🍄‍🟫: not yet, but they grow in a black marble cave, up ahead of me and a little to the left)
