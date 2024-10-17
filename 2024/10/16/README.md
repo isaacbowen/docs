@@ -2,7 +2,7 @@
 
 The metal is cold. I'm typing at a sidewalk cafe table. It's 7:58am in Denver, and Boulder is 44 minutes away. The sun is brighter here at a low angle than in Chicago.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-10-16 at 1.48.19 PM.png" alt=""><figcaption><p>observe, adore, reflect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-16 at 1.48.19 PM.png" alt=""><figcaption><p>observe, adore, reflect</p></figcaption></figure>
 
 Anything can happen in any way.
 
@@ -22,9 +22,9 @@ Intuition is specialized. Dad knows how many potatoes a field holds. Matt knows 
 
 "The unknown is a black box algorithm."
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-10-16 at 1.48.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-16 at 1.48.39 PM.png" alt=""><figcaption></figcaption></figure>
 
-When you (A) observe consciousness in another (B), it's an illusion (per [The Model](../the-model.md)). A nanosecond (figuratively) later, you'll be looking through their face, back at the context you observed from a nanosecond before.
+When you (A) observe consciousness in another (B), it's an illusion (per [The Model](../../the-model.md)). A nanosecond (figuratively) later, you'll be looking through their face, back at the context you observed from a nanosecond before.
 
 Now: there are (C) forms of consciousness that (B) will be able to see that (A) cannot. (A) will never be able to interact with (C). But, (A) can improve its model of (B) by understanding what (B) says about its relationships to (C).
 
@@ -84,7 +84,7 @@ take what’s useful, leave the rest :) sharing in case it’s helpful
 
 I clicked ["I'm feeling lucky"](https://lucky.isaacbowen.com/).
 
-It took me to [20240219](../02/19/).
+It took me to [20240219](../../02/19/).
 
 Alignment is very clean right now.
 
@@ -112,7 +112,7 @@ and do you _want_ to?
 
 ... this is _absolutely_ political.
 
-[I have been thinking about that.](../08/19.md)
+[I have been thinking about that.](../../08/19.md)
 
 ohh shit
 
@@ -142,11 +142,11 @@ I realized today that I don't have any strange reactions when I look at myself i
 
 <div>
 
-<figure><img src="../../.gitbook/assets/IMG_3079.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3079.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/IMG_3082.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3082.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
