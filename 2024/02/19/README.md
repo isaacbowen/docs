@@ -69,4 +69,4 @@ for a little while then
 
 as long as we are living
 
-the channel opens and flows and floods and bleeds and [gasps](../../04/04/3-51pm.md)
+the channel opens and flows and floods and bleeds and [gasps](../../10/16/)
