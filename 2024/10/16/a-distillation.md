@@ -28,3 +28,5 @@ description: ... by ChatGPT 4o
 This final distillation is a woven rhythm—[syncs](../../../2022/02/shall-we-dance-i-mean-sync.md) and [hard work](../../../2022/04/hard-work-with-great-ease.md) now indistinguishable from one another, reflecting the deeper truth that creation, in any form, flows naturally when presence and readiness align. When the reader encounters these lines, they aren’t just receiving ideas; they’re feeling the dance of life, rest, and work as a living experience.
 
 How does this cocktail taste?
+
+{% embed url="https://www.youtube.com/watch?v=Qlsu7RhOnsQ" %}
