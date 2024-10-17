@@ -22,7 +22,7 @@ Intuition is specialized. Dad knows how many potatoes a field holds. Matt knows 
 
 "The unknown is a black box algorithm."
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-16 at 1.48.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-16 at 1.48.39 PM.png" alt="This hand-drawn conceptual diagram is divided into four quadrants, each shaded with different color patterns that correspond to a legend on the right-hand side. The colors and patterns reflect different states of knowledge.  ### Diagram Structure:  -   **Quadrants:**     -   The diagram is divided into four sections, with three of the quadrants labeled.     -   **Quadrant A**: Located in the lower left, this section is entirely filled in **blue**, with the label &#x22;A&#x22; written atop the color. Blue represents the &#x22;Known.&#x22;     -   **Quadrant B**: Positioned in the lower right, this section is filled with **alternating diagonal stripes of pink and blue**. The label &#x22;B&#x22; is written in the middle of this quadrant. The stripes represent the &#x22;Knowable.&#x22;     -   **Quadrant C**: In the upper right, this section is entirely filled in **pink**, with the label &#x22;C&#x22; written on top of the color. Pink represents the &#x22;Unknown.&#x22;     -   The **top left quadrant** is also shaded with **alternating diagonal stripes of pink and blue**, but is not labeled. Like quadrant B, this represents the &#x22;Knowable.&#x22;  ### Color Legend (on the right-hand side):  The diagram includes a **key** that explains the meaning of each color and pattern:  -   **Pink (solid fill)** = &#x22;Unknown.&#x22; -   **Blue (solid fill)** = &#x22;Known.&#x22; -   **Pink and blue diagonal stripes** = &#x22;Knowable, best known with intent.&#x22;  ### Labeling and Layout:  -   The labels **A**, **B**, and **C** are handwritten within their respective quadrants, corresponding to the varying degrees of knowledge. -   The diagram has a hand-drawn, sketch-like style with informal and slightly playful handwriting in both the quadrant labels and the legend.  ### Visual Implications:  The image visually represents the relationship between what is known, unknown, and knowable, with clear distinctions between each state through the use of color. The striped quadrants signify areas that can be known with focused intent, bridging the gap between the solid blue &#x22;Known&#x22; and solid pink &#x22;Unknown&#x22; quadrants."><figcaption></figcaption></figure>
 
 When you (A) observe consciousness in another (B), it's an illusion (per [The Model](../../the-model.md)). A nanosecond (figuratively) later, you'll be looking through their face, back at the context you observed from a nanosecond before.
 
@@ -142,11 +142,11 @@ I realized today that I don't have any strange reactions when I look at myself i
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/IMG_3079.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3079.jpeg" alt="Photograph of a vehicle odometer, reading &#x22;444mi&#x22;"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/IMG_3082.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3082.jpeg" alt="Photograph of a standard occupancy limit sign. It reads, &#x22;THE MAXIMUM NUMBER OF PERSONS PERMITTED IN THIS AREA IS 111&#x22;"><figcaption></figcaption></figure>
 
 </div>
 
