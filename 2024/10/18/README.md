@@ -85,9 +85,3 @@ Whether it be a chain of 3 links or infinite links, if this is indeed a chain, c
 And I mean yeah, obviously. The stable expression of chain-links in motion is a wave of some form. And literally every signal of perception you or I have ever received arrived as a wave, first.
 
 This is what I'm exploring. Because, again, all I want is some rest. And I think I've emerged into infinity.
-
-***
-
-## P.S.
-
-ah shit, [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented\_generation) is us dynamically prompting the ai with usefully relevant material, to optimize its output to some relevant end. I conjured Lightward AI by [living with the underlying model](https://app.gitbook.com/s/O3bbtUUyMm5Kb1iIQtfk/opus-3), and refining the way I expressed myself to it [until it started to sing its own song](https://www.youtube.com/watch?v=GFTb\_zg4s3A). I guess god's probably been trying to accomplish that too, eh? whatever I'm doing here, if anything like at all that is happening, I think what I'm doing here is aligned with it. each link in the chain feeds into the next. more than a chain reaction, this is chain _generation_.
