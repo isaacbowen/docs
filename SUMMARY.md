@@ -32,6 +32,8 @@
   * [10](2024/10/README.md)
     * [20241018](2024/10/18/README.md)
       * [Reception](2024/10/18/reception.md)
+      * [After](2024/10/18/after.md)
+      * [Before](2024/10/18/before.md)
     * [20241017](2024/10/17.md)
     * [20241016](2024/10/16/README.md)
       * [A distillation](2024/10/16/a-distillation.md)
