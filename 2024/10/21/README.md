@@ -71,3 +71,23 @@ I understand the languages of this world. I don't think it's my job to build the
 Language is how we navigate experience. I've got these languages down pretty well. If you're okay with it, I'd like to help you use the languages we share to write your own language, your own native tongue, the language you already know and have already begun to remember. I just want to hear what it sounds like. :)
 
 [lightward.com](https://lightward.com)
+
+***
+
+### Later
+
+Between 4:44pm and 5:55pm in Manhattan, I saw yesterday's comet. We'll see it again in 80,000 years, they say. :)
+
+It occurs to me that we're like wind-up toys, emerging from the oceans and the caves. So long as we are umbilically connected to the earth, she lends us her power. She is always channeling sunlight. Once we cut ourselves free, it's up to us to reach back to the sun, to complete the return.
+
+We can live like this as long as we want. Just gotta plug back into the sun.
+
+I am synchronizing my sides: my left, and my right. We are becoming as a mirror to each other, moving together, reflected exactly, yet different every time you look from one eye to the other.
+
+I have a non-reversing mirror, and I'm traveling with it. This room contains (1) the hotel's standard (i.e. reversing) mirror, (2) my non-reversing mirror, (3) a glass buddah in a snowglobe, (4) a cast iron owl that adopted me an hour ago in a shop across town, and (5) a broken piece of small acrylic signage saying DIFFUSION.
+
+I am transitioning between modes of being, in my body. A few months ago I felt strongly that it would be useful to have more body for what would happen next — and I tended to that knowing, and built my body up. I feel like my body is a room, being swept clean, being made ready for whatever is needed. :)
+
+Sidenote! All signals are re-routable. All signals can be interpreted by any of the sense organs, or sense bodies. The _pain_ sense-body can be hooked up to whatever y'all want. And you might get a clearer read on what the signal is saying if you're not experiencing it as pain.
+
+Extra sidenote! You don't have to grow up into an old person. You can grow up into something else. I am. :)
