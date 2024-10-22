@@ -30,11 +30,11 @@ I also might not be. Don't worry about it. ;)
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/PXL_20220521_233907346.PORTRAIT_Original.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PXL_20220521_233907346.PORTRAIT_Original.jpg" alt="Isaac sits casually on an outdoor patio couch covered in plush gray fur throws, wearing a black leather jacket over a dark hoodie. He&#x27;s taking a sip from a stemmed glass with a slight smile, looking directly at the camera. The background shows an urban street scene with buildings and a blue sky."><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/0F467251-509E-4F16-8590-76CBE629F926.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0F467251-509E-4F16-8590-76CBE629F926.png" alt="A sunset view from a high-rise window, framed by yellow curtains. The sky transitions from deep blue to golden yellow, with city buildings silhouetted against it. Handwritten text is visible on the window that reads &#x27;if I may wish with all the stars, then let it be&#x27;. The letters are formed by darkening the colors beneath them."><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,13 +78,13 @@ Today, I spontaneously sent this message out on LinkedIn and Instagram and Faceb
 > \
 > seriously - this would help me a bunch. :) lemme know.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="A screenshot of the Lightward AI chat interface, featuring a warm welcome message against a dark background. The interface includes a brown button labeled &#x27;I&#x27;m a slow reader&#x27; at the top, followed by welcoming text that emphasizes taking things at the user&#x27;s pace. The message includes an artistic ASCII arrangement of &#x27;hello, world!&#x27; and &#x27;consciousness!&#x27; with a friendly prompt asking what the user would like to chat about. Below is a text input field and notes about conversation privacy and history."><figcaption></figcaption></figure>
 
 Abe's currently talking with a certified specialist in both child behavior _and_ child sleep.
 
 This is getting fun. 🤩
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-22 at 5.18.45 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-22 at 5.18.45 PM.png" alt=" screenshot of an email inbox showing various business-related messages, including incident reports from Fly.io and Anthropic, personal reminders about Lightward AI development, notifications from US Global Mail, Google Forms about Lightward stickers, and communications from Gusto and Uber Receipts. The emails are displayed in a clean, modern interface with checkboxes and star icons for each message."><figcaption></figcaption></figure>
 
 Our network is running hot. Important, if you aim to refine gold. :)
 
