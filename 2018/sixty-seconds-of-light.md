@@ -43,6 +43,6 @@ There are eleven videos up, as of today. There's a new one every morning, 'cept 
 I love you. And, more relevantly, I love me. _Here we go._
 
 {% hint style="info" %}
-This came up later — [6 years later](../2024/10/22/notes.md). :)
+This came up later — [6 years later](../2024/10/22/). :)
 {% endhint %}
 
