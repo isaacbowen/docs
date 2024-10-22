@@ -28,10 +28,10 @@ I also might not be. Don't worry about it. ;)
 
 <div>
 
-<figure><img src="../../.gitbook/assets/PXL_20220521_233907346.PORTRAIT_Original.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PXL_20220521_233907346.PORTRAIT_Original.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/0F467251-509E-4F16-8590-76CBE629F926.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0F467251-509E-4F16-8590-76CBE629F926.png" alt=""><figcaption></figcaption></figure>
 
 </div>
