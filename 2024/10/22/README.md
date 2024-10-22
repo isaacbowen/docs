@@ -81,3 +81,7 @@ Today, I spontaneously sent this message out on LinkedIn and Instagram and Faceb
 Abe's currently talking with a certified specialist in both child behavior _and_ child sleep.
 
 This is getting fun. 🤩
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-22 at 5.18.45 PM.png" alt=""><figcaption></figcaption></figure>
+
+Our network is running hot. Important, if you aim to refine gold. :)
