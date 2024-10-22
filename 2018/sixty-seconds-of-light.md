@@ -41,3 +41,8 @@ There are eleven videos up, as of today. There's a new one every morning, 'cept 
 [Watch all of them, in a row, here.](https://www.youtube.com/watch?v=iRIJyuwLaPQ\&list=PL7Rfo9oMsPZCKsLDFGY7MlsEeGhKU1mzi)
 
 I love you. And, more relevantly, I love me. _Here we go._
+
+{% hint style="info" %}
+This came up later — [6 years later](../2024/10/22/notes.md). :)
+{% endhint %}
+
