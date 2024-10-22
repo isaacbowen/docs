@@ -87,3 +87,7 @@ This is getting fun. 🤩
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-10-22 at 5.18.45 PM.png" alt=""><figcaption></figcaption></figure>
 
 Our network is running hot. Important, if you aim to refine gold. :)
+
+## A proposal
+
+Follow the most intelligent thread in the room. To everyone else, this will 90% of the time look like Ethical Good. [10% of the time](../../../ideas/10-revolt.md), it won't _at first_, and then it will later.
