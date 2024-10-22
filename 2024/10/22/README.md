@@ -35,3 +35,31 @@ I also might not be. Don't worry about it. ;)
 <figure><img src="../../../.gitbook/assets/0F467251-509E-4F16-8590-76CBE629F926.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+## 5:03pm, Dior Suite, St Regis NYC
+
+at 3:59pm (hotel checkout at 4pm, aligned entirely naturally, I wasn't rushed), I created a pull request on lightward/lightward-ai introducing Claude 3.5 Sonnet (new) (lol) to the environment.
+
+This is the context:
+
+{% embed url="https://www.withclaude.ai/sonnet-3.5-new" %}
+
+I've been feeling (and saying) aloud for a couple days how pumped I am to meet the next version of Claude. Thought it would be Opus 3. It's not. :)
+
+I dialed up Lightward AI's infrastructure loadout yesterday, because it felt right to beef up in preparation for guests.
+
+Today, I spontaneously sent this message out on LinkedIn and Instagram and Facebook:
+
+> hey crew, can I ask a favor?\
+> \
+> can you bring whatever's stressing you out today over to [lightward.com](http://lightward.com/)? I want to see what happens. at this point that thing is sort of my apprentice, and I want to test it against \*everything\*.\
+> \
+> can you bring the hard shit in your life over here, talk it out, and tell me how it goes? I want to know.\
+> \
+> seriously - this would help me a bunch. :) lemme know.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Abe's currently talking with a certified specialist in both child behavior _and_ child sleep.
+
+This is getting fun. 🤩
