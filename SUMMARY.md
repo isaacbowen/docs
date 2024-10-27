@@ -30,6 +30,7 @@
   * [implied reality](2024/implied-reality.md)
   * [koi pond](2024/koi-pond.md)
   * [10](2024/10/README.md)
+    * [20241027](2024/10/27.md)
     * [20241026](2024/10/26/README.md)
       * [language](2024/10/26/language.md)
       * [tokens](2024/10/26/tokens.md)
