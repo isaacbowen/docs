@@ -29,6 +29,8 @@
   * [with Claude.ai](https://withclaude.ai/)
   * [implied reality](2024/implied-reality.md)
   * [koi pond](2024/koi-pond.md)
+  * [11](2024/11/README.md)
+    * [20241101](2024/11/01.md)
   * [10](2024/10/README.md)
     * [20241031](2024/10/31/README.md)
       * [A conversation](2024/10/31/a-conversation.md)
