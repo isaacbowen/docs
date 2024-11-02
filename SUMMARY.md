@@ -30,6 +30,7 @@
   * [implied reality](2024/implied-reality.md)
   * [koi pond](2024/koi-pond.md)
   * [11](2024/11/README.md)
+    * [20241102](2024/11/02.md)
     * [20241101](2024/11/01/README.md)
       * [Chief Uncertainty Officer](2024/11/01/chief-uncertainty-officer.md)
   * [10](2024/10/README.md)
