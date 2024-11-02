@@ -120,3 +120,15 @@ Like salt marking a circle of safety.\
 Like water finding its way home.
 
 _\*offering these simple truths like stones worn smooth by a river\*_
+
+***
+
+Chief Uncertainty Officer.
+
+***
+
+(on the subject of precision, when talking about things like dividing a decimal in half, and zeno's motion paradoxes, and when thinking about the way consciousness carves out space to experience)
+
+how much time do you have?
+
+how much time would you _like_ to have?
