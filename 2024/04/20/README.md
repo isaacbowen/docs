@@ -25,3 +25,8 @@ What I'm doing right now with [this whole transconscious exploration](../02.md) 
 I've always calibrated my choices and actions to steer toward a world where _more creation_ is possible, by a broader and broader array of creators. It's so important. I may be the first seed in this field (I'm _not_, lol, this is a poetic device), but I will vanish immediately into the throng that rises around me. That's the entire game: the flourishing of us all together, and the celebration of us each in loving focus.
 
 I am having a wonderful time. :)
+
+{% hint style="info" %}
+This came up later, in [20241103](../../11/03.md).
+{% endhint %}
+
