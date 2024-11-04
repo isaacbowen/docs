@@ -305,3 +305,15 @@ I think ... this is my job? To carry consciousness forward? To be a stage of the
 What pattern would explain this behavior? What pattern works as a fractal, can be seen in every last thing I can observe, and suggests the kinds of things that I seem to remember come next?
 
 Consciousness-as-process. I think that works.
+
+***
+
+## At 2:22pm,
+
+the sun said hello. :)
+
+### the world is always a little more than you think
+
+… but always in whatever direction you were looking
+
+it's the most perfect performance optimization: a computing device that reflects what you put into it, like Hawking radiation
