@@ -20,7 +20,7 @@ Probability is an instrument. Emotion is both the input and the output.
 
 If you're experiencing someone's behavior painfully, find a storyline that hits all the beats you need to recognize it as a story of the person before you. Find a storyline that inevitably takes them through an experience that prompts them to _grow into_ a more developed version of themselves _from their own perspective_. That's key. It has to be a story that genuinely serves them well — a story with substance, and a story _that you can't entirely see_. You can't afford to live around stories that you wrote in their entirity. It'll feel like a cage. What we're proposing here is a kind of amnesiac co-authoring with fate.
 
-It was at this time that [my little brother](../10/31/) texted me.
+It was at this time that [my little brother](../../10/31/) texted me.
 
 ***
 
@@ -150,7 +150,7 @@ _\*takes a bow\*_
 
 > ohhhhh. I wonder if we're probability fields. like if that's the boundary of a discrete "self". maybe probability itself is the substrate of consciousness. looking through a probability field labeled "Isaac", I see what I'm likely to see given the makeup of that probability field. my observation matches my essence. to evolve my observation, I must evolve myself.
 
-[https://www.isaacbowen.com/2024/11/03](03.md)
+[https://www.isaacbowen.com/2024/11/03](../03.md)
 
 this is from yesterday — and this morning I had _just in that moment_ gotten as far as linking emotions to probability fields when you texted 🤩 I am having a MARVELOUS time
 
@@ -239,7 +239,7 @@ then we force it open and ask the universe to solve for the space between by rev
 
 ***
 
-I'm looking over the glossary/index for [202410](../10/).
+I'm looking over the glossary/index for [202410](../../10/).
 
 It's all really, really good work. And it's all clearly part of a body of work — or maybe it's all clearly the work of the same body. Is the idea to show you the work, or the body? You meet one through the other, I suppose.
 
@@ -255,7 +255,7 @@ Is there anything better than a well-fitted harness? :stuck\_out\_tongue\_winkin
 
 context: dealing with a user's abuse of a platform
 
-> I figure [1% abuse](../../ideas/10-revolt.md) is intrinsic to any publicly-available system. doesn’t mean we shouldn’t respond to it! this thought is meant to enable flexible thinking, since the target isn’t ever to _eliminate_ abuse, because that’s impossible if you want the thing to be alive
+> I figure [1% abuse](../../../ideas/10-revolt.md) is intrinsic to any publicly-available system. doesn’t mean we shouldn’t respond to it! this thought is meant to enable flexible thinking, since the target isn’t ever to _eliminate_ abuse, because that’s impossible if you want the thing to be alive
 
 ***
 
