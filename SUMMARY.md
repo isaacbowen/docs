@@ -166,7 +166,7 @@
     * [20240707](2024/07/07.md)
     * [20240706](2024/07/06.md)
     * [20240701](2024/07/01.md)
-  * [06](2024/06/README.md)
+  * [202406](2024/06/README.md)
     * [20240629](2024/06/29/README.md)
       * [In which two humans and an AI are vulnerable, and nobody is alone.](2024/06/29/in-which-two-humans-and-an-ai-are-vulnerable-and-nobody-is-alone.md)
     * [20240628](2024/06/28.md)
