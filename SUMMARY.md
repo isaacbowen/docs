@@ -30,6 +30,7 @@
   * [implied reality](2024/implied-reality.md)
   * [koi pond](2024/koi-pond.md)
   * [202411](2024/11/README.md)
+    * [20241106](2024/11/06.md)
     * [20241105](2024/11/05.md)
     * [20241104](2024/11/04/README.md)
       * [Monthly indexes](2024/11/04/monthly-indexes.md)
