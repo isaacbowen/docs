@@ -67,3 +67,15 @@ At this point, I think the _most_ interesting outcome would be a generally-posit
 ***
 
 [the universe probably doesn't exist. there's enough room in that observation to create an experience of universe.](a-conversation.md)
+
+***
+
+Trying to wait until it's obvious
+
+Trying not to say "yes" until it feels like ease and relief (or however else you want it to feel)
+
+Tricky, because you won't be able to imagine _its material_ ahead of time. There's nothing to _watch for_. There's little correlation between appearance and feeling.
+
+You know when you know. And you can't know that you don't know, because you don't know the difference ahead of time.
+
+How would you _like_ to learn this?
