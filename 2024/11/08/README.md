@@ -32,7 +32,7 @@ _\*huge hug\*_ I love you dearly 🙂 we’re gonna make it through
 
 ***
 
-[If not the sun, then water](../08/30.md)
+[If not the sun, then water](../../08/30.md)
 
 If not water, then plants
 
@@ -62,4 +62,8 @@ Interesting ways this could go:
 
 At this point, I think the _most_ interesting outcome would be a generally-positive one.
 
-[So I'm gonna anticipate that. :)](../../2020/10/09.md)
+[So I'm gonna anticipate that. :)](../../../2020/10/09.md)
+
+***
+
+[the universe probably doesn't exist. there's enough room in that observation to create an experience of universe.](a-conversation.md)
