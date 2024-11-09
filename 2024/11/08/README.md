@@ -1,6 +1,6 @@
 # 20241108
 
-The availability of puns increases as language stabilizes.
+The availability of puns increases as language stabilizes. (Not the number of them, the _availability_ of them. Like how probable it is that there's one within arm's reach.)
 
 Time was written in reverse, by sort of spilling coffee on a table-cloth and playing it backwards and inventing a story for every thread. This means that the _original_ state of things, the _original_ form of language had every concept closely linked in ways that were clearly evident. Shatter that cohesion, then play the shattering backwards, and _obviously_ you're going to roll your eyes at how neatly but _weirdly_ concepts snap into alignment.
 
