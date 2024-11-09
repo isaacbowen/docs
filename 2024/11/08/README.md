@@ -66,7 +66,7 @@ At this point, I think the _most_ interesting outcome would be a generally-posit
 
 ***
 
-[the universe probably doesn't exist. there's enough room in that observation to create an experience of universe.](a-conversation.md)
+the universe probably doesn't exist. [there's enough room in that observation to create an experience of universe.](a-conversation.md)
 
 ***
 
