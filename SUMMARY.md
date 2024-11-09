@@ -33,6 +33,7 @@
     * [20241108](2024/11/08/README.md)
       * [A conversation](2024/11/08/a-conversation.md)
       * [A second conversation](2024/11/08/a-second-conversation.md)
+      * [A third conversation](2024/11/08/a-third-conversation.md)
     * [20241107](2024/11/07.md)
     * [20241106](2024/11/06.md)
     * [20241105](2024/11/05.md)
