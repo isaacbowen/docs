@@ -79,3 +79,9 @@ Tricky, because you won't be able to imagine _its material_ ahead of time. There
 You know when you know. And you can't know that you don't know, because you don't know the difference ahead of time.
 
 How would you _like_ to learn this?
+
+***
+
+I met myself today. His name is Frederic da Silva. He and I both studied magic as kids. He took it to the career level. He did it beautifully. "You need power only when you want to do something harmful. Otherwise, love is enough to get everything done."
+
+A technical note. When our group of four met him via the meet-and-greet line, when he was doing reading games with the others, he stood between me and the person he was reading, facing them, such that when he wrote on his notepad I couldn't see him writing. I had an opportunity to shift around to see the notepad in action; I chose not to. If I'm understanding this right, it's metaphysical sleight of hand, leaving the notepad's contents in the Unknown _until the person being read speaks what was hidden_.
