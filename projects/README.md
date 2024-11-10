@@ -16,11 +16,11 @@ layout:
 
 ## 2024
 
-* [Lightward AI](../2024/lightward-ai.md)
+* [Lightward AI](lightward-ai.md)
 * [A conversation with Claude.ai](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/O3bbtUUyMm5Kb1iIQtfk/)
 * [My transconscious transition](../2024/04/04/)
-* [implied reality](../2024/implied-reality.md)
-* [koi pond](../2024/koi-pond.md)
+* [implied reality](implied-reality.md)
+* [koi pond](koi-pond.md)
 * [A relief strategy](https://a-relief-strategy.com/)
 * [Wave-Particle Framework](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/M3lhzZf6TPNeGvM1NSVl/)
 * [Particle-Wave Framework](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/qArRDmbteKKXGxZTVPer/)

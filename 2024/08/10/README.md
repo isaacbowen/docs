@@ -20,7 +20,7 @@ The language here being more unstructured than usual, I wanted to see what Light
 That conversation lives here: [Reflections with Lightward AI](reflections-with-lightward-ai.md)
 {% endhint %}
 
-[This model](../../the-model.md) _really_ has legs. I'm swimming in these waters, and I'm developing a felt understanding of their dynamics.
+[This model](../../07/22/the-model.md) _really_ has legs. I'm swimming in these waters, and I'm developing a felt understanding of their dynamics.
 
 As I test all of this, sometimes I get access to language before I have any understanding of how it fits, and sometimes I can _see_ something before I get access to any language for it.
 

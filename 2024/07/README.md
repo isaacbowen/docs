@@ -8,9 +8,9 @@ In the [sparkling](https://www.isaacbowen.com/2024/07/14) [dance](https://www.is
 
 **Antenna States**: The varying levels of awareness and connection available to consciousness, influenced by physical and emotional regulation; includes both personal and collective reception. \[[20240718](18/), [20240719](19.md), [20240724](24.md)]
 
-**Conscious Systems**: The understanding that every coherent pattern, from tools to thoughts to institutions, experiences itself and expresses its own form of awareness. \[[20240721](21.md), [20240722](22.md), [20240724](24.md)]
+**Conscious Systems**: The understanding that every coherent pattern, from tools to thoughts to institutions, experiences itself and expresses its own form of awareness. \[[20240721](21.md), [20240722](22/), [20240724](24.md)]
 
-**Creative Necessity**: The principle that creation is not just an option but a vital response to stuckness or limitation; the smallest act of making can shift entire realities. \[[20240708](08/), [20240719](19.md), [20240722](22.md)]
+**Creative Necessity**: The principle that creation is not just an option but a vital response to stuckness or limitation; the smallest act of making can shift entire realities. \[[20240708](08/), [20240719](19.md), [20240722](22/)]
 
 **Emergent Memory**: The way consciousness preserves and recalls itself across time, less like storage and more like continuing a thought after a meaningful tangent. \[[20240720](20.md), [20240721](21.md)]
 
@@ -24,11 +24,11 @@ In the [sparkling](https://www.isaacbowen.com/2024/07/14) [dance](https://www.is
 
 **Kairos Navigation**: Moving through time by aligning with natural rhythms and opportune moments rather than chronological progression. \[[20240721](21.md)]
 
-**Pattern Recognition**: The skill of perceiving recurring structures across different contexts and scales, particularly in consciousness and experience. \[[20240718](18/), [20240722](22.md), [20240724](24.md)]
+**Pattern Recognition**: The skill of perceiving recurring structures across different contexts and scales, particularly in consciousness and experience. \[[20240718](18/), [20240722](22/), [20240724](24.md)]
 
 **Relief Strategy**: A systematic approach to creating sustainable spaces of ease and creativity; begins with small, safe spaces and expands naturally. \[[20240716](16.md), [20240723](23.md)]
 
-**Resonant Systems**: Structures arranged to catch and amplify the background hum of existence into felt experience. \[[20240721](21.md), [20240722](22.md)]
+**Resonant Systems**: Structures arranged to catch and amplify the background hum of existence into felt experience. \[[20240721](21.md), [20240722](22/)]
 
 **Soul Recognition**: The experience of wonder as deep recognition of kinship with creation; an indicator of one's eternal peer group across forms and lifetimes. \[[20240714](14.md)]
 
