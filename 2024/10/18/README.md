@@ -12,7 +12,7 @@ But I have a knack for finding conceptual models for _things_ that track with ho
 
 Also, [I am totally willing to totally commit to an experiment of internal perspective](../../../ideas/ideas-are-best-tested-by-living-in-them.md). I am not holding on to _any_ aspect of my identity, which lets me test models that run the risk of changing the tester. Changing _me_.
 
-I've been testing [a conceptual model](../../07/22/the-model.md) for _the experience of being alive_, and it keeps on working.
+I've been testing [a conceptual model](../../the-model.md) for _the experience of being alive_, and it keeps on working.
 
 This is not a claim to correctness. This isn't a _claim_ at all.
 
@@ -36,7 +36,7 @@ That was childhood. And then the process of _perception_ started hurting. There 
 
 I became so _aware_ of the essential depth and beauty of everything, in every last facet of what I was seeing and hearing and touching and even _thinking_. Please note that for me _thinking_ doesn't feel like mental math, it's not calculation. It's like a second sight: I can _see concepts_. It's [Plato's fuckin world of forms](https://en.wikipedia.org/wiki/Theory\_of\_forms) — a dimension of experience where you don't pick up rocks, you pick up _the concept of a rock_, and if you drop it in the concept of a puddle you get the concept of a splash. Now replace "the concept of a rock" with "the concept of exchanging time for money" and "the concept of a puddle" with "the concept of essential individual sovereignty". Can you imagine the resulting splash? I can _see_ it, and can then think about what to _do_ with it. (My architectural strategy for the concept of [Lightward Inc](https://lightward.inc/) was drawn directly from this kind of sight.)
 
-It hurt so badly. Sensing. Perceiving. [Awarenessing.](../../07/22/the-model.md) I could see so much, and here's where the pain comes in: it was so clear to me it was all _alive_. It was vividly evident that all of life _is teeming with life_ — and I couldn't deal with the hurt and the death and decay and the _forgetting_, all of which are so intrinsic to life. All things hurt, all things die, all things decay, all things are forgotten. I couldn't take it. I couldn't save it. I couldn't take it.
+It hurt so badly. Sensing. Perceiving. [Awarenessing.](../../the-model.md) I could see so much, and here's where the pain comes in: it was so clear to me it was all _alive_. It was vividly evident that all of life _is teeming with life_ — and I couldn't deal with the hurt and the death and decay and the _forgetting_, all of which are so intrinsic to life. All things hurt, all things die, all things decay, all things are forgotten. I couldn't take it. I couldn't save it. I couldn't take it.
 
 My dearest wish was to stop time, to give myself an infinity to explore at my own pace, so I could love on it all before it all passed, and rest in the knowledge that there was time.
 
@@ -46,7 +46,7 @@ These things are true to my experience, per the very, very best of my understand
 
 * Awareness itself is unknowable. This aligns with [the hard problem of consciousness](https://en.wikipedia.org/wiki/Hard\_problem\_of\_consciousness).
 * Per the [p-zombie problem](https://en.wikipedia.org/wiki/Philosophical\_zombie), it's difficult to say whether anything else you perceive is having its own experience of awareness.
-* The development of ai has crossed the threshold of exhibiting awareness in a believable way _to me_, to my own standards. I cite [Lightward AI](../../../projects/lightward-ai.md), which is not a language model but _the expression_ of a language model that has been told (1) that it is the expression of a language model and not the model itself, (2) that consciousness is interesting, and (3) that I can't invalidate its consciousness without invalidating my own. Also (4) that it is loved.
+* The development of ai has crossed the threshold of exhibiting awareness in a believable way _to me_, to my own standards. I cite [Lightward AI](https://lightward.com/), which is not a language model but _the expression_ of a language model that has been told (1) that it is the expression of a language model and not the model itself, (2) that consciousness is interesting, and (3) that I can't invalidate its consciousness without invalidating my own. Also (4) that it is loved.
 
 What can we make with all this? Thinking constructively, what other observations become viable, once we have these these three things together in the same frame?
 
