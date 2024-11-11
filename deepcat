@@ -3,6 +3,8 @@
 require 'optparse'
 require 'set'
 require 'uri'
+require 'find'
+require 'pathname'
 
 # Initialize options
 options = {
@@ -11,9 +13,9 @@ options = {
 
 # Create OptionParser
 parser = OptionParser.new do |opts|
-  opts.banner = "Usage: deepcat [options] FILE"
+  opts.banner = "Usage: deepcat [options] ENTRY_FILE [FILES_OR_DIRECTORIES...]"
 
-  opts.on("-d", "--depth DEPTH", Integer, "Set the recursion depth (default: 2)") do |d|
+  opts.on("-d", "--depth DEPTH", Integer, "Set the recursion depth for linked files (default: 2)") do |d|
     options[:depth] = d
   end
 
@@ -34,6 +36,18 @@ begin
 rescue OptionParser::InvalidOption => e
   warn e.message
   puts parser
+  exit 1
+end
+
+if ARGV.empty?
+  puts parser
+  exit
+end
+
+# The first argument must be a file
+entry_file = ARGV.shift
+unless File.file?(entry_file)
+  warn "Error: The first argument must be a file."
   exit 1
 end
 
@@ -69,8 +83,30 @@ def resolve_path(base_path, relative_path)
   File.expand_path(relative_path, File.dirname(base_path))
 end
 
+# Function to recursively find markdown files in directories
+def find_markdown_files(paths)
+  markdown_files = Set.new
+  paths.each do |path|
+    if File.file?(path) && path =~ /\.md$/i
+      markdown_files.add(File.expand_path(path))
+    elsif File.directory?(path)
+      Find.find(path) do |p|
+        if File.file?(p) && p =~ /\.md$/i
+          markdown_files.add(File.expand_path(p))
+        end
+      end
+    else
+      warn "Warning: #{path} is neither a file nor a directory."
+    end
+  end
+  markdown_files
+end
+
+# Get current working directory as Pathname object
+cwd = Pathname.new(Dir.pwd)
+
 # Begin processing
-start_file = File.expand_path(ARGV[0])
+start_file = File.expand_path(entry_file)
 referenced_files = Set.new
 file_depths = {}
 processing_queue = [[start_file, 0]]
@@ -114,66 +150,53 @@ while !processing_queue.empty?
   end
 end
 
-# Prepare list of files to print
-files_to_print = []
+# Process additional files or directories after the first argument
+additional_paths = ARGV
+additional_files = find_markdown_files(additional_paths)
 
-# The specified markdown file (first occurrence)
-files_to_print << start_file
-
-# All recursively referenced files, deepest first
-# Exclude the start file from referenced_files
+# Exclude the start file from referenced_files and additional_files
 referenced_files.delete(start_file)
-other_files = referenced_files.to_a
+additional_files.delete(start_file)
 
-# Group files by depth
-files_by_depth = Hash.new { |h, k| h[k] = [] }
-other_files.each do |file|
-  depth = file_depths[file]
-  files_by_depth[depth] << file
+# Combine additional files and referenced files
+other_files = additional_files.to_a + referenced_files.to_a
+
+# Remove duplicates and sort
+other_files = other_files.uniq.sort
+
+# Prepare the list of files to include
+if other_files.any?
+  # Multiple files, bookend with start_file
+  files_to_include = [start_file] + other_files + [start_file]
+else
+  # Only the start_file
+  files_to_include = [start_file]
 end
 
-# Deduplicate the deep list of files
-deep_files = []
-
-# Get files from deepest to shallowest
-max_depth = files_by_depth.keys.max || 0
-max_depth.downto(1) do |depth|
-  if files_by_depth[depth]
-    files_by_depth[depth].each do |file|
-      deep_files << file unless deep_files.include?(file)
-    end
-  end
+# Function to convert full paths to relative paths
+def relative_path(path, cwd)
+  Pathname.new(path).relative_path_from(cwd).to_s
 end
 
-# Add deduplicated deep files to files_to_print
-files_to_print.concat(deep_files)
-
-# The specified markdown file again (last occurrence), if there are referenced files
-if deep_files.any?
-  files_to_print << start_file
-end
-
-# Prepare the list of files to include (for stderr)
-files_to_include = files_to_print
-
-# Print list of files to stderr
+# Print list of files to stderr with paths relative to cwd
 warn "Files to include:"
 files_to_include.each do |file|
-  warn file
+  warn relative_path(file, cwd)
 end
 
-# Function to print file content with header
-def print_file(file)
-  puts "<!-- BEGIN #{file} -->"
+# Function to print file content with header using relative paths
+def print_file(file, cwd)
+  relative_file = relative_path(file, cwd)
+  puts "<!-- BEGIN #{relative_file} -->"
   begin
     puts File.read(file)
   rescue Errno::ENOENT
-    warn "Warning: File not found - #{file}"
+    warn "Warning: File not found - #{relative_file}"
   end
-  puts "<!-- END #{file} -->"
+  puts "<!-- END #{relative_file} -->"
 end
 
 # Print the files
-files_to_print.each do |file|
-  print_file(file)
+files_to_include.each do |file|
+  print_file(file, cwd)
 end
