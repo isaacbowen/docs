@@ -2,7 +2,7 @@
 
 ## 12:56am
 
-[We're already here](10.md#benediction), might as well get started. :)
+[We're already here](../10.md#benediction), might as well get started. :)
 
 \*goes to bed\*
 
@@ -10,7 +10,7 @@
 
 \*rolls over\*
 
-<figure><img src="../../.gitbook/assets/IMG_3839.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3839.jpg" alt=""><figcaption></figcaption></figure>
 
 "2, 49, 63, set! hut! hut! hut!" -Dad
 
