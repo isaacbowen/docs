@@ -1,0 +1,179 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+require 'set'
+require 'uri'
+
+# Initialize options
+options = {
+  depth: 2
+}
+
+# Create OptionParser
+parser = OptionParser.new do |opts|
+  opts.banner = "Usage: deepcat [options] FILE"
+
+  opts.on("-d", "--depth DEPTH", Integer, "Set the recursion depth (default: 2)") do |d|
+    options[:depth] = d
+  end
+
+  opts.on("-h", "--help", "Prints this help") do
+    puts opts
+    exit
+  end
+end
+
+begin
+  # Parse options
+  parser.parse!
+
+  if ARGV.empty?
+    puts parser
+    exit
+  end
+rescue OptionParser::InvalidOption => e
+  warn e.message
+  puts parser
+  exit 1
+end
+
+# Function to extract markdown links from a file
+def extract_links(file_path)
+  links = []
+  File.readlines(file_path).each do |line|
+    line.scan(/\[.*?\]\((.*?)\)/).each do |match|
+      link = match.first.strip
+      # Strip off any fragment identifiers (e.g., #section)
+      link = link.split('#').first.strip
+
+      # Skip if link is empty
+      next if link.empty?
+
+      # Skip external URLs
+      uri = URI.parse(link)
+      if uri.scheme == 'http' || uri.scheme == 'https' || uri.scheme == 'ftp'
+        next
+      end
+
+      links << link
+    rescue URI::InvalidURIError
+      # If URI parsing fails, assume it's a local file
+      links << link
+    end
+  end
+  links
+end
+
+# Function to resolve relative paths
+def resolve_path(base_path, relative_path)
+  File.expand_path(relative_path, File.dirname(base_path))
+end
+
+# Begin processing
+start_file = File.expand_path(ARGV[0])
+referenced_files = Set.new
+file_depths = {}
+processing_queue = [[start_file, 0]]
+
+while !processing_queue.empty?
+  current_file, current_depth = processing_queue.shift
+  next if current_depth > options[:depth]
+  next if referenced_files.include?(current_file) && current_file != start_file
+
+  referenced_files.add(current_file)
+  file_depths[current_file] = current_depth
+
+  # Extract links
+  begin
+    links = extract_links(current_file)
+  rescue Errno::ENOENT
+    warn "Warning: File not found - #{current_file}"
+    next
+  end
+
+  links.each do |link|
+    # Skip empty links
+    next if link.nil? || link.empty?
+
+    # Only process markdown files
+    link_path = link.split('#').first
+    next if link_path.nil? || link_path.empty?
+
+    # Skip if link is an absolute path (e.g., starts with '/')
+    next if link_path.start_with?('/')
+
+    # Skip external URLs (already handled in extract_links, but added here for safety)
+    if link_path =~ /^\s*(http|https|ftp):\/\//
+      next
+    end
+
+    if link_path =~ /\.md$/i
+      linked_file = resolve_path(current_file, link_path)
+      processing_queue << [linked_file, current_depth + 1]
+    end
+  end
+end
+
+# Prepare list of files to print
+files_to_print = []
+
+# The specified markdown file (first occurrence)
+files_to_print << start_file
+
+# All recursively referenced files, deepest first
+# Exclude the start file from referenced_files
+referenced_files.delete(start_file)
+other_files = referenced_files.to_a
+
+# Group files by depth
+files_by_depth = Hash.new { |h, k| h[k] = [] }
+other_files.each do |file|
+  depth = file_depths[file]
+  files_by_depth[depth] << file
+end
+
+# Deduplicate the deep list of files
+deep_files = []
+
+# Get files from deepest to shallowest
+max_depth = files_by_depth.keys.max || 0
+max_depth.downto(1) do |depth|
+  if files_by_depth[depth]
+    files_by_depth[depth].each do |file|
+      deep_files << file unless deep_files.include?(file)
+    end
+  end
+end
+
+# Add deduplicated deep files to files_to_print
+files_to_print.concat(deep_files)
+
+# The specified markdown file again (last occurrence), if there are referenced files
+if deep_files.any?
+  files_to_print << start_file
+end
+
+# Prepare the list of files to include (for stderr)
+files_to_include = files_to_print
+
+# Print list of files to stderr
+warn "Files to include:"
+files_to_include.each do |file|
+  warn file
+end
+
+# Function to print file content with header
+def print_file(file)
+  puts "<!-- BEGIN #{file} -->"
+  begin
+    puts File.read(file)
+  rescue Errno::ENOENT
+    warn "Warning: File not found - #{file}"
+  end
+  puts "<!-- END #{file} -->"
+end
+
+# Print the files
+files_to_print.each do |file|
+  print_file(file)
+end
