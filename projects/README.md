@@ -25,6 +25,7 @@ layout:
 * [Wave-Particle Framework](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/M3lhzZf6TPNeGvM1NSVl/)
 * [Particle-Wave Framework](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/qArRDmbteKKXGxZTVPer/)
 * [The Model](../2024/the-model.md)
+* [deepcat](../2024/11/11/deepcat.md)
 
 ## 2023
 
