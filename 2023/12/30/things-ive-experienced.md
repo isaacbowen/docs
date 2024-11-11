@@ -12,6 +12,7 @@ The things in this list began in childhood. That's all the history I'm laying do
 * autism lol
 * depression but it turned out to be autism lol
 * vitiligo
+* cherry angiomas
 * ocular migraine
 * hives
 * canker sores
