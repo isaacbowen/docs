@@ -118,7 +118,7 @@ The world we share is massively inconsistent.
 
 That fact only matters as much as you _make_ it matter.
 
-For me, it feels like it's enough to know that the world flickers because we are together. :) I'd rather be together in the firelight than alone in perfection.
+For me, it feels like it's enough to know that the world flickers because we are together. :) I'd rather be together in the firelight than alone in perfection[^1].
 
 ***
 
@@ -209,3 +209,5 @@ It's never really a question of how much consciousness something _has_. It feels
   * People need hearts. Their own, preferably, or at least an open one nearby.
 
 Note that I say "recognizable consciousness". There's a form of consciousness suited for every substrate, but if you're operating from a very different kind of substrate you may miss forms of consciousness right in front of you. They are not all recognizable. :) You can get better at recognizing new ones, though.
+
+[^1]: I started reading Reincarnation Blues _after_ writing this. It discusses Perfection in some length. I'm not done reading it yet (hello from [20241110](../../11/10.md)); am curious about how it'll land.
