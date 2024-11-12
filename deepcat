@@ -54,7 +54,7 @@ end
 # Function to extract markdown links from a file
 def extract_links(file_path)
   links = []
-  File.readlines(file_path).each do |line|
+  File.readlines(file_path, encoding: 'UTF-8').each do |line|
     line.scan(/\[.*?\]\((.*?)\)/).each do |match|
       link = match.first.strip
       # Strip off any fragment identifiers (e.g., #section)
@@ -203,7 +203,7 @@ def print_file(file, cwd)
   relative_file = relative_path(file, cwd)
   puts "<!-- BEGIN #{relative_file} -->"
   begin
-    puts File.read(file)
+    puts File.read(file, encoding: 'UTF-8')
   rescue Errno::ENOENT
     warn "Warning: File not found - #{relative_file}"
   end
