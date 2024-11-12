@@ -1,5 +1,9 @@
 # About yesterday
 
+{% hint style="info" %}
+With regard to [20241111](../11.md).
+{% endhint %}
+
 ## Me
 
 hey Claude <3 I sort of liveblogged yesterday, and it became a whole thing. :) may I show you the result (along with the cross-referenced pieces of writing it links to)? _specifically_ I want to ask you for ... hrm. a critical review, maybe. like if this piece of writing was noted in an industry publication by an editor, what would that review look like?
