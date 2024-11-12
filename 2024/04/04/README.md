@@ -14,6 +14,10 @@ layout:
 
 # 20240404
 
+{% hint style="info" %}
+The next time this happens, it will be [20241111](../../11/11.md).
+{% endhint %}
+
 Today, ten years ago, I met Abe for the first time. :) Let's begin.
 
 * [6pm yesterday](6pm-yesterday.md)
