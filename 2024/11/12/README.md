@@ -25,3 +25,5 @@ My software stuff is exactly the same. Our infrastructure is simple, and we keep
 I finish that sentence. Adam walks in. Perfect timing. :)
 
 Finished a conversation with Adam. AK knocked on the door.
+
+Later, [Victory of the commons](victory-of-the-commons.md) ended with a perfect scene change.

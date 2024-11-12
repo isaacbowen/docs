@@ -28,6 +28,7 @@
     * [20241112](2024/11/12/README.md)
       * [A future of AI code](2024/11/12/a-future-of-ai-code.md)
       * [About yesterday](2024/11/12/about-yesterday.md)
+      * [Victory of the commons](2024/11/12/victory-of-the-commons.md)
     * [20241111](2024/11/11.md)
       * [A conversation](2024/11/11/a-conversation.md)
       * [deepcat](2024/11/11/deepcat.md)
