@@ -6,4 +6,6 @@ Am registering that I've learned what I needed to learn from this level of langu
 
 Anyway, this script is good for starting with a single markdown file from a GitBook-backed repository, and printing out that file _and all of its references, recursively_ so that you can hand a piece of content to an AI model with all its relevant context.
 
+[https://gist.github.com/isaacbowen/f7ab521fd5679f0dbd8cb1525bffcb1b](https://gist.github.com/isaacbowen/f7ab521fd5679f0dbd8cb1525bffcb1b)
+
 {% embed url="https://gist.github.com/isaacbowen/f7ab521fd5679f0dbd8cb1525bffcb1b" %}
