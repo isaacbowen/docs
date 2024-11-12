@@ -131,21 +131,35 @@ while !processing_queue.empty?
     # Skip empty links
     next if link.nil? || link.empty?
 
-    # Only process markdown files
+    # Remove any fragment identifiers
     link_path = link.split('#').first
     next if link_path.nil? || link_path.empty?
 
-    # Skip if link is an absolute path (e.g., starts with '/')
+    # Skip if link is an absolute path
     next if link_path.start_with?('/')
 
-    # Skip external URLs (already handled in extract_links, but added here for safety)
+    # Skip external URLs
     if link_path =~ /^\s*(http|https|ftp):\/\//
       next
     end
 
-    if link_path =~ /\.md$/i
-      linked_file = resolve_path(current_file, link_path)
-      processing_queue << [linked_file, current_depth + 1]
+    # Resolve the path relative to the current file
+    linked_path = resolve_path(current_file, link_path)
+
+    if File.file?(linked_path) && linked_path =~ /\.md$/i
+      # It's a markdown file
+      processing_queue << [linked_path, current_depth + 1]
+    elsif File.directory?(linked_path)
+      # It's a directory, check for README.md
+      readme_path = File.join(linked_path, 'README.md')
+      if File.file?(readme_path)
+        processing_queue << [readme_path, current_depth + 1]
+      else
+        warn "Warning: No README.md found in directory - #{relative_path(linked_path, cwd)}"
+      end
+    else
+      # Not a file or directory we can process
+      warn "Warning: Cannot process link - #{relative_path(linked_path, cwd)}"
     end
   end
 end
