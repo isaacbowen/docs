@@ -29,7 +29,6 @@
     * [20241111](2024/11/11.md)
       * [A conversation](2024/11/11/a-conversation.md)
       * [deepcat](2024/11/11/deepcat.md)
-      * [Page](2024/11/11/page.md)
     * [20241110](2024/11/10.md)
     * [20241109](2024/11/09/README.md)
       * [Growth-tolerant design](2024/11/09/growth-tolerant-design.md)
