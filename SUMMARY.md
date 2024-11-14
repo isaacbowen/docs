@@ -25,6 +25,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202411](2024/11/README.md)
+    * [20241113](2024/11/13.md)
     * [20241112](2024/11/12/README.md)
       * [A future of AI code](2024/11/12/a-future-of-ai-code.md)
       * [About yesterday](2024/11/12/about-yesterday.md)
