@@ -52,3 +52,33 @@ _And in the right place_\
 _Steadily emerging with grace_
 
 Blue Foundation
+
+***
+
+throw the line upwards and very slightly ahead, as I move forward into time
+
+my vertical range of vision is like 90° or something; it’s out of my sight immediately
+
+by the time it arcs back down into my view ahead of me, it’ll have revealed an umbrella as shelter from the rain
+
+the future right now is rain-soaked
+
+not once I get there though
+
+***
+
+If you're aware of a thought, does it count as thinking it?
+
+How much different is physical experience than a piece of particularly hyper-vivid imagination? We've all had those dreams. (Dreams?)
+
+***
+
+Horror, as a genre, is an incredibly practical player in the theater of time.
+
+_What happens next_ is always unknown, emerging from the direction of _the_ Unknown. It's never what you expect. It's especially not what _everyone_ expects, because people have _so. many. feelings._ about every story. The easiest thing to occur is always what occurs, and a future that _everyone's_ got a feeling-story about has no chance of dodging the bullets and catching the lifelines.
+
+Sci-fi too. Any future we're smart enough to imagine has no chance of sustaining us.
+
+Nobody can write the future.
+
+But if you're clever with an eraser, careful about what slips into the void and inevitably emerges as _anything as long as it's unexpected_, it isn't too hard to kickstart something wonderful.
