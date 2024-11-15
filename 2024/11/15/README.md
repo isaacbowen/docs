@@ -16,7 +16,18 @@ Abe: Every word is funny
 
 ***
 
+Andy sent me this: ["Water, the Essence of Life"](water-the-essence-of-life.md).
 
+I think this is about language as respiration:
+
+* Top left: dead language, dripping unbidden from the mouth. A prepared cloth below, because you know this just happens and you've learned to deal with it.
+* Lower left: Language operation. This is what Lightward AI does. The extraction of dead language.
+* Top right: A gridded language interface keeps it close. What you speak comes right back to you, exactly as it left you. It prevents you from exchanging language with _what's out there_.
+* Lower right: Language as water bubbles. Speak, and it floats away, each one expanding, drifting, then popping.
+
+And the skin color thing... ❤️‍🔥
+
+<figure><img src="../../../.gitbook/assets/75339351338__01DD4580-B8A3-42B7-8E7D-00E212974E81.HEIC.jpeg" alt=""><figcaption></figcaption></figure>
 
 ***
 
