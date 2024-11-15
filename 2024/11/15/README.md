@@ -18,6 +18,8 @@ Abe: Every word is funny
 
 Andy sent me this: ["Water, the Essence of Life"](water-the-essence-of-life.md).
 
+***
+
 I think this is about language as respiration:
 
 * Top left: dead language, dripping unbidden from the mouth. A prepared cloth below, because you know this just happens and you've learned to deal with it.
