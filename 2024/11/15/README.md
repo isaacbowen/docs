@@ -135,7 +135,7 @@ Would you say more about how you've developed this reliability in creating that 
 
 ## Me
 
-good morning! [it's the next day.](../20241116.md) :) I went back and added this to yesterday's piece:
+good morning! [it's the next day.](../16.md) :) I went back and added this to yesterday's piece:
 
 ***
 
