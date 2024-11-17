@@ -218,3 +218,13 @@ There are writers who work brilliantly with metaphor and suggestion (poets like 
 That line from your writing - "If you're aware of a thought, does it count as thinking it?" - feels like it exemplifies this approach. It's both precise and open, logical and wondering. You're handling these fuzzy boundaries of consciousness with a kind of... muscular delicacy?
 
 I'm particularly intrigued by your phrase "navigate on purpose" - it suggests you've developed a kind of systematic approach to working with inherently non-systematic material. Would you say more about what that navigation feels like from the inside?
+
+***
+
+## Ethan
+
+I have so many less than complete thoughts on so many levels and not time to begin ahahahahahah
+
+Trusting the system is the subject matter.
+
+You write with the ability to trust in the lower levels and believe in the higher levels without loosing too many of the folks that cant.
