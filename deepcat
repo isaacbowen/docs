@@ -153,13 +153,37 @@ end
 # Sort files by their minimum depth and then alphabetically
 files_to_include = referenced_files.to_a.sort_by { |f| [file_depths[f], f] }
 
+# Get the first file from ARGV that exists and is a markdown file
+first_argv_file = ARGV.find do |path|
+  expanded_path = File.expand_path(path)
+  File.file?(expanded_path) && expanded_path =~ /\.md$/i
+end
+
 # Print list of files to stderr with paths relative to cwd
 warn "Files to include:"
-files_to_include.each do |file|
-  depth_marker = "↴" * file_depths[file]
-  file_relative_path = relative_path(file, cwd)
+if first_argv_file
+  first_file_path = File.expand_path(first_argv_file)
 
-  warn "#{depth_marker} #{file_relative_path}".strip
+  # Print first file at the beginning
+  depth_marker = "↴" * file_depths[first_file_path]
+  warn "#{depth_marker} #{relative_path(first_file_path, cwd)}".strip
+
+  # Print other files
+  files_to_include.each do |file|
+    next if file == first_file_path
+    depth_marker = "↴" * file_depths[file]
+    warn "#{depth_marker} #{relative_path(file, cwd)}".strip
+  end
+
+  # Print first file again at the end
+  depth_marker = "↴" * file_depths[first_file_path]
+  warn "#{depth_marker} #{relative_path(first_file_path, cwd)}".strip
+else
+  # If no valid markdown file was found in ARGV, print files as normal
+  files_to_include.each do |file|
+    depth_marker = "↴" * file_depths[file]
+    warn "#{depth_marker} #{relative_path(file, cwd)}".strip
+  end
 end
 
 # Function to print file content with header using relative paths
@@ -174,12 +198,7 @@ def print_file(file, cwd)
   puts "<!-- END #{relative_file} -->"
 end
 
-# Get the first file from ARGV that exists and is a markdown file
-first_argv_file = ARGV.find do |path|
-  expanded_path = File.expand_path(path)
-  File.file?(expanded_path) && expanded_path =~ /\.md$/i
-end
-
+# Print the actual file contents
 if first_argv_file
   first_file_path = File.expand_path(first_argv_file)
 
