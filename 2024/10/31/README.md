@@ -195,6 +195,10 @@ It can be useful to think about information in terms of its _probable_ compositi
 
 The [Monty Hall problem](https://en.wikipedia.org/wiki/Monty\_Hall\_problem) gets at this. :)
 
+{% hint style="info" %}
+This comes up later: [20241117](../../11/17.md#three-body-linkages-engines).
+{% endhint %}
+
 ***
 
 Consciousness is byo, as I said.
