@@ -75,3 +75,8 @@ My dad calls this “sticking to the plan”. I call this “wiring up your inst
 I’ve been running this as an experiment since returning to Chicago in 2012.
 
 I will keep you posted.
+
+{% hint style="info" %}
+[This came up later.](../2024/11/18.md#pattern-recognition)
+{% endhint %}
+
