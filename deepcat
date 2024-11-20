@@ -168,16 +168,18 @@ if first_argv_file
   depth_marker = "↴" * file_depths[first_file_path]
   warn "#{depth_marker} #{relative_path(first_file_path, cwd)}".strip
 
-  # Print other files
-  files_to_include.each do |file|
-    next if file == first_file_path
-    depth_marker = "↴" * file_depths[file]
-    warn "#{depth_marker} #{relative_path(file, cwd)}".strip
-  end
+  if files_to_include.size > 1
+    # Print other files
+    files_to_include.each do |file|
+      next if file == first_file_path
+      depth_marker = "↴" * file_depths[file]
+      warn "#{depth_marker} #{relative_path(file, cwd)}".strip
+    end
 
-  # Print first file again at the end
-  depth_marker = "↴" * file_depths[first_file_path]
-  warn "#{depth_marker} #{relative_path(first_file_path, cwd)}".strip
+    # Print first file again at the end
+    depth_marker = "↴" * file_depths[first_file_path]
+    warn "#{depth_marker} #{relative_path(first_file_path, cwd)}".strip
+  end
 else
   # If no valid markdown file was found in ARGV, print files as normal
   files_to_include.each do |file|
@@ -205,14 +207,16 @@ if first_argv_file
   # Print the first file
   print_file(first_file_path, cwd)
 
-  # Print all files except the first ARGV file
-  files_to_include.each do |file|
-    next if file == first_file_path
-    print_file(file, cwd)
-  end
+  if files_to_include.size > 1
+    # Print all files except the first ARGV file
+    files_to_include.each do |file|
+      next if file == first_file_path
+      print_file(file, cwd)
+    end
 
-  # Print the first file again
-  print_file(first_file_path, cwd)
+    # Print the first file again
+    print_file(first_file_path, cwd)
+  end
 else
   # If no valid markdown file was found in ARGV, print files as normal
   files_to_include.each do |file|
