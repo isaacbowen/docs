@@ -25,6 +25,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202411](2024/11/README.md)
+    * [20241120](2024/11/20.md)
     * [20241119](2024/11/19/README.md)
       * [On this day, my eighth wedding anniversary](2024/11/19/on-this-day-my-eighth-wedding-anniversary.md)
     * [20241118](2024/11/18.md)
