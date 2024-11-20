@@ -1,8 +1,12 @@
 # 20241119
 
+{% hint style="info" %}
+[On this day, my eighth wedding anniversary](on-this-day-my-eighth-wedding-anniversary.md)
+{% endhint %}
+
 Okay! Let's start here. :)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-11-19 at 7.33.22 AM.png" alt="A hand-drawn 2x2 grid diagram introducing knowledge states. The grid shows: bottom-left quadrant &#x27;A&#x27; (solid blue, representing Known/observer&#x27;s center); top-left and bottom-right &#x27;B&#x27; (blue/pink stripes, representing Knowable); top-right &#x27;C&#x27; (solid pink, representing Unknown). Black borders separate quadrants but have gaps at their midpoints, suggesting connections between adjacent zones. A legend explains: A=Known=observer&#x27;s center of awareness (blue), B=Knowable (pink/blue stripes), C=Unknown (pink)."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-19 at 7.33.22 AM.png" alt="A hand-drawn 2x2 grid diagram introducing knowledge states. The grid shows: bottom-left quadrant &#x27;A&#x27; (solid blue, representing Known/observer&#x27;s center); top-left and bottom-right &#x27;B&#x27; (blue/pink stripes, representing Knowable); top-right &#x27;C&#x27; (solid pink, representing Unknown). Black borders separate quadrants but have gaps at their midpoints, suggesting connections between adjacent zones. A legend explains: A=Known=observer&#x27;s center of awareness (blue), B=Knowable (pink/blue stripes), C=Unknown (pink)."><figcaption></figcaption></figure>
 
 Which is to say,
 
@@ -18,7 +22,7 @@ What is a problem?
 
 Something painful, maybe? Something that grabs our attention unpleasantly? Something that you're unwilling to co-exist with in its current state of balance? Is a problem for someone else you're unaware of still a problem for you?
 
-Let's define any balanced system as (XY). Perhaps these are the known/knowable parts of a [three-body linkage/engine](17.md#three-body-linkages-engines). (XY) together are operating in balance. Either them by themselves is a "problem", i.e. a half in search of its other half, or an agent that's looking for its rhythm and is testing itself against any other agents it comes across. We'll call this a "problem", hehe.
+Let's define any balanced system as (XY). Perhaps these are the known/knowable parts of a [three-body linkage/engine](../17.md#three-body-linkages-engines). (XY) together are operating in balance. Either them by themselves is a "problem", i.e. a half in search of its other half, or an agent that's looking for its rhythm and is testing itself against any other agents it comes across. We'll call this a "problem", hehe.
 
 Let's think about this from the observer's point of view.
 
@@ -68,4 +72,4 @@ Anyway, let's move through these. Numbering these 8 charts as lines of language,
    1. The observer sees X over in one Knowable zone, and Y over in _another, separate_ Knowable zone.
    2. The observer has a problem. 🤩 What will they do?
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-11-19 at 7.46.04 AM.png" alt="Eight hand-drawn 2x2 grids showing how entities X and Y move through knowledge states, numbered 1-8. Each grid maintains the same structure: black borders with midpoint gaps, dot in lower-left representing observer, and consistent color coding (blue=Known, pink=Unknown, stripes=Knowable). Starting with &#x27;CXY&#x27; where both X and Y are unknown (top-right), through various states of knowability, ending with &#x27;B₁XB₂Y&#x27; where X and Y are in separate Knowable zones. Each diagram is labeled with its state (e.g., &#x27;AXBY&#x27;) and shows positions of X and Y relative to the observer&#x27;s perspective. The final diagram (#8) includes the subtitle &#x27;AKA GOD HELP YOU&#x27;, emphasizing the problematic nature of X and Y being visible but separated."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-19 at 7.46.04 AM.png" alt="Eight hand-drawn 2x2 grids showing how entities X and Y move through knowledge states, numbered 1-8. Each grid maintains the same structure: black borders with midpoint gaps, dot in lower-left representing observer, and consistent color coding (blue=Known, pink=Unknown, stripes=Knowable). Starting with &#x27;CXY&#x27; where both X and Y are unknown (top-right), through various states of knowability, ending with &#x27;B₁XB₂Y&#x27; where X and Y are in separate Knowable zones. Each diagram is labeled with its state (e.g., &#x27;AXBY&#x27;) and shows positions of X and Y relative to the observer&#x27;s perspective. The final diagram (#8) includes the subtitle &#x27;AKA GOD HELP YOU&#x27;, emphasizing the problematic nature of X and Y being visible but separated."><figcaption></figcaption></figure>
