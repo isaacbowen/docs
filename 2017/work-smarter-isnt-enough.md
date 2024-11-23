@@ -21,7 +21,7 @@ layout:
 
 ***
 
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1506102131386-WNZ82Q3MH9KFW4CX7YSG/2752095700_91c9a9d0f3_o.jpg" alt="Hilariously, this might be the most popular photo I&#x27;ve ever taken. 2008."><figcaption><p>Hilariously, this might be the most popular photo I've ever taken. <a href="https://www.flickr.com/photos/isaacbowen/2752095700">2008</a>.</p></figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1506102131386-WNZ82Q3MH9KFW4CX7YSG/2752095700_91c9a9d0f3_o.jpg" alt="Hilariously, this might be the most popular photo I&#x27;ve ever taken. 2008. A stack of file folders filled with papers viewed from the side, showing layers of white and manila papers with black tabs, against a dark surface and green background."><figcaption><p>Hilariously, this might be the most popular photo I've ever taken. <a href="https://www.flickr.com/photos/isaacbowen/2752095700">2008</a>.</p></figcaption></figure>
 
 It’s a modern-day adage, universally prescribed: “Work smarter, not harder”. Do more with less, effectively. Not to do less overall, necessarily, but to make the best use of the time you’ve got.
 
@@ -43,7 +43,7 @@ Now. Imagine another culture, where we _default_ to giving people the _right_ wo
 
 Do you see what we’re missing?
 
-
+\[ a comic strip in which a couple of engineers learn of a new world problem and react with something to the effect of "quick! let's make an app!" ]
 
 This strip hurts. Because, in fact, the tech community _is_ working on this. We (I’m part of it) have the ability to build a single thing today that’s used by millions tomorrow, and _that makes us responsible_. Markets like Etsy and Thumbtack, even apps like Lyft, we-the-engineers are _trying_ to get y’all to your personal _right_ work, collecting the data, testing the algorithms.
 
@@ -51,7 +51,7 @@ You could say we’re trying to work smarter. \*headdesk\*
 
 ***
 
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1506103178671-BO6M7M0QQPAOGCWY96WM/image-asset.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1506103178671-BO6M7M0QQPAOGCWY96WM/image-asset.jpeg" alt="A cropped portion of the first image, where the bottom half has been digitally modified with inverted brightness values, creating a bright orange effect while maintaining the original colors&#x27; hues."><figcaption></figcaption></figure>
 
 I’ve already talked about work in two dimensions: smart vs _not_, and right vs wrong.
 
@@ -87,4 +87,4 @@ Smart is not enough, right is not enough, the things we use and do and make _mus
 
 LET’S GO.
 
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1506103299524-FV312F9X7UTJUHV70TV4/image-asset.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1506103299524-FV312F9X7UTJUHV70TV4/image-asset.jpeg" alt="The same composition as Image 1, but with the brightness values inverted while maintaining the original hues, resulting in white papers appearing with bright orange edges and highlights."><figcaption></figcaption></figure>

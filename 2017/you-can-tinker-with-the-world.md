@@ -22,7 +22,7 @@ But this is not about code.
 
 ***
 
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743196354-JGIMXBB5JWGHPHNIZ1E3/image-asset.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743196354-JGIMXBB5JWGHPHNIZ1E3/image-asset.jpeg" alt="A home video still from what appears to be the 1990s, showing an adult holding a young child, approximately 2-3 years old, in their arms outdoors. The adult is wearing glasses, a bright red knit cap, and a dark sweater or jacket. The child is wearing light-colored clothing. They&#x27;re standing in what looks like a backyard with grass and autumn trees or bushes with yellowing leaves in the background. The image has the slightly fuzzy quality characteristic of vintage home video footage."><figcaption></figcaption></figure>
 
 When I was a small thing, I was terrified of the unnatural. Barney, and — more broadly — televisions. My parents would put a sheet over the hotel room TV, a ward against it coming alive in the night.
 
@@ -46,4 +46,4 @@ _Everything else can be rewritten._
 
 And if you care to join, you have the invitation. ❤️
 
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743212443-D00W5BIH3W05J0O3UH99/image-asset.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743212443-D00W5BIH3W05J0O3UH99/image-asset.jpeg" alt="A heartwarming moment from the same home video where a toddler is smiling and giving a high-five the same adult off-screen. The child is wearing a two-toned outfit with a light-colored (possibly white or light blue) top portion and darker bottom. The scene is still set in the yard, with sunlit grass visible in the background. The video has that characteristic VHS quality, giving it a nostalgic 90s feel. There appears to be some kind of box or container visible at the edge of the frame."><figcaption></figcaption></figure>
