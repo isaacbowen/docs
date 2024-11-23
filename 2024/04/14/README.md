@@ -14,19 +14,7 @@ layout:
 
 # 20240414
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/IMG_7701.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/replacement.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/IMG_7702.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/IMG_7701.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/replacement.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7702.jpg" alt=""><figcaption></figcaption></figure></div>
 
 _Further vibe samples:_ [_one_](https://www.instagram.com/p/C5tRiTKL3lI/)_,_ [_two_](https://www.instagram.com/p/C5wTOuWyVJh/)_,_ [_three_](https://www.instagram.com/p/C5wUdGxSzRT/)_,_ [_four_](https://www.instagram.com/p/C5wWjkVuiLs/)_, five. Five is you, I guess._
 
@@ -81,4 +69,4 @@ _There is no fear now, let go and just be free_
 _Open up your heart and just let it begin_
 
 _I will love you_\
-_Unconditionally_
+&#xNAN;_&#x55;nconditionally_

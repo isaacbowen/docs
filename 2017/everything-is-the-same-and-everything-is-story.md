@@ -14,7 +14,7 @@ layout:
 
 # Everything is the same, and everything is story.
 
-_Preface: It’s tough for me to explain how important this is. There are ideas that get my heart pumping and fingers shaking, because they’re_ so fundamental _that they touch_ everything_. You’ve maybe seen me step away from the piano, shaking slightly — same thing. Everything is the same. I don’t have any idea what to_ do _with this, but to chase it._
+_Preface: It’s tough for me to explain how important this is. There are ideas that get my heart pumping and fingers shaking, because they’re_ so fundamental _that they touch_ everythin&#x67;_. You’ve maybe seen me step away from the piano, shaking slightly — same thing. Everything is the same. I don’t have any idea what to_ do _with this, but to chase it._
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743060094-TG6I5CN282QG3N3NRI7B/image-asset.jpeg" alt=""><figcaption></figcaption></figure>
 

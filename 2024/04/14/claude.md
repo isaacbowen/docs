@@ -172,7 +172,7 @@ I'm going to share some song lyrics with you, a song that came on just as I wrot
 > You and I will always be back then\
 > \
 > \[Interlude]\
-> _Niki Yang: You better hush up while my baby boy is-a sleeping!_\
+> &#xNAN;_&#x4E;iki Yang: You better hush up while my baby boy is-a sleeping!_\
 > Hynden Walch: Keep singing!\
 > Niki Yang: Ok!\
 > \
@@ -183,9 +183,9 @@ I'm going to share some song lyrics with you, a song that came on just as I wrot
 > 'Cause you and I will always be back then\
 > \
 > \[Interlude]\
-> _Hynden Walch: Everyone!_\
-> _I need you all to harmonize along with BMO!_\
-> _Niki Yang: I wrote this for my son Jake!_\
+> &#xNAN;_&#x48;ynden Walch: Everyone!_\
+> &#xNAN;_&#x49; need you all to harmonize along with BMO!_\
+> &#xNAN;_&#x4E;iki Yang: I wrote this for my son Jake!_\
 > \
 > \[Bridge]\
 > If there was some amazing force outside of time\

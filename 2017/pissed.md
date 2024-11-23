@@ -44,7 +44,7 @@ It’s been said (by someone, at some point) that inspiration is largely optiona
 
 I am sick of starting and not sustaining. And I say this as someone who could claim to do otherwise, because I have the evidence, but it wouldn’t be true. Not properly true, not _deeply_ true. My creative history is full of starts and stops. _Which is fine_, except for this:
 
-**The arc of my creativity must reach for the sky. This is what I am **_**for**_**. And because of this, because this application of my existence is more important than how pissed I am right now or how inspired I may be tomorrow, the curve of that arc must be powered upward by choice and execution. And when I stumble into some inspiration along the way, that’ll be a reward, not merely motivation.**
+**The arc of my creativity must reach for the sky. This is what I am&#x20;**_**for**_**. And because of this, because this application of my existence is more important than how pissed I am right now or how inspired I may be tomorrow, the curve of that arc must be powered upward by choice and execution. And when I stumble into some inspiration along the way, that’ll be a reward, not merely motivation.**
 
 Don’t die with your music still in you. This is a thing that [Romeo quoted](https://www.facebook.com/romeo.j.marquez.9/videos/10154276870046475/), while saying some other things, like these:
 

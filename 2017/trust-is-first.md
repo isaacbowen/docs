@@ -16,7 +16,7 @@ Trust takes care of the “solid” part of the bedrock definition. To take care
 
 ### Mentions <a href="#mentions" id="mentions"></a>
 
-**Use mentions (e.g. **_**@isaac**_**), guarantee that you’re consistently receiving yours, and **_**always**_** respond to a mention, for the sake of the mentioner and also for posterity.**
+**Use mentions (e.g.&#x20;**_**@isaac**_**), guarantee that you’re consistently receiving yours, and&#x20;**_**always**_**&#x20;respond to a mention, for the sake of the mentioner and also for posterity.**
 
 * In explicit terms: An acknowledgement represents a transfer of responsibility. If I mention you, I’m asking you to take responsibility for something, even if it’s just ownership of information. Until you respond, _I_ am holding that responsibility for you, in escrow, and I make room for it in the back of my head so that I don’t forget to make sure that you receive it. Your acknowledgment, when you choose to deliver it, represents your acceptance of responsibility. Literally, you have taken receipt of the information, and are giving me a receipt for it.
 * This leaves room for you to choose _when_ to acknowledge. If you see an alert fly by, addressed to you, but you’re not in a space (mentally or physically or whatever) to properly process/handle/receive the information, don’t respond. This leaves the responsibility with the sender, for the time being (which means they can nag you if need be). When you can process/handle/receive the information, do so, and respond to the mention.
@@ -28,7 +28,7 @@ Trust takes care of the “solid” part of the bedrock definition. To take care
 
 It’s for support conversations with our customers. Each Intercom conversation should be treated like an in-person conversation: with respect for states and needs of everyone involved.
 
-**⭐️ Guarantee a 24-hour response time, by having one teammate at a time responsible for it. Schedule that responsibility flexibly, but with **_**absolute**_** clarity.**
+**⭐️ Guarantee a 24-hour response time, by having one teammate at a time responsible for it. Schedule that responsibility flexibly, but with&#x20;**_**absolute**_**&#x20;clarity.**
 
 * This responsibility does _not_ mean that _you_ must respond to all incoming messages. Be aware of who else is working on support, and let the normal cadence of conversation-handling hold. You’re responsible for the final defense of timeliness, that’s all.
 * In practice, this means watching the “All” queue, and making sure that all messages received within the last 24 hours receive a real, considerate, human response.
@@ -47,7 +47,7 @@ It’s for support conversations with our customers. Each Intercom conversation 
 
 ### Slack
 
-**It’s for **_**our**_** conversations. :)**
+**It’s for&#x20;**_**our**_**&#x20;conversations. :)**
 
 * Err towards using the shared channels whenever possible, especially for problem-solving. Everything in those is searchable, and that is _useful_.
 

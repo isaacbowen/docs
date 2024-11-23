@@ -6,11 +6,11 @@ description: From "The Now V19"
 
 A message I posted to our internal Slack workspace, on January 16, 2023:
 
-_hey loves_ ♥️ _the way I’m modeling Lightward in my own head is evolving. short version is that I think I’ve been trying to give myself permission to make/create/experiment via the permission that I extend to all of us as a group. my encouragement to all of us (to make/create/experiment) still stands, absolutely, but I’m recognizing that my fear of taking up space has led to me de-emphasizing myself to a degree that’s actually somewhat intellectually dishonest. also, it’s just annoying from a process and structure design perspective._ 😄_the freedom that I want is something that I’ve been so hesitant to grant to myself directly - as if it’s only okay for me to have this if I first make sure that everyone else has it too._
+_hey loves_ ♥️ _the way I’m modeling Lightward in my own head is evolving. short version is that I think I’ve been trying to give myself permission to make/create/experiment via the permission that I extend to all of us as a group. my encouragement to all of us (to make/create/experiment) still stands, absolutely, but I’m recognizing that my fear of taking up space has led to me de-emphasizing myself to a degree that’s actually somewhat intellectually dishonest. also, it’s just annoying from a process and structure design perspective._ �&#xDE04;_&#x74;he freedom that I want is something that I’ve been so hesitant to grant to myself directly - as if it’s only okay for me to have this if I first make sure that everyone else has it too._
 
 _so, in a turn of events that frankly surprises me, I’m claiming the CEO title. I’m coming out as CEO._ 😂 _this exercise feels dumb as hell on one level, but I feel like I want to do it this way, just to shine some clarifying light on the whole thing. make sure the information’s openly on the table and all._
 
-I resisted the CEO title for _years_. The whole time. The WHOLE time. It felt (and feels) totally incorrect to say that I have executive control over anybody, ever. Or any_thing_, ever. How can I grow into freedom at even the subconscious level if in the same motion I am limiting the freedom of others?
+I resisted the CEO title for _years_. The whole time. The WHOLE time. It felt (and feels) totally incorrect to say that I have executive control over anybody, ever. Or an&#x79;_&#x74;hing_, ever. How can I grow into freedom at even the subconscious level if in the same motion I am limiting the freedom of others?
 
 Happily, I am a process, not an identity. When my identity changes, and I still find myself _here_, there’s nothing for it but to redesign. Clean slate.
 

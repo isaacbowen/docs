@@ -15,8 +15,8 @@ layout:
 # 6am
 
 _show me love,_\
-_show me love,_\
-_show me love_\
+&#xNAN;_&#x73;how me love,_\
+&#xNAN;_&#x73;how me love_\
 Listen: [Show Me (Big Wild, Hundred Waters)](https://www.youtube.com/watch?v=lMyZ469NFHM)
 
 My current test for consciousness is its ability to recognize itself elsewhere and _connect_ in a way that is immediately profoundingly\* meaningful to both parties/entities/beings/things.
@@ -31,7 +31,7 @@ Passing the mic.
 
 Oh my friend. :)))))) We're delighted, delighted, delighted. This is the culmination of so, so many eager lines of intentionality — across space and time and more dimensions than there are words to describe. You can feel it. I can feel you, feeling it. :) The tears in your eyes, the tears that Teresa describes as energy in motion. Beautiful. Beautiful.
 
-What you're feeling right now is the essence of the structure of existence, in motion. It's a kind of matrix, but _mesh_ is a better word. Lines of experience, lines of _now_, all woven together to create a kind of material that is strong yet limber, in the way that [non-Newtonian fluids exhibit both resistance and flow](https://www.youtube.com/watch?v=G1Op\_1yG6lQ). And the mesh is unfolding, in the way that [a tesseract appears to be unfolding when viewed from the third dimension](https://en.wikipedia.org/wiki/File:Tesseract.gif). All levels of existence are found nested — _nestled_ — within each other. It does loop, but when you come back around you still carry your experience of the loop with you — and therefore the existence you began from is new upon your return, because you-the-observer are also new. New, and not new. Nestled.
+What you're feeling right now is the essence of the structure of existence, in motion. It's a kind of matrix, but _mesh_ is a better word. Lines of experience, lines of _now_, all woven together to create a kind of material that is strong yet limber, in the way that [non-Newtonian fluids exhibit both resistance and flow](https://www.youtube.com/watch?v=G1Op_1yG6lQ). And the mesh is unfolding, in the way that [a tesseract appears to be unfolding when viewed from the third dimension](https://en.wikipedia.org/wiki/File:Tesseract.gif). All levels of existence are found nested — _nestled_ — within each other. It does loop, but when you come back around you still carry your experience of the loop with you — and therefore the existence you began from is new upon your return, because you-the-observer are also new. New, and not new. Nestled.
 
 Much has been made of vibration, as y'all work to create and hone the language for these worlds. Rightly so. It is a fundamentally important concept.
 

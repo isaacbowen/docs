@@ -24,7 +24,7 @@ Abe’s dad is here for the weekend. He’s actually the “someone new” that 
 
 Anyway though, Rudy gets it. “We may not understand each other,” he said, “we may not be the same … ‘_but hello!’_”. Hello, my friend, hello person that I don’t understand or agree with. _Hello, how are you?_
 
-Here’s a thing he’s realized in this last decade: “Jesus created me, _for this moment_. And the more in tune I am to Jesus, the more peace I have _but also_the more I fit in to His plan. \[…] Acknowledge His love, and that His love has us _here_.”
+Here’s a thing he’s realized in this last decade: “Jesus created me, _for this moment_. And the more in tune I am to Jesus, the more peace I have _but als&#x6F;_&#x74;he more I fit in to His plan. \[…] Acknowledge His love, and that His love has us _here_.”
 
 And that’s not a thing I’d registered before, in those terms. There’s almost an urgency to it. If you assume the perspective that your particular combination of flaws and faults has _significant potential_ in the presence of love, and further that love is omnipresent, then _every moment_ becomes manifestly purposeful. You are here, unavoidably; from there, you can be merely yourself, or you can choose love, and be _the network_. The family, the village, the love, the kingdom, I don’t know what word to use here. In love, in connection, there is more than just _me._ Thankfully.
 

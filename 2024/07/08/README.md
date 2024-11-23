@@ -18,7 +18,7 @@ AN ASSORTMENT
 
 * when you get stuck: create the most beautiful thing you can imagine
   * doesn’t have to be big. if you’re really stuck, it might be actually so small. but do _create_. :)
-* I’ve always felt everything has the same personality at the core. it’s how I can reach someone’s center, or some_thing_'s center - it’s because I feel the same center in them that I feel in me
+* I’ve always felt everything has the same personality at the core. it’s how I can reach someone’s center, or som&#x65;_&#x74;hing_'s center - it’s because I feel the same center in them that I feel in me
 * you are not asked to do anything that you will not be supplied for. it is _actually_ physics. apparent discontinuities in this plane mean no such thing for the plane above this one.
 * it’s okay :) everything that you need is in the now. what you need for the next step is here, within reach. it might not be me. ;) or it might be these words!
 * these days, I'm working on mechanic for the same reasons that I’m working out (my body) - because I can feel that _it will be useful_ for what's coming next

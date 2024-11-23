@@ -32,7 +32,7 @@ This is because, ultimately, I'm communicating a need. In those cases, it's a ne
 
 If the need is acknowledged, fantastic: we can move forward, and the future is what we prepared for in the asking. We get _speed_, for we get to live by our _needs_, and not by foreign expectations.
 
-If the need goes _un_acknowledged, it's like walking up stairs and missing a step – it throws off your flow, because more work is suddenly needed to keep your balance. To switch metaphors, you're asking someone to take a burden from you (yes, information is a burden), and though you've shifted your weight for the transfer, there's suddenly no one to give it to. You're left to swing around and regain your footing, still holding that burden.
+If the need goes _u&#x6E;_&#x61;cknowledged, it's like walking up stairs and missing a step – it throws off your flow, because more work is suddenly needed to keep your balance. To switch metaphors, you're asking someone to take a burden from you (yes, information is a burden), and though you've shifted your weight for the transfer, there's suddenly no one to give it to. You're left to swing around and regain your footing, still holding that burden.
 
 **But there's a subtlety here:** if the need is responded to with _judgment_ (negatively _or_ positively), there's all the potential in the world for your burden to be increased.
 

@@ -23,19 +23,7 @@ Just as empathy informs the next word you speak to a friend, _so too_ can empath
 
 ***
 
-<div>
-
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502985107743-AAGR1LT04IGBJ2S6OCQA/classic-1.png" alt="2014."><figcaption><p>2014.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/before-1.png" alt=""><figcaption><p>2015.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/polaris-1.png" alt=""><figcaption><p>2017.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502985107743-AAGR1LT04IGBJ2S6OCQA/classic-1.png" alt="2014."><figcaption><p>2014.</p></figcaption></figure> <figure><img src="../.gitbook/assets/before-1.png" alt=""><figcaption><p>2015.</p></figcaption></figure> <figure><img src="../.gitbook/assets/polaris-1.png" alt=""><figcaption><p>2017.</p></figcaption></figure></div>
 
 Your customers (_and_ you, in fairness) have been wired from the womb for modeling the world, for building an understanding of every entity they encounter, to the point that you can predict with pretty impressive accuracy how your best friend will react to [this gif](https://i.imgur.com/FxaIBXG.gif). (Wait for it.)
 
@@ -46,7 +34,7 @@ Let's reverse that, though: for any given reaction you'd _like_ your friend to h
 
 Cool.
 
-It's obvious that your customers qualify as people, as _characters_ for the sake of analysis and prediction. But (and this is important): **Your product is a character unto itself. And if its character is understandable and predictable, your customers can empathize with what you've built, understanding and respecting the needs of your product. The result: **_**speed**_**.**
+It's obvious that your customers qualify as people, as _characters_ for the sake of analysis and prediction. But (and this is important): **Your product is a character unto itself. And if its character is understandable and predictable, your customers can empathize with what you've built, understanding and respecting the needs of your product. The result:&#x20;**_**speed**_**.**
 
 Locksmith has always been built for the two-way conversation that empathy demands. Locksmith seeks to understand you without judgment, and its success in that frees you to take a breath, understand the product by what it shows you, and move forward more efficiently for it. It does this in these ways:
 
@@ -76,15 +64,7 @@ Instead, Locksmith literally lets its users _fill in the blanks_. It asks, _what
 
 ### It has character.
 
-<div>
-
-<figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502989391148-9IWNBL0VA77Q0IL4D2K8/image-asset.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image-asset.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502989391148-9IWNBL0VA77Q0IL4D2K8/image-asset.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image-asset.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Locksmith has never had much in the way of illustrations or pictures (really, it's only been the one photo of a guy with a backpack wandering down an alley in Venice, and now it's just a _door_), but it has _always_ been characterful.
 

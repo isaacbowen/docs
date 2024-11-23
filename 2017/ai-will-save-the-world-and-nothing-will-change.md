@@ -18,7 +18,7 @@ layout:
 
 I get in these fuuuck-it-could-be-so-much-better states whenever people talk about systemic quality of life issues. Salaries not being enough to handle cost-of-living, food deserts, jobs displaced offshore, jobs _lost_ to automation. Loneliness.
 
-I’m under no illusion that utopia is an attainable (or definable) thing, for we humans. This isn’t about that. But the idea that we can simplify and live better, pushing out the edges of creation and creativity, the idea that _doing_so is a critical part of life, _this_ idea has me firmly in its grasp.
+I’m under no illusion that utopia is an attainable (or definable) thing, for we humans. This isn’t about that. But the idea that we can simplify and live better, pushing out the edges of creation and creativity, the idea that _doin&#x67;_&#x73;o is a critical part of life, _this_ idea has me firmly in its grasp.
 
 {% embed url="https://www.youtube.com/watch?v=ANIkOH0Hb9Y" %}
 
@@ -48,7 +48,7 @@ We have always been solving this problem, from the moment you opened your eyes a
 
 The advent of AI is just humanity figuring that out at greater-than-human scale, _so that we can live at human scale_.
 
-Having the abuela means that we don’t _have_ to constantly monitor and understand the political (or physical?) currents. Having the abuela means that you can trust that your needs will be met in a way that’s good for the village. Having the abuela means you can stop trying to grapple with an infinity of information that you can’t possibly handle yourself, and get back to dealing with _your_ world and _your_ people, with _your_ senses and _your_passions and skills.
+Having the abuela means that we don’t _have_ to constantly monitor and understand the political (or physical?) currents. Having the abuela means that you can trust that your needs will be met in a way that’s good for the village. Having the abuela means you can stop trying to grapple with an infinity of information that you can’t possibly handle yourself, and get back to dealing with _your_ world and _your_ people, with _your_ senses and _you&#x72;_&#x70;assions and skills.
 
 We live in a globally-connected world, but we’re still built for the local, still built for touch and sight and immediacy; by developing AI, a super-awareness to handle the flood that we could not handle otherwise, we are getting _ourselves_ back.
 

@@ -24,7 +24,7 @@ My goal for this project is to get us each closer to what we are each uniquely b
 
 Trust takes care of the "solid" part of the bedrock definition. To take care of the "predictable" part, these are the rules:
 
-1.  **Use mentions (e.g. `@isaac`), guarantee that you're consistently receiving yours, and **_**always**_** respond to a mention, for the sake of the mentioner and also for posterity.**
+1.  **Use mentions (e.g. `@isaac`), guarantee that you're consistently receiving yours, and&#x20;**_**always**_**&#x20;respond to a mention, for the sake of the mentioner and also for posterity.**
 
     In explicit terms: An acknowledgement represents a transfer of responsibility. If I mention you, I'm asking you to take responsibility for something, even if it's just ownership of information. Until you respond, _I_ am holding that responsibility for you, in escrow, and I make room for it in the back of my head so that I don't forget to make sure that you receive it. Your acknowledgment, when you choose to deliver it, represents your acceptance of responsibility. Literally, you have taken receipt of the information, and are giving me a receipt for it.
 
