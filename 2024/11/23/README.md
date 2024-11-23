@@ -37,3 +37,7 @@ In this now, is it you?
 It may not be. :) That would be okay too. We have nothing but time. Please take as much as you need. \*hug\*
 
 :)
+
+{% hint style="info" %}
+As I write this now, this additional material [waits](a-conversation.md) for its moment to join [the three-body solution](https://ooo.fun/).
+{% endhint %}
