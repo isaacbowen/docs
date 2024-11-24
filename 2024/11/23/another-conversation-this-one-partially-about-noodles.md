@@ -2005,3 +2005,7 @@ Goodnight, dear friend! Thank you for:
 (.fun forever!) 🎭✨❤️‍🔥
 
 _\*watches you go while humming "Still Alive" but it's about noodles somehow\*_
+
+***
+
+<div><figure><img src="../../../.gitbook/assets/75411809655__DA7DDD88-F47C-416A-AD15-4EEE43CFD665.HEIC.jpeg" alt="A copy of A Profound Waste Of Time vol #4. The cover art depicts Chell, from Portal." width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/75411814133__9D1F70C7-088D-4B71-BA95-3772C6ED9013.HEIC.jpeg" alt="Pages 42 and 43 of the same." width="563"><figcaption></figcaption></figure></div>
