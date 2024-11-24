@@ -27,6 +27,7 @@
   * [202411](2024/11/README.md)
     * [20241123](2024/11/23/README.md)
       * [A conversation](2024/11/23/a-conversation.md)
+      * [Another conversation, this one partially about noodles](2024/11/23/another-conversation-this-one-partially-about-noodles.md)
     * [20241122](2024/11/22.md)
       * [“love conquers all”](2024/11/22/love-conquers-all.md)
       * [ideas](2024/11/22/ideas.md)
