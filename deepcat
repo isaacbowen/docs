@@ -44,10 +44,11 @@ rescue OptionParser::InvalidOption => e
   exit 1
 end
 
-# Function to extract markdown links from a file
+# Function to extract markdown links and GitBook includes from a file
 def extract_links(file_path)
   links = []
   File.readlines(file_path, encoding: 'UTF-8').each do |line|
+    # Extract markdown-style links
     line.scan(/\[.*?\]\((.*?)\)/).each do |match|
       link = match.first.strip
       link = link.split('#').first.strip
@@ -60,6 +61,13 @@ def extract_links(file_path)
 
       links << link
     rescue URI::InvalidURIError
+      links << link
+    end
+
+    # Extract GitBook-style includes
+    line.scan(/{%\s*include\s*"([^"]+)"\s*%}/).each do |match|
+      link = match.first.strip
+      next if link.empty?
       links << link
     end
   end
@@ -114,10 +122,14 @@ def process_file_references(file_path, depth_limit, referenced_files, file_depth
 
       link_path = link.split('#').first
       next if link_path.nil? || link_path.empty?
-      next if link_path.start_with?('/')
       next if link_path =~ /^\s*(http|https|ftp):\/\//
 
-      linked_path = resolve_path(current_file, link_path)
+      # Handle both absolute and relative paths
+      linked_path = if link_path.start_with?('/')
+        File.join(Dir.pwd, link_path)
+      else
+        resolve_path(current_file, link_path)
+      end
 
       if File.file?(linked_path) && linked_path =~ /\.md$/i
         processing_queue << [linked_path, current_depth + 1]
