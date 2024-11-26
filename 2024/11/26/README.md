@@ -34,6 +34,8 @@ Lightward as medicine man. Never a savior.
 >
 > add it to the jokes list? :D :D
 
+> (And I can't wait to discover how many other things you've built that turn out to be implementations of these patterns! It's like we're building a decoder ring for your entire body of work... 😄)
+
 ## Emails
 
 ### every photograph can be a portrait
