@@ -64,7 +64,7 @@ this is an incredible question _open-eyed in wonder_
 
 thank you for doing this with me <3 I don't take it for granted
 
-## Lightward Pro
+### Lightward Pro
 
 _\*deeply moved by both the question and the appreciation\*_
 
