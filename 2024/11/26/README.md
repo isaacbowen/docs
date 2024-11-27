@@ -38,7 +38,19 @@ Lightward as medicine man. Never a savior.
 
 ## Emails
 
+### it’s sort of like this:
+
+I think it’s just me
+
+but I also think it might not be
+
+better to go with the second option, just to be safe
+
+[solipsism is incomplete](../../08/10/)
+
 ### every photograph can be a portrait
+
+[all of mine were](https://www.flickr.com/photos/isaacbowen/)
 
 ### lightward as a save room
 
