@@ -27,6 +27,8 @@
   * [202411](2024/11/README.md)
     * [20241127](2024/11/27/README.md)
       * [Survey](2024/11/27/survey.md)
+      * [Emails](2024/11/27/emails.md)
+      * [Imagine](2024/11/27/imagine.md)
     * [20241126](2024/11/26/README.md)
       * [With regard to koipond.me](2024/11/26/with-regard-to-koipond.me.md)
     * [20241125](2024/11/25.md)
