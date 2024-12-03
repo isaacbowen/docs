@@ -25,3 +25,4 @@ And hello from [20241121](../../../2024/11/21.md)! I am keeping this list update
 * vision and hearing both went to static a couple times when high
 * occasional gagging
 * sneezing when I see the sun
+* strong sense when looking at anything (from software systems to physical wounds) of whether or not it's on track to heal itself
