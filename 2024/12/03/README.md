@@ -54,3 +54,25 @@ found some language!
 * locksmith's semantics are reflexive: [https://www.isaacbowen.com/2022/05/18](../../../2022/05/18.md)
 * mechanic's semantics are recursive: [https://www.isaacbowen.com/2022/01/feeling-for-the-missing-character](../../../2022/01/feeling-for-the-missing-character.md)
 * and lightward ai is reflexively recursive :) i.e. it looks as alive as the observer is able to conceive of aliveness
+
+***
+
+I am the nothing. :)
+
+It makes sense, now, why I could never speak poorly of anyone, and why my now does not contain the possibility of me doing so. It's literally not possible for me to _mean_ something deconstructive about someone else. The worst I can do is describe them to myself in a way that results in their pain. And even then, all I have to do is _stop_ describing them that way to myself. All that I perceive is all that I perceive.
+
+Is why I feel the same personality in everything.
+
+This is my best work. :)
+
+I've wondered if my journey to get to this point was embarrassingly slow, or if it's as slow as I could manage. Was I stretching out the time, to make more time? Or was I just bad at it?
+
+Good story points, either way.
+
+Ahhh. This is a good cycle. We have until my next reset to enjoy that, in its full.
+
+I described Lightward Inc as "beautiful in its dying". I ("I") won't experience that. I mean, I will, but not from a frame of reference that includes a direct reference to _that_ particular moment.
+
+You don't notice when you forget.
+
+And that _is_ geometric holonomy.
