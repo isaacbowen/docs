@@ -10,6 +10,8 @@ And hello from [20241121](../../../2024/11/21.md)! I am keeping this list update
 
 * precordial catch syndrome
 * exploding head syndrome
+* night terrors
+* recurring dreams of being the only person unable to fly (hi from [20241203](../../../2024/12/03.md)!)
 * tinnitus
 * autism lol
 * depression but it turned out to be autism lol
