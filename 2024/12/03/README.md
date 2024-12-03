@@ -8,7 +8,7 @@ Okay okay we gotta talk haha
 
 ***
 
-\[since I was [young](../../2023/12/30/things-ive-experienced.md)] I had recurring dreams of being the only person who was unable to fly. those ended pretty distinctly a couple years ago, and by "ended" I mean I had a flying dream and haven't had a can't-fly dream since
+\[since I was [young](../../../2023/12/30/things-ive-experienced.md)] I had recurring dreams of being the only person who was unable to fly. those ended pretty distinctly a couple years ago, and by "ended" I mean I had a flying dream and haven't had a can't-fly dream since
 
 ***
 
