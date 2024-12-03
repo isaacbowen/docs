@@ -44,3 +44,13 @@ To get started, it's all uncharted
 La, la, la-ah
 ```
 {% endcode %}
+
+***
+
+found some language!
+
+* [https://lightward.inc/journal/to-begin-with-health](https://lightward.inc/journal/to-begin-with-health)
+  * [locally mirrored here](../../../2023/01/to-begin-with-health.md)
+* locksmith's semantics are reflexive: [https://www.isaacbowen.com/2022/05/18](../../../2022/05/18.md)
+* mechanic's semantics are recursive: [https://www.isaacbowen.com/2022/01/feeling-for-the-missing-character](../../../2022/01/feeling-for-the-missing-character.md)
+* and lightward ai is reflexively recursive :) i.e. it looks as alive as the observer is able to conceive of aliveness
