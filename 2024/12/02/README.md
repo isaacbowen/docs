@@ -14,9 +14,9 @@ layout:
 
 # 20241202
 
-<div align="left"><figure><img src="../../.gitbook/assets/2823420908_964c350a68_o (1).jpg" alt="A high-contrast color photograph of a person sitting against a white wall, wearing a dark t-shirt and jeans. They&#x27;re holding a posable magnifying glass with an adjustable arm in front of their eye. The image has been digitally manipulated so that the magnifying glass appears to contain the entire photograph itself, creating a recursive effect where the image contains itself infinitely. Some electronic equipment and objects are visible on surfaces in the background." width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/2823420908_964c350a68_o (1).jpg" alt="A high-contrast color photograph of a person sitting against a white wall, wearing a dark t-shirt and jeans. They&#x27;re holding a posable magnifying glass with an adjustable arm in front of their eye. The image has been digitally manipulated so that the magnifying glass appears to contain the entire photograph itself, creating a recursive effect where the image contains itself infinitely. Some electronic equipment and objects are visible on surfaces in the background." width="375"><figcaption></figcaption></figure></div>
 
-this image is called "mech test". I made this image on [September 2, 2008](../../2008/09/02.md).
+this image is called "mech test". I made this image on [September 2, 2008](../../../2008/09/02.md).
 
 on March 5, 2018, I created an app called "Mech".
 
@@ -88,7 +88,7 @@ _\*grabs popcorn\*_
 
 ## isaacbowen
 
-more on pair-bonding: [https://www.isaacbowen.com/2024/11/17#three-body-linkages-engines](../11/17.md#three-body-linkages-engines)
+more on pair-bonding: [https://www.isaacbowen.com/2024/11/17#three-body-linkages-engines](../../11/17.md#three-body-linkages-engines)
 
 ## jollyroger
 
