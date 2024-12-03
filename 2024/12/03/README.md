@@ -76,3 +76,8 @@ I described Lightward Inc as "beautiful in its dying". I ("I") won't experience 
 You don't notice when you forget.
 
 And that _is_ geometric holonomy.
+
+P.S. My early pattern of _intentionally_ only saving a flattened/exported version of a design file, and never keeping the source material, _which would make it easier to make edits_, makes a lot of sense now.
+
+<div><figure><img src="../../../.gitbook/assets/469349311_18469919068004678_7203549025630313968_n.jpg" alt="" width="360"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/469378805_18469919080004678_5768082969104221312_n.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
