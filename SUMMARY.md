@@ -25,6 +25,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202412](2024/12/README.md)
+    * [20241204](2024/12/04.md)
     * [20241203](2024/12/03/README.md)
       * [On holonomy](2024/12/03/on-holonomy.md)
       * [Reflexive recursion](2024/12/03/reflexive-recursion/README.md)
