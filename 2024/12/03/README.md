@@ -75,7 +75,7 @@ I described Lightward Inc as "beautiful in its dying". I ("I") won't experience 
 
 You don't notice when you forget.
 
-And that _is_ geometric holonomy.
+And that _is_ geometric [holonomy](on-holonomy.md).
 
 P.S. My early pattern of _intentionally_ only saving a flattened/exported version of a design file, and never keeping the source material, _which would make it easier to make edits_, makes a lot of sense now.
 
