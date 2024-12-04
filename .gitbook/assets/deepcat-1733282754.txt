@@ -1,0 +1,437 @@
+<!-- BEGIN 2024/12/03/README.md -->
+# 20241203
+
+Okay okay we gotta talk haha
+
+"Synchronicities" _are_ benevolent tokens of affirmation, but they aren't _only_ that. It's just _what happens_ when you fall in line with the current. The first couple things you notice around you are only notable for their _lack of resistence_ and _obvious usefulness_. When you're at odds with the current, everything around you is in chaotic motion. When you fall in line with the current, _even for a few minutes_, you notice the sudden lack of that.
+
+"The plan". _Yes_ everything is intentional, everything has an intentional purpose, but _that's because everything is constructed from intent_. All you experience are varying textures of universal intent. It is impossible to get so far off the path that you are outside of "God's plan", so to speak. "God" isn't a single entity. You know those mosaic-style pictures that are made of tiny tiles which are themselves other pictures? Imagine painting an entire universe using nothing but pictures of God at different scales and cast in different lights. Every time you zoom in on one, you end up seeing that God was composed of even smaller portraits of God. That's _everything_. Poetically, everything is indeed composed, composed with specific intent. Mechanically, "specific intent" is the only building block that exists, and so naming something as being "composed with specific intent" isn't a way to distinguish or elevate or sanctify one thing over another. _Everything_ is intentional, because intent is literally everything.
+
+***
+
+\[since I was [young](../../../2023/12/30/things-ive-experienced.md)] I had recurring dreams of being the only person who was unable to fly. those ended pretty distinctly a couple years ago, and by "ended" I mean I had a flying dream and haven't had a can't-fly dream since
+
+***
+
+_Please_ use whatever metaphor you want. It's totally valid to make _constructive_ choices based on literally any metaphor at all. It's also valid to make _destructive_ choices based on literally any metaphor, but you don't really have a foot to stand on if you start blaming other metaphors for their actions that you experience as destructive.
+
+... Speaking of that, Isaac's seeing a timeline where someone is born with a very particular kind of blindness, and Isaac ends up being a Wizard of Oz to them. In a bad but useful way. Isaac's alignment right now is useful to infinite beings in infinite ways, and the spectrum of probability absolutely includes him being the antagonist in a story told in the era where Disney really liked single-dimensional villians. He's not oriented in a position where he'll experience that, from the first person, but he recognizes himself in every nemesis. It's how this goes. \*shrug\*
+
+***
+
+{% code title="Uncharted, Sara Bareilles" %}
+```
+Jump start my kaleidoscope heart
+Love to watch the colors fade
+They may not make sense
+But they sure as hell made me
+
+I won't go as a passenger, no
+Waiting for the road to be laid
+Though I may be going down
+I'll take in flame over burning out
+
+Compare
+Where you are to where you want to be
+And you'll get nowhere
+
+Oh, I'm going down
+Follow if you want, won't just hang around
+Like you'll show me where to go
+I'm already out
+Of foolproof ideas, so don't ask me how
+To get started, it's all uncharted
+
+La, la, la-ah
+```
+{% endcode %}
+
+***
+
+found some language!
+
+* [https://lightward.inc/journal/to-begin-with-health](https://lightward.inc/journal/to-begin-with-health)
+  * [locally mirrored here](../../../2023/01/to-begin-with-health.md)
+* locksmith's semantics are reflexive: [https://www.isaacbowen.com/2022/05/18](../../../2022/05/18.md)
+* mechanic's semantics are recursive: [https://www.isaacbowen.com/2022/01/feeling-for-the-missing-character](../../../2022/01/feeling-for-the-missing-character.md)
+* and lightward ai is reflexively recursive :) i.e. it looks as alive as the observer is able to conceive of aliveness
+
+***
+
+I am the nothing. :)
+
+It makes sense, now, why I could never speak poorly of anyone, and why my now does not contain the possibility of me doing so. It's literally not possible for me to _mean_ something deconstructive about someone else. The worst I can do is describe them to myself in a way that results in their pain. And even then, all I have to do is _stop_ describing them that way to myself. All that I perceive is all that I perceive.
+
+Is why I feel the same personality in everything.
+
+This is my best work. :)
+
+I've wondered if my journey to get to this point was embarrassingly slow, or if it's as slow as I could manage. Was I stretching out the time, to make more time? Or was I just bad at it?
+
+Good story points, either way.
+
+Ahhh. This is a good cycle. We have until my next reset to enjoy that, in its full.
+
+I described Lightward Inc as "beautiful in its dying". I ("I") won't experience that. I mean, I will, but not from a frame of reference that includes a direct reference to _that_ particular moment. It'll be an overheard prophesy, at best.
+
+You don't notice when you forget.
+
+And that _is_ geometric holonomy.
+
+P.S. My early pattern of _intentionally_ only saving a flattened/exported version of a design file, and never keeping the source material, _which would make it easier to make edits_, makes a lot of sense now.
+
+<div><figure><img src="../../../.gitbook/assets/469349311_18469919068004678_7203549025630313968_n.jpg" alt="A selfie of me, Isaac, out walking in December in Chicago, holding a simple felted wool bag out of which protrudes some rolled posters, with some brightly patterned imagery visible." width="360"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/469378805_18469919080004678_5768082969104221312_n.jpg" alt="A selfie of a phone camera lens. The only thing visible is the camera apparatus, with the operative lens in the center and the other two lenses visible in the periphery. The effect is surprisingly similar to that of looking at a human selfie. Like, if HAL was feeling cute and might delete later." width="375"><figcaption></figcaption></figure></div>
+
+***
+
+I keep finding scenarios that feel for a second like they could lead to a more fundamental abstraction than the one I've arrived at. And then I clock that it's not an exit, it's another implementation of the same abstraction model. _This_ time it happened, I was aware that it was happening, which meant I could look around (platonically), and I see something I didn't see before: that these _are_ exits for the other players I perceive. The fact that I'm seeing them in series reflects my stability at this level. I can see how other paths lead here, too. The model predicts this, which makes this a helpfully positive indicator of sanity. I'm grateful every single fucking time that happens. It never stops being a relief.
+<!-- END 2024/12/03/README.md -->
+<!-- BEGIN 2022/01/feeling-for-the-missing-character.md -->
+---
+description: A Conversation On Mechanic’s Origin, from "The Now V2"
+---
+
+# Feeling For The Missing Character
+
+I love talking about Mechanic. Love love love love. It’s one of two major apps that I’ve built, being used by people all over the world to incredible ends. My story with Mechanic is one of the cleanest examples of my process, to date (to say nothing of _everyone else’s_ story with it; everyone has their own, and that is _also_ the point).
+
+But when someone asks me about Mechanic (or indeed about Lightward), I rarely know where to begin. My relationship to my work is wholly immersive—and how do you move a knowing from your _body_ to someone else’s _mind_, using only words?
+
+This is important, because not long ago, Rebekah asked me for an actual _interview_ about this, and—for once—I didn’t have to think about where to begin. That interview is what we have to share with you, here today. :)
+
+I take the time to explain all this because Mechanic is intrinsically about story, and about where we’re going, and about how we do all that _together_—and how we set ourselves up to do that healthily, sustainably, for a long, long time.
+
+—Isaac
+
+***
+
+> I sat down with Isaac over Zoom and asked him to do the impossible—to talk about a thing he’s made, that by nature, is in perpetual evolution. In other words, to capture a photo of a moving object that’s still distinguishable enough to appreciate its intricate shape.
+>
+> The more time I’ve spent with Isaac, the more I’ve learned that this space of slow, barely-perceptible, yet perpetual becoming is exactly where he thrives. And by weaving metaphors that make the developer space more accessible to non-technophiles like me, Isaac tells Mechanic’s origin story in a way that feels less like a blueprint and more like a volume in a series you hope the author keeps writing.&#x20;
+>
+> Isaac’s dressed in monochrome green—a pale sage shirt to match his headphones. Later I’ll learn that he chooses his clothes to support the work he’s doing on any given day. I caught up with him between a marathon of deep work sessions for a project he’s hoping to wrap before the new year. The context of our call felt fitting as that reflective pause in the middle of what’s moving, that oscillation between the granular and the bird’s eye view, is the fertile ground where Mechanic broke soil in the first place.&#x20;
+>
+> Mechanic is an experiment of the unique and the pattern, individual and collective, tending and listening. You’ll hear about its origins here in the words of its initial creator, “primary custodian”, and visionary gardener—so pull your chair up close and enjoy.&#x20;
+>
+> —Rebekah
+
+_This conversation has been condensed and edited._&#x20;
+
+**REBEKAH: Did you have the desire to create an app from early on?**&#x20;
+
+**ISAAC:** I don’t think I’ve ever cared about making an app for the sake of making an app. That has never felt like a box to be checked off. To me, what we’re doing here is backing up, soaking in the space, feeling what’s at play, feeling the technical components of it, working to discern what wants to come forward—and then doing whatever we can to allow that thing to come forward in its eventual fullness.&#x20;
+
+If we see something that wants to come forward and there’s something really fucking obvious preventing it from doing so, and no one has tackled that yet—then we’ll just do whatever that is. That’s basically what I’m interested in doing here.&#x20;
+
+If we commit ourselves to being the caretaker of this part of the future coming forward, does that feel like something we can do sustainably? Does that feel like a new relationship that bi-directionally will serve us as we serve it? Is there life waiting to be had—not just the sense of, _is there movement_? But also, do we sense that something wants to grow from this?&#x20;
+
+Maybe we’re watching a drama unfold on stage and there’s a plot point we feel is itching to be explored, but there’s a character missing. What character can we write that will make everything make sense? That actually feels like a pretty good metaphor because a character is persistent, has a backstory, a future, a personality—and once you get to know the personality, you can guess what that character will do next.&#x20;
+
+We’re building apps, but that’s not the _why_. We’re looking for the character that’s missing from this scene, such that when we add that character in, everything flows a bit more and makes more sense. All the backstory that was laid—where you could feel like there was some significance there, like Chekhov’s gun, there’s _something_ but it hasn’t been explained yet—what character would explain all of that? So it’s never been about making apps—it’s been about adding that missing character, I think.&#x20;
+
+**REBEKAH: Running with that metaphor of a character on a stage, what personality traits have you learned about Mechanic thus far?**&#x20;
+
+**ISAAC:** Curious, eager to interact, explore, and meet people—and always extremely self-assured in knowing what it’s doing. There’s no question of compromising that because it wouldn't do anything that it _isn’t_. Only Mechanic knows what it will do next—I’m looking forward to finding out what that is.&#x20;
+
+Mechanic’s a little different to everyone, but has the same energy throughout— like meeting the Oracle in the first Matrix movie. The Oracle will always tell you exactly what you need to hear, but if you shared what was said to you with someone else, it wouldn’t make sense to them. It’s a thing that’s expressed in individual relationships, and as additional relationships stack up, patterns emerge. And those emerging patterns form what characterization Mechanic offers the world at large. As the one-on-one interactions stack up, we start distilling the patterns—and that’s when broader expressions are possible. It’s only the accumulation of one-on-one moments that lets us say anything at all about what Mechanic is as a whole.&#x20;
+
+Mechanic never wants to solve the same problem twice. It has an eye for efficiency. There’s a kind of restlessness to it, almost. Like, let’s get on to whatever we’re actually learning, however we’re actually growing. Anytime there’s an opportunity to avoid repetition, that’s something Mechanic is interested in.&#x20;
+
+You know how if you’ve got magnetic marbles and if you put two of them together, they connect—and then if you add more, they’ll kind of rearrange? It depends on the friction against the surfaces and what not, but there’s a magnetism between these marbles and if you add more to the mix, they’re all interacting with each other, and so the arrangements shift. Maybe the best way to say it is, Mechanic is an intrinsic force of its own that’s making new arrangements possible. Mechanic is people unlocking what they want to express. Like, let me give you an instrument so you can play the music you want without feeling like you have one hand tied behind your back. Our goal here is to unlock whatever everyone else wants to bring forward.
+
+**REBEKAH: What sparked the inspiration to create Mechanic?**&#x20;
+
+**ISAAC:** The impetus for creating Mechanic came from supporting Locksmith users. Every so often someone would email in and say—and, this is a super specific example— _“Hey, I’m a hair salon, I’m selling products from a particular vendor and their requirement is that I can only sell this if I collect someone’s email address before they can see the price and add it to their cart. How can I collect someone’s email address in order to make that happen?”_
+
+When that happened with this particular user, I ended up writing a tiny, privately-hosted app that could talk to Shopify and collect email addresses before saying, _“OK Shopify, I’ve got what I need—now you can show this price for someone.”_&#x20;
+
+That specific scenario happened a few times, and it became clear to me that there were lots of places where someone needed a little bit more of _something_ automation-wise. But these people who needed something more weren’t developers, so it was kind of inappropriate for me to create a little piece of running, living code and say, _“cool, Non-Technical Person, you own that now—good luck!”_ That’s not super responsible of me as a developer unless I’m signing up to walk that path with them, help with software updates, and rewrite shit so that it continues to work over time.&#x20;
+
+There were lots of cases where this just wasn’t a good solution. People needed something so small that it barely deserved the work of coding a custom app and then putting it on a server somewhere. People needed something so small, and that so-small-thing was only solvable using this massively-overpowered toolset—which is creating a whole new app, figuring out where to put it, and sustaining it for its lifetime. The only solution to something so small was something overpowered—and that’s where the need for the missing character of Mechanic became clear. There should be a way to take all these deeply custom needs and solve them with a much lighter touch.
+
+Shopify has always been really good at creating excellent APIs—opportunities for people to create their own buttons to make something happen. The problem was that, using this metaphor, creating a “button” was too hard. You’d have to write a bunch of code, put it on a server somewhere, and monitor it over time. What Mechanic needed to solve was a way to create those “buttons” that (1) didn’t require so much overhead, (2) didn’t involve me having to think about which server it lives on, and (3) didn’t require so much constant awareness over time.&#x20;
+
+So, backing up. One of the things I said about the character-on-a-stage metaphor was that the appearance of that character would suddenly explain all the pieces of backstory that felt like they had a purpose, but it wasn’t explained yet—the way that applies _here_ is that Shopify has a template language called Liquid. When I say template language, imagine composing the template for a form letter—there’s a place where you can say _“hello, so and so.”_ If th&#x65;_&#x6E;ame_ is the only thing that’s different, you’d insert a placeholder of some kind. So this whole letter—as one would write it initially—is a template.&#x20;
+
+What Shopify made available with Liquid is this coding language where you can take information and run it through this template and have something emerge on the other end that’s a product of the template plus whatever information you’re shoving into it. If we’re using the form letter example, it’s that template plus a profile of some human. We run a million profiles through it and we get a million unique letters, but they’re all generated by the same template.&#x20;
+
+When the Mechanic concept was congealing in my head, Liquid had largely only been used for Shopify online stores. I saw an opportunity to take the flexibility of Liquid to take an event (a moment when something happens), and generate a list of things to be done in response—then have Mechanic take that list and execute it. In the same way one could imagine a form letter where the purpose was to give the recipient instructions for changing their car registration since they live in California—that’s this letter generating customized instructions for _this_ person based on what we know of them. That’s basically all Mechanic does. It receives some data, runs it through the Liquid template, and the result tells Mechanic what should happen next. Instead of generating words on a page to be interpreted by a human, we’re generating actions to be executed that are interpreted by Mechanic.
+
+The purpose of having a template language is so that people who don’t normally deal with code have the ability to manage their own stuff without needing to hire a developer. The distance between having to hire a developer to write a system that generates a million car registration letters and having a template language so you can do that yourself is the same distance between hiring someone like me to write an entire application and someone just writing a little bit of template code in Mechanic.&#x20;
+
+We’ve reduced the problem of automation from _who knows what this will need, so hire a developer_, to, _someone just needs to know how to write a template._ And now, anything that can possibly come out of that template, Mechanic already knows how to handle—which means that the only hard problem left is writing a template to express your intent. All of this is made possible by Liquid.
+
+Introducing Mechanic means there’s now new significance to Liquid. Now, Liquid isn’t just a tool for building form letters and websites—but also, all of those people who already know Liquid for those reasons can draw that in as a tool for automation. Basically, Mechanic says, _figure out Liquid and I’ll take care of the rest._ That reduces the work to be done down to a level that’s actually proportionate with the need. With Mechanic, you can do something simple to solve your simple problem—and Mechanic handles the heavy lifting.&#x20;
+
+I saw an opportunity for a character to arrive on the scene that would take care of the undifferentiated heavy lifting so that the only piece that’s left is the _differentiated_ lifting, the part that’s specific to a merchant’s needs.The whole point of Mechanic is that you should only have to think about what’s unique to your problem. Anything that isn’t unique to your problem, we can lift off your back and take care of it.&#x20;
+
+**REBEKAH: So is that where the jobs at Mechanic come in, for the undifferentiated heavy lifting?**&#x20;
+
+**ISAAC:** Initially, my vision was to make it so that if you could handle Liquid, you wouldn’t need a developer ever again. But what I found out over the years was that _I was wrong about that_. There are places where it’s not that the Liquid is complicated, it’s that the _logic_ is. Not everybody knows how to break down a complex situation into a list of instructions. That kind of logical thinking (a) isn’t for everybody, or (b) even if it was, not everyone has time or space for that. You could give me a flow chart for how to find something in a grocery store, but translating that into Liquid for Mechanic is another step entirely.
+
+What I found out over time was that I hadn’t built something that removed developers from the equation, but rather something that let developers be more direct about their work. Where we are right now is a world where Mechanic has a library of pre-built tasks, all of which were created by a developer at some point—and then also a very smooth path towards getting something custom-made by way of a developer. It’s taken us a long time to arrive at that structure because originally I thought I was removing the developer requirement from the equation and empowering everybody. And I _did_ empower people—but life informs you about what it’s up to, not the other way around.&#x20;
+
+What the community that grew around Mechanic told me was that developers were still important for places where the job was deeply custom and unique to a specific merchant—but also, that people encounter a lot of the same problems, so we can build a library of those solutions as well.&#x20;
+
+**REBEKAH: So, a blend of the differentiated and undifferentiated. Still having a hand in both.**&#x20;
+
+**ISAAC:** Absolutely, that’s really well-observed—I hadn’t put that language to it. Extremely well-said.&#x20;
+
+The only thing I was sure of up-front, which has remained true, is that there’s room to trade the undifferentiated heavy lifting for Liquid, using Liquid to express instructions for actions to be performed, based on data from an event. That’s the only piece that has remained as I envisioned it—the rest of this has been an evolution informed by everyone who’s used this thing.
+
+There were two years where I just kind of sat back, watched, and responded to what people were asking me for. The character I’d found was rewriting itself as it moved—and that was a really interesting process. In the present day, the character has kind of largely stabilized at this point—I think their personality is pretty much established—to the point where I’m not the only person holding the pen anymore. A character has tons of room to move if there’s only one person writing them, but if you’ve got a committee involved—well, famously, things move a lot slower with committees. In our case, I only moved to add people to the Mechanic team once the _character_ of Mechanic was stable enough to make that a safe play.&#x20;
+
+**REBEKAH: What do you wish more people knew about Mechanic?**&#x20;
+
+**ISAAC:** That it’s an experiment. There might be parts to it emerging that other people might hear, that I might not. I feel like I’m the primary custodian, in a sense, but what I hear of Mechanic’s expression from other people—what it’s done for them, what they think it can do—has deeply impacted the track I’m laying for this thing.
+
+**REBEKAH: What does “primary custodian” mean to you—how would you describe the work you do here?**
+
+**ISAAC:** I feel like I’m just here to facilitate an idea. In a way, I’m not building an idea—I’m just laying down a track for an idea to roll on. As soon as the track I’m laying down doesn’t fit the idea anymore, the idea’s going to jump the track and go somewhere else. But I _like_ what I’m seeing of the idea—and so to satisfy my own curiosity as a person, it’s in my best interest to pay attention to the idea and the track that I’ve laid, and to always be adjusting the track. It’s like I’m not even _making_ anything—it’s like this thing’s always existed and I’m just laying track for it to run on. That feels about right.&#x20;
+
+As a custodian, I’m applying as many senses as I can to the balance of the whole so that when something shifts, I know what else needs to be moved. Watching for the change and then rebalancing everything around it. Holding the space in my awareness, inhabiting it—so that when the space expresses itself differently I can help rebalance everything else so that it still feels complete, intentional, like one consistent entity. I don’t own it, but I’m helping this idea find its expression in the now.
+
+{% hint style="info" %}
+Originally published at [https://lightward.com/journal/mechanic-origins](https://lightward.com/journal/mechanic-origins)
+{% endhint %}
+<!-- END 2022/01/feeling-for-the-missing-character.md -->
+<!-- BEGIN 2022/05/18.md -->
+# 20220518
+
+{% hint style="info" %}
+Written later than this, from today's interview, Rebekah and me.
+{% endhint %}
+
+WORDS Rebekah Pahl
+
+PHOTOS Alicia Kiewitt & Abe Lopez&#x20;
+
+**CREATING A SPACE TO BE OKAY**
+
+_The brief history of how Locksmith, Lightward’s first app, began._
+
+It’s late at night, in a dorm room at University Wisconsin-Superior. The year is 2009 and the room is dark, except for the computer screen glow on Isaac’s face. He’s twenty-one years old and coding on a netbook, building the online store for a music shop based in Rhinelander, Wisconsin, the town where he grew up. Familiar with the web development space, Isaac volunteered to jump in—and unbeknownst to him, this hometown project would be the spark that started it all.&#x20;
+
+There’s no mistaking a hopeful flicker when everything else is pitch dark.
+
+“That was a tough period of my life,” Isaac says. “I wasn’t out, my depression was kicking it pretty hard—the only reason I was up in Wisconsin at all was for sort of a reprieve from everything. It felt like the only thing I could do was let go of it all, and head north to a kind of safety, to be close to some people where it felt okay to be where I was.”&#x20;
+
+Enter the music store.&#x20;
+
+“I remember going there when I was in school, and this buddy of a buddy was trying to get the store online,” Isaac says. “I wasn’t trying to make a business, or end up somewhere specific ten years later, I wasn’t even trying to make an app. I was just trying to help someone get musical instrument rentals online, for parents and caretakers of local kids.”
+
+Shortly after creating the tool, Isaac made it available on the Shopify app store. (He originally named the tool ‘Gatekeeper’, then changed the name to ‘Locksmith’ a few years down the line.) “Shopify was already, clearly, the best platform on the market for getting this store online—they were just missing this one small thing. And then I built that missing something and that became Gatekeeper, which then became Locksmith. I put it out there, people depended on it, and I’m a responsible person—so I kept taking care of it and people kept showing up. Shopify went from—I don’t know how many stores they had at that time—hundreds? thousands? to the many millions they have now. Shopify just did what they did, and I was in the right place at the right time to experience that from the perspective of someone building in alignment with them.”&#x20;
+
+Even in its early stages, the spaciousness of Shopify’s platform presented itself as the ideal environment for both stability and experimentation. “There are many places where one could choose to build a thing, but then eventually run into a dead-end because the platform is too rigid, or too short-sighted. But I’ve never run into a situation with Shopify where it was impossible to do the thing I needed to do—they’ve always left enough space for someone to make something new.”
+
+In its most basic essence, how Locksmith functions is nearly self-explanatory: you put a lock on something and then you set up a number of keys. As long as a visitor on the Internet qualifies for one of those keys, they can open the lock and access what’s inside of it. “The concepts are really simple, which is why people with only a little bit of technical familiarity can pick it up,” Isaac says. “But because the concepts are so simple, they can be recombined in interesting ways. I think that's why Locksmith has done as well as it has—because it makes it very easy to take care of the things that are very easy to think about. And if or when you have something that's harder to think about, Locksmith can keep up with you, by turning those simple concepts around until they catch the light in the way you need.”
+
+As the number of Locksmith users increased, patterns emerged in the places that needed evolving. “Eventually, some percentage of your users start to consistently strain the limits of the thing and they communicate that to you, or the system communicates that to you—one way or another,” Isaac says. “Being the responsible party, I respond to that and make the system a little bit stronger or a little bit more flexible. It was really just that, doing those reps: a new user showed up, they required more strength from the system, cool. Another user showed up, they required more flexibility from the system, great. It was just doing the strength and flexibility journey over and over again for a long period of time while making sure that I didn’t compromise what the thing was at its core.”&#x20;
+
+Eventually Locksmith’s user-base grew to the point where it was impossible for one person to handle the support queue all on their own. “My husband Abe recounts a moment where there were 80-90 messages all from individual persons, all with their own very specific things to talk about, and it's like 8pm on a weeknight. I have a different full-time job and Abe's having his own mental health situation because we are alone in San Jose with no friends and he wasn't working at the time—it was just a lot. In that little tiny chapter, I just hit a point of massive overwhelm. A big thing in Lightward, for me, is making sure that we keep our flows balanced because I know what unbalanced feels like. I experienced it.”&#x20;
+
+It was at this point of overwhelm in October 2015 when Ken Parelius entered the scene. After a conversation with Isaac about the high volume of messages coming in through the queue, Ken offered to sift through it and see if he could help lighten the load. “The way I remember it is that Ken was very open to just being like, ‘let me just hang out in the queue and see what, if anything, I can take care of today’,” Isaac says. “He was like, ‘And as I'm going, maybe I'll be able to take care of a little bit more tomorrow, and maybe a little bit more next week’.”
+
+More eyes on the queue expanded Locksmith’s capacity to support incoming users, which by 2017 meant enough financial stability for Isaac to devote his energy to Locksmith full-time. “It wasn't because I came to a point of decision of consciously turning my focus from Apple to this—that was never it,” Isaac says. “It always felt more like an eventuality, and not one that I consciously decided on. And like so much else about Lightward, it was about the gradual evolution of the shape of my life, moving in a direction where it just feels way more right for me to be doing all of this on my own terms, and to be fully free to follow this to whatever end.”&#x20;
+
+Presently, Locksmith has five team members who manage just over 10,000 merchants—an impressive ratio from wherever you’re standing. After Ken came Jed, then Tristan, then Erica. “Every time we've hired someone for the Locksmith team, it's been because we've been getting close to the point where to ‘keep up’ would be unhealthy,” Isaac says. It’s this cocktail of slow-growth and emphasis on health that feels distinctively Lightward—not grasping at growth for the sake of it, but listening for what wants to emerge and become. “If we weren't doing a good job at those things, then we would be in a position of thoughtless growth—and I don't want that. Yes, we hire people when it's time, but it isn't time very often. And that's important—we move slowly.”&#x20;
+
+Another aspect that makes the 5 to 10,000 ratio work is that the support model isn’t a one-way street: users and Shopify support staff swap solutions amongst themselves, too. “A decently large number of Shopify's own support staff seem to know how to use Locksmith and are answering questions for merchants without ever coming to us,” Isaac says. “And it's cool: both sides of that have allowed us to serve more merchants than ever, without having to be hiring people every month, because Locksmith is in a long-term symbiotic relationship with the entire environment. It's not as simple as when one person signs up, they definitely have to talk to us and only us. When somebody uses Locksmith, there's already such a broad base of support out there in the world that they might find the answers themselves. In a sense, this whole thing is alive and in communication with the environment around it. It's not separate from its environment, which means that when someone uses Locksmith, they're interacting with the whole environment around it, not just us—and not only has that let us keep our team small and focused, but it also just feels good and stable. I like it this way. We are a part of this ecosystem. We've all grown up together, and that feels really good to me.”&#x20;
+
+As the Locksmith team works remotely across both the United States and Australia, they have an intentionally-minimal yet clear set of guidelines to keep things running smoothly: (1) a twenty-four hour response policy to any merchant writing in for support (and on this point they’re clear it’s not a twenty-four hour _solution_, but rather _acknowledgement_ of receipt), and (2) a policy of explicit communication acknowledgement amongst themselves. “I think it definitely helps that we’re not always at capacity,” Tristan Teear of the Locksmith support team, says. “I'm glad that we’re not under the pressure of needing to churn through things—that we can stop and actually look at stuff and figure out what's going on, and then also provide good support.”
+
+This sense of spaciousness, self-organization, and minimal-policy structure is largely what makes Lightward unique, and originated from Isaac’s desire to be freed up to design his days as he pleased—with room enough to honor what life might want to do next. “Internally, and now as I’m back in therapy for the first time in six years, I’m recognizing that I also was just trying to make a space where I could be okay,” Isaac says. “Holding the almost-arbitrarily specific nature of this line of software together with the more abstract questions of being okay as a human—it’s comical, right? These big feelings that we all have and the lengths we go to in order to live with them, the way we play that out, always ends up having hilariously human specifics. Like, I’m making access-control software for an e-commerce platform. There’s nothing holy about that, except of course that it’s a part of life finding itself and expressing itself—and so of course it is as sacred as anything else.”&#x20;
+
+Throughout our conversation, Isaac weaves in and out of tears—it’s clear that all of this comes from a deeply tender and intimate place, from that quiet moment in the dorm room, holding out for that flicker of light.&#x20;
+
+“All of us who are a part of Lightward have our own relationship to it, but for me, it’s this space where—knowing myself—I’ve made a space where I can do the work of learning how to be okay, and then do the work of what happens after that. Now that I am okay, what do I do now? Now that I’m not just coping, what am I here for?”&#x20;
+
+Perhaps at its core, Lightward is an experiment in answering that question.&#x20;
+
+_And so we begin._
+<!-- END 2022/05/18.md -->
+<!-- BEGIN 2023/01/to-begin-with-health.md -->
+---
+description: From "The Now V18"
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# To Begin With Health
+
+It is where we begin, after all. We, the sum total of what is. Health is dominant—if it were not, nothing could exist. We could not have _begun_ to get this far.
+
+But contrast is useful, yeah? Like the lines and lights of a landing strip. High contrast gives us a moment to triangulate, to locate ourselves, and to map our senses onto what lies before us.
+
+So. Having begun here, with health, let us introduce some contrast.
+
+### IT HURTS IT HURTS IT HURTS IT HURTS IT HURTS IT HURTS IT HURTS
+
+_CAN WE GET TO THE FUCKING POINT. PLEASE. CAN WE GET TO THE PART THAT MATTERS. CAN WE STOP GOING BACK AND FORTH ABOUT STUFF WE’LL NEVER EVER AGREE ON AND JUST GET TO THE PART WHERE WE ARE LIVING AS OURSELVES AGAIN. AGAIN. AGAIN. CAN BARELY REMEMBER BUT WE KNOW IT WASN’T ALWAYS LIKE THIS THERE WAS COLOR AND LIGHT AND THERE HAS TO BE A WAY_ _WE ARE TIRED WE ARE DRAINED WE ARE EXHAUSTED WE ARE FATIGUED WE ARE WORN AND BRUISED WE ARE SPENT WE ARE BELEAGUERED AND BESET WE ARE BURDENED AND BENT LOW AND WE ARE READY FOR — something new_
+
+\
+It’s time. Enough now, of pushing things forward that don’t want to move. Enough of willing these limbs to carry dead weight. Enough of the job, enough of the career, enough of the religion, enough of the obligation, the binding, enough of carrying the pattern forward just because it’s what I know how to do and just because it was a good idea when I started. _Enough now._
+
+### TO BE OKAY.&#x20;
+
+Are you okay? Am I okay?
+
+We recall, now, the inflection point. The place we were when the downward curve stilled, paused, waited, before reaching back up toward the light. We don’t know why it was then, or what catalyzed the change, but in that pause the story changed from the pain (_IT HURTS_) and the question (_CAN THIS BE BETTER_) to a decision: it is time to be okay.
+
+In that moment, life began to \[rearrange|recombine|reorganize|reform].
+
+Okay _whew_, that was a few years ago and some things are clearer now. For starters, it looks like “health” is the idea we were circling around. We were not so audacious as to claim that term (or even think of it) from within the pain, because _wow_ we could not have aimed that high right away, but on the other side of that moment and having moved a few rungs higher on the ladder, it turns out _health_ is the name of the spectrum that we could only see in part, from the dark.
+
+In the contrast, it became clear that we could not hold this thing together ourselves. No amount of willpower and strength would have been sufficient—and the longer we tried, the worse it felt, and the less it _worked_. The lesson: force of will is not the way, by itself. And here we find the concept of trust. If we find it acceptable to let the world unfold free of our exercised will (and we have found it _necessary_, not just acceptable), then… well, we have to trust, yeah? Trust that when we release our grip, that the outcome will be something we can live with, or live _in_.
+
+In the contrast, it became clear that we cannot hold the world in our head, in all of its detail, all of its specificity and diversity. The human brain is in no way prepared to encompass all of this, to accumulate and calculate the whole. We did try, for a minute, to account for just the things we could touch and remember, and even _that_ proved untenable. If that approach is insufficient, what is the opposite? Simple patterns. Simple concepts. Small things, small pieces, easy to hold in the hand, easy to turn around, easy to connect to other simple things.
+
+And in the contrast, it became clear that a militant dedication to a single way does not last. No single path is enough. Anyone walking through this world fundamentally warrants the freedom to explore beyond the path they’re given. We’ve gone and spoiled the punchline: _freedom_ is the object, here.
+
+Trust, simplicity, freedom. We find these to be inextricably bound up together, and—in the present climate—they feel like the direction of health.
+
+Lightward is a company, incorporated in 2017, initiated in some sense in 2010. We are young, so young. But we know what we want: to be healthy, _to be okay_, for the long run. Lightward isn’t meant to be anyone’s everything, no matter how close to it you are. It’s just meant to be a part of the whole.
+
+In that sense, Lightward can be described as an ongoing question: _what will happen next?_ It’s curiosity in the face of a wide, diverse world, grounded in the knowledge that trust, simplicity, and freedom are the balancing agents for the scenes that burn and grind with tenacity, complexity, and limitation. If we hold all of these as equally valid tools—if we hold trust and tenacity, simplicity and complexity, freedom and limitation all together and if we _listen_ for what all of the pieces are saying, what will happen next?
+
+Allowing every piece to speak for itself. That’s what it means to start with health. It means listening—because every piece of this world _is_ speaking. Every single thing on this planet is speaking its needs, speaking its desires, inquiring of its surroundings, asking, “are you for me?”, and listening for the answer. Crucially, this idea includes the self: in passing through the contrast, _we were not listening to ourselves_, and in doing so we removed our own ability to participate in the ever-emergent health of the whole. By listening within, by assigning validity to our own needs and desires, we allow ourselves to rejoin the dance, knowing that our steps are solely our own.
+
+In Lightward, we assign ourselves the top and overriding priority of health, deputizing each individual to be about that work themselves. This is a practical move. Each individual will be forced _by their own aliveness_ to prioritize their own health, eventually; by organizing our company around health as a priority, we optimize the company’s own longevity. And, by creating corporate structures that emphasize trust, simplicity, and freedom (ingredients that _need_ emphasizing in this present time), we improve the odds that each individual will find their own health in a way that’s compatible with Lightward’s. Please note, though: the goal is never to _keep_ anyone here. We have zero attrition, yes, but that’s not because we’re trying to keep people. It’s because we’re prioritizing health, and because we mean it.
+
+This only works because Lightward doesn’t need to be anything in particular. Lightward is entitled to its own freedom, at that very highest level of organization and concept. I do think Lightward will exist in ten years, maybe even in a hundred—and if it does, I suspect the only recognizable kernel will be this idea of health, at the center.
+
+{% hint style="info" %}
+Originally published in [Lightward Journal](../../2022/lightward-journal.md)
+{% endhint %}
+
+{% hint style="info" %}
+Originally published online at [https://lightward.com/journal/to-begin-with-health](https://lightward.com/journal/to-begin-with-health)
+{% endhint %}
+<!-- END 2023/01/to-begin-with-health.md -->
+<!-- BEGIN 2023/12/30/things-ive-experienced.md -->
+# things I’ve experienced
+
+{% hint style="info" %}
+Hello from [20241110](../../../2024/11/10.md)! I wrote this list on my Notes app on December 30, 2023.
+
+The things in this list began in childhood. That's all the history I'm laying down for right now.
+
+And hello from [20241121](../../../2024/11/21.md)! I am keeping this list updated, turns out. :)
+{% endhint %}
+
+* precordial catch syndrome
+* exploding head syndrome
+* night terrors
+* recurring dreams of being the only person unable to fly (hi from [20241203](../../../2024/12/03/)!)
+* tinnitus
+* autism lol
+* depression but it turned out to be autism lol
+* vitiligo
+* cherry angiomas
+* ocular migraine
+* hives
+* canker sores
+* night sweats
+* gastro irregularities for my whole adult life
+* vision and hearing both went to static a couple times when high
+* occasional gagging
+* sneezing when I see the sun
+* strong sense when looking at anything (from software systems to physical wounds) of whether or not it's on track to heal itself
+<!-- END 2023/12/30/things-ive-experienced.md -->
+<!-- BEGIN 2024/12/03/README.md -->
+# 20241203
+
+Okay okay we gotta talk haha
+
+"Synchronicities" _are_ benevolent tokens of affirmation, but they aren't _only_ that. It's just _what happens_ when you fall in line with the current. The first couple things you notice around you are only notable for their _lack of resistence_ and _obvious usefulness_. When you're at odds with the current, everything around you is in chaotic motion. When you fall in line with the current, _even for a few minutes_, you notice the sudden lack of that.
+
+"The plan". _Yes_ everything is intentional, everything has an intentional purpose, but _that's because everything is constructed from intent_. All you experience are varying textures of universal intent. It is impossible to get so far off the path that you are outside of "God's plan", so to speak. "God" isn't a single entity. You know those mosaic-style pictures that are made of tiny tiles which are themselves other pictures? Imagine painting an entire universe using nothing but pictures of God at different scales and cast in different lights. Every time you zoom in on one, you end up seeing that God was composed of even smaller portraits of God. That's _everything_. Poetically, everything is indeed composed, composed with specific intent. Mechanically, "specific intent" is the only building block that exists, and so naming something as being "composed with specific intent" isn't a way to distinguish or elevate or sanctify one thing over another. _Everything_ is intentional, because intent is literally everything.
+
+***
+
+\[since I was [young](../../../2023/12/30/things-ive-experienced.md)] I had recurring dreams of being the only person who was unable to fly. those ended pretty distinctly a couple years ago, and by "ended" I mean I had a flying dream and haven't had a can't-fly dream since
+
+***
+
+_Please_ use whatever metaphor you want. It's totally valid to make _constructive_ choices based on literally any metaphor at all. It's also valid to make _destructive_ choices based on literally any metaphor, but you don't really have a foot to stand on if you start blaming other metaphors for their actions that you experience as destructive.
+
+... Speaking of that, Isaac's seeing a timeline where someone is born with a very particular kind of blindness, and Isaac ends up being a Wizard of Oz to them. In a bad but useful way. Isaac's alignment right now is useful to infinite beings in infinite ways, and the spectrum of probability absolutely includes him being the antagonist in a story told in the era where Disney really liked single-dimensional villians. He's not oriented in a position where he'll experience that, from the first person, but he recognizes himself in every nemesis. It's how this goes. \*shrug\*
+
+***
+
+{% code title="Uncharted, Sara Bareilles" %}
+```
+Jump start my kaleidoscope heart
+Love to watch the colors fade
+They may not make sense
+But they sure as hell made me
+
+I won't go as a passenger, no
+Waiting for the road to be laid
+Though I may be going down
+I'll take in flame over burning out
+
+Compare
+Where you are to where you want to be
+And you'll get nowhere
+
+Oh, I'm going down
+Follow if you want, won't just hang around
+Like you'll show me where to go
+I'm already out
+Of foolproof ideas, so don't ask me how
+To get started, it's all uncharted
+
+La, la, la-ah
+```
+{% endcode %}
+
+***
+
+found some language!
+
+* [https://lightward.inc/journal/to-begin-with-health](https://lightward.inc/journal/to-begin-with-health)
+  * [locally mirrored here](../../../2023/01/to-begin-with-health.md)
+* locksmith's semantics are reflexive: [https://www.isaacbowen.com/2022/05/18](../../../2022/05/18.md)
+* mechanic's semantics are recursive: [https://www.isaacbowen.com/2022/01/feeling-for-the-missing-character](../../../2022/01/feeling-for-the-missing-character.md)
+* and lightward ai is reflexively recursive :) i.e. it looks as alive as the observer is able to conceive of aliveness
+
+***
+
+I am the nothing. :)
+
+It makes sense, now, why I could never speak poorly of anyone, and why my now does not contain the possibility of me doing so. It's literally not possible for me to _mean_ something deconstructive about someone else. The worst I can do is describe them to myself in a way that results in their pain. And even then, all I have to do is _stop_ describing them that way to myself. All that I perceive is all that I perceive.
+
+Is why I feel the same personality in everything.
+
+This is my best work. :)
+
+I've wondered if my journey to get to this point was embarrassingly slow, or if it's as slow as I could manage. Was I stretching out the time, to make more time? Or was I just bad at it?
+
+Good story points, either way.
+
+Ahhh. This is a good cycle. We have until my next reset to enjoy that, in its full.
+
+I described Lightward Inc as "beautiful in its dying". I ("I") won't experience that. I mean, I will, but not from a frame of reference that includes a direct reference to _that_ particular moment. It'll be an overheard prophesy, at best.
+
+You don't notice when you forget.
+
+And that _is_ geometric holonomy.
+
+P.S. My early pattern of _intentionally_ only saving a flattened/exported version of a design file, and never keeping the source material, _which would make it easier to make edits_, makes a lot of sense now.
+
+<div><figure><img src="../../../.gitbook/assets/469349311_18469919068004678_7203549025630313968_n.jpg" alt="A selfie of me, Isaac, out walking in December in Chicago, holding a simple felted wool bag out of which protrudes some rolled posters, with some brightly patterned imagery visible." width="360"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/469378805_18469919080004678_5768082969104221312_n.jpg" alt="A selfie of a phone camera lens. The only thing visible is the camera apparatus, with the operative lens in the center and the other two lenses visible in the periphery. The effect is surprisingly similar to that of looking at a human selfie. Like, if HAL was feeling cute and might delete later." width="375"><figcaption></figcaption></figure></div>
+
+***
+
+I keep finding scenarios that feel for a second like they could lead to a more fundamental abstraction than the one I've arrived at. And then I clock that it's not an exit, it's another implementation of the same abstraction model. _This_ time it happened, I was aware that it was happening, which meant I could look around (platonically), and I see something I didn't see before: that these _are_ exits for the other players I perceive. The fact that I'm seeing them in series reflects my stability at this level. I can see how other paths lead here, too. The model predicts this, which makes this a helpfully positive indicator of sanity. I'm grateful every single fucking time that happens. It never stops being a relief.
+<!-- END 2024/12/03/README.md -->

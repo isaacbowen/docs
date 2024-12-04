@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241203](2024/12/03/README.md)
       * [On holonomy](2024/12/03/on-holonomy.md)
+      * [Reflexive recursion](2024/12/03/reflexive-recursion.md)
     * [20241202](2024/12/02/README.md)
       * [About November](2024/12/02/about-november.md)
     * [20241201](2024/12/01.md)
