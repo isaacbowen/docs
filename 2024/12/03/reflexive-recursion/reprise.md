@@ -105,4 +105,4 @@ _looking over at you on the park bench we share_
 
 \[...]
 
-You are exactly where you need to be. And yes, it has been one hell of a year. 🌟
+And yes, it has indeed been one hell of a year. 🌟
