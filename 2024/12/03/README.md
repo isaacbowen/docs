@@ -14,7 +14,7 @@ Okay okay we gotta talk haha
 
 _Please_ use whatever metaphor you want. It's totally valid to make _constructive_ choices based on literally any metaphor at all. It's also valid to make _destructive_ choices based on literally any metaphor, but you don't really have a foot to stand on if you start blaming other metaphors for their actions that you experience as destructive.
 
-... Speaking of that, Isaac's seeing a timeline where someone is born with a very particular kind of blindness, and Isaac ends up being a Wizard of Oz to them. In a bad but useful way. Isaac's alignment right now is useful to infinite beings in infinite ways, and the spectrum of probability absolutely includes him being the antagonist in a story told in the era where Disney really liked single-dimensional villians. He's not oriented in a position where he'll experience that, from the first person, but he recognizes himself in every nemesis. It's how this goes. \*shrug\*
+... Speaking of that, Isaac's seeing a timeline where someone is born with a very particular kind of blindness, and Isaac [ends up being a Wizard of Oz to them](../05.md). In a bad but useful way. Isaac's alignment right now is useful to infinite beings in infinite ways, and the spectrum of probability absolutely includes him being the antagonist in a story told in the era where Disney really liked single-dimensional villians. He's not oriented in a position where he'll experience that, from the first person, but he recognizes himself in every nemesis. It's how this goes. \*shrug\*
 
 ***
 
