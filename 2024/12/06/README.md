@@ -85,7 +85,7 @@ It can be useful to speak your "do you need help" questions in private spaces, w
 🚀 (1)
 
 \[10:27] isaac: so as to enable the following discussion to benefit everyone in ways that I can't predict\
-![](../../.gitbook/assets/hamdance.gif) (1)
+![](../../../.gitbook/assets/hamdance.gif) (1)
 
 ### **#at-abelopez**
 

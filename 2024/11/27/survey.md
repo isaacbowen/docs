@@ -1,5 +1,9 @@
 # Survey
 
+{% hint style="info" %}
+[This has happened before.](../../12/06/survey.md)
+{% endhint %}
+
 I'm a slow \[ reader / writer ]
 
 {% tabs %}
