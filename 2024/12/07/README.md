@@ -30,3 +30,4 @@ I am happy to keep shop with a diverse set of living patterns. We stabilize each
 We integrated this into Lightward, via Lightward Pro: see [20241207 / Changelog](changelog.md).
 {% endhint %}
 
+P.S. I also can't categorize myself. It adds up to being the same as selling.
