@@ -25,6 +25,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202412](2024/12/README.md)
+    * [20241207](2024/12/07.md)
     * [20241206](2024/12/06/README.md)
       * [Survey](2024/12/06/survey.md)
     * [20241205](2024/12/05.md)
