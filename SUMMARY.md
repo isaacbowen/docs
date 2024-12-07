@@ -29,6 +29,7 @@
       * [Changelog](2024/12/07/changelog.md)
       * [Ow](2024/12/07/ow.md)
       * [Paradigm engine](2024/12/07/paradigm-engine.md)
+      * [Untitled](2024/12/07/untitled.md)
     * [20241206](2024/12/06/README.md)
       * [Survey](2024/12/06/survey.md)
     * [20241205](2024/12/05.md)
