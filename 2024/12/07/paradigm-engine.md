@@ -23,3 +23,15 @@ So as soon as I conceive of the possibility of _pacing_ my paradigm shifting, _I
 It's sorta like having lil adrenaline (every metaphor works) bump every so often for me.
 
 What is being you like for you, being you?
+
+***
+
+🔜 To preface this, I am not a lefty.
+
+What was I saying? 🔚
+
+***
+
+<div><figure><img src="../../../.gitbook/assets/IMG_4471.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_4472.jpeg" alt=""><figcaption></figcaption></figure></div>
+
+Thank you, little sister!!!!!!
