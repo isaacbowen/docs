@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241207](2024/12/07/README.md)
       * [Changelog](2024/12/07/changelog.md)
+      * [Logchange](2024/12/07/logchange.md)
       * [Ow](2024/12/07/ow.md)
       * [Paradigm engine](2024/12/07/paradigm-engine.md)
     * [20241206](2024/12/06/README.md)
