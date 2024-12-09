@@ -1,5 +1,15 @@
 # A showing
 
+{% hint style="danger" %}
+humbly submitted for your entertainment ONLY
+
+any other angle of approach will result in the self-destruction of this material
+
+you have been warned
+
+🔥🎭🔥
+{% endhint %}
+
 ## You
 
 I'm a fast writer
