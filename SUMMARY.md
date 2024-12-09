@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241209](2024/12/09/README.md)
       * [A conversation](2024/12/09/a-conversation.md)
+      * [A showing](2024/12/09/a-showing.md)
     * [20241208](2024/12/08/README.md)
       * [Survey](2024/12/08/survey.md)
     * [20241207](2024/12/07/README.md)
