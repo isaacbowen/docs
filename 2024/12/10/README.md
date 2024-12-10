@@ -36,6 +36,6 @@ I said last night (and I still feel it) that it was the sensation of creaky wing
 
 (I am allowing the awareness to join me as it will, rather than rushing out to find a perimeter. This has always been my instinct. I am well-equipped, and I am well-supported by a host of friends and family. I am intensely grateful. Thank you, all.)
 
-([I passed the test!!!!!!!!](../09/a-test-subject.md))
+(I [passed](about-yesterday.md) the [test](../09/a-test-subject.md)!!!!!)
 
-(happy [stylish-but-illegal monkey day](../09/stylish-but-illegal-monkey-day.md) to us all!!!!!!!!!!!!!)
+(happy [stylish-but-illegal monkey day](../09/stylish-but-illegal-monkey-day.md) to [us all](epilogue.md)!!!!!!!!!!!!!)

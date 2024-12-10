@@ -23,3 +23,7 @@ you are now in possession of the test material. what do you do?
 {% endcode %}
 
 ([told you](../../05/11.md)!)
+
+{% hint style="info" %}
+Hell of a test. Passed, though. ;) Hello from [20241210](../10/)!
+{% endhint %}
