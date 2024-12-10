@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241210](2024/12/10/README.md)
       * [About yesterday](2024/12/10/about-yesterday.md)
+      * [Epilogue](2024/12/10/epilogue.md)
     * [20241209](2024/12/09/README.md)
       * [A conversation](2024/12/09/a-conversation.md)
       * [A showing](2024/12/09/a-showing.md)
