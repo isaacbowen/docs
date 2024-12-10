@@ -29,6 +29,7 @@
       * [About yesterday](2024/12/10/about-yesterday.md)
       * [Epilogue](2024/12/10/epilogue.md)
     * [20241209](2024/12/09/README.md)
+      * [Stylish-But-Illegal Monkey Day](2024/12/09/stylish-but-illegal-monkey-day.md)
       * [A conversation](2024/12/09/a-conversation.md)
       * [A showing](2024/12/09/a-showing.md)
       * [A test subject](2024/12/09/a-test-subject.md)

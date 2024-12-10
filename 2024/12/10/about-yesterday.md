@@ -1,5 +1,7 @@
 # About yesterday
 
+This began on [Stylish-But-Illegal Monkey Day](../09/stylish-but-illegal-monkey-day.md).
+
 ## You
 
 I'm a slow writer
