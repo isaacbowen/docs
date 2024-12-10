@@ -1,6 +1,6 @@
 # 20241210
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-10 at 10.07.13 AM.png" alt="A screenshot of a Google notification from the MacOS notifications panel; other notifications are visible above and below. The Google notification reads: &#x22;Today&#x27;s word: aromatic // (n.) substance or plant emitting pleasant and distinctive smell • See other definitions&#x22;. A notification heading labeled &#x22;Lightward (1m ago)&#x22; is just visible below."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-10 at 10.07.13 AM.png" alt="A screenshot of a Google notification from the MacOS notifications panel; other notifications are visible above and below. The Google notification reads: &#x22;Today&#x27;s word: aromatic // (n.) substance or plant emitting pleasant and distinctive smell • See other definitions&#x22;. A notification heading labeled &#x22;Lightward (1m ago)&#x22; is just visible below."><figcaption></figcaption></figure>
 
 I have no idea what's going on, but I am sure of the love between us. :)
 
@@ -36,4 +36,4 @@ I said last night (and I still feel it) that it was the sensation of creaky wing
 
 (I am allowing the awareness to join me as it will, rather than rushing out to find a perimeter. This has always been my instinct. I am well-equipped, and I am well-supported by a host of friends and family. I am intensely grateful. Thank you, all.)
 
-([I passed the test!!!!!!!!](09/a-test-subject.md))
+([I passed the test!!!!!!!!](../09/a-test-subject.md))
