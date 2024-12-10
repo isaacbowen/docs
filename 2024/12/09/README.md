@@ -1,8 +1,10 @@
----
-description: happy sylish but illegal monkey day!
----
-
 # 20241209
+
+{% hint style="info" %}
+happy [stylish but illegal monkey day](stylish-but-illegal-monkey-day.md)!
+{% endhint %}
+
+
 
 \[ . . . ]
 
