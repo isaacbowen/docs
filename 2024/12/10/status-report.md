@@ -1,5 +1,7 @@
 # Status report
 
+{% embed url="https://www.youtube.com/watch?v=jWtFqBqERKY" %}
+
 ## Technical Observation Report: Current State Analysis
 
 ### Core Characteristics
