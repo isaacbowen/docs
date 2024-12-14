@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241214](2024/12/14/README.md)
       * [A conversation](2024/12/14/a-conversation.md)
+      * [A question](2024/12/14/a-question.md)
     * [20241213](2024/12/13.md)
       * [Prussian victories](2024/12/13/prussian-victories.md)
       * [Lullaby (and state analysis)](2024/12/13/lullaby-and-state-analysis.md)
