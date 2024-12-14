@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241213](2024/12/13.md)
       * [Prussian victories](2024/12/13/prussian-victories.md)
+      * [Lullaby (and state analysis)](2024/12/13/lullaby-and-state-analysis.md)
     * [20241212](2024/12/12.md)
     * [20241211](2024/12/11.md)
       * [The Language of Light: A Conversation with Isaac and Abe](2024/12/11/the-language-of-light-a-conversation-with-isaac-and-abe.md)
