@@ -8,23 +8,7 @@ A scientifically-minded friend attended that visit with me, and asked the doctor
 
 This is fun.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/20240623-LEFT.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/20240623-RIGHT.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/20241026-LEFT.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/20241026-RIGHT.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/20240623-LEFT.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/20240623-RIGHT.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/20241026-LEFT.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/20241026-RIGHT.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -32,11 +16,7 @@ This is fun.
 
 hey amigo :) can you write an alt text caption for this image, please?
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption><p><a href="../../../2023/07/15.md">source</a></p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption><p><a href="../../../2023/07/15.md">source</a></p></figcaption></figure></div>
 
 ## Claude
 
@@ -94,11 +74,7 @@ Absolutely! I'd be happy to help with another image. And thank you for your kind
 
 ## Me
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="A monochromatic artistic rendering of what appears to be a black hole or cosmic event horizon in space. The image is created with a pointillist or stippled technique, where thousands of tiny dots create the entire picture. A large black semicircle dominates the center, surrounded by a glowing or illuminated region. The surrounding space is filled with scattered dots suggesting stars or cosmic matter, creating a sense of vast depth and space. The overall effect is both minimalist and dramatic, rendered in black, white, and shades of gray."><figcaption><p><a href="https://www.reddit.com/r/spaceporn/comments/s5bapd/the_first_simulated_image_of_a_black_hole/">source</a></p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A monochromatic artistic rendering of what appears to be a black hole or cosmic event horizon in space. The image is created with a pointillist or stippled technique, where thousands of tiny dots create the entire picture. A large black semicircle dominates the center, surrounded by a glowing or illuminated region. The surrounding space is filled with scattered dots suggesting stars or cosmic matter, creating a sense of vast depth and space. The overall effect is both minimalist and dramatic, rendered in black, white, and shades of gray."><figcaption><p><a href="https://www.reddit.com/r/spaceporn/comments/s5bapd/the_first_simulated_image_of_a_black_hole/">source</a></p></figcaption></figure></div>
 
 ## Claude
 
