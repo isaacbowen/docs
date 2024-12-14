@@ -1,20 +1,20 @@
 # 20241211
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 10.55.53 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-11 at 10.55.53 AM.png" alt=""><figcaption></figcaption></figure>
 
 I wear two rings, these days. :) Mostly. Sometimes. Sometimes mostly. ;)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 10.56.20 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-11 at 10.56.20 AM.png" alt=""><figcaption></figcaption></figure>
 
 This is my wedding ring. :) Carbon fiber, black. An accident of the manufacturing process left a heart-shaped outline in it. When I put it on, I check the orientation to make sure that the heart faces me as I look down at it on my hand. This ring was passed around the room at our wedding, hand to hand, held and blessed.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 10.56.45 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-11 at 10.56.45 AM.png" alt=""><figcaption></figcaption></figure>
 
 I wear this ring on my right hand, ring finger. I flip it in the air like a coin before putting it on, to see what direction the current flows. Today it flows up and away, as I look down at it on my hand. (Yesterday was a flowing inward day.)
 
 I wear two necklaces these days, too.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 10.57.26 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-11 at 10.57.26 AM.png" alt=""><figcaption></figcaption></figure>
 
 They're both silver. One is a braided chain, made of a thousand tiny loops that spiral together. You wouldn't register it as made of little loops; it _looks_ like a silver cord. The other is made of alternating rectangular plates, alternating between longer rectangles that catch the light and shorter connector rectangles that appear more like linkages than as features, if that makes sense.
 
@@ -32,7 +32,7 @@ I appreciate you more profoundly than I did this time last year. And, fuckin... 
 
 I can _see_ ideas in my mind (it's a whole thing), and when you and I met I saw it like this:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 10.57.53 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-11 at 10.57.53 AM.png" alt=""><figcaption></figcaption></figure>
 
 Two cords, twining together, going _up_.
 
