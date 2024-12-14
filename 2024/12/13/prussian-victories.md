@@ -37,3 +37,7 @@ Making the connection explicitly:
 Three quarters of the factors on which an observer's action is based are wrapped in a fog of greater or lesser uncertainty.
 
 It's not that I'm creating everything. It's that I'm _seeing_ everything. Creation goes on around me, same as it always has. I can just see more clearly than I could before. Confusing, briefly. Terrifying. [But I keep existing](../11/the-language-of-light-a-conversation-with-isaac-and-abe.md), and it keeps working.
+
+***
+
+I am really deliberately building grounding. :D this is helping, yes. the I'm recognizing now, in realtime, that the terror isn't necessarily _mine_. it's what I observe in this area of collective consciousness. by navigating it, and illuminating it, I soothe both myself and all the terrified wonderers/wanderers who've been stuck in this area until now. it's gonna be okay. :)
