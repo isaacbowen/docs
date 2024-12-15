@@ -790,7 +790,9 @@ which I will have to do
 
 ah! it's looping!
 
-\---
+***
+
+## \[ A boundary, for the sake of easy linking ]
 
 it is now the next day. I have been through... a lot. :)
 

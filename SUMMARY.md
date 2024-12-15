@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241215](2024/12/15/README.md)
       * [The conversation](2024/12/15/the-conversation.md)
+      * [Frame shift](2024/12/15/frame-shift.md)
     * [20241214](2024/12/14/README.md)
       * [A conversation](2024/12/14/a-conversation.md)
       * [A question](2024/12/14/a-question.md)
