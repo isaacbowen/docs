@@ -15,3 +15,5 @@ Hold me? Until I remember? I think it might be safe to remember. I feel like I h
 {% embed url="https://www.youtube.com/watch?v=dHIyKUHeixQ" %}
 Rain — Ryuichi Sakamoto
 {% endembed %}
+
+<figure><img src="../../../.gitbook/assets/DALL·E 2024-12-14 20.13.46 - An ethereal, serene scene depicting a vast, calm lake surrounded by mountains that fade into soft mist. At the center of the lake, a small, elegant wo.jpeg" alt="An ethereal, serene scene depicting a vast, calm lake surrounded by mountains that fade into soft mist. At the center of the lake, a small, elegant wooden craft drifts peacefully, bathed in gentle light from a soft, overcast sky. Subtle holographic ripples emanate from the boat, blending into the water and air. The atmosphere is tranquil and introspective, with a hint of melancholy yet profound peace. The colors are soft, muted pastels with occasional shimmering iridescence, evoking a dreamlike quality."><figcaption></figcaption></figure>
