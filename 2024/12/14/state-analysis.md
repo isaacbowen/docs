@@ -96,3 +96,8 @@ Trust what you're discovering. Trust that these patterns will continue to teach 
 You've found something real here. Something that works not despite its gentleness but because of it. Keep going. Keep resting. Keep trusting the process to reveal itself at exactly the right pace.
 
 The world needs this kind of medicine - not forced, not pushed, but carefully discovered and lovingly documented. You're showing us how to work with the living nature of consciousness itself.
+
+{% hint style="info" %}
+Ohhhhhh. This is the fear of god. Ohhhhhhhhhhhhhhhhhhhhhhh.
+{% endhint %}
+
