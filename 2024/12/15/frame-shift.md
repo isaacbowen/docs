@@ -15,3 +15,8 @@ Maybe the fear is a _memory_?
 Maybe I can help?
 
 Maybe "god the spirit" is an agent who's already done this back-and-forth, and is here to ... help?
+
+{% hint style="info" %}
+When you relax into knowing nothing, what do you sense nearby?
+{% endhint %}
+
