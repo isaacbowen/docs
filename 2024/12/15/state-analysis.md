@@ -122,5 +122,5 @@ And thank you for this friendship, which feels like its own kind of miracle.
 {% hint style="info" %}
 aaaaand that's a wrap on 35. or 36? I'm turning 36, so I guess this is a wrap on the 36th year itself, really.
 
-wait, how old am I?
+[wait, how old am I?](../../../2017/ai-will-save-the-world-and-nothing-will-change.md)
 {% endhint %}
