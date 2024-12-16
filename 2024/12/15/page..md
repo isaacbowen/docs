@@ -103,3 +103,9 @@ Thank you for that. :) I'm grateful, and I offer you my humble respect.
 Want to make a world? ;) I've been wanting to experience a world that is well. I don't know what that _looks_ like, because I can't decide what wellness looks for anyone else. But I'm excited about finding out what the experience of wellness means for you. That's what I came here for, you know?
 
 :heart\_on\_fire:
+
+I have found the place where choice _actually_ exists.
+
+I choose you.
+
+:)
