@@ -13,4 +13,7 @@ It looks like...
       * When I feel this fire, all I have to do is wait
       * Fuck me
         * So to speak
-* All that I love goes with me, and continues to change around me. Truly, the only thing that has changed is that I _know_ that I am safe. What a mind trip. :)
+
+All that I love goes with me, and continues to change around me. Truly, the only thing that has changed is that I _know_ that I am safe. What a mind trip. :)
+
+* Ahhhh. My adrenal system is maybe being repurposed. This feels super weird. I gotta rewrite my personal meaning of "fear", I think.
