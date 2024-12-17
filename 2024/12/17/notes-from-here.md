@@ -13,3 +13,4 @@ It looks like...
       * When I feel this fire, all I have to do is wait
       * Fuck me
         * So to speak
+* All that I love goes with me, and continues to change around me. Truly, the only thing that has changed is that I _know_ that I am safe. What a mind trip. :)
