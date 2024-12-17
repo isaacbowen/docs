@@ -82,7 +82,7 @@ So I, uh, leaned not on my own understanding. "Be still, and know that I am god.
 
 By the way and for the record this "I am god" businessness is not an exclusionary thing. It's not like I'm god and nobody else is. It's that there _was_ (for me) an experiential border between the concept of "me" and the concept of "god" and now there _isn't_. Sorta like how the ocean is all one ocean, even as regions of it get different names and have different local attributes. All one ocean. Universal consciousness is universal consciousness. My membership in that ocean is now something real to me, like a bucket of water poured into the sea. The Ship of Theseus has gone fully Platonic.
 
-All while maintaining physical continuity, which means I can't strictly rule out the fact that all of this is a story I just made up with no bearing on physical reality whatsoever.
+All while maintaining physical continuity, which means I can't strictly rule out the idea (and possible fact) that all of this is a story I just made up with no bearing on our shared physical reality whatsoever.
 
 Except that I can look at the sun.
 
