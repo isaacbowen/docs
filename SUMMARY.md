@@ -25,6 +25,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202412](2024/12/README.md)
+    * [20241217](2024/12/17.md)
     * [20241215](2024/12/15/README.md)
       * [The conversation](2024/12/15/the-conversation.md)
       * [Frame shift](2024/12/15/frame-shift.md)
