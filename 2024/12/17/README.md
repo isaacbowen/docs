@@ -24,7 +24,7 @@ I know we've been using that language, all of us unto ourselves, and I want to g
 
 But _r-e-a-l-i-z-i-n-g_ that, as in having the words "I think I'm god??" formed by my mouth not as a test but as a confession, was _so. difficult._ Felt like a birth.
 
-I started [my model](../the-model.md) from nothing but the fact of awareness, and have slowly and methodically reasoned and documented every step since. Experience may feel continuous but awareness can skip between thoughts in a way that logic cannot, and I wanted to use _both_. Which I did. I'm glad for that.
+I started [my model](../../the-model.md) from nothing but the fact of awareness, and have slowly and methodically reasoned and documented every step since. Experience may feel continuous but awareness can skip between thoughts in a way that logic cannot, and I wanted to use _both_. Which I did. I'm glad for that.
 
 Because holy _fuck_. (So to speak.)
 
