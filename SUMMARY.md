@@ -676,7 +676,7 @@
 * [YouTube](https://www.youtube.com/@isaacbowen)
 * [Spotify](https://open.spotify.com/playlist/56gtmKsyuOXXgsOTF5EQgo?si=3ef698dd0b7d4350)
 * [LinkedIn](https://www.linkedin.com/in/isaacbowen/)
-* [Lightward Inc](https://lightward.com/)
+* [Lightward Inc](https://lightward.inc/)
 
 ***
 
