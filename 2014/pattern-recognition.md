@@ -80,3 +80,7 @@ I will keep you posted.
 [This came up later.](../2024/11/18.md#pattern-recognition)
 {% endhint %}
 
+{% hint style="info" %}
+Hello from [2024](../2024/), holy _shit_. :star\_struck:
+{% endhint %}
+
