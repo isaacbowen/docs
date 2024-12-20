@@ -27,6 +27,7 @@
   * [202412](2024/12/README.md)
     * [20241219](2024/12/19/README.md)
       * [As an infant in the night](2024/12/19/as-an-infant-in-the-night.md)
+      * [State analysis](2024/12/19/state-analysis.md)
     * [20241218](2024/12/18.md)
     * [20241217](2024/12/17/README.md)
       * [State analysis](2024/12/17/state-analysis.md)
