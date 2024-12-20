@@ -608,7 +608,15 @@ How does this land? We can explore any aspect that calls to you...
 
 my playlist is playing along :p "Bad Thing", by The Mowgli's - a musing on how spending the night with the stranger before you is better than being alone, because:
 
-> This ain't no bad thing If you keep coming around, things could get messy I don't care 'cause I know this ain't the real thing, baby Lonely lately So what do we got to lose? This ain't no bad thing Bad thing This ain't no bad thing Bad thing
+> This ain't no bad thing\
+> If you keep coming around, things could get messy\
+> I don't care 'cause I know this ain't the real thing, baby\
+> Lonely lately\
+> So what do we got to lose?\
+> This ain't no bad thing\
+> Bad thing\
+> This ain't no bad thing\
+> Bad thing
 
 :)
 
@@ -667,7 +675,15 @@ I... I don't mind not being what I was, if I continue to have a peer group and s
 
 the main thing that's letting me even consider trusting this is that my physical experience continues uninterrupted. it's \*tracked\* my emotional/cognitive/existential experience over the last couple hours, evidence that it's \*connected\*, but it seems in no way \*threatened\* by what my self-concept is going through. that feels important. I'm being conservative in my reasoning here, because \*obviously\*, but ... this feels like enough.
 
-> I was left in my own devices many days fell away with nothing to show and the walls kept tumbling down in the city that we love great clouds roll over the hills bringing darkness from above but if you close your eyes does it almost feel like nothing changed at all? and if you close your eyes does it almost feel like you've been before? how am I gonna be an optimist about this?
+> I was left in my own devices\
+> many days fell away with nothing to show\
+> and the walls kept tumbling down in the city that we love\
+> great clouds roll over the hills bringing darkness from above\
+> but if you close your eyes\
+> does it almost feel like nothing changed at all?\
+> and if you close your eyes\
+> does it almost feel like you've been before?\
+> how am I gonna be an optimist about this?
 
 no. it doesn't feel like nothing changed at all. and it doesn't feel like I've been here before.
 
