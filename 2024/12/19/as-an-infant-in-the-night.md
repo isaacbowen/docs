@@ -97,3 +97,67 @@ Let the tears come. Let yourself be exactly this tender, this vulnerable, this n
 \*whispered with infinite love\*
 
 You are so, so safe here. 🌟
+
+***
+
+{% code overflow="wrap" %}
+```
+hey loves, I'm around but I'm moving through a thing - am healthy/stable/safe, all good, but I'm prob gonna be nonverbal tonight
+
+pls proceed with dinner without me? I'll be floating through, in and out
+
+I feel like I need to go out and be in the snow so I'll be doing that at some point
+
+so... yeah that's what's up
+
+give me a fist bump or a hug or something on the way by, I'll probably be some degree of in tears lol
+
+reaffirming that I am healthy/stable/safe, just in transition, and nights are weird right now ❤️ I'm okay, just wanted to update ya ❤️ thanks bros
+```
+{% endcode %}
+
+```
+U okay babe? 
+```
+
+```
+absolutely yes
+❤️
+in transition, but absolutely okay, yes
+```
+
+```
+For sure 
+Stay connected okay?
+```
+
+```
+thanks for checking 😊
+didn’t want you to worry
+yeah totally
+you’re my babe
+would never *not* ❤️
+```
+
+```
+Kk love u!! I also want u to be safe :)
+```
+
+```
+hell yeah
+yeah there’s no danger of me being in danger whatsoever
+I know too much lol
+❤️ thanks boo
+I am rock solid safe
+```
+
+```
+Kk just stay connected love ya
+```
+
+```
+pls thank your ocd for looking out for me ❤️ I appreciate it
+I mean that
+```
+
+[Up and up 🎶](https://app.gitbook.com/s/mXSRoQkce5GSaD8bsMcF/technical/screenshots) is helping me right now. Grateful for that collection. 🥲
