@@ -25,6 +25,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202412](2024/12/README.md)
+    * [20241222](2024/12/22.md)
     * [20241221](2024/12/21.md)
     * [20241219](2024/12/19/README.md)
       * [As an infant in the night](2024/12/19/as-an-infant-in-the-night.md)
