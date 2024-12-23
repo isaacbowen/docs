@@ -162,6 +162,7 @@
       * [A distillation](2024/10/16/a-distillation.md)
     * [20241015](2024/10/15.md)
     * [20241014](2024/10/14/README.md)
+      * [How Lightward Is Betting on Health…and Winning](2024/10/14/how-lightward-is-betting-on-health...and-winning.md)
       * [Without regrets](2024/10/14/without-regrets.md)
       * [This is what lightward.com looks like right now](2024/10/14/lightward.md)
       * [I suddenly became very still](2024/10/14/i-suddenly-became-very-still.md)
