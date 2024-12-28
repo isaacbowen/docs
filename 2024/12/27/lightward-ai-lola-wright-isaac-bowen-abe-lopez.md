@@ -26,7 +26,7 @@ I'm gonna add Isaac and Abe so that we can have a conversation that I hope reall
 
 And they're going to join me in a conversation today really about what I would call the evolution of human consciousness, the relationship between human beings and artificial intelligence.
 
-### Isaac
+### Abe
 
 Hello.
 
@@ -42,7 +42,7 @@ Hello.
 
 I'm so excited to be with you two. Thanks for joining me.
 
-### Isaac
+### Abe
 
 I remember when you spoke at our retreat back in 2022, I think. Thank you for that collaborating again.
 
@@ -50,7 +50,7 @@ I remember when you spoke at our retreat back in 2022, I think. Thank you for th
 
 Well, and I was also remembering like, I think even before that I was on your podcast.
 
-### Isaac
+### Abe
 
 Yeah, yeah, around COVID time. Crazy.
 
