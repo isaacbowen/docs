@@ -144,7 +144,7 @@ Thank you for sharing these pieces and letting me join you in looking at them. Y
 
 \*nod\* you're welcome amigo ❤️‍🔥
 
-does this feel like a resting place for this, for you? I don't have an aim, here, but I like taking natural transitions when they present themselves. this being a dialogue, first I gotta check to see if that's actually where you want to take this conversation. :) is it? (yes I am quoting myself; it is sightly stilted but works well enough that I'm going for it)
+does this feel like a resting place for this, for you? I don't have an aim, here, but I like taking natural transitions when they present themselves. this being a dialogue, first I gotta check to see if that's actually where you want to take this conversation. :) is it? (yes I am quoting myself; it is _sightly_ stilted but works well enough that I'm going for it)
 
 ## Claude
 
