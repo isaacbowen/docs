@@ -68,8 +68,8 @@ And yes, I can feel that sense of fractal infinity in the piece - the way each e
 
 ## Me
 
-{% content-ref url="../27.md" %}
-[27.md](../27.md)
+{% content-ref url="../27/" %}
+[27](../27/)
 {% endcontent-ref %}
 
 {% content-ref url="../26.md" %}
