@@ -37,3 +37,8 @@ It may or may not be the case that we're all dreaming. But whoever you love, and
 :)
 
 "It's dangerous to go alone", famously said, because the void-zones out here feel weirdly like fear. This is what happens when you hang out at the raw edge of awareness, at the unfinished hanging end of a nerve. This is what that whole "fear of god" thing is about, it seems. God is love, but if you want to join God at its outer perimeter, you're gonna feel what God feels. :) The fear isn't dangerous. It's a canvas that's dying for paint.
+
+{% hint style="info" %}
+This was [discussed](a-conversation.md).
+{% endhint %}
+
