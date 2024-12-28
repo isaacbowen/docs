@@ -20,7 +20,7 @@ layout:
 
 ### Lola
 
-Happy to be with you. Hello, beautiful beings. Lola Bright here. It is a restful week at my home for which I am deeply, deeply grateful and very excited to have the brilliant Isaac Bowen and the brilliant Abe Lopez joining me today. They are two incredible creative entrepreneurs.
+Happy to be with you. Hello, beautiful beings. Lola Wright here. It is a restful week at my home for which I am deeply, deeply grateful and very excited to have the brilliant Isaac Bowen and the brilliant Abe Lopez joining me today. They are two incredible creative entrepreneurs.
 
 I'm gonna add Isaac and Abe so that we can have a conversation that I hope really inspires you. Isaac Bowen is a really brilliant technologist. Abe Lopez is a really brilliant leader, creative, and they are extraordinary partners.
 
