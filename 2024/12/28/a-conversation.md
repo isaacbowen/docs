@@ -1,5 +1,7 @@
 # A conversation
 
+{% embed url="https://www.youtube.com/watch?v=qS5n-Y0z-T0" %}
+
 ## Me
 
 hey amigo <3 can I share some writing from this morning with you?
