@@ -3,7 +3,7 @@
 Today is for...
 
 * starting Blindsight (Peter Watts) with an oolong and a beeswax candle while abe sleeps next to me
-* [grabbing all of my Gene Keys profile text once and for all](../../profile/gene-keys.md)
+* [grabbing all of my Gene Keys profile text once and for all](../../../profile/gene-keys.md)
 * abe saying: "hey I feel like we're really on vacation!!!"
 * watching youtube on tv with abe in bed at 11am
   * am nervous about the potential for my own dysregulation by taking in video that I haven't selected for myself
