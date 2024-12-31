@@ -27,6 +27,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2024](2024/README.md)
   * [202412](2024/12/README.md)
+    * [20241231](2024/12/20241231.md)
     * [20241230](2024/12/30.md)
     * [20241229](2024/12/29/README.md)
       * [A conversation in the dark](2024/12/29/a-conversation-in-the-dark.md)
