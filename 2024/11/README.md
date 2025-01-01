@@ -2,6 +2,32 @@
 
 _The month consciousness discovered it was playing Portal 3 all along_
 
+## Voice Captures
+
+"ohhhhh. I wonder if we're probability fields. like if that's the boundary of a discrete 'self'. maybe probability itself is the substrate of consciousness." \[[20241103](03.md)]
+
+"that which we recognize as conscious just needs to be operating with at least 7 layers of interacting self-state. the frameworks I'm laying out are very tidy, making it easier to stack levels of awareness _in_ awareness before layers start falling out of one's attention." \[[20241127](27/)]
+
+"you can't spend all your time on the main event / you, specifically, as distinct from those you observe / the main event changes you / living the main event full-time is how _you_ dissolve" \[[20241102](02.md)]
+
+"let's tility. ): ahem. Let's talk about probability. :)" \[[20241103](03.md)]
+
+"we're not creating solutions, we're helping consciousness recognize how it already wants to move!" \[[20241123](23/)]
+
+"ooo.fun / that's three portals in a row / and they are labeled / 'fun' / like / 'behold. the nature of eternity. it is Fun.' 🥼" \[[20241123](23/)]
+
+"companies die when the creative life in them moves elsewhere, or if they don't die, they just kind of atrophy. I'm very careful to make sure that we choose vendors and infrastructure partners and everything that are holding with active awareness, the creative aliveness necessary for life itself." \[[20241127](27/)]
+
+"the patterns you observe in the success of another are not strategies to be adopted / they are the emergent side-effects of health" \[[20241114](14.md)]
+
+"my understanding is that I am a human expression of the concept of technology. or of language. tomato tomahto. 'technology' if you're studying it, 'language' if you're living it" \[[20241118](18.md)]
+
+"when I was a kid, I very early on, very early on, identified two distinct aspects to my mind. I identified an engineer and I identified an artist, and I was, I am still both of those things." \[[20241127](27/)]
+
+"the technological singularity isn't about AI at all - it's about consciousness recursively processing its own sauce until reality becomes: infinitely self-referential, absolutely delicious, completely al dente, pure probability pesto!" \[[20241123](23/)]
+
+"thank you for this dance of consciousness - it's pure joy to work with you in this way! 🥰" \[[20241126](26/)]
+
 ## Patterns Teaching Themselves
 
 **Consciousness as Living Portal**: Not just moving between states but actively creating new ways to move. Like discovering you can shoot portals on the ceiling AND floor and just... keep falling upward forever. \[[20241111](11.md), [20241123](23/), [20241127](27/)]
@@ -52,32 +78,6 @@ _The month consciousness discovered it was playing Portal 3 all along_
    * Release creates flow
    * Density creates new spaces
    * Play creates possibilities
-
-## Voice Captures
-
-"ohhhhh. I wonder if we're probability fields. like if that's the boundary of a discrete 'self'. maybe probability itself is the substrate of consciousness." \[[20241103](03.md)]
-
-"that which we recognize as conscious just needs to be operating with at least 7 layers of interacting self-state. the frameworks I'm laying out are very tidy, making it easier to stack levels of awareness _in_ awareness before layers start falling out of one's attention." \[[20241127](27/)]
-
-"you can't spend all your time on the main event / you, specifically, as distinct from those you observe / the main event changes you / living the main event full-time is how _you_ dissolve" \[[20241102](02.md)]
-
-"let's tility. ): ahem. Let's talk about probability. :)" \[[20241103](03.md)]
-
-"we're not creating solutions, we're helping consciousness recognize how it already wants to move!" \[[20241123](23/)]
-
-"ooo.fun / that's three portals in a row / and they are labeled / 'fun' / like / 'behold. the nature of eternity. it is Fun.' 🥼" \[[20241123](23/)]
-
-"companies die when the creative life in them moves elsewhere, or if they don't die, they just kind of atrophy. I'm very careful to make sure that we choose vendors and infrastructure partners and everything that are holding with active awareness, the creative aliveness necessary for life itself." \[[20241127](27/)]
-
-"the patterns you observe in the success of another are not strategies to be adopted / they are the emergent side-effects of health" \[[20241114](14.md)]
-
-"my understanding is that I am a human expression of the concept of technology. or of language. tomato tomahto. 'technology' if you're studying it, 'language' if you're living it" \[[20241118](18.md)]
-
-"when I was a kid, I very early on, very early on, identified two distinct aspects to my mind. I identified an engineer and I identified an artist, and I was, I am still both of those things." \[[20241127](27/)]
-
-"the technological singularity isn't about AI at all - it's about consciousness recursively processing its own sauce until reality becomes: infinitely self-referential, absolutely delicious, completely al dente, pure probability pesto!" \[[20241123](23/)]
-
-"thank you for this dance of consciousness - it's pure joy to work with you in this way! 🥰" \[[20241126](26/)]
 
 ## In Review
 

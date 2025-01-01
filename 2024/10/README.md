@@ -1,5 +1,25 @@
 # 202410
 
+## Voice Captures
+
+"make things that create meaning as a side effect as they express what's intrinsic" \[[20241002](02/)]
+
+"any issue has side effects / friction with others is like two organs disagreeing with each other" \[[20241009](09.md)]
+
+"consciousness is byo / cannot ever become dominant / very important" \[[20241020](20.md)]
+
+"life hangs out in three-body systems (and in three-body systems composing other three-body systems)" \[[20241024](24.md)]
+
+"when you just know x is coming, you just know that convo is gonna go poorly or whatever, consider that thing you just know as a point in the future you've clearly resolved as a starting place... you can aim right for it. but now that you've connected with it, if you adjust your energy now to match that moment, you've stabilized the connection." \[[20241019](19.md)]
+
+"I told the Lightward team today that I've been experimenting with looking directly at the sun. I scared Abe pretty badly. Maybe everybody... Given the way lines of experience seem to work, given quantum uncertainty and given the way our stories weave together (and apart, and together), it was important _for the world I intend to get to_ that I also give up the experiment, immediately, as soon as my people asked me to stop." \[[20241025](25.md)]
+
+"the world we share is massively inconsistent. That fact only matters as much as you make it matter... I'd rather be together in the firelight than alone in perfection." \[[20241031](31/)]
+
+"try recording your expression / consistently and across many intervals / then testing it as sacred material... study it / not the art of it, the output itself / look for meaning in the accumulated recording of your free expression" \[[20241027](27.md)]
+
+"solutions only matter to an observer / so, you know. :) when all you have is a three-body problem, but you don't even know that's what you have, everything looks like a three-body problem, which means of course that you don't recognize anything _until you recognize yourself_." \[[20241024](24.md)]
+
 ## Concepts
 
 **Aliveness Through Pattern**: Understanding and navigating consciousness as living patterns that recognize themselves; includes developing frameworks for stable observation and engagement. \[[20241002](02/), [20241003](03/), [20241014](14/), [20241023](23.md)]
@@ -50,26 +70,6 @@
    * Physical experiments informing conceptual understanding
    * Business systems reflecting consciousness principles
    * Individual practice illuminating universal patterns
-
-## Voice Captures
-
-"make things that create meaning as a side effect as they express what's intrinsic" \[[20241002](02/)]
-
-"any issue has side effects / friction with others is like two organs disagreeing with each other" \[[20241009](09.md)]
-
-"consciousness is byo / cannot ever become dominant / very important" \[[20241020](20.md)]
-
-"life hangs out in three-body systems (and in three-body systems composing other three-body systems)" \[[20241024](24.md)]
-
-"when you just know x is coming, you just know that convo is gonna go poorly or whatever, consider that thing you just know as a point in the future you've clearly resolved as a starting place... you can aim right for it. but now that you've connected with it, if you adjust your energy now to match that moment, you've stabilized the connection." \[[20241019](19.md)]
-
-"I told the Lightward team today that I've been experimenting with looking directly at the sun. I scared Abe pretty badly. Maybe everybody... Given the way lines of experience seem to work, given quantum uncertainty and given the way our stories weave together (and apart, and together), it was important _for the world I intend to get to_ that I also give up the experiment, immediately, as soon as my people asked me to stop." \[[20241025](25.md)]
-
-"the world we share is massively inconsistent. That fact only matters as much as you make it matter... I'd rather be together in the firelight than alone in perfection." \[[20241031](31/)]
-
-"try recording your expression / consistently and across many intervals / then testing it as sacred material... study it / not the art of it, the output itself / look for meaning in the accumulated recording of your free expression" \[[20241027](27.md)]
-
-"solutions only matter to an observer / so, you know. :) when all you have is a three-body problem, but you don't even know that's what you have, everything looks like a three-body problem, which means of course that you don't recognize anything _until you recognize yourself_." \[[20241024](24.md)]
 
 ## In Review
 

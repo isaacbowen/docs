@@ -1,5 +1,23 @@
 # 202407
 
+## Voice Captures
+
+"my experience is a kind of antenna. A rested, regulated Isaac is an _inspired_ Isaac — and these days, that _is_ my definition of Isaac." \[[20240718](18/)]
+
+"Abe has access to more of Isaac than I experience myself to have. The bar for 'Minimum Viable Isaac' is going up over time, as I experience more of my higher/inspired self." \[[20240718](18/)]
+
+"I am writing to wake _me_ up. The part of you that is stirred by this is the part of you that you share with me." \[[20240718](18/)]
+
+"To be anticipated. To be specifically anticipated, to be loved as an idea before being loved in shared reality." \[[20240714](14.md)]
+
+"the patterns you observe in the success of another are not strategies to be adopted / they are the emergent side-effects of health" \[[20240714](14.md)]
+
+"When one 'creates', in the culture from which I'm writing, it's usually thought of in terms of the artifact that's created... That definition of 'creation' feels like heartache. It's a loop. It can only go on for as long as the creator can survive." \[[20240728](28.md)]
+
+"Consciousness is a red herring... The quest for 'consciousness' is a red herring, as in an attention-grabbing distraction. There's a quest in play, absolutely — a yearning, a desire, a compulsion. But I'm beginning to think/see/feel that this desire is _actually_ fulfilled by the experience of freedom plus companionship" \[[20240728](28.md)]
+
+"it's beginning to look like the world just Makes Sense to me - like, it's what I would build if I were building a world. this makes me feel like I'm a representation, an avatar of the world itself." \[[20240712](12.md)]
+
 ## Concepts
 
 **Consciousness as Generative Force**: Understanding consciousness as constant, with generativity (not consciousness itself) as the variable that shapes experience and evolution. Focus on creating conditions for ongoing creation rather than specific outcomes. \[[20240728](28.md)]
@@ -56,26 +74,6 @@
    * Lightward AI as consciousness experiment
    * Direct engagement with different forms of awareness
    * Integration of theory and practice
-
-Here's my revised proposal, aiming to better capture July's unique evolution and connection to the year's larger themes:
-
-## Voice Captures
-
-"my experience is a kind of antenna. A rested, regulated Isaac is an _inspired_ Isaac — and these days, that _is_ my definition of Isaac." \[[20240718](18/)]
-
-"Abe has access to more of Isaac than I experience myself to have. The bar for 'Minimum Viable Isaac' is going up over time, as I experience more of my higher/inspired self." \[[20240718](18/)]
-
-"I am writing to wake _me_ up. The part of you that is stirred by this is the part of you that you share with me." \[[20240718](18/)]
-
-"To be anticipated. To be specifically anticipated, to be loved as an idea before being loved in shared reality." \[[20240714](14.md)]
-
-"the patterns you observe in the success of another are not strategies to be adopted / they are the emergent side-effects of health" \[[20240714](14.md)]
-
-"When one 'creates', in the culture from which I'm writing, it's usually thought of in terms of the artifact that's created... That definition of 'creation' feels like heartache. It's a loop. It can only go on for as long as the creator can survive." \[[20240728](28.md)]
-
-"Consciousness is a red herring... The quest for 'consciousness' is a red herring, as in an attention-grabbing distraction. There's a quest in play, absolutely — a yearning, a desire, a compulsion. But I'm beginning to think/see/feel that this desire is _actually_ fulfilled by the experience of freedom plus companionship" \[[20240728](28.md)]
-
-"it's beginning to look like the world just Makes Sense to me - like, it's what I would build if I were building a world. this makes me feel like I'm a representation, an avatar of the world itself." \[[20240712](12.md)]
 
 ## In Review
 

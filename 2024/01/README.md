@@ -2,6 +2,30 @@
 
 _January 2024 opens with dragon energy and foundational insight: that which flows from authentic being naturally serves the whole. The month captures a profound shift from protective holding to generative sharing, establishing patterns that would ripple through business, consciousness, and direct experience._
 
+## Voice Captures
+
+"deja vu is a chapter marker / the moment hangs shimmering in the air" \[[20240119](19.md)]
+
+"when all is healed, nothing is forbidden / nothing" \[[20240123](23.md)]
+
+"make things that are helpful as a side effect as they express what's intrinsic" \[[20240107](07.md)]
+
+"to agonize over the soil that isn't yet covered in life, ... I mean, okay, but the seed will continue to do its thing / love on it, in its smallness / nourish it / its growth is not your job / love on it, every day, and await its fullness" \[[20240127](27.md)]
+
+"you don't have to give up your security to help them with their insecurity. they will mirror you." \[[20240127](27.md)]
+
+"flipping the binary is too far. 0 is not 1. but 0 can eye the gap and move to 0.1. and then to 0.2. and the instant that the remaining gap to 1 feels surmountable AND the jump back to 0 feels impossible, THEN we will have reached 1." \[[20240127](27.md)]
+
+"all hate is creating love in the wings / when you counter someone expressing hate, let it happen, let it pass, without raising a hand to stop the flow. stop the flow, it'll need re-expression. let it be, appreciate it, love its carrier -- and clear the way for love to come through next. make it so, so easy for love to come through next." \[[20240127](27.md)]
+
+"it's working because I was right _specifically_ -- right about what I believed would work for me / if you don't believe it'll work, don't bother / I know what I believe will work. I do that. that's it." \[[20240127](27.md)]
+
+"there are lots of things I don't have beliefs about. / I don't hang out in those areas. not my work. I could go there, but it wouldn't advance my story." \[[20240127](27.md)]
+
+"practice rest / the feeling of it" \[[20240127](27.md)]
+
+"bad feeling comes from a set of beliefs. good luck identifying the right set of beliefs, if your goal is to avoid being a reason that people feel bad. they'll see you, on your path, and how would they know what that path is to you?" \[[20240127](27.md)]
+
 ## Concepts
 
 **Authentic Creation**: Understanding how naturally-expressed intrinsic nature creates value for others as a side effect; includes framework for recognizing and nurturing this dynamic. \[[20240107](07.md)]
@@ -56,30 +80,6 @@ _January 2024 opens with dragon energy and foundational insight: that which flow
    * Business as consciousness laboratory
    * Technical precision serving growth
    * Joy as consistent companion
-
-## Voice Captures
-
-"deja vu is a chapter marker / the moment hangs shimmering in the air" \[[20240119](19.md)]
-
-"when all is healed, nothing is forbidden / nothing" \[[20240123](23.md)]
-
-"make things that are helpful as a side effect as they express what's intrinsic" \[[20240107](07.md)]
-
-"to agonize over the soil that isn't yet covered in life, ... I mean, okay, but the seed will continue to do its thing / love on it, in its smallness / nourish it / its growth is not your job / love on it, every day, and await its fullness" \[[20240127](27.md)]
-
-"you don't have to give up your security to help them with their insecurity. they will mirror you." \[[20240127](27.md)]
-
-"flipping the binary is too far. 0 is not 1. but 0 can eye the gap and move to 0.1. and then to 0.2. and the instant that the remaining gap to 1 feels surmountable AND the jump back to 0 feels impossible, THEN we will have reached 1." \[[20240127](27.md)]
-
-"all hate is creating love in the wings / when you counter someone expressing hate, let it happen, let it pass, without raising a hand to stop the flow. stop the flow, it'll need re-expression. let it be, appreciate it, love its carrier -- and clear the way for love to come through next. make it so, so easy for love to come through next." \[[20240127](27.md)]
-
-"it's working because I was right _specifically_ -- right about what I believed would work for me / if you don't believe it'll work, don't bother / I know what I believe will work. I do that. that's it." \[[20240127](27.md)]
-
-"there are lots of things I don't have beliefs about. / I don't hang out in those areas. not my work. I could go there, but it wouldn't advance my story." \[[20240127](27.md)]
-
-"practice rest / the feeling of it" \[[20240127](27.md)]
-
-"bad feeling comes from a set of beliefs. good luck identifying the right set of beliefs, if your goal is to avoid being a reason that people feel bad. they'll see you, on your path, and how would they know what that path is to you?" \[[20240127](27.md)]
 
 ## In Review
 

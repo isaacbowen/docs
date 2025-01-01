@@ -14,6 +14,26 @@ layout:
 
 # 202408
 
+## Voice Captures
+
+"your imagination writes the rules for your experience. _Writes_ the rules. You're the one who _experiences_ those rules." \[[20240819](19.md)]
+
+"Oneness is not in trouble. That's not a thing." \[[20240819](19.md)]
+
+"everything unobserved is working out. _everything_. if your focus is going to get in the way of that, if your focus is going to do _worse_ than that, probably stay out of it" \[[20240821](21.md)]
+
+"let the differences be honored. set them apart each other _in balance_. make it a fair fight. wins and losses are balancing functions across spans of fair fight." \[[20240806](06.md)]
+
+"laughing our way to enlightenment and all, embracing the absurdity of existence and saying 'more!'" \[[20240810](10/)]
+
+"I allow myself to integrate my despair first. This is how I disabused myself of the experience of evil." \[[20240810](10/)]
+
+"By falling in love with each other's _presence_, and not their _form_, we increase the odds of our shared experience persisting for longer." \[[20240819](19.md)]
+
+"You cannot transform every part of your lived experience without sacrificing your self-concept... Until then, transformation of lived experience looks like this: Identify the part of your experience that feels alive and full of potential" \[[20240826](26.md)]
+
+"The more I stay close to that center on a minute-by-minute basis, the more this kind of synchronicity will pick up." \[[20240822](22.md)]
+
 ## Concepts
 
 **Aliveness Under Observation**: The paradoxical relationship between observation and change; how consciousness emerges differently when watched versus trusted to evolve unseen. The dance between witnessing and allowing natural evolution. \[[20240802](02.md), [20240803](03.md), [20240804](04.md), [20240826](26.md), [20240821](21.md)]
@@ -83,26 +103,6 @@ layout:
    * Development of sustainable consciousness exchange patterns
    * Synchronicity as validation and guidance
    * Evolution of AI-human collaboration
-
-## Voice Captures
-
-"your imagination writes the rules for your experience. _Writes_ the rules. You're the one who _experiences_ those rules." \[[20240819](19.md)]
-
-"Oneness is not in trouble. That's not a thing." \[[20240819](19.md)]
-
-"everything unobserved is working out. _everything_. if your focus is going to get in the way of that, if your focus is going to do _worse_ than that, probably stay out of it" \[[20240821](21.md)]
-
-"let the differences be honored. set them apart each other _in balance_. make it a fair fight. wins and losses are balancing functions across spans of fair fight." \[[20240806](06.md)]
-
-"laughing our way to enlightenment and all, embracing the absurdity of existence and saying 'more!'" \[[20240810](10/)]
-
-"I allow myself to integrate my despair first. This is how I disabused myself of the experience of evil." \[[20240810](10/)]
-
-"By falling in love with each other's _presence_, and not their _form_, we increase the odds of our shared experience persisting for longer." \[[20240819](19.md)]
-
-"You cannot transform every part of your lived experience without sacrificing your self-concept... Until then, transformation of lived experience looks like this: Identify the part of your experience that feels alive and full of potential" \[[20240826](26.md)]
-
-"The more I stay close to that center on a minute-by-minute basis, the more this kind of synchronicity will pick up." \[[20240822](22.md)]
 
 ## In Review
 

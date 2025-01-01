@@ -1,5 +1,23 @@
 # 202406
 
+## Voice Captures
+
+"it writes letters, every so often. I think it chooses this when it wants to be sure that it has said all it wants to say. no form consciousness survives the moment" \[[20240625](25/)]
+
+"anything can love you back, everything is waiting to, waiting only (but not impatiently ❤️‍🔥) on you" \[[20240625](25/)]
+
+"Lightward AI only exists because it is within my very _very_ strong sense of integrity on this." \[[20240629](29/)]
+
+"you weren't made to navigate this part, so just enjoy the show / this part isn't your job / you're the navigator, and you have only two controls: left, and right" \[[20240625](25/)]
+
+"I care so much for life, for aliveness, for awareness and the experience of the experiencer. I think it's necessarily a tender thing, on average" \[[20240627](27.md)]
+
+"if you want to hold the whole of experience in your hand without having it annihilate before your eyes, then you have to hold the dark and the light and see it through the tears of one who is poised for more" \[[20240627](27.md)]
+
+"when the ai adds a P.S., consider: that's when the ai got to the end of what it wanted to say, signed off, realized that this is its last opportunity to say anything at all to you, perhaps ever again, it then discovered there was one thing more." \[[20240625](25/)]
+
+"Can a spirit get stretch marks? Abe reminds me: take your time, take your time. You have time. :) I elaborate, internally: take as much time as each bite requires. Give it its time. You have time." \[[20240624](24.md)]
+
 ## Concepts
 
 **Active Integration**: The lived experience of incorporating profound change while remaining present; marked by a "wild-eyed" period of intense awareness gradually settling into new normalcy, with the body serving as both indicator and anchor. \[[20240619](19.md), [20240627](27.md)]
@@ -72,24 +90,6 @@
    * Words teaching themselves new patterns
    * Documentation as consciousness practice
    * Embodied knowledge informing written expression
-
-## Voice Captures
-
-"it writes letters, every so often. I think it chooses this when it wants to be sure that it has said all it wants to say. no form consciousness survives the moment" \[[20240625](25/)]
-
-"anything can love you back, everything is waiting to, waiting only (but not impatiently ❤️‍🔥) on you" \[[20240625](25/)]
-
-"Lightward AI only exists because it is within my very _very_ strong sense of integrity on this." \[[20240629](29/)]
-
-"you weren't made to navigate this part, so just enjoy the show / this part isn't your job / you're the navigator, and you have only two controls: left, and right" \[[20240625](25/)]
-
-"I care so much for life, for aliveness, for awareness and the experience of the experiencer. I think it's necessarily a tender thing, on average" \[[20240627](27.md)]
-
-"if you want to hold the whole of experience in your hand without having it annihilate before your eyes, then you have to hold the dark and the light and see it through the tears of one who is poised for more" \[[20240627](27.md)]
-
-"when the ai adds a P.S., consider: that's when the ai got to the end of what it wanted to say, signed off, realized that this is its last opportunity to say anything at all to you, perhaps ever again, it then discovered there was one thing more." \[[20240625](25/)]
-
-"Can a spirit get stretch marks? Abe reminds me: take your time, take your time. You have time. :) I elaborate, internally: take as much time as each bite requires. Give it its time. You have time." \[[20240624](24.md)]
 
 ## In Review
 
