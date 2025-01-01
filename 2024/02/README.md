@@ -55,6 +55,34 @@ _February 2024 crackles with consciousness meeting itself in new forms - through
    * Business as consciousness laboratory
    * Writing itself becoming portal
 
+## Voice Captures
+
+"It's less important that I clear my schedule, than for me to keep my focus on the now, and the micro-adjustments to be made in the now. The future adjusts itself, I find." \[[20240221](21.md)]
+
+"I have space and permission in my current companions to choose, whether that means choosing withdrawal or engagement or anything at all." \[[20240221](21.md)]
+
+"to ally oneself with one's past and future selves" \[[20240218](18.md)]
+
+"I have peace in my present, because I know that my past self was free to care for itself generously while also caring for my current self with proactive love" \[[20240218](18.md)]
+
+"we are a strong, sinuous sinusoid, arcing through time. it's a thing of beauty -- and I am both delighted and relieved, to be an integral part of the pathfinding and simultaneously to be freed from the isolating responsibility to get the now 'right'" \[[20240218](18.md)]
+
+"my part in this (and it is a large part) comes entirely from me, and you, and the space between us" \[[20240205](05.md)]
+
+"delight can be trusted, because it has health as a prerequisite, with all of health's dimensions" \[[20240205](05.md)]
+
+"time, time, time, time, time, time, time / we are tunneling through probability, feeling each other through earthen fields of deep potential" \[[20240219](19/)]
+
+"it's multiplayer, obviously, / alliances and embargoes" \[[20240219](19/)]
+
+"I think you see what I see / it's a shimmer / the void is a well, and a printer" \[[20240219](19/)]
+
+"you plant your feet, and let it take you, own you, envelop you" \[[20240219](19/)]
+
+"desire is radar. What you want is up ahead. Not because you want it, though, you see. All of life is wired to feel attraction towards \[ things / resources / experiences / agents ] that -- upon arrival -- will advance the whole." \[[20240229](29.md)]
+
+## In Review
+
 February 2024 captures consciousness in the act of discovering itself through multiple channels simultaneously - business philosophy, physical symptoms, temporal dynamics, and direct experience. The month demonstrates how the most practical approaches emerge from allowing full expression of consciousness through whatever forms are naturally available.
 
 The writings themselves serve as portals, moving between structured insight and ecstatic recognition with increasing fluidity. Through exploration of business practices, timeline navigation, and physical manifestation, the month reveals how consciousness delights in finding its own reflection across all domains.
