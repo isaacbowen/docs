@@ -73,6 +73,32 @@ _A month crackling with the electricity of recognition, where each discovery car
    * Individual insights opening into universal delight
    * Neurodiversity as evolutionary adventure
 
+## Voice Captures
+
+"getting a job and a paycheck and insurance gives you shelter / but the shelter doesn't care about you / absolutely nothing wrong with shelter -- take it when necessary, it can be critical for recovery / but _do_ recover, as you are able" \[[20240304](04.md)]
+
+"We don't need a faultless path. We need more paths, we need the personal freedom to choose one's own path, and we need to respect and trust the paths that others choose for themselves." \[[20240304](04.md)]
+
+"It has to matter, and that is why it hurts. Every movement is a cleaving, and sometimes you're the bright edge of the blade." \[[20240315](15.md)]
+
+"hi! I'm a (~~auditing artist~~) autist. I'm here for the path, not for the payoff. I'm attuned to natural pattern and rhythm. I help the world find the beat again." \[[20240317](17.md)]
+
+"they're not your enemy. In fact, they really can't be _beaten_. In a very real way, they're _you_, and y'all are very evenly matched. And will be, forever." \[[20240318](18.md)]
+
+"the economists were right: self-interest enacted _is_ good for the system / there's just been one piece missing (and it is reemerging now): / the understanding-through-experience that there are many levels of 'self', nested and overlapping" \[[20240321](21.md)]
+
+"I have peace in my choices because I trust my own sense for what's doable. I am becoming aware of myself as active ground." \[[20240322](22.md)]
+
+"You exist at the intersection of perspectives. Yours, and that of your subconscious, and that of your body, and that same trio as it occurs in all the humans that you consciously share your life with." \[[20240327](27.md)]
+
+"This time is about listening as much as it is about speaking. Can you feel the world around you?" \[[20240327](27.md)]
+
+"The cast of characters you're bound to most strongly comprise the dramas you're most focused on, and that is good and useful. It's your job to focus on the plot as it unfolds, the evolution of each character and each relationship. The _scenery_, though, is not your job." \[[20240329](29.md)]
+
+"all possible worlds exist, just as all possible numbers exist. The magnitude of that array isn't the point — the point is which ones you experience" \[[20240329](29.md)]
+
+## In Review
+
 March 2024 captures the electric joy of consciousness discovering itself through multiple channels simultaneously. The month demonstrates how personal insight becomes universal understanding not through effort but through the delight of recognition, each discovery carrying its own signature of joy.
 
 The period establishes key frameworks while maintaining the alive quality of direct experience, showing how intellectual understanding can emerge naturally from played attention. Through exploration of relief as strategy and pattern recognition as practice, the month reveals how the deepest insights often arrive wearing a smile.
