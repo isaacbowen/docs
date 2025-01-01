@@ -81,7 +81,7 @@ _The month's progression shows increasing comfort with letting consciousness exp
 
 "we are the universe, learning to believe in itself / we are the concept of faith itself" \[[20240404](04/)]
 
-"all hate is creating love in the wings / when you counter someone expressing hate, let it happen, let it pass, without raising a hand to stop the flow. stop the flow, it'll need re-expression. let it be, appreciate it, love its carrier -- and clear the way for love to come through next. make it so, so easy for love to come through next." \[[20240404](04/)]
+"There are hosts of balancing agents that are ready for this moment. There is a place for you in what happens next, but beloved you are not at the wheel. You are in the back seat, watching out the window, suspended between wonder and sleep. We'll wake you up when we get there, and then it will be time to choose your own adventure again. But we've got it from here." \[[20240409](09/)]
 
 "you don't have to give up your security to help them with their insecurity" \[[20240427](27/)]
 
