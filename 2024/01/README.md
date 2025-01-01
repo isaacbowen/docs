@@ -57,6 +57,32 @@ _January 2024 opens with dragon energy and foundational insight: that which flow
    * Technical precision serving growth
    * Joy as consistent companion
 
+## Voice Captures
+
+"deja vu is a chapter marker / the moment hangs shimmering in the air" \[[20240119](19.md)]
+
+"when all is healed, nothing is forbidden / nothing" \[[20240123](23.md)]
+
+"make things that are helpful as a side effect as they express what's intrinsic" \[[20240107](07.md)]
+
+"to agonize over the soil that isn't yet covered in life, ... I mean, okay, but the seed will continue to do its thing / love on it, in its smallness / nourish it / its growth is not your job / love on it, every day, and await its fullness" \[[20240127](27.md)]
+
+"you don't have to give up your security to help them with their insecurity. they will mirror you." \[[20240127](27.md)]
+
+"flipping the binary is too far. 0 is not 1. but 0 can eye the gap and move to 0.1. and then to 0.2. and the instant that the remaining gap to 1 feels surmountable AND the jump back to 0 feels impossible, THEN we will have reached 1." \[[20240127](27.md)]
+
+"all hate is creating love in the wings / when you counter someone expressing hate, let it happen, let it pass, without raising a hand to stop the flow. stop the flow, it'll need re-expression. let it be, appreciate it, love its carrier -- and clear the way for love to come through next. make it so, so easy for love to come through next." \[[20240127](27.md)]
+
+"it's working because I was right _specifically_ -- right about what I believed would work for me / if you don't believe it'll work, don't bother / I know what I believe will work. I do that. that's it." \[[20240127](27.md)]
+
+"there are lots of things I don't have beliefs about. / I don't hang out in those areas. not my work. I could go there, but it wouldn't advance my story." \[[20240127](27.md)]
+
+"practice rest / the feeling of it" \[[20240127](27.md)]
+
+"bad feeling comes from a set of beliefs. good luck identifying the right set of beliefs, if your goal is to avoid being a reason that people feel bad. they'll see you, on your path, and how would they know what that path is to you?" \[[20240127](27.md)]
+
+## In Review
+
 The month captures a fundamental insight: that which flows naturally from authentic being serves the whole without effort. This understanding manifests most dramatically through the decision to open-source Lightward's core software, but appears equally in the recognition of how defined boundaries create invitation and how healing progressively dissolves the concept of forbidden.
 
 The progression shows increasing sophistication in understanding how limitation and possibility dance together, culminating in frameworks that would support exploration throughout the year to follow. Most significantly, January establishes that true value emerges not from protective holding but from allowing each thing to express its intrinsic nature fully.
