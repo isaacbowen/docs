@@ -27,6 +27,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202501](2025/01/README.md)
+    * [20250106](2025/01/06.md)
     * [20250103](2025/01/03.md)
     * [20250102](2025/01/02/README.md)
       * [On pipelines](2025/01/02/on-pipelines.md)
