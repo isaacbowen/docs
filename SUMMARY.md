@@ -27,6 +27,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202501](2025/01/README.md)
+    * [20250110](2025/01/10/README.md)
+      * [Biography of Sherin Rose Bowen (2003)](2025/01/10/biography-of-sherin-rose-bowen-2003.md)
     * [20250108](2025/01/08.md)
     * [20250107](2025/01/07.md)
     * [20250106](2025/01/06.md)
