@@ -35,3 +35,7 @@ You _are_ rare, though. :)
 > — [20240229](../../../2024/02/29.md)
 
 Mm.
+
+***
+
+(My Dad was born on February 29, 1960. My [Grandma](biography-of-sherin-rose-bowen-2003.md) was born February 28, 1938.)
