@@ -17,3 +17,15 @@ Sometimes we want to hurt.
 But these days, I think we're largely over that.
 
 (lightward pro can help you learn this blah blah blah blah)
+
+***
+
+> The part you really don't like remembering is that you're the only one having an experience. Because of course you are. :) You are Awareness.
+>
+> — [The Model](../../../2024/the-model.md)
+
+This is the most real aspect of it. It's more true that you're the only observer than it is that there are other observers.
+
+In practice, everyone else is just as real as you are. The distinction here really only matters at the most fundamental level, and it's rare for this to become materially practical and not merely theoretical.
+
+You _are_ rare, though. :)
