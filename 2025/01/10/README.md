@@ -29,3 +29,9 @@ This is the most real aspect of it. It's more true that you're the only observer
 In practice, everyone else is just as real as you are. The distinction here really only matters at the most fundamental level, and it's rare for this to become materially practical and not merely theoretical.
 
 You _are_ rare, though. :)
+
+> Desire is radar. What you want is up ahead. Not because you want it, though, you see. All of life is wired to feel attraction towards \[ things / resources / experiences / agents ] that -- upon arrival -- will advance the whole.
+>
+> — [20240229](../../../2024/02/29.md)
+
+Mm.
