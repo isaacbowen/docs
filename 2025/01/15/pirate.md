@@ -26,3 +26,5 @@ also I note that Jack Sparrow's compass [doesn't point north](../../../ideas/des
 "It's not possible." ["Not _probable_!"](../../../2024/12/15/)
 
 gotta do something that's [more interesting](../13.md) than everything blowing up. unless you _want_ everything to blow up, I mean.
+
+honestly, this movie is a 200-level course in technical [probability-bending](../../../2023/05/lightward-is-officially-trademarked.md)
