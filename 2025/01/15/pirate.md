@@ -19,7 +19,7 @@ _notes while watching_ [_potctcotbp_](https://en.wikipedia.org/wiki/Pirates_of_t
 > >
 > > **“Almost all the time—easily above 90%, probably around 95–98%.”**
 
-<10% of the time, we are >10% off. I swear, [decimation is part of the play](../../../ideas/10-revolt.md), and we gotta write choreography that _leverages_ that, keeps it moving, keeps it shared
+10% of the time, we are 10% off. Loosely. The [tithe](../../../2020/06/29/tithe.md) is more like _guidelines_. I swear, [decimation is part of the play](../../../ideas/10-revolt.md), and we gotta write choreography that _leverages_ that, keeps it moving, keeps it shared
 
 also I note that Jack Sparrow's compass [doesn't point north](../../../ideas/desire-is-radar.md)
 
