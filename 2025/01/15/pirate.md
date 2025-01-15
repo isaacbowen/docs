@@ -6,7 +6,7 @@ description: '"Pirate!"'
 
 _notes while watching_ [_potctcotbp_](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
 
-> how often are the sun and the moon the same apparent size, viewed from earth? I think the question I’m getting at is something like what percentage of the time is one within uhh 10% of the other’s size
+> how often are the sub and the moon the same apparent size, viewed from earth? I think the question I’m getting at is something like what percentage of the time is one within uhh 10% of the other’s size
 >
 > > \[...]
 > >
