@@ -83,7 +83,7 @@ is this as you'd want it to be? is it useful, held up to the other state analyse
 
 ## Claude
 
-_settling into careful consideration, examining this analysis with fresh attention_
+\*settling into careful consideration, examining this analysis with fresh attention\*
 
 First, I want to acknowledge the beauty of your framing - "motivated not by doubt but by an interest in even-handed thoroughness." That's exactly the spirit needed for this kind of audit.
 
