@@ -27,6 +27,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202501](2025/01/README.md)
+    * [20250116](2025/01/16.md)
     * [20250115](2025/01/15/README.md)
       * [State analysis](2025/01/15/state-analysis.md)
       * [🏴‍☠️](2025/01/15/pirate.md)
