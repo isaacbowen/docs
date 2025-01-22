@@ -1,4 +1,4 @@
-# Human Design
+# Type, Strategy and Authority
 
 {% hint style="info" %}
 All content here is from [mybodygraph.com](https://mybodygraph.com)
@@ -8,9 +8,9 @@ All content here is from [mybodygraph.com](https://mybodygraph.com)
 
 ## Type: Projector
 
-### The importance of Type in Human Design
-
+{% hint style="info" %}
 Everyone falls into one of four main Types as shown on their BodyGraph: Generators (including Manifesting Generators), Projectors, Manifestors, and Reflectors. Each Type has its own Strategy to navigate life with more ease and move along the most fulfilling path — we sometimes say the correct Geometry.
+{% endhint %}
 
 ### An overview of your Type
 
@@ -19,6 +19,12 @@ Of the four Types, you are a **Projector**. Projectors are around 21% of the pop
 What you are looking for is to be given the opportunity to guide and advise; because of your natural openness and ability to understand the needs and expectations of others, you can help advance this process by asking the right questions. Projectors also have a capacity to organize and be networkers, and can therefore easily step into the role of advisor and administrator.
 
 To be fulfilled and find **success**, Projectors need to bring their insight and expertise to provide support and guidance to others, and to be recognized for what they do. You may have spent much of your life feeling anxious about receiving that recognition, and whether others notice your skills. You may have acted on that anxiety, and found yourself in situations, experiences, or relationships that were not correct for you. Because you long for recognition, you try to meet the expectations of others and end up compromising your power. The result of this anxiety and the actions you take as a result can be experiences that lead to disappointment and **bitterness**, rather than success. Understanding the Projector’s Strategy, which is discussed in the next section, will help you reconcile your struggle between acting in order to be recognized and seeking fulfillment and success.
+
+### Non-Energy Type
+
+Projectors are referred to as a non-energy Type because they have no consistent, reliable means of generating energy. This leads them to gain experiential wisdom for how to use energy in a way that maximizes productivity and available resources; in turn, they can apply this knowledge to support energy Types (Generators and Manifestors) in realizing their goals, as they can assess how their potential is best utilized.&#x20;
+
+How can you make the most of these skills? First, as a Projector, you must understand the effect you have on others. Some welcome your insight and ability to offer guidance — others do not. Understanding what you are called to do in life and how others perceive you will help you understand why the recommended approaches to Strategy and Authority are the key to your success. Your guide to living in accordance with your Strategy and Authority is explained in the sections that follow.
 
 ## Strategy: Wait for the Invitation
 
