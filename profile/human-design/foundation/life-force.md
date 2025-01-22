@@ -6,9 +6,13 @@ All content here is from [mybodygraph.com](https://mybodygraph.com)
 1988-12-16 · 3:14pm · Stevens Point, Wisconsin, United States
 {% endhint %}
 
+***
+
 ## Split Definition
 
 {% hint style="info" %}
+**Introduction to Definition**
+
 When two Centers are connected to each other—when the Gates at either end of a Channel are activated—a Definition is formed. A Definition is what throughout life will be reliable and consistent. There are four different kinds of Definition:
 
 * **Single Definition**: A continuous connection
@@ -38,6 +42,8 @@ It is such a joy to be with the right person; it is something very special and u
 ***
 
 {% hint style="info" %}
+**Introduction to Defined Centers**
+
 In the BodyGraph, a defined Center is colored in and always connected to another defined Center via a Channel.
 
 There are 9 Centers, each of which has a specific quality and plays a different role when Defined or Undefined. Your Defined Centers reveal those aspects of yourself that are fixed and reliable throughout your life—you can trust them.
@@ -171,6 +177,8 @@ These are the healthy and unhealthy traits related to having a defined Throat Ce
 ***
 
 {% hint style="info" %}
+**Introduction to Channels**
+
 The Channels in your BodyGraph represent the flow of your life force. Through each Channel, the life force expresses as a specific theme or energetic quality. A Channel is composed of two Gates and connects two Centers (Definition), thereby establishing communication or interaction between two Centers. Centers are the hubs that transform the energy, or frequency that moves through them. The Gates are entry and exit points for the flow of energy to and from the Centers, with each carrying a specific theme.
 
 The life force of a Channel, if defined (colored) in your chart is communicated to others through your Aura, and expresses aspects of your fundamental nature. The theme of a defined Channel represents your unique gifts as well as potential limitations, and is something consistent throughout your life. Understanding these themes is essential to realizing your uniqueness, and the way in which you naturally interact with and impact others.

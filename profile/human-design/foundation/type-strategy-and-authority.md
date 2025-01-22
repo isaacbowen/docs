@@ -6,6 +6,8 @@ All content here is from [mybodygraph.com](https://mybodygraph.com)
 1988-12-16 · 3:14pm · Stevens Point, Wisconsin, United States
 {% endhint %}
 
+***
+
 ## Type: Projector
 
 {% hint style="info" %}

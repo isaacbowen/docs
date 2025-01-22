@@ -6,7 +6,10 @@ All content here is from [mybodygraph.com](https://mybodygraph.com)
 1988-12-16 · 3:14pm · Stevens Point, Wisconsin, United States
 {% endhint %}
 
-## Introduction to Gates
+***
+
+{% hint style="info" %}
+**Introduction to Gates**
 
 There are 64 Gates in the BodyGraph. Each Gate corresponds to one of the 64 Hexagrams that make up the outer edge of the Rave Mandala (_switch to the Mandala View Mode to see this visually)_. Activation in any given Hexagram in the wheel is transposed to the corresponding Gate in the BodyGraph. It is the key ingredient for establishing Human differentiation. The specific imprinting is never general but specifically targeted to a theme within the body.
 
@@ -17,6 +20,7 @@ On the right, the **Personality**. This is the planetary imprint at the moment o
 On the left, the **Design**. This is the planetary imprint 88° of the Sun (88-89 days) before birth and is coded in red in the BodyGraph. The Design represents the nature of your unconscious. It stands for your bio-genetic inheritance, the themes of your ancestors that influence you unconsciously. While others will recognize these themes within you, you will learn to recognize your unconscious over time.
 
 Each Gate will also be activated by a specific Planet or position, each of which brings its own quality to the characteristic of that Gate.
+{% endhint %}
 
 ## Personality
 

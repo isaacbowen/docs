@@ -6,6 +6,8 @@ All content here is from [mybodygraph.com](https://mybodygraph.com)
 1988-12-16 · 3:14pm · Stevens Point, Wisconsin, United States
 {% endhint %}
 
+***
+
 ## The Power of Conditioning
 
 Our Type, Strategy and Inner Authority are reflective of how to be in alignment with our nature, but conditioning often gets in the way of this.
