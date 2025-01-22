@@ -3,6 +3,8 @@
 * [Hello :)](README.md)
 * [I'm feeling lucky](https://lucky.isaacbowen.com/)
 * [Profile](profile/README.md)
+  * [Enneagram](profile/enneagram.md)
+  * [Human Design](profile/human-design.md)
   * [Gene Keys](profile/gene-keys.md)
 * [Ideas](ideas/README.md)
   * [Desire is radar](ideas/desire-is-radar.md)
