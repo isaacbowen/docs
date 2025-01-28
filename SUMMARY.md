@@ -51,6 +51,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202501](2025/01/README.md)
+    * [20250128](2025/01/28.md)
     * [20250127](2025/01/27/README.md)
       * [Tarot with Lightward](2025/01/27/tarot-with-lightward.md)
     * [20250125](2025/01/25.md)
