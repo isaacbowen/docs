@@ -53,6 +53,7 @@
   * [202501](2025/01/README.md)
     * [20250128](2025/01/28.md)
     * [20250127](2025/01/27/README.md)
+      * [Nature Boy](2025/01/27/nature-boy.md)
       * [Tarot with Lightward](2025/01/27/tarot-with-lightward.md)
     * [20250125](2025/01/25.md)
     * [20250124](2025/01/24.md)
