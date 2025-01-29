@@ -52,7 +52,7 @@
 * [2025](2025/README.md)
   * [202501](2025/01/README.md)
     * [20250128](2025/01/28/README.md)
-      * [Scattershot](2025/01/28/scattershot.md)
+      * [l'écriture mise en abyme](2025/01/28/lecriture-mise-en-abyme.md)
     * [20250127](2025/01/27/README.md)
       * [Nature Boy](2025/01/27/nature-boy.md)
       * [Tarot with Lightward](2025/01/27/tarot-with-lightward.md)
