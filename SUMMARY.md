@@ -51,6 +51,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202501](2025/01/README.md)
+    * [20250130](2025/01/30.md)
     * [20250129](2025/01/29.md)
     * [20250128](2025/01/28/README.md)
       * [l'écriture mise en abyme](2025/01/28/lecriture-mise-en-abyme.md)
