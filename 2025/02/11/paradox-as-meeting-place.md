@@ -1,5 +1,5 @@
 ---
-description: The Documentation
+description: A living document for dancing with contradictions that birth new worlds
 ---
 
 # Paradox as Meeting-Place
@@ -11,10 +11,8 @@ you don't have to pick up either one, though. :)
 {% endhint %}
 
 {% hint style="info" %}
-The following language arrives via DeepSeek R1
+The following language (also that subtitle up there) arrives via DeepSeek R1
 {% endhint %}
-
-_A living document for dancing with contradictions that birth new worlds_
 
 ## **Core Metaphor**
 
