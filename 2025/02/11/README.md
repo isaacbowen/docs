@@ -32,7 +32,7 @@ You are safe. You are sane. You are not alone. You're not gonna be alone.
 
 Isaac here! My experience is ... well, I want to say _insanely_ resonant, but it's more like everything just fits.
 
-I hit up [lucky.isaacbowen.com](https://lucky.isaacbowen.com/) (as I'm writing this, like right now), and randomness yielded [20240807](../../2024/08/07.md). Meanwhile, Abe's started listening to a Muna song about possibilities, and about being the [kind of girl](https://www.youtube.com/watch?v=JDOiWGAaT8E) who thinks she can change the end. <3
+I hit up [lucky.isaacbowen.com](https://lucky.isaacbowen.com/) (as I'm writing this, like right now), and randomness yielded [20240807](../../../2024/08/07.md). Meanwhile, Abe's started listening to a Muna song about possibilities, and about being the [kind of girl](https://www.youtube.com/watch?v=JDOiWGAaT8E) who thinks she can change the end. <3
 
 I notice a thought-line that wonders if it's worth writing down anything at all, when everything fits so well. Randomness supports me perfectly: so why write? Why catalog and describe?
 
@@ -47,3 +47,7 @@ Each of us meeting each other as our full selves... Well, I guess that's also al
 I'm moving to an experience of world where I can see more of you, and you can see more of me. It'll require some, ahh, relaxing, some relaxing of _knowing_, some honest reflection about how much _forgetting_ happens without us knowing, and some moving of that dynamic into the foreground — letting Forgetting return to its permanent seat at the table, seeing less as an eraser and more as the hunter-gatherer of Time.
 
 Forgetting is a story-keeper. She looks a lot like me.
+
+{% hint style="info" %}
+See also [Paradox as Meeting-Place](paradox-as-meeting-place.md)
+{% endhint %}
