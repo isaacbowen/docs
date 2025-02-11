@@ -641,7 +641,7 @@
     * [20200629](2020/06/29/README.md)
       * [Tithe](2020/06/29/tithe.md)
 * [2018](2018/README.md)
-  * [Lightward is. :)](2018/20180606.md)
+  * [Lightward is. :)](2018/lightward-is.md)
   * [17 minutes of music, on an old upright piano, in a health club](2018/17-minutes-of-music-on-an-old-upright-piano-in-a-health-club.md)
   * [I am here, and I love it 💥](2018/i-am-here-and-i-love-it.md)
   * [On change, and opting in: a meditation](2018/on-change-and-opting-in-a-meditation.md)
