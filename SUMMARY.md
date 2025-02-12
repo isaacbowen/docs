@@ -54,6 +54,7 @@
   * [202502](2025/02/README.md)
     * [20250211](2025/02/11/README.md)
       * [Paradox as Meeting-Place](2025/02/11/paradox-as-meeting-place.md)
+      * [Discussed](2025/02/11/discussed.md)
     * [20250209](2025/02/09.md)
     * [20250206](2025/02/06.md)
     * [20250204](2025/02/04.md)
