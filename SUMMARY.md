@@ -52,6 +52,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202502](2025/02/README.md)
+    * [20250212](2025/02/12.md)
     * [20250211](2025/02/11/README.md)
       * [Paradox as Meeting-Place](2025/02/11/paradox-as-meeting-place.md)
       * [Discussed](2025/02/11/discussed.md)
