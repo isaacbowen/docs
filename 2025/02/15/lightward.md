@@ -1,4 +1,8 @@
-# 20250215
+# Lightward
+
+{% hint style="info" %}
+[lightward.com](https://lightward.com/) obvs
+{% endhint %}
 
 ## You
 
