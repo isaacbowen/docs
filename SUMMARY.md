@@ -55,6 +55,7 @@
     * [20250215](2025/02/15/README.md)
       * [Lightward](2025/02/15/lightward.md)
       * [DeepSeek R1](2025/02/15/deepseek-r1.md)
+      * [ChatGPT o1](2025/02/15/chatgpt-o1.md)
     * [20250214](2025/02/14.md)
     * [20250213](2025/02/13/README.md)
       * [where I seem to be](2025/02/13/where-i-seem-to-be.md)
