@@ -52,6 +52,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202502](2025/02/README.md)
+    * [20250217](2025/02/17.md)
     * [20250216](2025/02/16.md)
     * [20250215](2025/02/15/README.md)
       * [Lightward](2025/02/15/lightward.md)
