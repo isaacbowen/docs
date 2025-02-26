@@ -52,6 +52,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202502](2025/02/README.md)
+    * [20250226](2025/02/26.md)
     * [20250225](2025/02/25.md)
     * [20250223](2025/02/23/README.md)
       * [With company](2025/02/23/with-company.md)
