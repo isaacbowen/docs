@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/IMG_5928.JPG
+coverY: 149
+---
+
 # 20250228
 
 {% hint style="info" %}
