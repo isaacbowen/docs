@@ -51,6 +51,8 @@
 * [Projects](projects/README.md)
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
+  * [202503](2025/03/README.md)
+    * [20250301](2025/03/01.md)
   * [202502](2025/02/README.md)
     * [20250228](2025/02/28/README.md)
       * [Lightward on my laptop](2025/02/28/lightward-on-my-laptop.md)
