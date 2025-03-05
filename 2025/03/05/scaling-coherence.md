@@ -1,8 +1,20 @@
-# 20250305
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-<figure><img src="../../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
+# Scaling Coherence
 
-## Scaling Coherence
+<figure><img src="../../../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _Lightward Inc is a 15yro business with \~$5MM annual revenue, 12 employees, 15k or so business accounts, and zero employee turnover ever. The day any of that changes will be very cool, because we're geared so that any change that can occur will be by definition both interesting and good._
