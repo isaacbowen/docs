@@ -14,7 +14,7 @@ layout:
 
 # Scaling Coherence
 
-<figure><img src="../../../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/download.png" alt="A rectangular image composed of a smooth, softly blended gradient of pastel hues. Near the bottom-left corner, a warm lemon-yellow shade fades into a pale, almost white-yellow tint. Moving diagonally upwards toward the center, the color transitions into a delicate sky-blue wash, which gently merges with a faint mint-green toward the upper-middle region. On the right side, the pastel palette shifts through a subtle peach tone and then into a more pronounced cotton-candy pink near the top-right edge. Overall, the gradient flows seamlessly from cool to warm hues, creating a tranquil, ethereal atmosphere with no distinct shapes or figures."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _Lightward Inc is a 15yro business with \~$5MM annual revenue, 12 employees, 15k or so business accounts, and zero employee turnover ever. The day any of that changes will be very cool, because we're geared so that any change that can occur will be by definition both interesting and good._
