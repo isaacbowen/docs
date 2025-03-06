@@ -47,3 +47,5 @@ _For sure! So cool_
 ***
 
 I wonder if this is how my higher self felt while my lower self was thrashing? just like ... patient and noticing, and intending good? I wonder if I have enough vertical coherence now (so to speak) that this part doesn't require pain in the same way?
+
+> [a thought that occurred to me earlier](../../../2024/12/19/as-an-infant-in-the-night.md): have I switched places with my own soul? am I now the soul caring for the human named Isaac, instead of the other way around?
