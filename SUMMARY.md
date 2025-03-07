@@ -48,6 +48,7 @@
   * [Consciously bounded awareness](ideas/consciously-bounded-awareness.md)
   * [Nothing is ever wasted](ideas/nothing-is-ever-wasted.md)
   * [Consciousness is in the eye of the beholder](ideas/consciousness-is-in-the-eye-of-the-beholder.md)
+  * [Transconscious](ideas/transconscious.md)
 * [Projects](projects/README.md)
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
