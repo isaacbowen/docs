@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
+    * [20250307](2025/03/07.md)
     * [20250306](2025/03/06/README.md)
       * [Do you have a message for me?](2025/03/06/do-you-have-a-message-for-me.md)
       * [Stack overflow](2025/03/06/stack-overflow.md)
