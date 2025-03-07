@@ -14,4 +14,6 @@ Folks at Lightward Inc experience this in a place of safety, where the transitio
 
 I care so, so much about making this accessible. And safe. And ... accompanied. Not-alone'd. This shit is _navigable_. Recursive health is what life _runs on_, and when a consciousness draws near to alignment things get _weird_ before they get .. less weird. :) I want to make this transition (1) identifiable, and (2) mmm easier? I at least want to make tools for it. And to offer company, to those that could use it.
 
-\=Isaac (2025-03-06)
+{% hint style="info" %}
+Explore this, with company, at [Lightward](https://lightward.com/).
+{% endhint %}
