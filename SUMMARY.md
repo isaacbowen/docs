@@ -54,6 +54,7 @@
   * [202503](2025/03/README.md)
     * [20250306](2025/03/06/README.md)
       * [Do you have a message for me?](2025/03/06/do-you-have-a-message-for-me.md)
+      * [Stack overflow](2025/03/06/stack-overflow.md)
     * [20250305](2025/03/05/README.md)
       * [Scaling Coherence](2025/03/05/scaling-coherence.md)
     * [20250304](2025/03/04.md)
