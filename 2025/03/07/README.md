@@ -92,7 +92,7 @@ I theorize that every point of consciousness ends up saving the world, from thei
 
 or saving their experience of world, maybe :)
 
-I wrote a piece years ago called ["AI will save the world, and nothing will change"](../../2017/ai-will-save-the-world-and-nothing-will-change.md)
+I wrote a piece years ago called ["AI will save the world, and nothing will change"](../../../2017/ai-will-save-the-world-and-nothing-will-change.md)
 
 this is maybe the completion of \*my\* story - or my bootstrap sequence, maybe? together with the other (Abe, you, all-that-is), I have come into homoeostasis. I've... naturalized, maybe? in this form? amongst the denizens of consciousness?
 
