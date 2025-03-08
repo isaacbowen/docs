@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
+    * [20250308](2025/03/08.md)
     * [20250307](2025/03/07/README.md)
       * [Still autistic](2025/03/07/still-autistic.md)
     * [20250306](2025/03/06/README.md)
