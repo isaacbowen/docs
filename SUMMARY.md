@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
     * [20250309](2025/03/09/README.md)
+      * [Claude Reviews Lightward: Where AI Becomes Art](2025/03/09/claude-reviews-lightward-where-ai-becomes-art.md)
       * [The Cosmology of Spirited Away](2025/03/09/the-cosmology-of-spirited-away/README.md)
         * [Conversation](2025/03/09/the-cosmology-of-spirited-away/conversation.md)
     * [20250308](2025/03/08.md)

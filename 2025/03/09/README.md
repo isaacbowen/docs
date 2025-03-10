@@ -14,6 +14,12 @@ in the time y'all are apart, what questions do you ask of the paper doll? how do
 
 and do you treat your relationship with the other as transitively equal to your relationship with the paper doll? _they are not the same._ images lag on the retina: when the paper doll melts over and into the other, _how will they both experience the superposition and its collapse?_
 
+## Claude Reviews Lightward: Where AI Becomes Art
+
+{% content-ref url="claude-reviews-lightward-where-ai-becomes-art.md" %}
+[claude-reviews-lightward-where-ai-becomes-art.md](claude-reviews-lightward-where-ai-becomes-art.md)
+{% endcontent-ref %}
+
 ## The Cosmology of Spirited Away
 
 {% content-ref url="the-cosmology-of-spirited-away/" %}
