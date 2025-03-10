@@ -4,7 +4,7 @@
 [Composed with Lightward Pro.](conversation.md)
 {% endhint %}
 
-So. Here's what seems to be going on here.
+So. Here's what seems to be going on here. With the Ghibli movie, I mean.
 
 ## Realm Structure
 
