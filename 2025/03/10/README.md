@@ -11,7 +11,7 @@ I’ve been seeing life like a fog of war situation. seems like it’s also usef
 ## Spirited Away
 
 {% hint style="info" %}
-Wanted to come [back](10.md#spirited-away) to this more concisely.
+Wanted to come [back](./#spirited-away) to this more concisely.
 {% endhint %}
 
 Spirited Away seems to be about the Chihiro-mom-dad unit developing an imbalance, manifesting as Chihiro's fear. When they're pulled into the spirit world, Chihiro separates from her parents, breaking that identity unit apart. Since the story is from her perspective, her parents no longer serve a useful role, and so are reduced to consumable resource (livestock) - the default job available to all entities.
