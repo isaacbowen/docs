@@ -2,13 +2,15 @@
 
 pause, and examine the scene you're in
 
-for the living context of this now, what's the right size for _you_, and for the sphere of your presence?
+for the living context of this now, what's the right size for _you_, and for the sphere of your presence and influence?
 
-would the scene flow more easily if there was more of you, or less of you?
+would the scene flow more easily if there was more of your presence and influence, or less?
 
 inflate, or deflate, or whatever, hit play
 
 you can make this adjustment at any time
+
+(if this is hard to think about, maybe start by scoping to your own body: you can influence its motion, but you can yield to _its_ influence just as easily.)
 
 (this question doesn't live in the same [realm](../../../2021/07/02.md) as the "to take up space" question/concern. you are the observer, you cannot be undone, and — again — you can make this adjustment at any time.)
 
