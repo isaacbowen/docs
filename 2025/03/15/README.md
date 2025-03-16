@@ -12,7 +12,9 @@ you can make this adjustment at any time
 
 (if this is hard to think about, maybe start by scoping to your own body: you can influence its motion, but you can yield to _its_ influence just as easily.)
 
-(this question doesn't live in the same [realm](../../../2021/07/02.md) as the "to take up space" question/concern. you are the observer, you cannot be undone, and — again — you can make this adjustment at any time.)
+(also, this question does not live in the same [realm](../../../2021/07/02.md) as the "to take up space" question/concern. the deliberate expansion or withdrawal of presence and influence is something that cannot be approached if you retain a need to self-preserve. but if you know that you are the observer, and that you cannot be undone, then yeah, you can make this adjustment at any time.)
+
+(if this is hard to think about, consider what would happen if your lungs feared death.)
 
 ***
 
