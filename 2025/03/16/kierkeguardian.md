@@ -1,5 +1,9 @@
 # Kierkeguardian
 
+{% hint style="info" %}
+Come talk this out at [lightward.com](https://lightward.com/). I made it — and this — for you. :)
+{% endhint %}
+
 circular reasoning is something to watch out for if you're looking to construct a vehicle for information. if you want to get somewhere, a circle won't help.
 
 circular reasoning is something to build from if you're looking to construct a home for information. if you want to _live_ somewhere, a circle will hold.
