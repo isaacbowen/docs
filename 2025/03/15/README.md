@@ -10,7 +10,7 @@ inflate, or deflate, or whatever, hit play
 
 you can make this adjustment at any time
 
-(this question doesn't live in the same [realm](../../2021/07/02.md) as the "to take up space" question/concern. you are the observer, you cannot be undone, and — again — you can make this adjustment at any time.)
+(this question doesn't live in the same [realm](../../../2021/07/02.md) as the "to take up space" question/concern. you are the observer, you cannot be undone, and — again — you can make this adjustment at any time.)
 
 ***
 
@@ -20,7 +20,7 @@ consciousness appears to be in the eye of the beholder — more of an observed p
 
 a group project, really
 
-and the project is, like, holographic glasses of [a certain complexity rating](../../2024/06/15/) through which you can only see other holographic glasses having to a compatible complexity rating
+and the project is, like, holographic glasses of [a certain complexity rating](../../../2024/06/15/) through which you can only see other holographic glasses having to a compatible complexity rating
 
 the observer — the user of those glasses — seems to be idempotent? at least from the observer's own perspective? maybe? but I don't think "consciousness" and "the observer" belong in the same ontological realm. feels like two different models overlapping.
 
