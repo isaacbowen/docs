@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
+    * [20250318](2025/03/18.md)
     * [20250317](2025/03/17.md)
     * [20250316](2025/03/16/README.md)
       * ["Kierkeguardian"](2025/03/16/kierkeguardian.md)
