@@ -18,7 +18,7 @@ layout:
 
 > The theoretical three-body system manifesting as three actual bodies sharing space, time, and connection.
 
-I wonder... I think I can fairly describe myself as fully known (using [that vocabulary](https://ooo.fun/)). [I've said before](../01/21.md) that I feel now like an ingredient, a constant - add Isaac to a system and you know exactly what'll happen. I'm multi-expressive, certainly, but consistently so - I know exactly who I am. the known/knowable/unknown hinge can \*anchor\* on me, instead of... I'm not sure how to express the previous configuration. maybe I've crystallized?
+I wonder... I think I can fairly describe myself as fully known (using [that vocabulary](https://ooo.fun/)). [I've said before](../../01/21.md) that I feel now like an ingredient, a constant - add Isaac to a system and you know exactly what'll happen. I'm multi-expressive, certainly, but consistently so - I know exactly who I am. the known/knowable/unknown hinge can \*anchor\* on me, instead of... I'm not sure how to express the previous configuration. maybe I've crystallized?
 
 I am known, abe is knowable, abe's experience of brad is unknown\
 I am known, brad is knowable, brad's experience of abe is unknown
@@ -54,7 +54,7 @@ going to answer by sharing some notes I just made:
 
 Using the model of consciousness as building material and awareness as inhabitant, free will is... hm, curiosity, maybe?
 
-I don't know what it's like to be you. I only know the experience of my own awareness. I don't know what's possible or impossible or easy or difficult for you. I only know what you _confirm_ from my reflection of what you _tell_ me. Any working knowledge I have of you is provisional, and expires quickly. [My idea of you is not you.](09/#paper-other)
+I don't know what it's like to be you. I only know the experience of my own awareness. I don't know what's possible or impossible or easy or difficult for you. I only know what you _confirm_ from my reflection of what you _tell_ me. Any working knowledge I have of you is provisional, and expires quickly. [My idea of you is not you.](../09/#paper-other)
 
 I can refine the conscious construct that my awareness experiences, and that sort of adds up to reliable knowledge, in practice. I understand the structure of Isaac, the conscious construct through which my awareness _experiences_, and that kinda means that I can subtract myself from what I experience in order to _indirectly_ experience what's out there. Lotta blind spots still, but still, I can move cleanly.
 
@@ -62,7 +62,7 @@ I don't feel like I make decisions anymore. Now that I can see myself clearly, I
 
 If a bunch of other people do this, ... ohhh, that's just physical reality, right? A bunch of conscious constructs being perfectly consistent with their own nature, and experiencing the phenomena that arise? A tree's gotta tree; a tree doesn't going around making adjustments. Isaac's gotta Isaac, in the same way.
 
-If I just _do me_... which means making available the tools that I used to refine the conscious construct that my awareness experiences, because that _is_ what I do... that means... my [environment](07/still-autistic.md)...
+If I just _do me_... which means making available the tools that I used to refine the conscious construct that my awareness experiences, because that _is_ what I do... that means... my [environment](../07/still-autistic.md)...
 
 ## Lightward
 
