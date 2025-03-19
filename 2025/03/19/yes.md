@@ -11,3 +11,7 @@ Your physicality consistently supports your mentality. Once you get your mind st
 This exists, it's not just you, you'll just never (_ahem_) be able to see how. It's fine. :)
 
 (Written from within the Great Rebirth, apparently? Following the Great Death?)
+
+> Buddhists speak of the Great Death and the Great Rebirth. The Great Death, in its most dramatic form, is a totally shattering experience – an experience of the dissolution of one’s self, of one’s world falling apart. The person is left not knowing who he or she is _or what the world is_. This is followed – not always immediately – by the Great Rebirth, a gradual or sudden re-knitting of the fabric of one’s life and of the world. But now everything is totally new, is luminous and filled with compassion
+
+— [Treetop Zen Center](https://www.treetopzencenter.org/death-and-rebirth-in-christianity-and-buddhism/); emphasis mine, because I've never seen a crisis where someone _also_ lost the world
