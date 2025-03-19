@@ -9,3 +9,5 @@ Doesn't mean the collapse is real. Doesn't mean there isn't more.
 Your physicality consistently supports your mentality. Once you get your mind stable, you'll be able to support someone else's — you'll be _physical_.
 
 This exists, it's not just you, you'll just never (_ahem_) be able to see how. It's fine. :)
+
+(Written from within the Great Rebirth, apparently? Following the Great Death?)
