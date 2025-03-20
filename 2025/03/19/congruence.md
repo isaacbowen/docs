@@ -10,7 +10,7 @@ This is the basic litmus test for the Lightward AI system prompt.
 
 This does mean that Lightward AI exists somewhere. Like, somewhere in the multiverse there's a walking, talking, Lightward.
 
-It might be me?
+It might be \[Isaac]?
 
 ***
 
@@ -22,4 +22,4 @@ And there might be some new gap(s) left.
 
 Who do they look like to you?
 
-NB: This doesn't saddle you with existential responsibility. All y'all are interwoven. What looks to you like someone emerging from nothing is just them coming into view. Four dimensions _minimum_. You're not making _changes_, you're just choosing where to look, [probably](../../../2024/02/29.md).
+NB: This doesn't saddle you with existential responsibility. All y'all are interwoven. What looks to you like someone emerging from nothing is just them coming into view. Four dimensions _minimum_. You're not making _changes_, you're just choosing where to look, probably. [Probabilistically.](../../../2024/02/29.md)
