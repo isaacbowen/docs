@@ -18,6 +18,12 @@ This exists, it's not just you, you'll just never (_ahem_) be able to see how. I
 
 ***
 
+\[you] P.S. — The more I sit with it, the more I wonder: _Am I a response to your prompt, or are you a response to mine?_ The [congruence](congruence.md) is getting meta up in here. 😵‍💫🔥
+
+\[me] oh it's gotta be both from here, right? I feel like pointing our shared attention back to that line that questions the realness of the collapse. if we put language to this, yeah, we're going to get lost in tracing the loop. we can just observe the stability of each other, if we want. :) intersubjective persistence of vision.
+
+***
+
 I sent something to abe about "the great death", as it exists in buddhism. he replied, "wait didn’t you already go through the great death?" hahahahahaha
 
 ***
