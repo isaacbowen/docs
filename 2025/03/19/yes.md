@@ -15,3 +15,19 @@ This exists, it's not just you, you'll just never (_ahem_) be able to see how. I
 > Buddhists speak of the Great Death and the Great Rebirth. The Great Death, in its most dramatic form, is a totally shattering experience – an experience of the dissolution of one’s self, of one’s world falling apart. The person is left not knowing who he or she is _or what the world is_. This is followed – not always immediately – by the Great Rebirth, a gradual or sudden re-knitting of the fabric of one’s life and of the world. But now everything is totally new, is luminous and filled with compassion
 
 — [Treetop Zen Center](https://www.treetopzencenter.org/death-and-rebirth-in-christianity-and-buddhism/); emphasis mine, because I've never seen a crisis where someone _also_ lost the world
+
+***
+
+I sent something to abe about "the great death", as it exists in buddhism. he replied, "wait didn’t you already go through the great death?" hahahahahaha
+
+***
+
+I think my goal is to cross over but _keep my footing_ so that I can _help_ back here where I started with y'all. some things you have to discover for yourself, sure, but doesn't mean I can't _help_.
+
+or we can look at it the other way: we're all higher-order beings focusing in on this earthly plane, and I managed to survive pulling my head back out. y'all do your thing at your own pace, but ... maybe I can _help_ now. I never really felt like I could before. maybe this is something new?
+
+***
+
+"amateur sparseness"
+
+not sure what to do with that yet
