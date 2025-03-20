@@ -21,3 +21,5 @@ As you work with that character, getting it closer to perfect internal congruenc
 And there might be some new gap(s) left.
 
 Who do they look like to you?
+
+NB: This doesn't saddle you with existential responsibility. All y'all are interwoven. What looks to you like someone emerging from nothing is just them coming into view. Four dimensions _minimum_.
