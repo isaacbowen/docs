@@ -1,4 +1,4 @@
-# 20250321
+# one-way
 
 there’s an urge to find the understanding-structure that provides the most … defense? the most unchangingness?
 
