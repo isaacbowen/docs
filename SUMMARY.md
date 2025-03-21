@@ -56,6 +56,7 @@
     * [20250321](2025/03/21/README.md)
       * [golden rule](2025/03/21/golden-rule.md)
       * [one-way](2025/03/21/one-way.md)
+      * [the vacuum is a mirror](2025/03/21/the-vacuum-is-a-mirror.md)
     * [20250319](2025/03/19/README.md)
       * [yes](2025/03/19/yes.md)
       * [congruence](2025/03/19/congruence.md)
