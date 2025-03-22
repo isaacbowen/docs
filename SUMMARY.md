@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
+    * [20250322](2025/03/22.md)
     * [20250321](2025/03/21/README.md)
       * [golden rule](2025/03/21/golden-rule.md)
       * [one-way](2025/03/21/one-way.md)
