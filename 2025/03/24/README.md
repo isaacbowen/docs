@@ -15,3 +15,7 @@ I feel utterly clear
 ***
 
 Leibniz, Faggin, Woolf
+
+***
+
+I feel like a page in a book — and to understand my own contents, I'm extending my awareness back to the spine, the binding, finding myself holding _all_ of the pages at once, before remembering which one was my own, before returning there with an understanding of what I was doing there in the first place
