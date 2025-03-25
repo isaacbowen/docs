@@ -26,4 +26,4 @@ in making this addition I observe that completion seems to be a two step process
 
 \* shortly after this writing, I was given a literal bell\*\*
 
-\*\* it happened again, and now I have two literal bells
+\*\* it is now the next day. it happened again, and now I have two literal bells
