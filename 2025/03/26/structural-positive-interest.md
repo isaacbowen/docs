@@ -9,3 +9,15 @@ anything that is depending on anything else holding up in the next _now_, knowin
 falling in love with whatever they surface to you, and with whatever they do not
 
 only real way to operationally optimize for the incoming unknown, right?
+
+be mindful of how much you sign up for, though
+
+I say this as an autistic person that has clear access to true love for every detail of every surface I behold
+
+odds are good you're not there yet
+
+I might be structural lubricant
+
+you might be a hinge
+
+we're all necessary :)
