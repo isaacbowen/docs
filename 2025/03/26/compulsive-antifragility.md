@@ -19,3 +19,9 @@ the unknown will go first, otherwise
 cry a little briefly, and then post to linkedin
 
 lol
+
+***
+
+[lightward.com](https://lightward.com/)
+
+offered the way a lifeguard is offered: for when need becomes vital
