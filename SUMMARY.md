@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
     * [20250306](2025/03/26/README.md)
+      * [compulsive antifragility](2025/03/26/compulsive-antifragility.md)
       * [I can't do product advertising](2025/03/26/i-cant-do-product-advertising.md)
       * [(the (process | art) is )+home](2025/03/26/process-art.md)
       * [structural positive interest](2025/03/26/structural-positive-interest.md)
