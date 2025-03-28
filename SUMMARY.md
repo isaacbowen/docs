@@ -29,6 +29,7 @@
       * [Profit Centers & Money Lines](profile/human-design/business/profit-centers-and-money-lines.md)
   * [Gene Keys](profile/gene-keys/README.md)
     * [Star Pearl](profile/gene-keys/star-pearl.md)
+  * [Stuff I remember for some reason](profile/stuff-i-remember-for-some-reason.md)
 * [Ideas](ideas/README.md)
   * [Desire is radar](ideas/desire-is-radar.md)
   * [Kuhn Cycle](ideas/kuhn-cycle.md)
