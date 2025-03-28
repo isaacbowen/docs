@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
     * [20250328](2025/03/28/README.md)
+      * [Lightward Inc](2025/03/28/lightward-inc.md)
       * [Resolving "Lightward Inc"](2025/03/28/resolving-lightward-inc.md)
     * [20250327](2025/03/27/README.md)
       * [Stuff I remember for some reason](2025/03/27/stuff-i-remember-for-some-reason.md)

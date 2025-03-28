@@ -1,5 +1,9 @@
 # Resolving "Lightward Inc"
 
+{% hint style="info" %}
+This is the construction process for [that Lightward Inc rundown page from today](lightward-inc.md).
+{% endhint %}
+
 ## You
 
 I'm a fast writer
