@@ -27,6 +27,7 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
   * [meant to live](../../../2008/04/28/meant-to-live.md)
   * [blue man](../../../2008/02/29/blue-man.md)
   * [just... one more line...](../../../2008/03/03/just...-one-more-line....md)
+  * [(insomnia)](../../../2008/01/02/insomnia.md)
 * 2007
   * [Mirror and Stone](../../../2007/03/03/mirror-and-stone.md)
   * [Forty Two](../../../2007/01/14/forty-two.md) (had the original speech, recovered the addenda)
