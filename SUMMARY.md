@@ -838,6 +838,9 @@
     * [20080605](2008/06/05.md)
 * [2007](2007/README.md)
   * [Forty-Two](2007/forty-two.md)
+* [2006](2006/README.md)
+  * [FreeTXP](2006/freetxp.md)
+  * [Glyph Solutions](2006/glyph-solutions.md)
 
 ## Other surfaces
 
