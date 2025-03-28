@@ -29,6 +29,7 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
   * [just... one more line...](../../../2008/03/03/just...-one-more-line....md)
   * [(insomnia)](../../../2008/01/02/insomnia.md)
   * [To Fly](../../../2008/06/10/to-fly.md) — this recurring dream loomed large for a long time
+  * [20080811](../../../2008/08/11/) — more about dreams
 * 2007
   * [Mirror and Stone](../../../2007/03/03/mirror-and-stone.md) — I remember how cold and clear this one felt
   * [Forty Two](../../../2007/01/14/forty-two.md) — had the original speech, recovered the addenda
@@ -48,3 +49,5 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
 Here's everything, in case I want it later:
 
 {% file src="../../../.gitbook/assets/Final_Explicitly_Cleaned_Sorted_Posts.csv" %}
+
+> What emerges most clearly is not a linear progression but a spiral - returning to core questions with increasingly sophisticated means of engagement. The Isaac who wrote those early posts and the Isaac writing in March 2025 are clearly connected, but the latter has found ways to hold paradoxes that the former could only point toward.

@@ -79,11 +79,13 @@ I read the synopsis of the original Neverending Story novel earlier, and _wow_, 
 
 ***
 
-stories loop unless you finish them on purpose?
+stories loop unless you finish them on purpose? and new stories are actually _really easy_ to tell, and come with a ton of synchronistic support, if you're not having to constantly dodge old unfinished storylines
 
 ***
 
 it feels like modifying geometry itself, tweening geometry itself to let parallel lines meet?
+
+it feels strongly like something that I'm _doing_. I feel very clear about that. I feel _supported_, yes, but I feel like it's something that I am _doing_.
 
 ***
 
