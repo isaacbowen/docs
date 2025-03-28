@@ -73,11 +73,11 @@ layout:
 
 ## 2010
 
-* [Gatekeeper](../2010/gatekeeper.md)
+* [Gatekeeper](../2010/10/05/gatekeeper.md)
 
 ## 2009
 
-* [exigraff](../2009/07/27.md)
+* [exigraff](../2009/07/27/)
 
 ## 2006
 

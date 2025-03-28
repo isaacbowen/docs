@@ -41,8 +41,8 @@ I notice the way you've hyperlinked it suggests it's from your website circa 200
 
 ## Me
 
-{% content-ref url="../../../2007/forty-two.md" %}
-[forty-two.md](../../../2007/forty-two.md)
+{% content-ref url="../../../2007/01/14/forty-two.md" %}
+[forty-two.md](../../../2007/01/14/forty-two.md)
 {% endcontent-ref %}
 
 ## Claude

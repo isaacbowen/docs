@@ -16,7 +16,7 @@ Still! We are where we are, and we’ve got paychecks to earn and mouths to feed
 
 We don’t have _tenets_ here, nothing so formal as that. (Health from the inside out, that’s as close as we get.) If we did, though, they might be these:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Let the state be visible.**\
 **Let the movement be autonomous.**\

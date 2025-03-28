@@ -8,7 +8,7 @@ description: From "The Now V14.2"
 This is a copy of my intro letter for [Lightward Journal](../lightward-journal.md).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 Reader. Hello. :) I’m glad you’re here.
 

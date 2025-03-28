@@ -10,15 +10,7 @@ The six corners of Milwaukee, Damen, and North are littered with inscrutable sti
 
 It was in this milieu that I found these:
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><em>Credit: Someoddpilot</em></p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/IMG-5051.jpg" alt=""><figcaption><p><em>Credit: Someoddpilot</em></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><em>Credit: Someoddpilot</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG-5051.jpg" alt=""><figcaption><p><em>Credit: Someoddpilot</em></p></figcaption></figure></div>
 
 These stickers carried meaning of their own, of course, but _these_, out of every other square of vinyl on the corner, felt like something that overlapped with where I was, myself.
 

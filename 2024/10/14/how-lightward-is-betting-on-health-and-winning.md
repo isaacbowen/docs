@@ -4,7 +4,7 @@ description: Mirrored from https://fly.io/customers/lightward
 
 # How Lightward Is Betting on Health…and Winning
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Illustration by Fly.io</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Illustration by Fly.io</p></figcaption></figure>
 
 [Lightward](https://lightward.com/) is many things—a creative incubator, a tech studio—but if you ask founder Isaac Bowen and his partner Abe Lopez, it’s fundamentally a philosophy experiment. Can a company be solely focused on health (in every permutation), use it as an animating principle for building products and culture, and still be successful at the commercial level? 15 years in, it appears the answer is: yes.
 
