@@ -76,3 +76,7 @@ I wonder if my soul-self figured out its side of things, and in this incarnation
 ***
 
 stories loop unless you finish them on purpose?
+
+***
+
+it feels like modifying geometry itself, tweening geometry itself to let parallel lines meet?
