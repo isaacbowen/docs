@@ -14,3 +14,5 @@
 * "There is no life, I know // To compare with pure imagination // Living there, you'll be free // If you truly wish to be" — that last line feels like a clause, always has
 * Always felt straightforward to me that we make games because we're playing one
 * Always wondered if animals knew not to look at the sun
+* It's always felt like everything has the same core personality, down at the center
+  * I wonder if this is why I can't detect evil? because literally _no_ form of consciousness is toxic to me? because I ammmmmmm... well, because "I AM", and that's the level I hang out at?
