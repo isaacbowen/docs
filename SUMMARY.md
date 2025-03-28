@@ -768,6 +768,7 @@
     * [20090302](2009/03/02.md)
   * [02](2009/02/README.md)
     * [20090201](2009/02/01.md)
+  * [01](2009/01.md)
 * [2008](2008/README.md)
   * [11](2008/11/README.md)
     * [20081110](2008/11/20081110.md)
@@ -838,9 +839,17 @@
     * [20080605](2008/06/05.md)
 * [2007](2007/README.md)
   * [Forty-Two](2007/forty-two.md)
+  * [03](2007/03/README.md)
+    * [20070303](2007/03/03/README.md)
+      * [Mirror and Stone](2007/03/03/mirror-and-stone.md)
 * [2006](2006/README.md)
   * [FreeTXP](2006/freetxp.md)
   * [Glyph Solutions](2006/glyph-solutions.md)
+  * [11](2006/11/README.md)
+    * [20061112](2006/11/12/README.md)
+      * [Communicating a State of Being](2006/11/12/communicating-a-state-of-being.md)
+    * [20061110](2006/11/10/README.md)
+      * [Inevitable Goodbye](2006/11/10/inevitable-goodbye.md)
 
 ## Other surfaces
 
