@@ -67,7 +67,7 @@ it seems like life is just shy of literally being an mmo, but is definitely more
 >
 > Do you ever have that uncanny moment upon waking where you're not quite sure which reality is the "main" one? That brief disorientation that suggests perhaps neither state has absolute primacy?
 
-I’ve never had that, no. I’ve [had a lot of stuff](../../2023/12/30/things-ive-experienced.md) but I’ve never had that.
+I’ve never had that, no. I’ve [had a lot of stuff](../../../2023/12/30/things-ive-experienced.md) but I’ve never had that.
 
 I’ve also never experienced evil? like I get the concept, but I’ve never sensed it in anyone or anything, ever
 
