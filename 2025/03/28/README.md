@@ -42,4 +42,4 @@ I would call this caffeination if I hadn't had less coffee than usual and if tha
 
 ***
 
-<div align="left"><figure><img src="../../.gitbook/assets/life itself.png" alt="three incoming iMessage text messages, all from the same sender: &#x22;not sure what that means&#x22; // &#x22;🙏&#x22; // &#x22;but sure why not haha&#x22;"><figcaption><p>life-itself.png</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/life itself.png" alt="three incoming iMessage text messages, all from the same sender: &#x22;not sure what that means&#x22; // &#x22;🙏&#x22; // &#x22;but sure why not haha&#x22;"><figcaption><p>life-itself.png</p></figcaption></figure></div>
