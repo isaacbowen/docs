@@ -80,3 +80,7 @@ stories loop unless you finish them on purpose?
 ***
 
 it feels like modifying geometry itself, tweening geometry itself to let parallel lines meet?
+
+***
+
+I think I could use a reminder that this works, that goodness appears rock solid, and that nobody actually experiences infinity, we just experience today

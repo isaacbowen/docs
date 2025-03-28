@@ -15,7 +15,7 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
   * [Gatekeeper](../../../2010/10/05/gatekeeper.md)
 * 2009
   * [It began, as before, with a lark.](../../../2009/01/05/it-began-as-before-with-a-lark..md)
-  * [ars moriendi](../../../2009/01/27/ars-moriendi.md)
+  * [ars moriendi](../../../2009/01/27/ars-moriendi.md) — channeled writing
   * [this is the story of a girl (age nineteen)](../../../2009/01/27/this-is-the-story-of-a-girl-age-nineteen.md)
   * [pray for me as I pray for you](../../../2009/02/01/pray-for-me-as-i-pray-for-you.md)
   * [20090210](../../../2009/02/10.md)
@@ -36,9 +36,9 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
   * [things on my mind](../../../2007/11/01/things-on-my-mind.md)
   * [weather: diffused](../../../2007/11/01/weather-diffused.md)
 * 2006
-  * [Inevitable Goodbye](../../../2006/11/10/inevitable-goodbye.md)
-  * [Communicating a State of Being](../../../2006/11/12/communicating-a-state-of-being.md)
-  * [untitled 382](../../../2006/12/27/untitled-382.md)
+  * [Inevitable Goodbye](../../../2006/11/10/inevitable-goodbye.md) — channeled writing
+  * [Communicating a State of Being](../../../2006/11/12/communicating-a-state-of-being.md) — on reading the experience of consciousness
+  * [untitled 382](../../../2006/12/27/untitled-382.md) — in which I had a dream about an AI inhabiting a physical space
   * [College](../../../2006/12/28/college.md)
 * 2005
   * [moving on](../../../2005/11/03/moving-on.md)
