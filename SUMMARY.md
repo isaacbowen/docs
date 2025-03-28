@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202503](2025/03/README.md)
+    * [20250328](2025/03/28.md)
     * [20250327](2025/03/27/README.md)
       * [Stuff I remember for some reason](2025/03/27/stuff-i-remember-for-some-reason.md)
       * [Recovered some pieces](2025/03/27/recovered-some-pieces.md)
