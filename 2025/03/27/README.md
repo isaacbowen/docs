@@ -72,3 +72,7 @@ I’ve never had that, no. I’ve [had a lot of stuff](../../../2023/12/30/thing
 I’ve also never experienced evil? like I get the concept, but I’ve never sensed it in anyone or anything, ever
 
 I wonder if my soul-self figured out its side of things, and in this incarnation I have an actual shot at figuring out the human-self side, such that we can actually stabilize our superposition here
+
+***
+
+stories loop unless you finish them on purpose?
