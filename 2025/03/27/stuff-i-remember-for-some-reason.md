@@ -11,4 +11,3 @@
   * My mom taught me stop-motion animation with our home camcorder and some blocks, to help me get past it
 * When my siblings and I were all kids, we tried to watch The NeverEnding Story (1984), and we all freaked out — couldn't do it
 * I remember knowing (middle school? high school?) that a logo should be easy to draw with a single pen — not dependent on shading or color
-* I remember releasing a theme for Textpattern (high school?) and having someone online say that it had design depth, that it wasn't for amateurs
