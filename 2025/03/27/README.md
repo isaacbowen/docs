@@ -75,6 +75,10 @@ I wonder if my soul-self figured out its side of things, and in this incarnation
 
 ***
 
+I read the synopsis of the original Neverending Story novel earlier, and _wow_, the themes of memory and identity and storywork...
+
+***
+
 stories loop unless you finish them on purpose?
 
 ***

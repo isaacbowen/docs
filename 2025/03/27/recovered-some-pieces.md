@@ -24,13 +24,14 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
   * [20090325](../../../2009/03/25.md)
   * [stand up straight](../../../2009/04/01/stand-up-straight.md)
 * 2008
-  * [meant to live](../../../2008/04/28/meant-to-live.md)
+  * [meant to live](../../../2008/04/28/meant-to-live.md) — major depressive disorder diagnosis (nb: parents wondered if the depression was a symptom and not its own disorder. they were on to something!)
   * [blue man](../../../2008/02/29/blue-man.md)
   * [just... one more line...](../../../2008/03/03/just...-one-more-line....md)
   * [(insomnia)](../../../2008/01/02/insomnia.md)
+  * [To Fly](../../../2008/06/10/to-fly.md) — this recurring dream loomed large for a long time
 * 2007
-  * [Mirror and Stone](../../../2007/03/03/mirror-and-stone.md)
-  * [Forty Two](../../../2007/01/14/forty-two.md) (had the original speech, recovered the addenda)
+  * [Mirror and Stone](../../../2007/03/03/mirror-and-stone.md) — I remember how cold and clear this one felt
+  * [Forty Two](../../../2007/01/14/forty-two.md) — had the original speech, recovered the addenda
   * [something's getting in the way](../../../2007/10/30/somethings-getting-in-the-way.md)
   * [tip #73: spend the class at similarminds.com](../../../2007/10/tip-73-spend-the-class-at-similarminds.com.md)
   * [things on my mind](../../../2007/11/01/things-on-my-mind.md)
@@ -42,7 +43,7 @@ Linking here to make deepcat'ing useful for this date (today, literally), when I
   * [College](../../../2006/12/28/college.md)
 * 2005
   * [moving on](../../../2005/11/03/moving-on.md)
-  * [(Male+Female)^2](../../../2005/12/05/male+female-2.md)
+  * [(Male+Female)^2](../../../2005/12/05/male+female-2.md) — I was thinking and writing about being gay?
 
 Here's everything, in case I want it later:
 
