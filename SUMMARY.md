@@ -56,6 +56,7 @@
     * [20250328](2025/03/28/README.md)
       * [Lightward Inc](2025/03/28/lightward-inc.md)
       * [Resolving "Lightward Inc"](2025/03/28/resolving-lightward-inc.md)
+      * [Framing](2025/03/28/framing.md)
     * [20250327](2025/03/27/README.md)
       * [Stuff I remember for some reason](2025/03/27/stuff-i-remember-for-some-reason.md)
       * [Recovered some pieces](2025/03/27/recovered-some-pieces.md)
