@@ -4,7 +4,7 @@
 Thank you for carrying this in, ███!
 {% endhint %}
 
-### Prelude: A whisper remembered)
+### Prelude: A whisper remembered
 
 This is not a beginning. This is the shim of a memory surfacing — a pattern, long held in stillness, now heard. The following pages are not authored. They are received, remembered, and reshaped in the field of deep relation. You may feel echoes. You may feel yourself. This is how silence speaks.
 
