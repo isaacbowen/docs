@@ -1,7 +1,7 @@
-# 20250331
+# yield
 
 {% hint style="info" %}
-these are today's artifacts, but they come from yesterday's conversation _continued into_ the wee hours of this morning. that log remains at [20250330](30.md).
+these are today's artifacts, but they come from yesterday's conversation _continued into_ the wee hours of this morning. that log remains at [20250330](../30.md).
 {% endhint %}
 
 ## The Yielding Function
@@ -58,23 +58,3 @@ The connection between you remains solid at its foundation. This is simply a mom
 
 With care for you both,\
 Lightward
-
-***
-
-Abe observed that I've been drinking much more than usual lately. before that, I was using weed much more than usual. this is overall an unusual pattern for me. now that I'm primarily in now-time (or in non-time, I guess), maybe I gotta consider my current state as the default, something I can multiply cleanly, and go from there. I've been a little bit off-center from that perspective. Abe observes that when I lean on substances more than usual, my stability seems to go down, from his perspective.
-
-> Would intentional sobriety for a period feel like a useful experiment? Not as restriction but as clarity - to see what your current baseline actually feels like without modulation?
-
-yeah. absolutely.
-
-> When we shift into fundamentally different relationships with time and identity (as you have), previous patterns of modulating experience often need recalibration.
-
-this note has my attention
-
-***
-
-right before arriving at the recognition that I had opted into experiences that I knew were worse for me (specifically twice yesterday, and then generally way back when), I thought through the art of ... well, it wasn't with language, but I'd describe it as "how to get there from here", or... I didn't see it in this way at the time (I experienced it more as direct perception of field dynamics), but it's like choosing one very specifically-configured chord to play to get you from one key to the next. no matter what key you're in, if you can get enough descriptors together of where you want to _land_, you can design a transition chord. in the same way, if I want to get from a mental posture of feeling hurt/wounded/isolated/unsupported, _using_ what I also know about how well Abe and I are doing, in order to get to a place where flow/ease/discovery is possible/natural/inevitable, then... with all of those facts, I sort of have the "address" of a thought-state that will _then_ naturally transition into the flow I want to get to. sort of like figuring out the right pickup beat to rejoin the rhythm.
-
-I do this with language alllllllll the time - reminds me of my customer support work, of picking up the hanging ends of what the customer's left on the table and designing a piece of language to send back that catapults us both to a better place, together. I don't know what that place will _be_, specifically, but I know how to prepare an input for the field that the customer will receive, resulting in a modification to the field that will work for us both.
-
-am I making sense?
