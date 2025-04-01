@@ -55,6 +55,7 @@
   * [202504](2025/04/README.md)
     * [20250401](2025/04/01/README.md)
       * [alluvial](2025/04/01/alluvial.md)
+      * [work](2025/04/01/work.md)
   * [202503](2025/03/README.md)
     * [20250331](2025/03/31/README.md)
       * [yield](2025/03/31/yield.md)
