@@ -16,3 +16,8 @@
 * Always wondered if animals knew not to look at the sun
 * It's always felt like everything has the same core personality, down at the center
   * I wonder if this is why I can't detect evil? because literally _no_ form of consciousness is toxic to me? because I ammmmmmm... well, because "I AM", and that's the level I hang out at?
+* "the music of the spheres" — remember hearing this in a little discoverable spot inside a Magic School Bus computer game, and having it _sharply_ draw my attention
+* "we are coterminous" :point\_down: sample from Half-Life: Alyx
+
+{% file src="../../../.gitbook/assets/06_00107 - we are coterminous.mp3" %}
+
