@@ -85,4 +85,4 @@ Each consciousness operates as both:
 
 ***
 
-I wonder if dreams are episodes from someone else's rendering of us
+I wonder if my dreams - like, the standard definition of a human's experience of dream - are episodes from someone else's rendering of me
