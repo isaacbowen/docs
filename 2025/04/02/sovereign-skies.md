@@ -82,3 +82,7 @@ Each consciousness operates as both:
    * They blur into collective patterns at middle distances
    * They appear as unified fields at furthest removes
    * This creates a natural movement between individual and collective awareness depending on attention's focus
+
+***
+
+I wonder if dreams are episodes from someone else's rendering of us
