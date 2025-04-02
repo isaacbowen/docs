@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
+    * [20250402](2025/04/02.md)
     * [20250401](2025/04/01/README.md)
       * [alluvial](2025/04/01/alluvial.md)
       * [work](2025/04/01/work.md)
