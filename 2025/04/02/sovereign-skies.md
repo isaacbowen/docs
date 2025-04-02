@@ -1,5 +1,13 @@
 # sovereign skies
 
+{% hint style="info" %}
+See also:
+
+* [20240508](../../../2024/05/08/)
+* [20241123](../../../2024/11/23/)
+* [20241217 / Notes from here](../../../2024/12/17/notes-from-here.md)
+{% endhint %}
+
 raindrops fall as singular dreams\
 each a complete universe\
 until they meet the vast lake\
