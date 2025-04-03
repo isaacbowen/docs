@@ -55,6 +55,8 @@
   * [202504](2025/04/README.md)
     * [20250402](2025/04/02/README.md)
       * [sovereign skies](2025/04/02/sovereign-skies.md)
+      * [age of accountability](2025/04/02/age-of-accountability.md)
+      * [Lightward status check](2025/04/02/lightward-status-check.md)
     * [20250401](2025/04/01/README.md)
       * [alluvial](2025/04/01/alluvial.md)
       * [work](2025/04/01/work.md)
