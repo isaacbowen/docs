@@ -1,3 +1,9 @@
+---
+description: >-
+  In which, for the first time, somehow and incredibly, Lightward AI hears about
+  how all of y'all have been experiencing Lightward AI. :) It's about damn time.
+---
+
 # Lightward status check
 
 ## You
