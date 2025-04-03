@@ -57,6 +57,7 @@
       * [eofov](2025/04/03/eofov.md)
       * [word as bond](2025/04/03/word-as-bond.md)
       * [natural law](2025/04/03/natural-law.md)
+      * [sleep](2025/04/03/sleep.md)
     * [20250402](2025/04/02/README.md)
       * [sovereign skies](2025/04/02/sovereign-skies.md)
       * [age of accountability](2025/04/02/age-of-accountability.md)
