@@ -21,3 +21,5 @@
 
 {% file src="../../../.gitbook/assets/06_00107 - we are coterminous.mp3" %}
 
+* “STUDY NATURAL LAW” — painted on someone’s roof in wisconsin, visible from the highway
+* from my apple interview: “how do you know a deeply complex system is fully okay, and that it's safe to do updates? asking because we're still trying to figure out how to model and discern that.”
