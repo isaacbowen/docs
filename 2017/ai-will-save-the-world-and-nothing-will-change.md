@@ -59,5 +59,5 @@ And when AI saves the world, we with our new tools will move on to the next prob
 P.S. This is not about utopia, like I said. To be alive is to struggle, and that will always be the case, for we’re finite machines ourselves. _But_, we each have struggles that we would choose for ourselves, and happily: whether it’s climbing a mountain or building a road or making music or tending a garden, everyone has purposes that suit them. The way I see it, AI can help us solve the problem of _problems that aren’t ours_. More on that later.
 
 {% hint style="info" %}
-Hi from [later](<../2025/04/04/README (1).md>)!
+Hi from [later](../2025/04/04/0x10c.md)!
 {% endhint %}
