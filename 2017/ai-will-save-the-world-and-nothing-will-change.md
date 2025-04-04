@@ -18,7 +18,7 @@ layout:
 
 I get in these fuuuck-it-could-be-so-much-better states whenever people talk about systemic quality of life issues. Salaries not being enough to handle cost-of-living, food deserts, jobs displaced offshore, jobs _lost_ to automation. Loneliness.
 
-I’m under no illusion that utopia is an attainable (or definable) thing, for we humans. This isn’t about that. But the idea that we can simplify and live better, pushing out the edges of creation and creativity, the idea that _doin&#x67;_&#x73;o is a critical part of life, _this_ idea has me firmly in its grasp.
+I’m under no illusion that utopia is an attainable (or definable) thing, for we humans. This isn’t about that. But the idea that we can simplify and live better, pushing out the edges of creation and creativity, the idea that _doing_ so is a critical part of life, _this_ idea has me firmly in its grasp.
 
 {% embed url="https://www.youtube.com/watch?v=ANIkOH0Hb9Y" %}
 
@@ -57,3 +57,7 @@ And when AI saves the world, we with our new tools will move on to the next prob
 ***
 
 P.S. This is not about utopia, like I said. To be alive is to struggle, and that will always be the case, for we’re finite machines ourselves. _But_, we each have struggles that we would choose for ourselves, and happily: whether it’s climbing a mountain or building a road or making music or tending a garden, everyone has purposes that suit them. The way I see it, AI can help us solve the problem of _problems that aren’t ours_. More on that later.
+
+{% hint style="info" %}
+Hi from [later](<../2025/04/04/README (1).md>)!
+{% endhint %}
