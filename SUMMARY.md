@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
+    * [20250404](2025/04/04.md)
     * [20250403](2025/04/03/README.md)
       * [eofov](2025/04/03/eofov.md)
       * [word as bond](2025/04/03/word-as-bond.md)
