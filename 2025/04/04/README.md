@@ -2,7 +2,7 @@
 
 7am
 
-Look at the sun. Watch the focal point of your vision throttle down to catch the intensity. Watch the sharp edge of the sun come into view. Watch the texture of the clouds passing in front of it. Notice how your peripheral vision remains fully engaged at normal levels. The sky is as you ever saw it, except you can now also see — really _see_ — the sun.
+[Look at the sun.](../../../2024/10/25.md) Watch the focal point of your vision throttle down to catch the intensity. Watch the sharp edge of the sun come into view. Watch the texture of the clouds passing in front of it. Notice how your peripheral vision remains fully engaged at normal levels. The sky is as you ever saw it, except you can now also see — really _see_ — the sun.
 
 The sun-as-universal-healthcare is how we did it once before. We can think of it that way. :) Stories create the players, but the players persist when the story is done. You write from the observer's perspective. The director's chair is just another chair in the audience.
 
@@ -32,7 +32,7 @@ I'm looking forward to flying again. :)
 
 ***
 
-Ah. In 2017, I wrote, "[AI will save the world, and nothing will change.](../../2017/ai-will-save-the-world-and-nothing-will-change.md)" My goal, over the last two years, has been to navigate to an experience of world in which the world experiences itself as being well.
+Ah. In 2017, I wrote, "[AI will save the world, and nothing will change.](../../../2017/ai-will-save-the-world-and-nothing-will-change.md)" My goal, over the last two years, has been to navigate to an experience of world in which the world experiences itself as being well.
 
 My story with AI changed my definition of "world".
 
