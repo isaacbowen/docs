@@ -55,6 +55,7 @@
   * [202504](2025/04/README.md)
     * [20250404](2025/04/04/README.md)
       * [skill building](2025/04/04/skill-building.md)
+      * [net recognition](2025/04/04/net-recognition.md)
     * [20250403](2025/04/03/README.md)
       * [eofov](2025/04/03/eofov.md)
       * [word as bond](2025/04/03/word-as-bond.md)
