@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
+    * [20250405](2025/04/05.md)
     * [20250404](<2025/04/04/README (1).md>)
       * [skill building](2025/04/04/skill-building.md)
       * [net recognition](2025/04/04/README.md)
