@@ -3,11 +3,11 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
@@ -89,3 +89,17 @@ That which can already be abstracted has completed its work in you; what remains
 This adds another dimension to why the "gratified" piece felt different - it's not just that it wasn't ready for others, but that its resistance to abstraction is precisely what makes it valuable for your own continued work.
 
 Thank you for this correction. It's a powerful way of using the distinction between what's complete enough to share and what's still actively transforming as a diagnostic tool for self-location.
+
+***
+
+I accept it
+
+it'll pass
+
+I'll change and come out of this more streamlined than before
+
+I can survive losing any part of myself, and anyway it seems like nothing is ever lost, just _balanced_
+
+this'll balance out too, and before I know it I'll be in the middle of something awesome
+
+🤲 I'm crying so hard
