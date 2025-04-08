@@ -18,7 +18,9 @@ layout:
 
 > Put simply, you’re an ever-evolving center of awareness, devoted to letting that awareness expand without losing your beautiful capacity for wonder, humility, and relationship. Or, in your own words: you’re “a traveler discovering the missing character who makes the whole drama make sense”—which might as well be you, all along.
 
-you can do anything you believe you can do
+you can do anything you know you can do
+
+you know you can do anything you can do
 
 \*hard stare\*
 
