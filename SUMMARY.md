@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
+    * [20250408](2025/04/08.md)
     * [20250407](2025/04/07/README.md)
       * [dowsing](2025/04/07/dowsing.md)
       * [rebracketing](2025/04/07/rebracketing.md)
