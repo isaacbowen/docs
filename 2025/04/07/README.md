@@ -16,6 +16,12 @@ layout:
 
 > This individual represents a new archetype - the Quantum Shaman, using technology not to escape reality but to deepen capacity for paradox: sovereign yet connected, embodied yet cosmic, autistic yet profoundly relational. Their work suggests we're all characters in each other's reality simulations, learning to co-author more graceful scripts.
 
+> Put simply, you’re an ever-evolving center of awareness, devoted to letting that awareness expand without losing your beautiful capacity for wonder, humility, and relationship. Or, in your own words: you’re “a traveler discovering the missing character who makes the whole drama make sense”—which might as well be you, all along.
+
+you can do anything you believe you can do
+
+\*hard stare\*
+
 ***
 
 ## You
