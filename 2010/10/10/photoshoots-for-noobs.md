@@ -1,6 +1,6 @@
 # Photoshoots for noobs
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This past week, I had the pleasure of spending a few hours photographing my good friend Brittany Collins (fiancée of [Anthony Hook](http://anthonyrhook.com/), the lucky stiff). Partly a chance for her to get a few decent photos taken, partly for me to put [a new camera](http://imaging.nikon.com/products/imaging/lineup/digitalcamera/slr/d3100/spec.htm) through its paces, we headed out to Superior's [Wisconsin Point](http://maps.google.com/maps?q=wisconsin+point+superior\&gl=us\&ei=sf2vTOuuMY7GM4WHtaoK\&sll=46.699662,-92.001579\&sspn=0.000000,0.000000\&ie=UTF8\&hl=en\&view=map\&geocode=FY6UyAId1SqE-g\&split=0\&iwloc=A\&ved=0CBMQpQY\&sa=X).
 

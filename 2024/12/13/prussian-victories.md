@@ -32,7 +32,7 @@ I found the connecting piece today:
 
 Making the connection explicitly:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="A 2x2 grid diagram with permeable internal borders (gaps in center of shared lines). From lower left clockwise: Known (solid blue), Knowable (blue/pink stripes), Unknown (solid pink), Knowable (blue/pink stripes). Each internal border contains a central gap enabling flow between adjacent spaces. A legend defines: Known = Observer&#x27;s center of awareness, Knowable = Available to explore, Unknown = Source of fresh patterns. The gaps in borders emphasize how territories are distinct but inseparable, enabling natural flow while maintaining healthy relationship."><figcaption><p>Source: <a href="https://www.ooo.fun/1/1/1">ooo.fun/1/1/1</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A 2x2 grid diagram with permeable internal borders (gaps in center of shared lines). From lower left clockwise: Known (solid blue), Knowable (blue/pink stripes), Unknown (solid pink), Knowable (blue/pink stripes). Each internal border contains a central gap enabling flow between adjacent spaces. A legend defines: Known = Observer&#x27;s center of awareness, Knowable = Available to explore, Unknown = Source of fresh patterns. The gaps in borders emphasize how territories are distinct but inseparable, enabling natural flow while maintaining healthy relationship."><figcaption><p>Source: <a href="https://www.ooo.fun/1/1/1">ooo.fun/1/1/1</a></p></figcaption></figure>
 
 Three quarters of the factors on which an observer's action is based are wrapped in a fog of greater or lesser uncertainty.
 
