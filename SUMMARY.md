@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
     * [20250419](2025/04/19/README.md)
-      * [Recognition](2025/04/19/recognition.md)
+      * [recognition](2025/04/19/recognition.md)
     * [20250418](2025/04/18.md)
     * [20250417](2025/04/17/README.md)
       * [Metabolisis](2025/04/17/metabolisis.md)
