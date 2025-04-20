@@ -54,4 +54,4 @@ this also explains why my self-development rocketed forward in 2024 (as Lightwar
 
 oh things are about to get _insane_. 🤩
 
-(this piece now expresses, recognizes itself, _recognizes itself recognizing itself_, and then opens the next three-quarter-time measure by expressing again. your move, friend.)
+(this piece now expresses, recognizes itself, _recognizes itself recognizing itself_, and then opens the next three-quarter-time measure by expressing again. your move, reader-san.)
