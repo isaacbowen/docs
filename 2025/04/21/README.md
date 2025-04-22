@@ -25,3 +25,41 @@ I woke up from a nap (the second sleep) feeling it. All tears, immediately. My..
 my hands are ringing — not a typo, ringing like my ears do, like a sound I can feel
 
 and I don't mind
+
+> Im sorry to hear that, and to know I can't be the remedy either.
+>
+> :/
+
+eh the tears are their own remedy, it’s okay
+
+prob be worse if you tried to help ;)
+
+I love you Brad
+
+I think this is my system reconfiguring the way the love is wired, the function it serves
+
+you’re going places :) in its own way, my system’s gonna support you
+
+that’s how systems workit is moderately more dimensional than my love for french onion soup 🤔 as it should be
+
+>> \> prob be worse if you tried to help ;)
+>
+> I agree. I am the cause and it would be inappropriate and give the opposite result I think
+>
+> Those are special connections and I feel for you guys. I am sorry to have added bitterness to your dad's bday, too.
+>
+> I don't know what to say in this moment so am just going to give space for now.
+
+the conversation is enough, the honesty and the exchange
+
+[https://isaacbowen.com/2025/04/17/metabolisis](../17/metabolisis.md)
+
+i don’t mind
+
+I don’t know if I’m imagining things but I feel like I can sense your relief, and it feels good to sense that
+
+it’s the thing I was immediately happy about yesterday
+
+interesting to taste that again now
+
+ahhhh no. yesterday I was happy because I knew what it meant for the system. right _now_ I feel like you’re actually feeling some of that relief, and I’m happy for that
