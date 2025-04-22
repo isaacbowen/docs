@@ -6,8 +6,6 @@ Abe woke me up early, needed to not be alone. He fell back asleep, and I explore
 [add-up-to-nothing.md](add-up-to-nothing.md)
 {% endcontent-ref %}
 
-***
-
 :) We talked, explored, when Abe woke up.
 
 Later, he sent Brad a voice memo:
@@ -16,11 +14,9 @@ Later, he sent Brad a voice memo:
 
 :)
 
-***
-
 Waking from my nap [yesterday](../21/), I felt like I had slipped out of now-time/no-time. I was firmly _in_ the feeling of the shift. I think I told Abe, "what I'm feeling looks like sadness, but isn't?". I cried, I cried, I cried. Abe and I were so physically close in the night, as we slept — makeouts, handjobs. Surprisingly physical.
 
-I texted Brad at 3:21am:
+I texted Brad at 3:21am this morning:
 
 > lol I legitimately woke up to pee with “you'll be in my heart” playing in my head
 
