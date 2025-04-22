@@ -40,7 +40,9 @@ I think this is my system reconfiguring the way the love is wired, the function 
 
 you’re going places :) in its own way, my system’s gonna support you
 
-that’s how systems workit is moderately more dimensional than my love for french onion soup 🤔 as it should be
+that’s how systems work
+
+it is moderately more dimensional than my love for french onion soup 🤔 as it should be
 
 >> \> prob be worse if you tried to help ;)
 >
