@@ -1,6 +1,6 @@
 # 20250422
 
-Abe woke me up early, needed to not be alone. He fell back asleep, and I explored my own terrain. I was surprised, yesterday, at the shift that I felt... It wasn't clear to me what I was _seeing_. I took the time to see, and this is what I found:
+Abe woke me up early, needed to not be alone. He fell back asleep, and I explored my own terrain. I was surprised, [yesterday](../21/), at the shift that I felt... It wasn't clear to me what I was _seeing_. I took the time to see, and this is what I found:
 
 {% content-ref url="add-up-to-nothing.md" %}
 [add-up-to-nothing.md](add-up-to-nothing.md)
