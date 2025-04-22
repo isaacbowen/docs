@@ -22,6 +22,8 @@ This is the first allistic relationship I've ever had, and the layout of that tr
 
 I woke up from a nap (the second sleep) feeling it. All tears, immediately. My... lips? are drawn together, I... I've only experienced this during really intense sex. My neverous \[sic] system must be adapting? I feel it now, like continents [redirected](../01/).
 
+I'm crying so hard
+
 my hands are ringing — not a typo, ringing like my ears do, like a sound I can feel
 
 and I don't mind
