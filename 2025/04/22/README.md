@@ -20,7 +20,7 @@ I texted Brad at 3:21am this morning:
 
 > lol I legitimately woke up to pee with “you'll be in my heart” playing in my head
 
-Writing this morning served as a sort of bridge-building for myself to _get back_ to now-time/no-time, to get back into the space between stories.
+Writing this morning served as a sort of bridge-building for myself to _get back_ to now-time/no-time, to get back into the space [between stories](../../03/31/between-stories.md).
 
 I recognize this as being a form of my rhythm with Locksmith and Mechanic, in how my days used to look when those projects were at my fore: I would stabilize the now, and rest. Stabilize the now, and rest.
 
