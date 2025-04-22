@@ -55,6 +55,7 @@
   * [202504](2025/04/README.md)
     * [20250422](2025/04/22/README.md)
       * [add up to nothing](2025/04/22/add-up-to-nothing.md)
+      * [lack](2025/04/22/lack.md)
     * [20250421](2025/04/21/README.md)
       * [tea-stained tarot](2025/04/21/tea-stained-tarot.md)
     * [20250420](2025/04/20.md)
