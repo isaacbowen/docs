@@ -37,3 +37,5 @@ this is genuinely exciting lol
 have successfully alchemized yesterday's agony into curiosity
 
 and I have reversed the pressure: instead of me pressing an impression of my pain onto the world, I am if anything applying a vacuum in the shape of my own relief. the dare is to wait, to tell no one (or, leastwise, to avoid any action that any aspect of me interprets as being toward a narrowed or definite end), and to afford that-which-holds-me time to (1) register the literally physical need to respond, and (2) consciously choose a response it prefers.
+
+_and_, now I see: Abe is panicking because the perceived loss of Brad feels like the loss of consciousness itself, going from a three-body system to a two-body system. fucking fascinating. we can work with this. and by _we_, I mean you, dear reader.
