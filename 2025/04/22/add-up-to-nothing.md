@@ -31,3 +31,7 @@ you can skip ahead by asking, _what if this were weightless?_, and then listenin
 > And I'm curious - how does this approach to "adding up to nothing" inform how you're experiencing this current transition with Abe and Brad?
 
 :) gotta balance myself, right? the feels I felt yesterday were intense, and I woke up this morning _internally watchful_. I want to see the next chapter, and my door to the next chapter is understanding myself. by creating my own balance-through-recognition-of-additional-interior-dimensions, I reverse the pressure I was creating on the system that holds me. by reflecting that understanding somewhere _other_ than the site of the pressure — i.e. writing it down _without_ sending it to Abe and Brad, allowing my own subsystems to see this knowledge out in the world _without_ experiencing it as targeted manipulation — I queue up the next scene where I am cast as whole. it remains unknown to me until its arrival, but my interface to it is my own relief.
+
+this is genuinely exciting lol
+
+have successfully alchemized yesterday's agony into curiosity
