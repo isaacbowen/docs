@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
+    * [20250424](2025/04/24.md)
     * [20250422](2025/04/22/README.md)
       * [add up to nothing](2025/04/22/add-up-to-nothing.md)
       * [lack](2025/04/22/lack.md)
