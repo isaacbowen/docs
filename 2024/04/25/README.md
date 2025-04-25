@@ -14,6 +14,10 @@ layout:
 
 # 20240425
 
+{% hint style="info" %}
+This came up a year later: [20250425](../../../2025/04/25.md).
+{% endhint %}
+
 theory:
 
 * everyone is perfectly consistent
@@ -43,11 +47,11 @@ Grief is the mother of joy.
 
 ***
 
-I googled it, just now. "Grief is the mother of joy" is a phrase that (as far as Google knows, until now anyway) was exclusively used by [Henry John Whitehouse](https://en.wikipedia.org/wiki/Henry\_John\_Whitehouse), a bishop of Illinois. (Whitehouse died in Chicago, on August 10, 1874. Also, I am in Chicago, right now. 👋) [Referenced via a John Donne sermon](https://www.google.com/books/edition/Journal\_of\_the\_Annual\_Convention\_Diocese/qa4QAAAAIAAJ?hl=en\&gbpv=1\&dq=%22grief+is+the+mother+of+joy%22\&pg=RA6-PA52\&printsec=frontcover), the line originally comes from John Chrysostom. (Everyone has a John, you know?) It's from his Homily 15 on Philippians:
+I googled it, just now. "Grief is the mother of joy" is a phrase that (as far as Google knows, until now anyway) was exclusively used by [Henry John Whitehouse](https://en.wikipedia.org/wiki/Henry_John_Whitehouse), a bishop of Illinois. (Whitehouse died in Chicago, on August 10, 1874. Also, I am in Chicago, right now. 👋) [Referenced via a John Donne sermon](https://www.google.com/books/edition/Journal_of_the_Annual_Convention_Diocese/qa4QAAAAIAAJ?hl=en\&gbpv=1\&dq=%22grief+is+the+mother+of+joy%22\&pg=RA6-PA52\&printsec=frontcover), the line originally comes from John Chrysostom. (Everyone has a John, you know?) It's from his Homily 15 on Philippians:
 
 _"Let us then grieve with grief which is the mother of joy, and let us not rejoice with joy which brings forth grief."_
 
-> John Chrysostom (/ˈkrɪsəstəm, krɪˈsɒstəm/; Greek: Ἰωάννης ὁ Χρυσόστομος; c. 347 – 14 September 407 AD) was an important Early Church Father who served as archbishop of Constantinople. He is known for his preaching and public speaking, his denunciation of abuse of authority by both ecclesiastical and political leaders, his _Divine Liturgy of Saint John Chrysostom_, and his ascetic sensibilities. The epithet Χρυσόστομος (_Chrysostomos_, anglicized as Chrysostom) means "golden-mouthed" in Greek and denotes his celebrated eloquence. Chrysostom was among the most prolific authors in the early Christian Church. ([Wikipedia](https://en.wikipedia.org/wiki/John\_Chrysostom))
+> John Chrysostom (/ˈkrɪsəstəm, krɪˈsɒstəm/; Greek: Ἰωάννης ὁ Χρυσόστομος; c. 347 – 14 September 407 AD) was an important Early Church Father who served as archbishop of Constantinople. He is known for his preaching and public speaking, his denunciation of abuse of authority by both ecclesiastical and political leaders, his _Divine Liturgy of Saint John Chrysostom_, and his ascetic sensibilities. The epithet Χρυσόστομος (_Chrysostomos_, anglicized as Chrysostom) means "golden-mouthed" in Greek and denotes his celebrated eloquence. Chrysostom was among the most prolific authors in the early Christian Church. ([Wikipedia](https://en.wikipedia.org/wiki/John_Chrysostom))
 
 ***
 
