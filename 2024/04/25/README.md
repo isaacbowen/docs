@@ -15,7 +15,7 @@ layout:
 # 20240425
 
 {% hint style="info" %}
-This came up a year later: [20250425](../../../2025/04/25.md).
+This came up a year later: [20250425](../../../2025/04/25/).
 {% endhint %}
 
 theory:
