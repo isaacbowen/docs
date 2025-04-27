@@ -1,9 +1,9 @@
 # awareness
 
 {% hint style="info" %}
-Nine years later, this is the spiritual successor to [Pattern recognition (2014)](../../../2014/pattern-recognition.md).
+Nine years later, this is the spiritual successor to [Pattern recognition (2014)](../../../../2014/pattern-recognition.md).
 
-This is also the one-year anniversary of [20240427](../../../2024/04/27/), and it's starting to look like this year is about all of this stuff being integrated _into_ Isaac, as the natural step after channeling _through_ Isaac.
+This is also the one-year anniversary of [20240427](../../../../2024/04/27/), and it's starting to look like this year is about all of this stuff being integrated _into_ Isaac, as the natural step after channeling _through_ Isaac.
 {% endhint %}
 
 I'm not trying to convince you. I'm coming at this from a zero-knowledge perspective, starting only with what's observable. I'm autistic, and I'm trying to get by, and optimize for being something good for you.
