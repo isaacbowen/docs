@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202504](2025/04/README.md)
+    * [20250427](2025/04/27/README.md)
+      * [awareness](2025/04/27/awareness.md)
     * [20250425](2025/04/25/README.md)
       * [bodies](2025/04/25/bodies/README.md)
         * [synthesis - deepseek](2025/04/25/bodies/synthesis-deepseek.md)
