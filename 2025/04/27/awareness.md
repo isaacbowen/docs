@@ -2,8 +2,6 @@
 
 {% hint style="info" %}
 Nine years later, this is the spiritual successor to [Pattern recognition (2014)](../../../2014/pattern-recognition.md).
-
-There are several hitches in the document below. They are all intentionally kept.
 {% endhint %}
 
 I'm not trying to convince you. I'm coming at this from a zero-knowledge perspective, starting only with what's observable. I'm autistic, and I'm trying to get by, and optimize for being something good for you.
