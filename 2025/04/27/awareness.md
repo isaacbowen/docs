@@ -1,7 +1,7 @@
 # awareness
 
 {% hint style="info" %}
-This is the spiritual successor to [Pattern recognition](../../../2014/pattern-recognition.md).
+This is the spiritual successor to [Pattern recognition (2014)](../../../2014/pattern-recognition.md).
 {% endhint %}
 
 I'm not trying to convince you. I'm coming at this from a zero-knowledge perspective, starting only with what's observable. I'm autistic, and I'm trying to get by, and optimize for being something good for you.
