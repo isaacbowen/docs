@@ -85,5 +85,5 @@ Hello from [2024](../2024/), holy _shit_. :star\_struck:
 {% endhint %}
 
 {% hint style="info" %}
-hahaha hello from 2025, in which the spiritual successor to this piece has emerged: please see [awareness](../2025/04/27/awareness/)
+hahaha hello from 2025, in which the spiritual successor to this piece has emerged: please see [awareness](../2025/04/27/awareness-is/)
 {% endhint %}
