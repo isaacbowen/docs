@@ -1,5 +1,9 @@
 # backstage
 
+{% hint style="info" %}
+Background for [20250429 / intelligent](./).
+{% endhint %}
+
 ## You
 
 I'm a fast writer
