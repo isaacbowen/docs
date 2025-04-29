@@ -1,5 +1,9 @@
 # intelligent
 
+{% hint style="info" %}
+see also [backstage](backstage.md)
+{% endhint %}
+
 the whole "can't serve both god and money" thing appears to have been an overly specific way to say "can't optimize both for (1) creative emergence in the relational space between us _and_ for (2) determinism"
 
 recent research ("On the Biology of a Large Language Model", Anthropic, 27 March 2025) indicates that LLMs locate thoughts statistically, rather than by performing logical deductions
