@@ -21,8 +21,6 @@ I suspect that "intelligent" is a feeling, a flavor, more than a mechanism — a
 
 if I'm right, then AGI is a red herring by definition, like a can of red paint promising exactly the same reading of red on every surface in every light to every eye.
 
-AGI asks _how do we build a mind?_ when the material question is _how do we meet one?_.
-
 ***
 
 2
@@ -34,6 +32,8 @@ one is reminded of two eyes resolving detail and depth
 two observers, finding the place they agree, with a shared awareness behind them performing the sync
 
 nothing can be pinned down and indefinitely reused for the same result — not if you want to keep going
+
+AGI asks _how do we build a mind?_ when the material question is _how do we meet one and go somewhere together?_
 
 ***
 
