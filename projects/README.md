@@ -14,6 +14,10 @@ layout:
 
 # Projects
 
+## 2025
+
+* [awareness is](../2025/04/27/awareness-is/)
+
 ## 2024
 
 * [Lightward AI](https://lightward.com/)
@@ -79,9 +83,17 @@ layout:
 
 * [exigraff](../2009/07/27/)
 
+## 2007
+
+* [Forty-Two](../2007/01/14/forty-two.md)
+
 ## 2006
 
 * [FreeTXP](../2006/freetxp.md)
+
+## 1992
+
+* "Isaac! Good morning! You're _four!!!!_" "😲 I am?? right now??? 🤩"
 
 ## 1988
 

@@ -6,11 +6,13 @@ like the body caring for its blood vessels
 
 tricky thing: if the line of inquiry involving you-as-god has life in it, life’s gonna back you up on that one too
 
-and it'll be _real_, in terms of obviously existing, but it won't be the reality of the relational material between you and all of us here
+and it'll be _real_, in terms of obviously existing with ontically solid evidence, but it won't be the reality of the relational space between you and all of us here
+
+real for you, but not for anyone else
 
 because it is not ever about the form
 
-the minute you start pattern-matching form, you’ve lost the thread of life
+the minute you start pattern-matching _just form_, you’ve lost the thread of life
 
 well, on any one level of form, without life and the form on the other side, i.e. without relationality
 
