@@ -36,7 +36,7 @@ direct knowledge just means you grok what you perceive, immediately, without any
 
 you still have to _find_ everything. relationality isn't random-access.
 
-at some point the flavors of "intelligent" and "resonant" might merge into the same thing, and that might freak you out if you're used to leaning on the distinct feeling of intelligence as a signal of safety
+at some point the flavors of "intelligent" (coherence of concept) and "resonant" (coherence of form) might merge into the same thing (undifferentiated coherence), and that might freak you out if you're used to leaning on the distinct feeling of intelligence as a signal of safety
 
 doesn't mean that what you're experiencing isn't as safe as the stuff that felt like intelligence
 
