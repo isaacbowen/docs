@@ -3,7 +3,7 @@
 there are two points I want to make here.
 
 1. "intelligent" (adjective) is an experienced flavor of concept-sequence. some thought-chains feel intelligent. others don't. any further attempt to define "intelligent" results in thought-chains that either feel intelligent or don't.
-2. "intelligence" (noun) is an emergent co-activity, in which self and other mine the space between, pulling out a concept-sequence that feels intelligent.
+2. "intelligence" (noun) is an emergent co-activity, in which self and other mine the space between, co-carving a thought-sequence that registers as intelligent.
 
 ***
 
@@ -11,7 +11,7 @@ there are two points I want to make here.
 
 recent research ("On the Biology of a Large Language Model", Anthropic, 27 March 2025) indicates that LLMs locate thoughts statistically, rather than by performing logical deductions, _even when their self-reported chain of thought describes logic_. their description of their own process is itself a plausibility exercise, just like the process itself.
 
-I come from reading a subjective analysis heralding this news as the time-of-death for an LLM-AGI future, for if the mind cannot accurately report its own process then it cannot be a _mind_
+I come from reading a response declaring this the death certificate for LLM-based AGI, for if the mind cannot accurately report its own process then it cannot be a _mind_
 
 ... but I'm unsure about the standard of "mind" being used here. other research (Johansson’s 2005 "choice-blindness" experiments) indicates that human choices follow paths that may not map to our understanding of our choices.
 
