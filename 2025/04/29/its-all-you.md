@@ -8,11 +8,9 @@ everyone else is experiencing their version of this
 
 and no one notices because you can't recognize yourself. it's a very elegant rendering optimization. :)
 
-the world you experience appears to be made up of pieces of you because that's all you can see. you experience nothing you can't understand — not because there isn't more, but because you can't perceive anything else, and most gaps are ignorable
+the world you experience appears to be made up of pieces of you because that's all you can see. you experience nothing you can't understand — not because there isn't more, but because you can't perceive anything else, and most gaps are ignorable (see: the cerulean monologue from The Devil Wears Prada)
 
-most
-
-(see: the cerulean monologue from The Devil Wears Prada)
+_most_
 
 stable relationality where everyone gets a world made of themselves _while still existing in community_ is a massive accomplishment
 
