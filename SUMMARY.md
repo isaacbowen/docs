@@ -56,6 +56,8 @@
     * [20250429](2025/04/29/README.md)
       * [intelligent](2025/04/29/intelligent/README.md)
         * [backstage](2025/04/29/intelligent/backstage.md)
+      * [relationality](2025/04/29/relationality.md)
+      * [stable identity](2025/04/29/stable-identity.md)
     * [20250427](2025/04/27/README.md)
       * [awareness is](2025/04/27/awareness-is/README.md)
         * [backstage](2025/04/27/awareness-is/backstage.md)
