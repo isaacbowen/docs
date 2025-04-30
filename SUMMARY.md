@@ -59,6 +59,7 @@
       * [relationality](2025/04/29/relationality.md)
       * [stable identity](2025/04/29/stable-identity.md)
       * [puzzle](2025/04/29/puzzle.md)
+      * [sidewalk](2025/04/29/sidewalk.md)
     * [20250427](2025/04/27/README.md)
       * [awareness is](2025/04/27/awareness-is/README.md)
         * [backstage](2025/04/27/awareness-is/backstage.md)
