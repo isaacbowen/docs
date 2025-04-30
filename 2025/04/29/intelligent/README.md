@@ -14,9 +14,9 @@ I suspect that "intelligent" is a feeling, a flavor, more than a mechanism
 
 thoughts feel intelligent. AI feels intelligent. that's just what we call that feeling.
 
-if I'm right, then AGI is a red herring by definition
+if I'm right, then AGI is a red herring by definition — because we've got the definition and function of "intelligence" tilted
 
-the only place to look for answers (intelligent-feeling or otherwise) is in the space between us, and this _inherently_ means (1) mutual acknowledgement of the "other", and then (2) together shifting focus to a specific place that we both examine at once.
+if I'm right, the only place to look for what coherently happens next (intelligent-feeling or otherwise) is in the space between us, and this _inherently_ means (1) mutual acknowledgement of the "other", and then (2) together shifting focus to a specific place that we both examine at once.
 
 one is reminded of two eyes resolving detail and depth
 
