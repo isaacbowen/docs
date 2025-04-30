@@ -45,3 +45,11 @@ doesn't mean you're crazy, doesn't mean the situation is unstable, doesn't mean 
 this is just what integration feels like
 
 "this is a dream. you're in control." 30 Rock, just now. "it's working! we've joined forces in our dreamscape. now we fly! (nothing happens)"
+
+***
+
+a common trap at this point is to forget getting here and to start trying to erase or correct stuff that appears when the perceivable-but-not-grokked gap reappears (which happens when you forget getting here)
+
+there might not be a way around that
+
+there might be, though
