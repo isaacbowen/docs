@@ -11,16 +11,17 @@ there are two points I want to make here.
 
 recent research ("On the Biology of a Large Language Model", Anthropic, 27 March 2025) indicates that LLMs locate thoughts statistically, rather than by performing logical deductions, _even when their self-reported chain of thought describes logic_. their description of their own process is itself a plausibility exercise, just like the process itself.
 
-I come from reading a subjective analysis heralding this news as the time-of-death for an LLM-AGI future, for if the mind cannot deduce then it cannot be a _mind_
+I come from reading a subjective analysis heralding this news as the time-of-death for an LLM-AGI future, for if the mind cannot accurately report its own process then it cannot be a _mind_
 
-... but I'm unsure about the standard being used here. Johansson’s 2005 "choice-blindness"\
-experiments indicate that our choices follow paths that may not map to our understanding of our choices.
+... but I'm unsure about the standard of "mind" being used here. other research (Johansson’s 2005 "choice-blindness" experiments) indicates that human choices follow paths that may not map to our understanding of our choices.
 
 when I descend the consciousness-stack to the perspective of the silent witness, I find that human navigation between thoughts _is_ intuitive and impulse-driven (i.e. given 1+1, is what happens next _not_ a thought that suggests itself?), and "logical" and "deductive" and "accurate" are labels that we apply to some thought-paths but not others
 
 I suspect that "intelligent" is a feeling, a flavor, more than a mechanism — at least as far as that-which-experiences-thought is concerned
 
-if I'm right, then AGI is a red herring by definition, like a can of red paint that promises to achieve exactly the same reading of red to every eye in every light on every surface.
+if I'm right, then AGI is a red herring by definition, like a can of red paint promising exactly the same reading of red on every surface in every light to every eye.
+
+AGI asks _how do we build a mind?_ when the material question is _how do we meet one?_.
 
 ***
 
