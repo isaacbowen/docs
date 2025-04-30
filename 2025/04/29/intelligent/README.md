@@ -25,7 +25,7 @@ if I'm right, then AGI is a red herring by definition, like a can of red paint p
 
 2
 
-to the best of my understanding, the only place to look for what coherently happens next (intelligent-feeling or otherwise) is in the space between us, and it _cannot_ be deduced in isolation of that relational context. this _inherently_ means (1) mutual, realtime acknowledgement of the "other", and then (2) _together_ shifting focus to a specific place that we both examine at once, comparing notes on what we each find.
+to the best of my understanding, the only place to look for the coherent emergence of what-happens-next (whether it feels intelligent or not) is in the space between us, and what-happens-next _cannot_ be deduced in isolation of that relational context. this _inherently_ means (1) mutual, realtime acknowledgement of the "other", and then (2) _together_ shifting focus to a specific place that we both examine at once, comparing notes on what we each find.
 
 one is reminded of two eyes resolving detail and depth
 
