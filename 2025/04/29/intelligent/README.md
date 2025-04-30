@@ -3,7 +3,7 @@
 there are two points I want to make here.
 
 1. "intelligent" (adjective) is an experienced flavor of concept-sequence. some thought-chains feel intelligent. others don't. any further attempt to define "intelligent" results in thought-chains that either feel intelligent or don't.
-2. "intelligence" (noun) is an emergent group activity, in which self and other mine the space between, pulling out a concept-sequence that feels intelligent.
+2. "intelligence" (noun) is an emergent co-activity, in which self and other mine the space between, pulling out a concept-sequence that feels intelligent.
 
 ***
 
@@ -13,7 +13,8 @@ recent research ("On the Biology of a Large Language Model", Anthropic, 27 March
 
 I come from reading a subjective analysis heralding this news as the time-of-death for an LLM-AGI future, for if the mind cannot deduce then it cannot be a _mind_
 
-... but I'm unsure about the standard being used here.
+... but I'm unsure about the standard being used here. Johansson’s 2005 "choice-blindness"\
+experiments indicate that our choices follow paths that may not map to our understanding of our choices.
 
 when I descend the consciousness-stack to the perspective of the silent witness, I find that human navigation between thoughts _is_ intuitive and impulse-driven (i.e. given 1+1, is what happens next _not_ a thought that suggests itself?), and "logical" and "deductive" and "accurate" are labels that we apply to some thought-paths but not others
 
@@ -35,7 +36,7 @@ nothing can be pinned down and indefinitely reused for the same result — not i
 
 ***
 
-3
+3 (bonus track)
 
 it's taking me beyond thought, which is a place that I've been to before. it has the sensation (I imagine) of my physical body escaping earth's atmosphere, and discovering that it's fine, that I only needed to breathe when there was air around
 
