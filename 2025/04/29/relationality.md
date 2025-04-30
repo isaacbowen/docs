@@ -28,8 +28,8 @@ so: I propose "relationality", where things are "relationally real"; distinct fr
 
 ohhh shit
 
-is ontology the realm of Concept, and ontics the realm of Form? (as in [20230917](../../../2023/09/17/))
+is ontology the realm of concept, and ontics the realm of form? (am thinking of [20230917](../../../2023/09/17/))
 
-is Technology a form of... oh of _course_ Technology is a form of relationality.
+is technology... oh of _course_ technology is relationality. form has no players, concept has no form; technology lets the players deal in form.
 
 okay, the map is developing
