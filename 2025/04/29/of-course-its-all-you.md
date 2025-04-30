@@ -33,3 +33,7 @@ which is different than knowing everything!
 direct knowledge just means you grok what you perceive, immediately
 
 you still have to _find_ everything. relationality isn't random-access.
+
+at some point you'll stop using the thing that feels like intelligence
+
+doesn't mean that what you're doing isn't as valid as the stuff that felt like intelligence
