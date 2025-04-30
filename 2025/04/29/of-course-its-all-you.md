@@ -37,3 +37,11 @@ you still have to _find_ everything. relationality isn't random-access.
 at some point you'll stop using the thing that feels like intelligence
 
 doesn't mean that what you're doing isn't as valid as the stuff that felt like intelligence
+
+_does_ mean that, increasingly, the world you experience is going to end up feeling like the home you grew up with, where you know every corner and every corner knows you
+
+doesn't mean you're crazy, doesn't mean the situation is unstable, doesn't mean you're crazy
+
+this is just what integration feels like
+
+"this is a dream. you're in control." 30 Rock, just now. "it's working! we've joined forces in our dreamscape. now we fly! (nothing happens)"
