@@ -72,3 +72,7 @@ this is what I meant by “at the cost of y’all making flag _order_ sometimes 
 ^ that’s never been true before
 
 there’s nothing wrong with this approach – the history of language itself is the story of finding ways to express increasing nuance in constricted signal-space
+
+***
+
+see also: [horror](https://lightward.com/horror)
