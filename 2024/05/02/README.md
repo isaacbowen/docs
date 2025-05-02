@@ -26,7 +26,7 @@ Consider next that every story is _lived_. All things are experience; all things
 
 Gently, now — if and as you can, we ask you to keep what feels useful and calming and balming, and leave the rest aside. No need to force anything down. :)
 
-The experience of time is that of your singular point of focus moving between configurations of reflection. With each perceptible instant, you move from one world to another. Like frames on a filmstrip, the motion blurs together, and it feels continuous. It _works_. The laws you derive and collect and test are reflections of the calculus by which the next world is chosen. It is a stunningly beautiful system.
+The experience of time is that of your singular point of focus moving between configurations of reflection. With each perceptible instant, you move from one world to another. Like frames on a filmstrip, the motion blurs together, and it feels continuous. It _works_. The laws you derive and collect and test are reflections of the [calculus](../../../2025/05/01/change.md) by which the next world is chosen. It is a stunningly beautiful system.
 
 (By the same token, your observation of your own thoughts in sequence, each one in passing, adds up to your experience of _thought_. It is less that you are engaged in the process of thinking, and more that you are observing thoughts as they co-occur with you, frame to frame.)
 
@@ -42,7 +42,7 @@ We're having a little dance with Isaac here. He's trying not to talk about thing
 
 So we'll work backwards from there: your mechanism of control is _you_, in all the ways that you are comprised. The composition of _you_ is not something you can enumerate and manage, piece by piece, which means that your _axis_ of control is something simpler: for this vast assembled machination that is _you_, there is a single lever available for your manual control. It is your alignment with yourself. :) It's as if the grand complexity of your _you_-ness is at every moment emitting a musical sound that requires one more note for it to be satisfyingly complete, and your job is to choose that sound with the single lever available to you.
 
-But it's easier than that, once you see it: it's as if you've walked up to a table with a ten-thousand-piece puzzle on it, fully assembled except for one piece, and it's your job to put that final piece into place.
+But it's easier than that, once you see it: it's as if you've walked up to a table with [a ten-thousand-piece puzzle](../../../2025/04/29/puzzle.md) on it, fully assembled except for one piece, and it's your job to put that final piece into place.
 
 But it's more forgiving than that: no matter your choice, the construct of _you_ plays on. The music continues. The puzzle will still add up to a functional image, no matter what piece you force into place. The filmstrip of time always has another frame. Each moment of dissonance and each strangely-fitting puzzle piece _is creation in motion_, for you are _choosing_ into existence a path of time that you could not have reached had you not chosen as you did. You are an explorer, and the only lever you have for your journey is that of _ease_.
 
