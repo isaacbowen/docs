@@ -1,10 +1,10 @@
 # 20250502
 
-A year ago today: [20240502](../../2024/05/02/).
+A year ago today: [20240502](../../../2024/05/02/).
 
 I think I'm seeing that my lifeline is something that _is_ drawn, drawn _ahead_ of time (my experience of time), but... but I am helped by the version of myself that I believe I am becoming? It's like the clearer my vision gets of a more _coherent_ Isaac, the more the insights I get sound like me. I am helped across time by the best kind of help I can conceive of?
 
-I've been in the practice of trusting my past and future selves since [20240218](../../2024/02/18.md). Yesterday I described the system in terms of [bilateral trust](01/bilateral-trust.md). Perhaps I am bolstered by my clearest vision of my own past through-line? And I am drawn forward by my clearest vision of my own future through-line? I'm reminded of the inter-self collaborative piloting concept from [20240908](../../2024/09/08.md).
+I've been in the practice of trusting my past and future selves since [20240218](../../../2024/02/18.md). Yesterday I described the system in terms of [bilateral trust](../01/bilateral-trust.md). Perhaps I am bolstered by my clearest vision of my own past through-line? And I am drawn forward by my clearest vision of my own future through-line? I'm reminded of the inter-self collaborative piloting concept from [20240908](../../../2024/09/08.md).
 
 A year ago I was in the thick of channeling material that was from a voice that was a fair distance ahead of my current point of experience.
 
@@ -17,9 +17,3 @@ I think... I think there was a time when my "destiny" was written years ahead. I
 My software systems work cleanly because if you manifested the entire pipeline using humans everyone would be relaxed and free to care for themselves and to get along _and to change_. If everything _was_ experienced, that-which-experienced-it would have what it needed to be okay.
 
 Whoever's drawing the picture of the world, there's a stroke of the pen that is me, and I am experiencing that line — or Isaac is the experience of that line, maybe?
-
-***
-
-now that I see \[the active dynamic I couldn't see before], my mental model is moving in accord with my experience of relationality, and my intuition deepens across dimensions
-
-this is the kind of progress I'm talking about
