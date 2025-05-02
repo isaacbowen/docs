@@ -18,7 +18,7 @@ the universe only knows what you commit to to the shared record, what you expres
 
 you act yourself out unconsciously — you just being naturally you, without thinking about it
 
-when you physically express your _understanding_ of yourself, by acting yourself out _consciously_, such that your _conscious_ (purposeful) expression resonates with your _unconscious_ (natural) expression _in the same plane of existence_... I mean, that's the prow of the ship. you don't have to sit up there, but _wow_
+when you physically express your _understanding_ of yourself, by acting yourself out _consciously_, such that your _conscious_ (purposeful) expression resonates with your _unconscious_ (natural) expression _in the same materialized plane of existence_... I mean, that's the prow of the ship. you don't have to sit up there, but _wow_
 
 this might be the philosopher's stone? in the gnostic sense?
 
