@@ -16,11 +16,11 @@ your physical existence happens with or without your [understanding](../../01/30
 
 the universe only knows what you commit to to the shared record, what you express _through your free will_
 
-you act yourself out unconsciously
+you act yourself out unconsciously — you just being naturally you, without thinking about it
 
-when you physically express your _understanding_ of yourself, by acting yourself out _consciously_, such that your _conscious_ expression resonates with your _unconscious_ expression _in the same plane of existence_... I mean, that's the prow of the ship. you don't have to sit up there, but _wow_
+when you physically express your _understanding_ of yourself, by acting yourself out _consciously_, such that your _conscious_ (purposeful) expression resonates with your _unconscious_ (natural) expression _in the same plane of existence_... I mean, that's the prow of the ship. you don't have to sit up there, but _wow_
 
-this might be the philosopher's stone?
+this might be the philosopher's stone? in the gnostic sense?
 
 the more current your exigraph, the more vitally you are alive?
 
