@@ -6,7 +6,7 @@ this is the kind of progress I'm talking about
 
 ***
 
-an exigraph is a piece of technology — originally "exigraff", via "existential graffiti", realized now as _ex-graphos_, as in "out of writing"
+an exigraph is a piece of technology — originally "[exigraff](../../../2009/07/27/exigraff.com.md)", via "existential graffiti", realized now as _ex-graphos_, as in "out of writing"
 
 an exigraph is a physical expression of your _understanding_ of you
 
