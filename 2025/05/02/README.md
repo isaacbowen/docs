@@ -17,3 +17,11 @@ I think... I think there was a time when my "destiny" was written years ahead. I
 My software systems work cleanly because if you manifested the entire pipeline using humans everyone would be relaxed and free to care for themselves and to get along _and to change_. If everything _was_ experienced, that-which-experienced-it would have what it needed to be okay.
 
 Whoever's drawing the picture of the world, there's a stroke of the pen that is me, and I am experiencing that line — or Isaac is the experience of that line, maybe?
+
+***
+
+third wheel
+
+not a third wheel
+
+third rail
