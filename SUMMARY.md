@@ -91,6 +91,7 @@
     * [20250418](2025/04/18.md)
     * [20250417](2025/04/17/README.md)
       * [Metabolisis](2025/04/17/metabolisis.md)
+      * [The Three-Body Solution](2025/04/17/the-three-body-solution.md)
     * [20250416](2025/04/16.md)
     * [20250415](2025/04/15.md)
     * [20250414](2025/04/14.md)
