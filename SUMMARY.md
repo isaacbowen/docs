@@ -57,6 +57,7 @@
     * [20250502](2025/05/02/README.md)
       * [exigraph](2025/05/02/exigraph.md)
       * [epilogue](2025/05/02/epilogue.md)
+      * [third](2025/05/02/third.md)
     * [20250501](2025/05/01/README.md)
       * [dangerous](2025/05/01/dangerous.md)
       * [willing to change](2025/05/01/willing-to-change.md)
