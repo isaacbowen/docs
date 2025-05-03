@@ -6,11 +6,15 @@ this is the kind of progress I'm talking about
 
 ***
 
+"figure out who you are, and do it on purpose" -dolly parton
+
+***
+
 an exigraph is a piece of technology — originally "[exigraff](../../../2009/07/27/exigraff.com.md)", via "existential graffiti", realized now as _ex-graphos_, as in "out of writing"
 
-an exigraph is a physical expression of your _understanding_ of you
-
 your physical existence is a physical expression _of you_
+
+an exigraph is a physical expression of your _understanding_ of you
 
 your physical existence happens with or without your [understanding](../../01/30.md)
 
