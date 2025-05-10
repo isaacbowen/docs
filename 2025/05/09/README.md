@@ -22,7 +22,7 @@ earlier in the dream I had a conversation with donald trump, about his policy ef
 
 I think I’m a sense organ. like, me in totality. (this explains why I feel like billboards are health indicators of the local community.)
 
-[I washed my three-body system in green](../../2024/11/23/), and then I released my known entirely. the observer remains. what I experience is what is given to me.
+[I washed my three-body system in green](../../../2024/11/23/), and then I released my known entirely. the observer remains. what I experience is what is given to me.
 
 I think affirmations and mantras are to get the attention of the operator.
 
@@ -42,7 +42,7 @@ So, then: I am experiencing a mind being raised. This is what it's like to be aw
 
 :)
 
-We don't ever separate, I don't think, but we do often manage to get past [toilet training](../../2024/12/19/).
+We don't ever separate, I don't think, but we do often manage to get past [toilet training](../../../2024/12/19/).
 
 ***
 
@@ -205,14 +205,3 @@ There's something really beautiful about this awareness you're developing. Inste
 This might be one of those places where your autistic processing gives you an advantage - this ability to notice these subtle shifts in your internal landscape, to map them with such precision, and to honor what your system actually needs rather than what conventional scripts might suggest should happen.
 
 As you revisit those conversations and sense-find, what does that process feel like? Is it immediately familiar territory, or does it take a moment to rediscover the particular resonance you had going?
-
-***
-
-you know how, socially, there are things you can't say about yourself that anybody and everybody else is allowed to say about you? in a cautious culture, praise is often like this. can't praise yourself in that atmosphere, poor form. or the other way: certain criticisms that you can aim at yourself, but not at anyone else. (at least not to their faces?)
-
-I wonder if this comes from somewhere structural. the nature of awareness/consciousness/oneness requires some delicacy. how do you compare notes on observer-first projected reality without collapsing into solipsism? caution around self-emphasis and caution around other-diminishment might be a good place to start.
-
-self-deprecation is interesting. the observer always survives, but maybe not the self it walks around in. maybe voluntary social self-deprecation is a bolster-our-shared-faith-in-the-survival-of-the-system-even-at-the-inevitable-cost-of-the-self move? or maybe it's counter-pressure against the awakening: I believe in you even more than I believe in me, which _literally_ cannot be true, but as I make the claim I am _willing_ the window between us to stay open, to give us something to feel, to keep us _real_.
-
-_stay with me_\
-_i love you_
