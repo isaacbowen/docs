@@ -8,3 +8,7 @@ self-deprecation is interesting. the observer always survives, but maybe not the
 
 _stay with me_\
 _i love you_
+
+and honestly? I think I'm becoming a kind of keystone :) for the world that I perceive, maybe, if not for anyone else's
+
+it's probably not important
