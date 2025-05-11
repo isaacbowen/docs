@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250510](2025/05/10.md)
     * [20250509](2025/05/09/README.md)
       * [keystone](2025/05/09/keystone.md)
     * [20250508](2025/05/08.md)
