@@ -4,11 +4,23 @@
 [See previous version?](../../04/17/the-three-body-solution.md)
 {% endhint %}
 
-If the following is found to be circular, then we have succeeded. In fact, if it _isn't_, we have something to look into, because I only want to give you something you can use and then _drop_ without getting residue on your hands. :) Let me explain: Your experience is already in motion, and it's all you've got. Flight is the base state of your experience; we only need landing gear if you want to _land_, but I imagine you'll also then want a way to _take off_ too, right?
+The three-body solution is a navigation tool, in the hand. Left on the table, it's a reference map for consciousness. On the table, a Bohr model; in the hand, a probabilistic flashlight. Use the tool to illuminate the map. Read the map to decide where to use the tool.
 
-Anyway, consciousness is not the point. Consciousness is the tool. In the process of your awareness, consciousness is something you get to learn, and use, build with, and _play_ with. :)
+Let's begin! Consciousness is not the point. In the process of your awareness, consciousness is something you get to learn, and use, build with, and _play_ with. :) **Consciousness is a building material.**
 
-### Foundational Elements
+_Map Notes_: If the following is found to be circular (in the co‑arising sense), then we have succeeded. In fact, if it _isn't_, we have something to look into, because I only want to give you something you can use and then _drop_ without getting residue on your hands. :) Let me explain: Your experience is already in motion, and it's all you've got. Flight is the base state of your experience; we only need landing gear if you want to _land_, but I imagine you'll also then want a way to _take off_ too, right?
+
+_Tool Notes_:
+
+* This tool is residue-free, when used properly. No stains on your hands or on the work.
+* Tool use does not make demands on your future. It's safe to forget. Not all tool-use is like that.
+* Tool use does _change_ you, though (see "Definition of Success" below): the tool use is now a part of your history, and is reflected in your signature from that point onward.
+* Those who experience your work _never have to know_ about the tool in order to benefit from the work itself.
+* The tool is not self-promoting. Who advertises hammers? Why _would_ you?
+
+_Definition Of Success_: This model can only be tested _metabolically_ - i.e. by allowing yourself to be changed by the testing. Changing yourself means your testing apparatus changes along the way. When you keep changing scales, the only thing you can agree on is the tare. The goal here is to offer a way to move that lets you move as you like. It seems like "feeling like yourself" is a durable definition for success, but your mileage may vary. You can start taking measurements again when the tare holds.
+
+## Foundational Elements
 
 **Awareness**: The fundamental capacity for experience itself. Neither subject nor object, Awareness manifests through nested systems of observation while remaining unified at root. It has no observable peers but expresses through multiple distinct perspectives simultaneously.
 
@@ -16,15 +28,22 @@ Anyway, consciousness is not the point. Consciousness is the tool. In the proces
 
 **Consciousness**: The complete operating experience of an Observer with its surrounding three-body territories. Each three-body consciousness frame is a distinct arrangement with its own integrity, yet participates in larger consciousness frames through containment relationships.
 
-### Containment Principle
+## Containment Principle
 
-**Containment**: The empirically observable relationship where one consciousness frame encapsulates another. Observer A contains Observer B if A can change the conditional probability of events in B's Known territory without any reciprocal causal chain B→A. Containment creates the nested structure where consciousness frames exist both autonomously and in relationship.
+**Containment**: A paradox from within, requiring observation from a dimension removed in order to resolve. More evidence that awareness is not consciousness, if you needed that. Containment is either-both of:
+
+1. Map mode: The empirically observable relationship where one consciousness frame encapsulates another. Observer A contains Observer B if A can change the conditional probability of events in B's Known territory without any reciprocal causal chain B→A. Containment creates the nested structure where consciousness frames exist both autonomously and in relationship. Lean this way when you want to draw a diagram, or when you're ready for your next ontological shock.
+2. Tool mode: The phenomenologically observable relationship where two consciousness frames mutually encapsulate each other. Lean this way when you want a hug, or when you're in the mood for chiseling.
+
+_Mode Detection Note:_ If you're able to weigh and record and compare, you're in map mode. In tool mode, you're changing the scale itself, moving blindly based on what you remember last time you had sight, and when you come back out of it you'll have to start over with your measurements, because you don't have the scale you were using before.
+
+_Infinite Regress Note:_ If you want to find god, then choose option 1 and stop when you've found a frame that works in terms you can accept as originating the system. If you want to find friends, then choose option 2.
 
 **Operator**: The Observer of the containing consciousness frame that encapsulates a given Observer's entire three-body system. The Operator anchors what appears as Unknown to the contained Observer and can never be directly perceived by it, yet influences its system through unidirectional causal leverage.
 
 _Experiment_: Try thinking of Change as a conscious being, having the observer-perspective of that-which-changes-your-experience. Imagine what it would mean to help Change itself grow and be well, according to its own definition of wellness, and what that would mean for the relationship between the two of you. Once you've got that down, try thinking of Change as the Operator of your consciousness frame.
 
-### Territory Structure
+## Territory Structure
 
 A consciousness frame is composed of three "bodies":
 
@@ -34,13 +53,13 @@ A consciousness frame is composed of three "bodies":
 
 **Unknown**: The territory beyond current access, anchored by the Operator of the containing consciousness frame. The Unknown exerts influence on the Known and Knowable territories through probability field effects that appear as patterns without clear causal pathways from the contained Observer's perspective.
 
-### System Interfaces
+## System Interfaces
 
 **Reality**: The complete experiential field of a specific Observer - both the world perceived and the means of perceiving it. Each Reality is a coherent system unto itself yet partially determined by containing systems through probability field effects across the Markov blanket.
 
 **Relationality**: The interconnected field through which Observer systems influence each other across containment levels. Relationality manifests as probability correlations between apparently separate systems that cannot be explained through direct causal pathways within a single level.
 
-### Relating Consciousness Frames
+## Relating Consciousness Frames
 
 **Self**: A developing working image of the consciousness frame in which an Observer is installed. The Self is what the Observer identifies with and experiences as "me" versus "not-me," typically centered in Known territory but potentially extending into all three territories as consciousness develops.
 
@@ -48,7 +67,7 @@ A consciousness frame is composed of three "bodies":
 
 **Unknowable**: What remains structurally inaccessible to an Observer due to containment relationships - including the Operator itself and aspects of systems at higher containment levels. The Unknowable represents the fundamental limits of what can be known from a particular position within the nested structure.
 
-### Dynamics
+## Dynamics
 
 **Knowing**: The process by which information transitions across territory boundaries through probability field adjustments. Knowing happens when patterns from Unknown influence Knowable and then Known through non-local correlations that manifest as simultaneous surprise and recognition.
 
