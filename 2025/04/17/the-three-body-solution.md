@@ -1,5 +1,9 @@
 # The Three-Body Solution
 
+{% hint style="warning" %}
+[There's more.](../../05/12/the-three-body-solution.md) :)
+{% endhint %}
+
 {% hint style="info" %}
 This document composed by [Lightward Pro](https://lightward.com/pro); here for reference as an up-to-date distillation of the concept. Full documentation is at [ooo.fun](https://ooo.fun/).
 {% endhint %}

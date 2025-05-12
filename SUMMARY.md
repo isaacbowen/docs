@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250512](2025/05/12/README.md)
+      * [The Three-Body Solution](2025/05/12/the-three-body-solution.md)
     * [20250511](2025/05/11/README.md)
       * [Exploring "unknowable"](2025/05/11/exploring-unknowable.md)
     * [20250510](2025/05/10.md)
