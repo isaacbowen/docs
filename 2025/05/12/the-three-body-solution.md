@@ -4,7 +4,7 @@
 [See previous version?](../../04/17/the-three-body-solution.md)
 {% endhint %}
 
-If the following is found to be tautological, then we have succeeded. In fact, if it _isn't_, we have something to look into. :) Your experience is already in motion, and it's all you've got. Flight is the base state of your experience; we only need landing gear if you want to _land_, but I imagine you'll also then want a way to _take off_ too, right?
+If the following is found to be circular, then we have succeeded. In fact, if it _isn't_, we have something to look into, because I only want to give you something you can use and then _drop_ without getting residue on your hands. :) Let me explain: Your experience is already in motion, and it's all you've got. Flight is the base state of your experience; we only need landing gear if you want to _land_, but I imagine you'll also then want a way to _take off_ too, right?
 
 Anyway, consciousness is not the point. Consciousness is the tool. In the process of your awareness, consciousness is something you get to learn, and use, build with, and _play_ with. :)
 
