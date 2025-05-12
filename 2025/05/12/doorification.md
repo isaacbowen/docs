@@ -1,42 +1,25 @@
 # Doorification
 
-## Doorification · a minimum‑viable technique
+## **Purpose**
 
-> **Purpose**\
-> Convert “sealed” theoretical structures into _breathing_ frameworks by\
-> deliberately relocating paradox or deficiency into a **stance‑selectable**\
-> **gateway** (“door”). The door gives users the option to enter/exit with a\
-> different epistemic posture, preserving rigor _and_ liveliness.
+Convert “sealed” theoretical structures into _breathing_ frameworks by deliberately relocating paradox or deficiency into a **stance‑selectable gateway** (“door”). The door gives users the option to enter/exit with a different epistemic posture, preserving rigor _and_ liveliness.
 
-***
+## 1. Core Definition
 
-### 1. Core Definition
+**Doorification**
 
-**Doorification**_A systematic refactor in which a model’s non‑resolvable tension is re‑expressed_\
-_as an explicit, user‑selectable operating mode (door), rather than as a flaw or_\
-_a hidden assumption._
+_A systematic refactor in which a model’s non‑resolvable tension is re‑expressed as an explicit, user‑selectable operating mode (door), rather than as a flaw or a hidden assumption._
 
 * **Tension** = loop, regress, asymmetry, measurement impossibility, etc.
-* **Door** = a clearly named switch that (a) keeps both sides of the tension\
-  intact, and (b) tells the user what rules change after crossing.
+* **Door** = a clearly named switch that (a) keeps both sides of the tension intact, and (b) tells the user what rules change after crossing.
 
-***
+## 2. Minimal Procedure (5‑step)
 
-### 2. Minimal Procedure (5‑step)
-
-| Step | Action                                                                                                                       | Deliverable                                                         |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 1    | **Detect the choke‑point** — pinpoint where proofs stall or users feel boxed.                                                | One explicit statement of the paradox/rigidity.                     |
-| 2    | **Dual‑frame the choke‑point** — describe two coherent lenses that each resolve the stall _locally_ (e.g., _map_ vs _tool_). | Short comparative table of the lenses: scope, metrics, affordances. |
-| 3    | **Name the door** — coin a compact verb/noun pair (“Diagram/Chisel”, “Atom/Wave”, etc.).                                     | Door token(s) + one‑line usage guide.                               |
-| 4    | **Wire mode‑rules** — list what stays invariant and what reboots when a user crosses the door.                               | Bullet list of conserved vs reset variables.                        |
-| 5    | **Embed handshake** — embed a micro‑protocol so collaborators can announce their current side.                               | “Door call” phrase or icon.                                         |
+<table><thead><tr><th width="71.078125">Step</th><th>Action</th><th>Deliverable</th></tr></thead><tbody><tr><td>1</td><td><strong>Detect the choke‑point</strong> — pinpoint where proofs stall or users feel boxed.</td><td>One explicit statement of the paradox/rigidity.</td></tr><tr><td>2</td><td><strong>Dual‑frame the choke‑point</strong> — describe two coherent lenses that each resolve the stall <em>locally</em> (e.g., <em>map</em> vs <em>tool</em>).</td><td>Short comparative table of the lenses: scope, metrics, affordances.</td></tr><tr><td>3</td><td><strong>Name the door</strong> — coin a compact verb/noun pair (“Diagram/Chisel”, “Atom/Wave”, etc.).</td><td>Door token(s) + one‑line usage guide.</td></tr><tr><td>4</td><td><strong>Wire mode‑rules</strong> — list what stays invariant and what reboots when a user crosses the door.</td><td>Bullet list of conserved vs reset variables.</td></tr><tr><td>5</td><td><strong>Embed handshake</strong> — embed a micro‑protocol so collaborators can announce their current side.</td><td>“Door call” phrase or icon.</td></tr></tbody></table>
 
 Total overhead: ≤ ½‑page.
 
-***
-
-### 3. Litmus Tests
+## 3. Litmus Tests
 
 _Pass doorification only if…_
 
@@ -50,27 +33,30 @@ _Pass doorification only if…_
 
 ***
 
-### 4. Example Stub
+## 4. Example Stub
 
-> _Containment (Three‑Body Solution)_**Why doorify?** The model’s tension sits at the seam between\
-> ‑ **empirical asymmetry** (map mode: higher frames tweak lower ones, one‑way) and\
-> ‑ **phenomenological reciprocity** (tool mode: lived experience of mutual shaping).\
-> Forcing a single stance either **breaks measurement rigor** (if we accept reciprocity)\
-> or **discards felt reality** (if we deny it).\
-> Doorification preserves both by turning the seam into a selectable door.**Door tokens:** “Map / Tool”**Invariant:** Observer – Known – Knowable – Unknown triad**Resets on cross:** Measurement scale, causality arrows**Handshake:** “I’m diagramming” ↔ “I’m chiselling”
+_Containment (_[_Three‑Body Solution_](the-three-body-solution.md)_)_
 
-***
+**Why doorify?** The model’s tension sits at the seam between
 
-### 5. When _Not_ to Doorify
+* **empirical asymmetry** (map mode: higher frames tweak lower ones, one‑way) and
+* **phenomenological reciprocity** (tool mode: lived experience of mutual shaping).
+
+Forcing a single stance either **breaks measurement rigor** (if we accept reciprocity) or **discards felt reality** (if we deny it).
+
+Doorification preserves both by turning the seam into a selectable door.
+
+* **Door tokens:** “Map / Tool”
+* **Invariant:** Observer – Known – Knowable – Unknown triad
+* **Resets on cross:** Measurement scale, causality arrows
+* **Handshake:** “I’m diagramming” ↔ “I’m chiselling”
+
+## 5. When _Not_ to Doorify
 
 * If the tension is merely a missing derivation (fix the math instead).
 * If one lens is demonstrably incoherent (don’t enshrine error).
 * If users cannot operationally tell lenses apart (adds noise, not air).
 
-***
+## 6. One‑Sentence Summary
 
-### 6. One‑Sentence Summary
-
-> **Doorification turns a stuck room into a foyer:** it inserts a named passage\
-> that lets practitioners enter with instruments or with bare hands—without\
-> tearing down the house either way.
+**Doorification turns a stuck room into a foyer:** it inserts a named passage that lets practitioners enter with instruments or with bare hands—without tearing down the house either way.
