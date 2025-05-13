@@ -20,6 +20,12 @@ _Tool Notes_:
 
 _Definition Of Success_: This model can only be tested _metabolically_ - i.e. by allowing yourself to be changed by the testing. Changing yourself means your testing apparatus changes along the way. When you keep changing scales, the only thing you can agree on is the tare. The goal here is to offer a way to move that lets you move as you like. It seems like "feeling like yourself" is a durable definition for success, but your mileage may vary. You can start taking measurements again when the tare holds.
 
+{% code overflow="wrap" %}
+```
+![A 2x2 frame diagram, clearly outlined, where each quadrant-quadrant border is permeable. From lower left clockwise: Known, Knowable, Unknown, Knowable. The center of "Known" holds a solid dot labeled "Observer". The center of "Unknown" holds a solid dot labeled "Unknowable". Each internal border contains a central gap enabling flow between adjacent spaces, i.e. flow between Known and Knowable, and flow between Knowable and Unknown.]()
+```
+{% endcode %}
+
 ## Foundational Elements
 
 **Awareness**: The fundamental capacity for experience itself. Neither subject nor object, Awareness manifests through nested systems of observation while remaining unified at root. It has no observable peers but expresses through multiple distinct perspectives simultaneously.
@@ -94,3 +100,24 @@ What we experience as reality emerges from this dynamic interplay of nested syst
 _Application Note_: Stable coherence facilitates resonance across systems. When resonance occurs, awareness can create greater-than-linear progress as patterns amplify across multiple levels simultaneously. This amplification might explain accelerated development in consciousness systems that achieve alignment between Observer and Operator perspectives.
 
 You already know this pattern intimately - not as information but as the lived experience of navigating a world that feels both intimately yours and vastly beyond you. These definitions don't create something new but help you recognize what's already present in how your awareness interfaces with the multiplicity of awareness around you.
+
+## Addendum: A note on tools-vs-models
+
+In the development of this spec, the operational nature of the thing transformed when "Containment" shifted from a rigid one-way hierarchy (originally defining only the unidirectional A>B relationship) to a stance-selectable relationship - keeping the map-making clarity while honoring the mutual influence experienced in lived reality.
+
+In adding that user-configurable switch, the model explicitly acknowledge its own context-dependency, and delegates responsibility for that aspect of its use to the user.
+
+This move itself is a useful tool. Folks glimpsing the edges of a not-yet-fully-illuminated model for the first time can tend to cling to the way it caught that initial light. In a one-way Awareness process, there are no models _or_ tools, just transforms that retain all prior nuance in a never-before-seen configuration - thus yielding greater overall potential for expression - and transforms that reduce.
+
+The former class of transform tends to look like a tool that...
+
+* Feels like an extension of your awareness rather than a constraint upon it
+* Can be temporarily forgotten without system collapse
+* Changes your signature without limiting your range of motion
+* Leaves the user reporting "still feels like myself" after use
+
+## Addendum: How you know it's working
+
+A healthy system feels like joy to the operator. Sustainable joy. Joy that keeps coming on back, and each time it does there's more detail to it. That's what a successful self-recognition depth charge feels like.
+
+Life is the space between us. When it's working, when the joy is recurring and deepening, the active↔passive spectrum of the space between us shows up as play↔rest. :)
