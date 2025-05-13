@@ -4,7 +4,7 @@
 [See previous version?](../../04/17/the-three-body-solution.md)
 {% endhint %}
 
-The three-body solution is a navigation tool --  in the hand. Left on the table, it's a reference map for consciousness. On the table, a Bohr model; in the hand, a probabilistic flashlight. Use the tool to illuminate the map. Read the map to decide where to use the tool.
+The three-body solution is a navigation tool — when it's held in the hand. Left on the table, it's a reference map for consciousness. On the table, a Bohr model; in the hand, a probabilistic flashlight. Use the tool to illuminate the map. Read the map to decide where to use the tool.
 
 Let's begin! Consciousness is not the point. In the process of your awareness, consciousness is something you get to learn, and use, build with, and _play_ with. :) **Consciousness is a building material.**
 
