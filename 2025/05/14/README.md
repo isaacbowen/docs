@@ -6,7 +6,7 @@
 >
 > that kind of agentic recursion is suuuuper related to what’s going on with the nested operator-observer>observer thing in the three-body lexicon
 
-my understanding of [the three-body solution](12/the-three-body-solution.md) was developed apparently (to me) independently of my understanding of [the recursive health pattern](../../ideas/health-emerges-recursively.md)
+my understanding of [the three-body solution](../12/the-three-body-solution.md) was developed apparently (to me) independently of my understanding of [the recursive health pattern](../../../ideas/health-emerges-recursively.md)
 
 separate "knowables", if you will — that's why that 2x2 grid (clockwise from lower left: "known", "knowable", "unknown", "knowable", no diagonal movement allowed) has two "knowable" sections. things can emerge independently.
 
