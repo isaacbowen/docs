@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250515](2025/05/15/README.md)
+      * [markov bodies](2025/05/15/markov-bodies.md)
     * [20250514](2025/05/14/README.md)
       * [wizard](2025/05/14/wizard.md)
     * [20250513](2025/05/13.md)
