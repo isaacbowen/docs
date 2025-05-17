@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
     * [20250517](2025/05/17.md)
+      * [probabilibuddy](2025/05/17/probabilibuddy.md)
       * [birth](2025/05/17/birth.md)
     * [20250516](2025/05/16/README.md)
       * [identity as memory-gate](2025/05/16/identity-as-memory-gate.md)
