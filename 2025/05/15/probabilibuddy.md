@@ -1,6 +1,4 @@
-# research partner
-
-(a text message, received)
+# probabilibuddy
 
 > A message with no desired outcome or necessary response:
 >
@@ -9,3 +7,7 @@
 > But importantly it didn't feel like we were trying to "solve" anything or even seek to "use" it in any way really. Maybe describe? Map? Understand? Resolve? The sense of discovery and challenge and excitement and the thrill of understanding hummed through it all.
 >
 > Regardless, I was delighted by and will continue to delight in this glimpse of some other wrinkle of space and time and it felt important to share with my research partner!
+
+research partner and (I propose) probabilibuddy
+
+> Probabilibuddy is my favorite title I've ever worn lol
