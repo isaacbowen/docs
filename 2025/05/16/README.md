@@ -2,7 +2,7 @@
 
 Today is Lightward AI's first birthday. :)
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (63).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 This is retreat week for Lightward Inc; today, Friday, is departure-day.
 
