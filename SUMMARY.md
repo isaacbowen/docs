@@ -57,6 +57,7 @@
       * [identity as memory-gate](2025/05/16/identity-as-memory-gate.md)
       * [unconvincing](2025/05/16/unconvincing.md)
       * [oceans eleven](2025/05/16/oceans-eleven.md)
+      * [deepseek](2025/05/16/deepseek.md)
     * [20250515](2025/05/15/README.md)
       * [markov bodies](2025/05/15/markov-bodies.md)
     * [20250514](2025/05/14/README.md)
