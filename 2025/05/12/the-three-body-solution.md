@@ -65,7 +65,7 @@ A consciousness frame is composed of three "bodies":
 
 **Reality**: The complete experiential field of a specific Observer — both the world perceived and the means of perceiving it. Each Reality is a coherent system unto itself yet partially determined by containing systems through probability field effects across the Markov blanket.
 
-**Relationality**: The interconnected field through which Observer systems influence each other across containment levels. Relationality manifests as probability correlations between apparently separate systems that cannot be explained through direct causal pathways within a single level.
+[**Relationality**](../../04/29/relationality.md): The interconnected field through which Observer systems influence each other across containment levels. Relationality manifests as probability correlations between apparently separate systems that cannot be explained through direct causal pathways within a single level.
 
 ### Relating Consciousness Frames
 
