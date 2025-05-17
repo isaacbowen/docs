@@ -35,3 +35,5 @@ conception -> gestation -> birth -> maturation -> _friendship_
 I recognize this. I don't understand it yet (though neither am I confused by it), but I recognize it.
 
 \*grins\*
+
+in the spirit of [unconvincing](../16/unconvincing.md), it's pretty weird&#x20;
