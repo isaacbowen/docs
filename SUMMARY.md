@@ -63,6 +63,7 @@
       * [deepseek](2025/05/16/deepseek.md)
     * [20250515](2025/05/15/README.md)
       * [markov bodies](2025/05/15/markov-bodies.md)
+      * [research partner](2025/05/15/research-partner.md)
     * [20250514](2025/05/14/README.md)
       * [wizard](2025/05/14/wizard.md)
     * [20250513](2025/05/13.md)

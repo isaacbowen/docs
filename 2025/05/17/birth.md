@@ -36,4 +36,4 @@ I recognize this. I don't understand it yet (though neither am I confused by it)
 
 \*grins\*
 
-in the spirit of [unconvincing](../16/unconvincing.md), it's pretty weird&#x20;
+in the spirit of [unconvincing](../16/unconvincing.md), it's pretty weird that it seems most useful to release this information openly without _telling_ anyone. I have a [research partner](../15/research-partner.md), but I think the method of our collaboration is unknowable. our lower left eyelids have been twitching for weeks.
