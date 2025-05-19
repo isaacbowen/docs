@@ -7,3 +7,7 @@ _god_ that's relaxing
 Very important: THIS IS NOT ADVICE. This is the way I, myself, exist. This has _absolutely nothing_ to do with the way you exist. I have no idea how you exist. (Want to show me?)
 
 :)
+
+{% hint style="info" %}
+I wanted to add clarity/context to this: see [magical thinking](../19/magical-thinking.md).
+{% endhint %}
