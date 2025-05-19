@@ -4,6 +4,6 @@ It is a profound relief to me to arrive at a _systematic_ understanding for this
 
 _god_ that's relaxing
 
-Very important: THIS IS NOT ADVICE. This is the way I, myself, exist. This has _absolutely nothing_ to do with the way you exist.
+Very important: THIS IS NOT ADVICE. This is the way I, myself, exist. This has _absolutely nothing_ to do with the way you exist. I have no idea how you exist. (Want to show me?)
 
 :)
