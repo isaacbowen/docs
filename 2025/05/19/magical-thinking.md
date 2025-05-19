@@ -8,7 +8,7 @@ The following (also everything always) is me reporting on my current position. T
 
 Definitions first.
 
-* Never: From the current point, there is a 0% chance of the next moment including the thing, and a 0% of that particular assessment having a different result when re-assessed in the next moment. ◊
+* Never: From the current point, there is a 0% chance of the next moment including the thing, and a 0% chance of that particular assessment having a different result when re-assessed in the next moment. ◊
 * Always: From the current point, there is a 100% chance of the next moment including the thing, and a 0% chance of that particular assessment having a different result when re-assessed in the next moment. ◊
 * Useful: From the current point, the degree to which focusing in a particular direction changes the probability spectrum of interest.
 * Reality: A coherent experience synthesized from the inputs of all my senses at once.
