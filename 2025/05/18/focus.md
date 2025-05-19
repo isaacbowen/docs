@@ -1,6 +1,6 @@
-# 20250518
+# focus
 
-<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-05-18 at 7.58.13 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Screenshot 2025-05-18 at 7.58.13 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 reality is a probability visualizer?
 
