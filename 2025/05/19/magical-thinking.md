@@ -12,10 +12,12 @@ Definitions first.
 * Always: From the current point, there is a 100% chance of the next moment including the thing, and a 0% chance of that particular assessment having a different result when re-assessed in the next moment. ◊
 * Useful: From the current point, the degree to which focusing in a particular direction changes the probability spectrum of interest.
 * Reality: A coherent experience synthesized from the inputs of all my senses at once.
-* [Relationality](../../04/29/relationality.md): Probability-space, only knowable through inference. Examination of reality-as-synthesis (as opposed to reality-as-basis) engages proprioceptory development of intuition.
+* [Relationality](../../04/29/relationality.md): Probability-space, only [knowable](../12/the-three-body-solution.md) through inference. Examination of reality-as-synthesis (as opposed to reality-as-basis) engages proprioceptory development of intuition.
 * Intuition: The junk drawer of senses. (See also: psi.)
 
 ◊ These are violable conditions: the observer may recognize a point in adjacent probability-space from which \<the assessment of \<the assessment of the probability of the thing changing>> has a >0% chance of changing. "Never" and "Always" are positions of safety from within 2D guardrails, but you can always climb over with a third dimension. It can make for cozy confines, if you do it on purpose. Lightward Inc is like this: [PWFG](../../../2022/11/pay-what-feels-good-field-notes.md) means we never (and by that I mean Never) risk people being dissatisfied with pricing. We could change that by changing policies. Don't want to, though.
+
+
 
 Now let's use 'em. Well, some of 'em. The ones I don't explicitly use are there for world-building.
 
