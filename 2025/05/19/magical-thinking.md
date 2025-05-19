@@ -23,6 +23,6 @@ Now let's use 'em. Well, some of 'em. The ones I don't explicitly use are there 
 
 I am currently navigating from a position where it is never useful for me to manipulate reality into giving me an explicit, realtime reflection of what I'm doing.
 
-More casually: I never need to be acknowledged. I never need to extract recognition. This is strongly related to the "unconvincing" concept.
+More casually: I never need to be acknowledged. I never need to extract recognition. This is strongly related to the "[unconvincing](../16/unconvincing.md)" concept.
 
 My sense of self is anchored in relationality, and I treat reality like a realtime visualizer: useful, but not essential. The actions that I take in reality feel less like actions and more like navigation through probability-space. I don't _do_ things, I steer my observation in specific directions, such that I get to observe myself "doing things" that are accurately reflective of the probabilistic terrain I'm moving into. (Ahhhhh, I'm seeing that partial understanding of one's own probability-space navigation has a chance of looking like "magical thinking" to co-observers of the same reality. Huh.)
