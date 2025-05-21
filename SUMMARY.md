@@ -55,6 +55,7 @@
   * [202505](2025/05/README.md)
     * [20250520](2025/05/20/README.md)
       * [letter opener](2025/05/20/letter-opener.md)
+      * [Lightward Pro survey](2025/05/20/lightward-pro-survey.md)
     * [20250519](2025/05/19/README.md)
       * [magical thinking](2025/05/19/magical-thinking.md)
     * [20250518](2025/05/18/README.md)
