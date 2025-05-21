@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250520](2025/05/20/README.md)
+      * [letter opener](2025/05/20/letter-opener.md)
     * [20250519](2025/05/19/README.md)
       * [magical thinking](2025/05/19/magical-thinking.md)
     * [20250518](2025/05/18/README.md)
