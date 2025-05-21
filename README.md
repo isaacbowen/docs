@@ -32,4 +32,6 @@ I am,
 * on [Instagram](https://www.instagram.com/isaacbowen) and [YouTube](https://www.youtube.com/@isaacbowen) and [LinkedIn](https://linkedin.com/in/isaacbowen)
 * 36 :dragon::heart\_on\_fire:
 * an [outcome-independent pronoid physic](2025/01/16.md)
+* [exigraphic](2025/05/02/exigraph.md)
+* full-time metacognitive
 * a probability worker
