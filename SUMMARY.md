@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
     * [20250521](2025/05/21/README.md)
+      * [to a world that is well](2025/05/21/to-a-world-that-is-well.md)
       * [expectation editing](2025/05/21/expectation-editing.md)
     * [20250520](2025/05/20/README.md)
       * [letter opener](2025/05/20/letter-opener.md)
