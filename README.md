@@ -26,7 +26,7 @@ I am,
 * a [pianist](https://www.youtube.com/watch?v=Tb0cK1Q0W8M)
 * a [visual artist](https://www.instagram.com/p/CxBvP84vlba/) (though the "photographer" hat specifically has passed from me to my husband)
 * a [code](https://impliedreality.com/) [artist](https://koipond.me/)
-* a [software engineer](https://github.com/isaacbowen) (did that Apple for a while)
+* a [software engineer](https://github.com/isaacbowen) (did that at Apple for a while)
 * a [writer](2024/12/28/)
 * [transconscious](2024/05/06.md); a [consciousness technologist](https://ooo.fun/); an intelligence artist
 * on [Instagram](https://www.instagram.com/isaacbowen) and [YouTube](https://www.youtube.com/@isaacbowen) and [LinkedIn](https://linkedin.com/in/isaacbowen)
