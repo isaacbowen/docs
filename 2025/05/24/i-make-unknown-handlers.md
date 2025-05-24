@@ -18,7 +18,7 @@ layout:
 
 ## Aaron
 
-This week I designed and started building a router to load balance across databases that have different but overlapping data and query capabilities and ability to scale, with fallover/load shedding to healthy DBs to still run the query if the cheapest DB is under stress or is rate limiting the user. It has declarative yaml configuration and can dry run new cost/routing logic to see the new traffic distribution without affecting live traffic, and can mirror live traffic to DBs still under development to load test them.
+This week I designed and started building a router to load balance across databases that have different but overlapping data and query capabilities and ability to scale, with fallover/load shedding to healthy DBs to still run the query if the cheapest DB is under stress or is rate limiting the user. It has declarative yaml configuration and can dry run new cost/routing logic to see the new traffic distribution without affecting live traffic, and can mirror live traffic to DBs still under development to load test them.
 
 ## Isaac
 
@@ -30,7 +30,7 @@ It can also accept arbitrary input query formats (SQL, different JSON structures
 
 > 🤩 \*that\* is fucking cool
 
-It’s so cool! It’ll improve our data-layer reliability if any one DB goes down, will save $ by routing to the cheapest possible DB, and will allow us to redirect traffic based on arbitrary “query-inspection predicates” to shift which DB primarily supports which set of query traffic, as each DB has new features that get rolled out.
+It’s so cool! It’ll improve our data-layer reliability if any one DB goes down, will save $ by routing to the cheapest possible DB, and will allow us to redirect traffic based on arbitrary “query-inspection predicates” to shift which DB primarily supports which set of query traffic, as each DB has new features that get rolled out.
 
 I’m pretty proud of it :) I designed and built the whole thing so far, and wrote all the documentation/recoded walkthrough videos and ramped my team up to help work on it!
 
@@ -122,7 +122,7 @@ which itself is funny haha
 
 Ahhh, the only way I feel comfortable in the world is when I know what’s going on, on a detailed, hard-facts level. I need to see and inspect every tree before the concept of a forest means anything at all on an intuitive level. I need to be able to stomp on the facts and see that they hold up and how they fit together into the bigger picture before i trust that the bigger picture is something real and stable and can be relied on and isn’t ahhh other people’s weird antics or their misrepresentation of what’s \*really\* going on (like how IMO church is more group therapy than what people claim to be “spiritual/religious”).
 
-Sooo every time i see something cool, I _want_ to trust that it is what it appears to be, but it often can’t hold up when I stomp on it (it doesn’t respond in the way that it should if it was what it claimed to be - eg people at church respond in ways that ppl in group therapy would vs how they would if they were genuinely interested in spiritual enlightenment/growth). And stomping is required to be my true self - i can’t express my full power if I dont have something solid to push off of/brace against! So when I try to be myself around something that’s misrepresenting, we just end up not understanding eqch other, which is frustrating and lonely.
+Sooo every time i see something cool, I \*want\* to trust that it is what it appears to be, but it often can’t hold up when I stomp on it (it doesn’t respond in the way that it should if it was what it claimed to be - eg people at church respond in ways that ppl in group therapy would vs how they would if they were genuinely interested in spiritual enlightenment/growth). And stomping is required to be my true self - i can’t express my full power if I dont have something solid to push off of/brace against! So when I try to be myself around something that’s misrepresenting, we just end up not understanding eqch other, which is frustrating and lonely.
 
 Sooo when I \*do\* understand how something works it’s glorious. Truly glorious. I feel alive around it - full of possibilities, full of joy and power 💥 . It feels like magic.
 
@@ -130,7 +130,7 @@ I studied computers in college because I thought something so cool must have som
 
 Tying it all back - I (did, do, will continue to) love to understand how your stuff works not only because I love you and want to cheer you on, but also because seeing how something \*works\* is the truest form of joy and aliveness that I can experience (afaik).
 
-ie, it is the only thing I truly understand
+ie, it is the only thing I truly understand
 
 🙇
 
@@ -162,7 +162,7 @@ In direct connection to my essay above, this is the highest compliment anyone co
 
 \*nodnodnodnodnod
 
-it helps me see how we _could_ have gotten ten years in without you knowing “what I’m doing”, so to speak, I think 🧐
+it helps me see how we \*could\* have gotten ten years in without you knowing “what I’m doing”, so to speak, I think 🧐
 
 my process is about looking out into a kind of half-fog and going “… k I \*think\* this will hold, let’s see”, and then testing my weight to it to see how it feels. if it holds in a way that meets my litmus test, I remember that. the product of the process is an arrangement of stuff that holds.
 
@@ -186,11 +186,11 @@ I wonder if this works (this is me executing my process in front of you! like yo
 
 ## Aaron
 
-That is neat!!
+That is neat!!
 
 Yeah, I can see how that is expressed in what I do know about your work!
 
-That’s cool :)
+That’s cool :)
 
 Thanks for describing it in a way that works for me, even though it might not be your usual way of framing it/thinking about it!
 
@@ -202,7 +202,7 @@ I’m excited it worked!! I’m very unaccustomed to explaining myself successfu
 
 ## Aaron
 
-Same! 🫠
+Same! 🫠
 
 ## Isaac
 
