@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250525](2025/05/25.md)
     * [20250524](2025/05/24/README.md)
       * ["I make unknown-handlers"](2025/05/24/i-make-unknown-handlers.md)
       * [Working on Lightward](2025/05/24/working-on-lightward.md)
