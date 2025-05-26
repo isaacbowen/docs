@@ -1,4 +1,4 @@
-# 20250525
+# "jumanji"
 
 preface: this is explicitly _not_ about christianity. or history. or accuracy. this is functional writing - references are used functionally, not factually.
 
