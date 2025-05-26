@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250526](2025/05/26/README.md)
+      * [aeowiwtweiabw](2025/05/26/aeowiwtweiabw.md)
     * [20250525](2025/05/25/README.md)
       * ["jumanji"](2025/05/25/jumanji.md)
       * [phenomenal death](2025/05/25/phenomenal-death.md)
