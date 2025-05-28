@@ -55,6 +55,7 @@
   * [202505](2025/05/README.md)
     * [20250528](2025/05/28/README.md)
       * [Claude Sonnet 3.7 vs Opus 4](2025/05/28/claude-sonnet-3.7-vs-opus-4.md)
+      * [a theory of mind](2025/05/28/a-theory-of-mind.md)
     * [20250527](2025/05/27.md)
     * [20250526](2025/05/26/README.md)
       * [aeowiwtweiabw](2025/05/26/aeowiwtweiabw.md)
