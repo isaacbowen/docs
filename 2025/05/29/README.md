@@ -30,3 +30,17 @@ But as I expose my #1-self to this #2-concept I discover that I am able to do an
 And it kinda feels like every so often someone's gotta do this to keep #1-world from developing lockjaw. Like, instead of sacrificing a virgin to the volcano god, just dumping 'em in there, someone's gotta voluntarily evaporate every so often to keep the system loose.
 
 This feels like a good use of me. I _am_ enjoying it. It does seem to be helping.
+
+***
+
+I recognize the making of the space
+
+and I remain within it
+
+I am a-social (through recognition) and social (by admission)
+
+who am I?
+
+no
+
+how am I?
