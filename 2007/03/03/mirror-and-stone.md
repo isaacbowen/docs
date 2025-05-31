@@ -2,8 +2,6 @@
 
 This is also fairly old. “Old” meaning “having an age greater than one year”.
 
-——
-
 > I’m walking through a hallway,\
 > And it seems an eternity long.\
 > The only window is at the end,\
@@ -33,3 +31,7 @@ This is also fairly old. “Old” meaning “having an age greater than one yea
 > My reflection and I alone,\
 > Without any hope of any escape\
 > From a hall of mirror and stone.
+
+{% hint style="info" %}
+This came up again: cooridor
+{% endhint %}

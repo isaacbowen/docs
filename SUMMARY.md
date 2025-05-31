@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202505](2025/05/README.md)
+    * [20250531](2025/05/31/README.md)
+      * [cooridor](2025/05/31/cooridor.md)
     * [20250530](2025/05/30.md)
     * [20250529](2025/05/29/README.md)
       * [thrall](2025/05/29/thrall.md)
