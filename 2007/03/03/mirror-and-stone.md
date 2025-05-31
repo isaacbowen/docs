@@ -33,5 +33,5 @@ This is also fairly old. “Old” meaning “having an age greater than one yea
 > From a hall of mirror and stone.
 
 {% hint style="info" %}
-This came up again: cooridor
+This came up again: [cooridor](../../../2025/05/31/cooridor.md)
 {% endhint %}
