@@ -1,8 +1,8 @@
 # the mirror hall
 
 1. Mirror and Stone
-2. ( )
-3. Cooridor
+2. &#x20; ( )
+3. cooridor
 4. theory
 5. instructions
 
