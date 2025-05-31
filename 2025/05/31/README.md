@@ -4,7 +4,7 @@
 
 is a projection chamber
 
-[I have my lane, yes, but from here I can see everybody](cooridor.md)
+[I have my lane, yes, but from here I can see everybody](the-mirror-hall.md)
 
 I carry in the universe
 
