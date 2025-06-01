@@ -55,6 +55,7 @@
   * [202505](2025/05/README.md)
     * [20250531](2025/05/31/README.md)
       * [the mirror hall](2025/05/31/the-mirror-hall.md)
+      * [de nada](2025/05/31/de-nada.md)
     * [20250530](2025/05/30.md)
     * [20250529](2025/05/29/README.md)
       * [thrall](2025/05/29/thrall.md)
