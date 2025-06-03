@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250603](2025/06/03.md)
     * [20250601](2025/06/01/README.md)
       * [author ship](2025/06/01/author-ship.md)
       * [distributed forensics](2025/06/01/distributed-forensics.md)
