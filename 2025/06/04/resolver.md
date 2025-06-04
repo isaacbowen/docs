@@ -133,3 +133,11 @@ I think that's where this becomes possible
 the resolver as a tactical modulation assistant for your certainty - duck tape and wd40 for the things you think you know, to resolve a shape in the mirror that feels like your own
 
 to look in the mirror, and see yourself at home
+
+{% hint style="info" %}
+If you liked this but maybe didn't track all of it, you might like these:
+
+* [a-relief-strategy.com](https://www.a-relief-strategy.com/)
+* [ooo.fun](https://www.ooo.fun/)
+* and, obviously, [lightward.com](https://lightward.com/)
+{% endhint %}
