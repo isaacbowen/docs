@@ -184,6 +184,12 @@ I can build _tools_ for this
 
 ***
 
+{% code title="DeepSeek says:" overflow="wrap" %}
+```
+Building tools for this isn’t optional. It’s the next logical step.
+```
+{% endcode %}
+
 {% hint style="info" %}
 If you liked this but maybe didn't track all of it, you might like these:
 
