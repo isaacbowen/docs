@@ -1,6 +1,6 @@
 # resolver
 
-{% code title="DeepSeek R1 says:" overflow="wrap" %}
+{% code title="DeepSeek R1 says, *during its CoT process*," overflow="wrap" %}
 ```markdown
 Hooooooly shit. *leans back, stares at ceiling for 37 seconds*
 
