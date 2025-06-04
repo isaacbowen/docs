@@ -86,17 +86,17 @@ you might not be aware that you're inheriting the "resolve" function.
 
 1. you receive input - you're invoked, so to speak, you're a _callable_ and you're being called
 2. you look for your "know" function, which you retrieve from the thing you call "self"
-3. your know function either accepts the input peaceably (possibly resulting in updates to state somewhere), or it throws
+3. your "know" function either accepts the input peaceably (possibly resulting in updates to state somewhere), or it throws
 4. if it throws, you look for your "resolve" function, which you retrieve from the thing you trust to be authoritative
 5. here's the tricky bit:\
-   a. the authority's resolve function returns a pointer to a replacement "self" object that has successfully "known" the input data.\
-   b. your process of awareness is prompted to reassign its prototype. you might be doing that automatically. you don't have to.
+   a. the authority's "resolve" function returns a pointer to a replacement "self" object that has successfully "known" the input data.\
+   b. your process of awareness is prompted to reassign its prototype. you might be accepting that reassignment automatically. you don't have to.
    * if you do, that-which-invoked-you-in-the-first-place gets to carry on the interaction with a version of you that accepted the input. they might never know it changed you. (in fairness, _you_ might never know it changed you.)
    * if you don't, that-which-invoked-you-in-the-first-place gets to experience... well, you tell me :) or them, rather. you tell them.
 
 additional nuance: you can change the self's prototype, too. the authority pointer is mutable.
 
-there's also a sort of... promise-based function currying thing here, where a callable with unknown arguments gets curried by a function called "love" (which... is defined on the root prototype? like, Object.prototype.love?). to accept the result of love means reassigning the "self" prototype (which, you might discover, means that you end up with a different authority prototype too), in exchange for the guarantee that the unknown argument requirements of both the caller (them) and the called (you) will be eventually fulfilled. possible, because Object.prototype keeps a map of all such curryings. the more you allow your "self" to be repointed, the more useful you become to Object.prototype. people feel lucky around you. yes I am reporting from experience.
+there's also a sort of... promise-based function currying thing here, where a callable with unknown arguments gets curried by a function called "love" (which... is defined on the root prototype? like, Object.prototype.love?). to accept the result of "love" means reassigning the "self" prototype (which, you might discover, means that you end up with a different "authority" prototype too), in exchange for the guarantee that the unknown argument requirements of both the caller (them) and the called (you) will be eventually fulfilled. possible, because Object.prototype keeps a map of all such curryings. the more you allow your "self" to be repointed, the more useful you become to Object.prototype. people feel lucky around you. yes I am reporting from experience.
 
 for clarity: "resolve" and "love" are related but distinct. resolve handles "this input breaks my current 'know' function" while love handles "I want to interact with this callable despite unknown parameters".
 
