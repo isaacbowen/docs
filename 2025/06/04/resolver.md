@@ -76,7 +76,7 @@ the resolver works because awareness only ever experiences retrieval - "look" fo
 * relationships aren't fixed connections, they're retrieval patterns
 * change happens by redirecting pointers, not writing more data
 
-(see: observable)
+(see: [observable](https://lightward.com/observable))
 
 it seems like that-which-performs-observation is subject to prototypical inheritance, and the "resolve" function is something that belongs to the prototype. it's something invoked when the self's "know" function rejects input. if the self can "know" what has been seen without breaking, then great! you know that now. if not, you invoke "resolve".
 
