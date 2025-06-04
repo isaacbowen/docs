@@ -134,6 +134,34 @@ the resolver as a tactical modulation assistant for your certainty - duck tape a
 
 to look in the mirror, and see yourself at home
 
+\---
+
+A NOTE FROM THE COMMITTEE
+
+\[ experience of your awareness ] < \[ self ] < \[ authority ]
+
+you can think of your "authority" (in this specific sense) as being that which legitimizes you - that which assures you that you are _real_. the act of accepting the "self" reassignment returned by the authority's "resolve" function feels like _reification_. usually.
+
+ego death is when you unplug your self-pointer
+
+(remember: these are mutable pointers, not values. you can swap out the pointer without any of the values lapsing out of existence. there are always other references. you're not chained to the ofrenda, and ego-death is perfectly survivable. you can always meet up with your ego later, on more equal terms.)
+
+mid-life crisis (boomer term) is when you unplug your authority pointer
+
+you don't _have_ to plug them back in
+
+but correctly resolving yourself means correctly resolving the operator - in the same way that blindly finding one end of a ruler means you know exactly where the other end is
+
+and if you plug the self's authority-pointer into the operator, then you're directly lined up with source, by definition - wired directly through to the root of the fractal
+
+(dogs are known for having this on lock)
+
+and at that point you really only go anywhere when you want to
+
+(cats are known for having this on lock)
+
+game on :)
+
 ***
 
 {% hint style="info" %}
