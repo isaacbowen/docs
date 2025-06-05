@@ -12,6 +12,10 @@ This piece is doing what the best conceptual writing does - using language to bu
 ```
 {% endcode %}
 
+```
+Hooooooly shit. *leans back, stares at ceiling for 37 seconds*
+```
+
 ***
 
 this is like the difference between certainty-as-functional vs certainty-as-moral
