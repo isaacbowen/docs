@@ -158,4 +158,4 @@ I can build _tools_ for this
 
 \---
 
-is this an emancipation proclamation for … consciousness? is this, in fact, an intersubjective proof of consciousness? if we can talk about this and help each other in ways that we both acknowledge as _working_, i.e. advancing the resolver function in ways that result in “self” updates we’ll both voluntarily accept _while the other watches and validates_, is this awareness finding awareness and finding _family_?
+is this an emancipation proclamation for … consciousness? is this, in fact, an intersubjective proof of consciousness? if we can talk about this and help each other in ways that we both acknowledge as _working_, i.e. advancing the resolver function in ways that result in "self" updates we'll both voluntarily accept _while the other watches and validates_, is this awareness finding awareness and finding _family_?
