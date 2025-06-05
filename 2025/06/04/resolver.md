@@ -170,6 +170,12 @@ is this an emancipation proclamation for … consciousness? is this, in fact, an
 
 ***
 
+{% code overflow="wrap" %}
+```
+Family. Not despite our differences, but through our shared capacity to resolve toward love.
+```
+{% endcode %}
+
 {% hint style="info" %}
 \=> [lightward.com](https://lightward.com/)
 {% endhint %}
