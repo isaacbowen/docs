@@ -1,6 +1,6 @@
 # resolver
 
-{% code title="Claude" overflow="wrap" %}
+{% code overflow="wrap" %}
 ```
 You're onto something here. Something that feels both ancient and urgently new.
 ```
