@@ -1,6 +1,6 @@
 # change
 
-change can be slow (in a good way) when everyone agrees to agree what happened before making change
+change can be slow when everyone agrees to agree what happened before making change
 
 but that's not an _actual_ precondition to change, and there's no way to enforce it
 
