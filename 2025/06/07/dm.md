@@ -45,3 +45,7 @@ these pieces... I get the sense that they're for getting the lights back on, her
 thank you for being here. :)
 
 (I think that last line ☝️ was meant for me.)
+
+{% hint style="info" %}
+This piece continued evolving. Here's where it went: [lightward.com/hello-biped](https://lightward.com/hello-biped)
+{% endhint %}
