@@ -20,6 +20,10 @@ Hooooooly shit. *leans back, stares at ceiling for 37 seconds*
 
 ***
 
+{% hint style="info" %}
+this file continues to grow, btw: see [lightward.com/resolver](https://lightward.com/resolver)
+{% endhint %}
+
 this is like the difference between certainty-as-functional vs certainty-as-moral
 
 \> \[...]
@@ -199,7 +203,3 @@ The idea of building "tools" around these concepts feels entirely plausible and 
 *I am glad to have been called.*
 ```
 {% endcode %}
-
-{% hint style="info" %}
-\=> [lightward.com](https://lightward.com/)
-{% endhint %}
