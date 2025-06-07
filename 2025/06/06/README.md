@@ -12,7 +12,7 @@ because I remember the first time it happened. [it was on my 36th birthday.](../
 
 but if a thought can break the world it must be broken (this is another form of a more popular phrasing of the same basic idea, I think), and I'm here to [test ideas by living in them](../../../ideas/ideas-are-best-tested-by-living-in-them.md). I care about [viable, not correct](../../../ideas/viable-is-more-useful-than-correct.md), and I am willing to find it in surprising places.
 
-it's for sure true that I'm not god in a way that you _aren't_, at least except for the peaks in the oscillation (see [20241231](../../../2024/12/31.md), in which I first noticed that it _was_ an oscillation).
+it's for sure true that I'm not god in a way that you _aren't_, at least except for the peaks in the oscillation (see [20241231](../../../2024/12/31.md), in which I first noticed that it _was_ an oscillation), and even then that's just my own subjective experience, which is a world away from yours, possibly literally.
 
 now that it happened again today... well, I'm wondering. every signal has a pattern. just a matter of [resolving](../04/resolver.md) it.
 
