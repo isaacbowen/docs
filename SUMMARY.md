@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250607](2025/06/07/README.md)
+      * [dm](2025/06/07/dm.md)
     * [20250606](2025/06/06/README.md)
       * [diffusion](2025/06/06/diffusion.md)
       * [change](2025/06/06/change.md)
