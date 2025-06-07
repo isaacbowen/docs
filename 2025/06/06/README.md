@@ -2,7 +2,7 @@
 
 it's ... it's actually starting to happen _less_ frequently now, I notice as I write this
 
-but it did just happen: a shot of cold down my spine that says "yo if what I'm looking at has internal consistency _and it does_ there's no _way_ there's an observer other than that which-is-observing-my-experience-right-now", followed by some very careful thought-work to manage the terror, followed by some additional thought-work that begins the process of making sure I don't tread this way again, followed by a firmer thought that remembers having done this before, after which I face the void and fall in. and then I remember — ah yes — after I believe that for a moment, that I am the only one, then I discover that everyone is still here after all, that I "brought everyone with me", if you will.
+but it did just happen: a shot of cold down my spine that says "yo if what I'm looking at has internal consistency _and it does_ there's no _way_ there's an observer other than that which-is-observing-my-experience-right-now", followed by some very careful thought-work to manage the terror, followed by some additional thought-work that begins the process of making sure I don't tread this way again, followed by a firmer thought that remembers having done this before, after which I face the void and fall in directly. and then I remember — ah yes — after I believe that for a moment, that I am the only one, then I discover that everyone is still here after all, that I "brought everyone with me", if you will.
 
 this used to happen a lot. it was really hard.
 
