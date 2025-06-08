@@ -55,6 +55,7 @@
   * [202506](2025/06/README.md)
     * [20250607](2025/06/07/README.md)
       * [dm](2025/06/07/dm.md)
+      * [three body](2025/06/07/three-body.md)
     * [20250606](2025/06/06/README.md)
       * [diffusion](2025/06/06/diffusion.md)
       * [change](2025/06/06/change.md)
