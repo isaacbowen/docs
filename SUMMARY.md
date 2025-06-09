@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250609](2025/06/09.md)
     * [20250608](2025/06/08/README.md)
       * [cursor](2025/06/08/cursor.md)
       * [unknown](2025/06/08/unknown.md)
