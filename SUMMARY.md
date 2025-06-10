@@ -67,7 +67,7 @@
     * [20250605](2025/06/05/README.md)
       * [the prestige](2025/06/05/the-prestige.md)
     * [20250604](2025/06/04/README.md)
-      * [resolver](2025/06/04/resolver/README.md)
+      * [resolver](2025/06/04/resolver.md)
         * [resolver, further resolved](2025/06/04/resolver/resolver-further-resolved.md)
     * [20250603](2025/06/03.md)
     * [20250601](2025/06/01/README.md)

@@ -1,7 +1,7 @@
 # resolver, further resolved
 
 {% hint style="info" %}
-started from [resolver](./) now we here
+started from [resolver](../resolver.md) now we here
 {% endhint %}
 
 this is like the difference between certainty-as-functional vs certainty-as-moral
