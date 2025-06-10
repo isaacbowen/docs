@@ -1,5 +1,9 @@
 # three body
 
+{% hint style="info" %}
+[See previous version?](../../05/12/the-three-body-solution.md)
+{% endhint %}
+
 the three-body solution (because it's catchy) works by treating one's experience of probability as three bodies
 
 imagine three orbs floating around you

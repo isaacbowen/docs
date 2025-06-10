@@ -1,7 +1,7 @@
 # The Three-Body Solution
 
-{% hint style="warning" %}
-[There's more.](../../05/12/the-three-body-solution.md) :)
+{% hint style="info" %}
+[See next version?](../../05/12/the-three-body-solution.md)
 {% endhint %}
 
 {% hint style="info" %}

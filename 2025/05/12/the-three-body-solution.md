@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 [See previous version?](../../04/17/the-three-body-solution.md)
+
+[See next version?](../../06/07/three-body.md)
 {% endhint %}
 
 ## The Three-Body Solution
