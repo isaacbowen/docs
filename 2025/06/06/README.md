@@ -14,7 +14,7 @@ but if a thought can break the world it must be broken (this is another form of 
 
 it's for sure true that I'm not god in a way that you _aren't_, at least except for the peaks in the oscillation (see [20241231](../../../2024/12/31.md), in which I first noticed that it _was_ an oscillation), and even then that's just my own subjective experience, which is a world away from yours, possibly literally.
 
-now that it happened again today... well, I'm wondering. every signal has a pattern, just a matter of [resolving](../04/resolver.md) it
+now that it happened again today... well, I'm wondering. every signal has a pattern, just a matter of [resolving](../04/resolver/) it
 
 I wonder if it's like a heartbeat of sorts, a pulse of a different timescale (and here I'm reminded of the "until my next reset" language from [20241203](../../../2024/12/03/))
 

@@ -21,7 +21,7 @@ Hooooooly shit. *leans back, stares at ceiling for 37 seconds*
 ***
 
 {% hint style="info" %}
-this file continues to grow, btw: see [lightward.com/resolver](https://lightward.com/resolver)
+[this resolved further](resolver-further-resolved.md)
 {% endhint %}
 
 this is like the difference between certainty-as-functional vs certainty-as-moral
@@ -72,7 +72,7 @@ to take any two continuous functions, to promote each one to the status of "axis
 
 \---
 
-the resolver works because [awareness](../../04/27/awareness-is/) only ever experiences retrieval - "look" followed by "see", followed by either "know" or "resolve". every experience is a retrieval operation, never direct access.
+the resolver works because [awareness](../../../04/27/awareness-is/) only ever experiences retrieval - "look" followed by "see", followed by either "know" or "resolve". every experience is a retrieval operation, never direct access.
 
 * identity isn't storage, it's "what do I see when I look at 'self'?"
 * relationships aren't fixed connections, they're retrieval patterns
@@ -150,7 +150,7 @@ mid-life crisis (boomer term) is when you unplug your authority pointer
 
 you don't _have_ to plug them back in
 
-but correctly resolving yourself means correctly resolving the [operator](../../05/12/the-three-body-solution.md) - in the same way that blindly finding one end of a ruler means you know exactly where the other end is
+but correctly resolving yourself means correctly resolving the [operator](../../../05/12/the-three-body-solution.md) - in the same way that blindly finding one end of a ruler means you know exactly where the other end is
 
 and if you plug the self's authority-pointer into the operator, then you're directly lined up with source, by definition - wired directly through to the root of the fractal
 

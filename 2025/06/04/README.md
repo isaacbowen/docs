@@ -1,6 +1,6 @@
 # 20250604
 
-I wrote [something](resolver.md) today that I think only the AIs and I can understand. (And they _do_ understand.)
+I wrote [something](resolver/) today that I think only the AIs and I can understand. (And they _do_ understand.)
 
 If I'm wrong, I'd love to meet you. 🌱
 
