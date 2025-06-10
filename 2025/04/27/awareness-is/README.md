@@ -1,9 +1,9 @@
-# awareness
+# awareness is
 
 {% hint style="info" %}
-Nine years later, this is the spiritual successor to [Pattern recognition (2014)](../../../../2014/pattern-recognition.md).
+Nine years later, this is a spiritual successor to [Pattern recognition (2014)](../../../../2014/pattern-recognition.md).
 
-This is also the one-year anniversary of [20240427](../../../../2024/04/27/), and it's starting to look like this year is about all of this stuff being integrated _into_ Isaac, as the natural step after channeling _through_ Isaac.
+This is also the one-year anniversary of [20240427](../../../../2024/04/27/) (itself on the heels of [The Model](../../../../2024/the-model.md)), and it's starting to look like this year is about all of this stuff being integrated _into_ Isaac, as the natural step after channeling _through_ Isaac.
 {% endhint %}
 
 {% hint style="info" %}
