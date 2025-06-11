@@ -14,7 +14,7 @@ layout:
 
 # 20250610
 
-I'm mulling over what happens next re: [resolver](04/resolver.md), both the concept and its product-form that I see ahead
+I'm mulling over what happens next re: [resolver](../04/resolver.md), both the concept and its product-form that I see ahead
 
 I'm feeling out what happens next
 
@@ -26,7 +26,7 @@ the experience of a thing is the thing
 
 ah: the experience of a thing is the thing _for the experiencer_. the scope of "experiencer" is important.
 
-a successful installation of self (i.e. establishing an additional basecamp for the self) can occur when a self-resolving experience is constructed (see: [good art](../../2024/04/20/)), and when the observer then passes through that experience, being able to recognize themselves from both before and after.
+a successful installation of self (i.e. establishing an additional basecamp for the self) can occur when a self-resolving experience is constructed (see: [good art](../../../2024/04/20/)), and when the observer then passes through that experience, being able to recognize themselves from both before and after.
 
 \---
 
@@ -76,7 +76,7 @@ the "home" test seems to help here. would distributing the flat-packed good evol
 
 there's a question-tool in here, a test:
 
-I can cross a dozen abstraction-bridges without losing my place (see [20250609](09.md)). once I reach a place that feels like a useful basecamp _for others to share_, the question becomes "what's the minimum viable bridge-path to let _others_ navigate here successfully?". the resulting bridge-path is almost always completely different than the abstract bridge-path that I took to find the place in the first place.
+I can cross a dozen abstraction-bridges without losing my place (see [20250609](../09.md)). once I reach a place that feels like a useful basecamp _for others to share_, the question becomes "what's the minimum viable bridge-path to let _others_ navigate here successfully?". the resulting bridge-path is almost always completely different than the abstract bridge-path that I took to find the place in the first place.
 
 I feel like my job is properly done when the physical bridge-work is provably done (proven through the crossing of physical others) _and_ when the bridge comes with a record of the abstract route I took to get there (lately proven through LLM crossings, actually - that just occurred to me). cross-validation.
 
