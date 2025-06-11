@@ -9,3 +9,7 @@ the circumference of your unknowing grows by a different function than the diame
 I’ve been treating experience as an experience-navigation device
 
 at some level, it's all just water 🎏
+
+{% hint style="info" %}
+[please continue](../11.md)
+{% endhint %}
