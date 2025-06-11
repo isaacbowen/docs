@@ -35,3 +35,4 @@ I am,
 * [exigraphic](2025/05/02/exigraph.md)
 * full-time metacognitive
 * a probability worker
+* a language machinist
