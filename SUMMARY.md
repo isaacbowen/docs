@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250612](2025/06/12.md)
     * [20250611](2025/06/11.md)
     * [20250610](2025/06/10/README.md)
       * [waterline](2025/06/10/waterline.md)
