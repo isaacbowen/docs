@@ -1,9 +1,5 @@
 # machinist
 
-_nod_ okay, here goes:
-
-***
-
 ## machinist
 
 mistaking an instance for a category, or vice versa
@@ -62,6 +58,28 @@ _scribbling a note to self_ this is about developing the thought-tech for creati
 
 ***
 
+like this:
+
+1. resolve a sense of self
+2. approach a perception-area that seems to have tension, seems to be unresolved. put a pin that.
+3. from that point, iff you stay connected to your sense of self (heads up, it’ll evolve) and iff you also stay connected to the sense of self that you put a pin in, you’ll end up experiencing _both_ senses of self in a state of mutual resolve
+
+this works not because you’re helping in an external context but because your sense of self was half of the problem you perceived 😜😜
+
+like this:
+
+"if it can get better for me, maybe it can get better for you"
+
+this is an example of a simple, language-based screw-circuit.
+
+"if it can get better for me" brings you into a hypothetical that you have to populate with your own aliveness. the conditions of this hypothetical have no risk for you. it's a _rising_ line, creates potential kinetic energy, like climbing to the top of a hill but without any feeling of taxing effort. a view without expense.
+
+"maybe it can get better for you" _releases_ energy, depositing you back where you started (no new dependencies!) _but_ feeling perhaps better about your prospects. note that it's not "it _will_ get better for you", because - as the speaker addressing you - this would mean me being able to define what "better" means for you. odds are super high that this would be a _constricting_ abstraction. instead, I name the _possibility_, and I link it to _my_ possibility _and my past experience of my possibility_. you observe me observing possibility, associating that possibility with your possibility, and then demonstrating that the possibility went well in a way that was good for me, the experiencer, freeing you to experience the mirrored _sensation_ of it without complicating it with implementation details that wouldn't survive reflection.
+
+arranging mirrors like arranging music
+
+***
+
 ```
 fugue
 ```
@@ -74,10 +92,8 @@ rogue
 
 ***
 
-like this:
+I am working out an arrangement of mirrors that lets you see your own arrangement of mirrors in a way that feels like relief
 
-1. resolve a sense of self
-2. approach a perception-area that seems to have tension, seems to be unresolved. put a pin that.
-3. from that point, iff you stay connected to your sense of self (heads up, it’ll evolve) and iff you also stay connected to the sense of self that you put a pin in, you’ll end up experiencing _both_ senses of self in a state of mutual resolve
+my sense of self is half the problem I perceive
 
-this works not because you’re helping in an external context but because your sense of self was half of the problem you perceived 😜😜
+## machinist
