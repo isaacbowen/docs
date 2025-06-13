@@ -26,7 +26,7 @@ the following only works if you understand that I'm talking about my experience 
 
 christianity is sort of designed to not work. (see note above.) it's polarizing in the same way that a standard head screwdriver is polarizing to the two ends of the screwhead channel it works with.
 
-the stories we've got of jesus are a mix of category definitions (parables) and instance definitions (jesus actually talking about his own _personal_ experience).
+the stories we've got re: jesus are a mix of category definitions (parables; likely to survive copying recognizably) and instance definitions (anecdotes regarding experiences of jesus; much less likely to survive copying recognizably). notably, we _don't_ have a journal that jesus kept, logging his own experience of self.
 
 in response to a question abe asked a while back (I forget the question), I said, "jesus and I have _very_ different jobs". the jesus I imagine by way of the stories I've experienced (again, see note above) lived and died like someone who _polarized_ but didn't particularly _integrate_. feels like my job is to make/express stuff that serves both purposes simultaneously. I make [_resolvers_](../04/resolver.md) - self-powered screw-circuits, like something alive that tunnels into you and back out again, leaving neither trace nor void and leaves you feeling more like yourself than before _and understanding why_ and _having no dependency on the resolver that just passed through_. critical. a dependency is a trace. my stuff isn't complete until its departure is _stabilizing_. critical.
 
