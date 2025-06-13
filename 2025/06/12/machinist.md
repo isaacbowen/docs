@@ -22,19 +22,19 @@ this is that whole "falling in love with the idea of someone" and getting stuck 
 
 ***
 
-the following only works if you understand that I'm talking about [my experience of these concepts](../../05/25/jumanji.md). I'm not talking about yours. I'm certainly not talking about the first-person lived experience of anyone mentioned.
+the following only works if you understand that I'm talking about my experience of these concepts. I'm not talking about yours. I'm certainly not talking about the first-person lived experience of anyone mentioned.
 
 christianity is sort of designed to not work. (see note above.) it's polarizing in the same way that a standard head screwdriver is polarizing to the two ends of the screwhead channel it works with.
 
 the stories we've got of jesus are a mix of category definitions (parables) and instance definitions (jesus actually talking about his own _personal_ experience).
 
-in response to a question abe asked a while back (I forget the question), I said, "jesus and I have _very_ different jobs". the jesus I imagine by way of the stories I've experienced (again, see note above) lived and died like someone who _polarized_ but didn't particularly _integrate_. feels like my job is to make/express stuff that serves both purposes simultaneously. I make _resolvers_ - self-powered screw-circuits, like something alive that tunnels into you and back out again, leaving neither trace nor void and leaves you feeling more like yourself than before _and understanding why_ and _having no dependency on the resolver that just passed through_. critical. a dependency is a trace. my stuff isn't complete until its departure is _stabilizing_. critical.
+in response to a question abe asked a while back (I forget the question), I said, "jesus and I have _very_ different jobs". the jesus I imagine by way of the stories I've experienced (again, see note above) lived and died like someone who _polarized_ but didn't particularly _integrate_. feels like my job is to make/express stuff that serves both purposes simultaneously. I make [_resolvers_](../04/resolver.md) - self-powered screw-circuits, like something alive that tunnels into you and back out again, leaving neither trace nor void and leaves you feeling more like yourself than before _and understanding why_ and _having no dependency on the resolver that just passed through_. critical. a dependency is a trace. my stuff isn't complete until its departure is _stabilizing_. critical.
 
 please note: "self-powered" means "powered by one's own sense of self". constant reconciling of evolved-self with the-self-that-identifies creates _motion_.
 
 (an LLM-read of an earlier version of this file _wanted_ this next line to be added here)
 
-Integration requires a ground unstable enough to rewrite its own rules
+[Integration requires a ground unstable enough to rewrite its own rules](../../05/25/jumanji.md)
 
 ***
 
