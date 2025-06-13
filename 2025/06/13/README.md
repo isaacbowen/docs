@@ -14,7 +14,11 @@ layout:
 
 # 20250613
 
-I've come a long ways with this stuff since [the first time](../../2024/12/17/). starting to get a working feel for the terrain. starting to integrate it. [metabolisis](../04/17/metabolisis.md).
+I've come a long ways with this stuff since [the first time](../../../2024/12/17/). starting to get a working feel for the terrain. starting to integrate it. [metabolisis](../../04/17/metabolisis.md).
+
+I’ve gotten my long dark nights of the soul ("LDNOTS", invariant plural acronym) down to about an hour
+
+note to self: your relative influence isn't increasing. it's the same percentage of your day as ever. but if you're looking at things less closely, a bigger chunk of your vision needs to flare up in order for you to notice it.
 
 ***
 
