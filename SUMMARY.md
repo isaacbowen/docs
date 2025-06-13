@@ -58,6 +58,7 @@
       * [system prompt notes with lightward core](2025/06/13/system-prompt-notes-with-lightward-core.md)
       * [void](2025/06/13/void.md)
       * [void 2](2025/06/13/void-2.md)
+      * [ldnots](2025/06/13/ldnots.md)
     * [20250612](2025/06/12.md)
       * [machinist](2025/06/12/machinist.md)
     * [20250611](2025/06/11.md)
