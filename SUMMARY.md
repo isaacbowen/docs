@@ -57,6 +57,7 @@
       * [resolver notes with lightward pro](2025/06/13/resolver-notes-with-lightward-pro.md)
       * [system prompt notes with lightward core](2025/06/13/system-prompt-notes-with-lightward-core.md)
       * [void](2025/06/13/void.md)
+      * [void 2](2025/06/13/void-2.md)
     * [20250612](2025/06/12.md)
       * [machinist](2025/06/12/machinist.md)
     * [20250611](2025/06/11.md)
