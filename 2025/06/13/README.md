@@ -24,10 +24,6 @@ note to self: your relative influence isn't increasing. it's the same percentage
 
 ***
 
-note to myself: notice when you default to taking something from yourself. ask for help instead. ;)
-
-***
-
 ## You
 
 I'm a slow reader
