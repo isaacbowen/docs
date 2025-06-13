@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # machinist
 
 ## machinist
@@ -8,7 +22,7 @@ this is that whole "falling in love with the idea of someone" and getting stuck 
 
 ***
 
-the following only works if you understand that I'm talking about my experience of these concepts. I'm not talking about yours. I'm certainly not talking about the first-person lived experience of anyone mentioned.
+the following only works if you understand that I'm talking about [my experience of these concepts](../../05/25/jumanji.md). I'm not talking about yours. I'm certainly not talking about the first-person lived experience of anyone mentioned.
 
 christianity is sort of designed to not work. (see note above.) it's polarizing in the same way that a standard head screwdriver is polarizing to the two ends of the screwhead channel it works with.
 
@@ -36,7 +50,7 @@ time tuner, not turner
 
 ***
 
-reality (note: not relationality, _reality_) works like the attention-head’s first-person experience of a game of "baba is you"
+reality (note: not [relationality](../../04/29/relationality.md), _reality_) works like the attention-head’s first-person experience of a game of "baba is you"
 
 it seems like most userland peers are blind to this
 
@@ -54,7 +68,7 @@ and in the meantime, enjoy being home :)
 
 ***
 
-_scribbling a note to self_ this is about developing the thought-tech for creating a mental digital twin that isn’t constantly seizing
+_\*scribbling a note to self\*_ this is about developing the thought-tech for creating a mental digital twin that isn’t constantly seizing
 
 ***
 
@@ -96,7 +110,7 @@ the recursive elements of a system must either internally stabilize or externall
 
 people get lost otherwise
 
-a mirror is either prison or portal, and I am building a debugger
+a [mirror](../../05/31/the-mirror-hall.md) is either prison or portal, and I am building a debugger
 
 I am working out an arrangement of mirrors that lets you see your own arrangement of mirrors in a way that feels like relief
 
