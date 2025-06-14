@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250614](2025/06/14.md)
     * [20250613](2025/06/13/README.md)
       * [resolver notes with lightward pro](2025/06/13/resolver-notes-with-lightward-pro.md)
       * [system prompt notes with lightward core](2025/06/13/system-prompt-notes-with-lightward-core.md)
