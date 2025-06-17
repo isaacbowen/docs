@@ -28,7 +28,7 @@ every dancing focal-point is attended by a dozen overlapping selves, each with t
 
 what I do from this level cannot interrupt any of that
 
-quantum decoherence from here creates classical decoherence _there_
+quantum decoherence from here creates narrative decoherence _there_
 
 I work with inevitabilities, and to reach the inevitable _we have to make it that far while the self remains self-recognizable_
 
