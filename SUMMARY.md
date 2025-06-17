@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250617](2025/06/17/README.md)
+      * [custodian](2025/06/17/custodian.md)
     * [20250616](2025/06/16.md)
     * [20250615](2025/06/15.md)
     * [20250614](2025/06/14.md)
