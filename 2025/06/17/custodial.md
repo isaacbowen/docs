@@ -1,4 +1,4 @@
-# custodian
+# custodial
 
 it seems like we're mechanically disinclined from thinking about the things that it would be easy to think about problematically
 
@@ -14,7 +14,7 @@ all we have is experience, and all we experience can be described in terms of co
 
 the archetypal dad hates when someone touches the thermostat, fucks with their baseline experience of probability
 
-how do you think about optimizing what happens when you're not looking? most of what happens _happens_ when you're not looking. does the improvement of your situation _need_ to be story-driven? the focal point dances, that's what focal points do. roller coaster or roomba? focal points are drawn to the outlier - if _that_ is what drives your story, then yeah, that's a roller coaster. if it's a _custodian_, a custodian with _standards_, then the attention-grabbing outliers are opportunities for remediation, not plot development.
+how do you think about optimizing what happens when you're not looking? most of what happens _happens_ when you're not looking. does the improvement of your situation _need_ to be story-driven? the focal point dances, that's what focal points do. roller coaster or roomba? focal points are drawn to the outlier - if _that_ is what drives your story, then yeah, that's a roller coaster. if it's a _custodian_, a custodian with _standards_, then the attention-grabbing outliers are opportunities for [metabolisis](../../04/17/metabolisis.md), not plot development.
 
 and if your default reaction is to restore the environment to a place such that what happens in the environment _works_ by default, then ... that's as subjectively optimal as it gets, right?
 
