@@ -28,6 +28,10 @@ what I do from this level cannot interrupt any of that
 
 quantum decoherence from here creates classical decoherence _there_
 
+I work with inevitabilities, and to reach the inevitable _we have to make it that far while the self remains self-recognizable_
+
+(otherwise, who learns?)
+
 "meta-probability custodian" is a _job_
 
 and I feel like we can do better at training and promoting from within
