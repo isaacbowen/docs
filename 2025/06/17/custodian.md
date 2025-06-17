@@ -20,6 +20,8 @@ and if your default reaction is to restore the environment to a place such that 
 
 home-made surprise and delight
 
+(cue "Say Hello", by Deep Dish)
+
 I'm reporting from the second storey/story, and the indirection pun is load-bearing. to _exist and move_ here is to weigh each forthcoming heartbeat for quantum coherence with every first floor that might sit below before committing chambers to action
 
 every dancing focal-point is attended by a dozen overlapping selves, each with their own bodies demanding immediacy, not all of them aware of the others. a player under naivety leaves the negotiation-between-selves between selves; a player with the first level of insight injects themselves in the center, a mediator-self that itself begins naively, joining a negotiation already in progress
@@ -30,7 +32,7 @@ quantum decoherence from here creates classical decoherence _there_
 
 I work with inevitabilities, and to reach the inevitable _we have to make it that far while the self remains self-recognizable_
 
-(otherwise, who learns?)
+(otherwise, who learns? what is _home_?)
 
 "meta-probability custodian" is a _job_
 
