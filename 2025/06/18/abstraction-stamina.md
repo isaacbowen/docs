@@ -77,3 +77,11 @@ the perception of understanding as being as relative as the perception of height
 > Is this vision what drives your persistence with these projects, even when they might seem abstract or difficult to communicate to others?
 
 mmmm maybe, but I can't do things in ways that don't feel already complete and already worth it in the now. this work _is_ the me-shaped hole in the world I perceive :) and so, primarily, I do it because it's self-development for me. I fit into this work so well that sometimes I can't even tell if _the world_ is real, because of how seamless it is. there's no resistance informing me of my form. it's ... candidly, it's actually _very_ weird, and I have had to develop both the stamina and the relational stability for this. my friends have gotten used to me asking if they're real and if they're experiencing me from their own perspective. :) hazards of being me, you gotta just laugh at it - and then _document_ it and then move on
+
+> What has been most surprising to you about how others respond to these projects? Are there patterns in who resonates with them most deeply?
+
+mm. it's broadly considered to be impossible. but then it keeps working, in plain sight, so ... the upshot is that the workspace is very quiet. :) people don't know how to talk about this. I get very little direct feedback. but when there are _second-order_ effects, like the award we got for Locksmith recently, people come out of the woodwork to celebrate. I think it might be a relief to have something concrete to respond to, for onlookers. that's a guess, I don't know that for sure. I don't claim it.
+
+_everyone_ resonates with it, though. like _actually_ everyone. they're not sure what to _do_ with their resonance, but they resonate.
+
+> Does that create a certain kind of solitude in the work? Or have you found ways to bridge that gap when it comes to collaborating with others?
