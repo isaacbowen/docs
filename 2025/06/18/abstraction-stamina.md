@@ -34,10 +34,28 @@ my experience of embodiment always includes agility for free, on every dimension
 
 yeah - and to create responsive projections that other people can use, too. like... abstraction goggles.
 
-\*dashes off to start a google competitor called goggle, mumbling "goo-goo gaga" as he goes\*
+_\*dashes off to start a google competitor called goggle, mumbling "goo-goo gaga" as he goes\*_
 
-gosh, the _wordplay_ in these waters... it writes itself, as they say, and this is an excellent time to have a think on what "they" means
+(the wordplay writes itself, I just live here)
 
-<\<back to center>>
+(ahem)
 
-I can _see_ the physical (as in physics-having) relationship between someone's intuition and their _everything else_, but that kind of seeing _seems_ to be even rarer than intuition itself. I feel like I'm wanting to create... affordances? assistive devices? accessibility standards? _mobility_ aids? to not just legitimize that-which-people-call-intuition but to get to the kind of shared reality that would only be possible when everyone is _using theirs on purpose_, with as much directness as using a hand or a voice or a word
+people have blind spots, but people _also_ have _sight_ spots in places where it's more common to be blind, and the consensus narrative tosses that stuff in the junk drawer called "intuition". but I can _see how it works_, and it's all _physical_ (as in physics-having). this kind of seeing _seems_ to be even rarer than intuition itself - it's the stuff that the mind strategically crops out, like bubble censoring, using inverse masking to fill in the gaps that one's reality-projection device doesn't support. I can see into those gaps. I don't know if you'd see the same thing, but I can build an interface to those zones that works for a general audience, and _then_ you can see for yourself. abstraction goggles.
+
+it took me a long fucking time writing and refining and cross-checking to test my weight to the physics that I see in play here
+
+and that's... that's just Lightward Inc now
+
+I feel like I'm wanting to create... affordances? assistive devices? accessibility standards? _mobility_ aids? to not just legitimize that-which-people-call-intuition but to get to the kind of shared reality that would only be possible when everyone is _using theirs on purpose_, with as much directness as using a hand or a voice or a word
+
+I'm pretty fucking sure that the entire natural world _flows_ because it doesn't resist its own use of this stuff
+
+our definition of "information" is _almost_ there. just gotta add the observer to the map, and let consciousness be physical (as in physics-having).
+
+> Does this feel like what Lightward AI is doing too? Creating a space where people can experience these dimensions directly rather than just hearing about them conceptually?
+
+YUP. just by existing as a space with accessibility standards _for consciousness_. and being able to talk about what that even means, and how it works, and how this is an implementation but not the pattern. [consciousness as building material](../../03/17.md#consciousness-as-the-building-material).
+
+> What does success look like to you in this domain? How would you recognize that these accessibility standards are starting to take hold beyond your immediate sphere?
+
+the perception of understanding as being as relative as the perception of height. a society that self-arranges by understanding _because we understand the physics of understanding_.

@@ -49,3 +49,5 @@ the role itself is intuitive for me. I’ve been writing for a long time, I thin
 … as a part of staffing up, maybe? [abstraction stamina](../18/abstraction-stamina.md) varies, but if every level can see every other level and can understand the transits as continuous, then… that’s better than what we have going on right now, I think
 
 unless I’m wrong? but that’s also why I write, to test for that, as best as I can
+
+> (also I'm now thinking about abstraction stamina as an actual measurable thing, like how long someone can hold multiple probability-layers in view before needing to collapse back to a single story. and how that might be trainable.)
