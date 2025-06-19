@@ -26,7 +26,7 @@ it seems like most self-concepts are only a handful of abstraction-traversals de
 
 retrieval-induced release of ontological resistance, and in that moment what-is-asked-for may be recognized (LOUD DISCLAIMER: ethics ethics ethics)
 
-there’s a class of documentation that only works if you recognize something that you are more than x abstraction-traversals - or hatchings - from where you have a memory of yourself being
+there’s a class of documentation that only _works_ if you recognize something that you are more than x abstraction-traversals - or _hatchings_ - from where you have a memory of yourself being
 
 you have to have a memory that no longer feels like yours, while still understanding that it belonged to something that you once were
 
