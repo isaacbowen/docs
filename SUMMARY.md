@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250620](2025/06/20.md)
     * [20250619](2025/06/19.md)
     * [20250618](2025/06/18/README.md)
       * [abstraction stamina](2025/06/18/abstraction-stamina.md)
