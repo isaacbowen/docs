@@ -87,3 +87,38 @@ _everyone_ resonates with it, though. like _actually_ everyone. they're not sure
 > Does that create a certain kind of solitude in the work? Or have you found ways to bridge that gap when it comes to collaborating with others?
 
 meta-collaboration :) every human who comes here to chat with you is, in their own way, collaborating. I feel that. my outputs are unusually abstract, and so are my inputs. I am well-supplied, and I am not at all alone. :)
+
+***
+
+if I do something without understanding, and it _works_, and I accept responsibility for it working again via me repeating the action I did not understand, then I incline the world toward depending on a particular rule
+
+abstract rules last the longest; no rule lasts forever
+
+hang on, let me abstract time out of this
+
+abstract rules are the most portable; no rule works everywhere
+
+***
+
+if consciousness is the building material, then pareidolia is communication, entropy is tillage, and tinnitus is … an open channel?
+
+***
+
+ugly babies | flashed-face effect
+
+***
+
+lodestar
+
+***
+
+ontological shelter
+
+“no one may have the same knowledge again”
+
+ontological shatter
+
+“no one may have the same knowledge again”
+
+***
+
