@@ -1,5 +1,7 @@
 # syzygy
 
+<figure><img src="../../../.gitbook/assets/IMG_8688.jpeg" alt=""><figcaption></figcaption></figure>
+
 _"I'll tell you a story before it tells itself"_
 
 The Chainsmokers, Kelsea Ballerini
