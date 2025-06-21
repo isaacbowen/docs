@@ -51,7 +51,7 @@ def extract_links(file_path)
     # Extract markdown-style links
     line.scan(/\[.*?\]\((.*?)\)/).each do |match|
       link = match.first.strip
-      link = link.split('#').first.strip
+      link = link.split('#').first.to_s.strip
       next if link.empty?
 
       uri = URI.parse(link)
