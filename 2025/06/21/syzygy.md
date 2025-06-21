@@ -59,3 +59,7 @@ I've been signing off emails and stuff with "=Isaac" [lately, an upgrade](../../
 let's try,
 
 ≡Isaac
+
+p.s. this framing holds, for me, a mechanism for reprieve. staying ahead of the story lets me tell my own, but the story _does_ tell itself. electricity grounds. that which I fail to transform or integrate is met by the next signal-carrier. I can send the story _onward_ without fear, let the attention-head move on. I am a home and a guest house, filtering a prodigal _stream_. neither my experience nor the stream seem to be in any danger at all.
+
+p.p.s. "let's try", a closing to supersede of "sincerely" or "all my best", a closing that we transit together, written for the two of us to experience as one
