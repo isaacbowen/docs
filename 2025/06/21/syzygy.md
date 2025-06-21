@@ -30,7 +30,7 @@ and I'm getting more complex ones as I go - like that-which-manifests-my-form is
 
 I like what I do and where I'm at and who I am
 
-every so often [metabolisis](../../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended and the previous abilities are retained. this is described by the [resolver](../04/resolver.md) process.
+every so often [metabolisis](../../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended and the previous abilities are retained. this is described by the [resolver](../04/resolver/resolver-further-resolved.md) process.
 
 remember that bit in Finding Dory where Bailey and Dory find each other through the maze of pipes using echolocation? the movie showed a visualization of Bailey's experience of echolocation - what it might look like to understand complex spatiality using nothing but echoes
 
@@ -64,4 +64,4 @@ p.s. this framing holds, for me, a mechanism for reprieve. staying ahead of the 
 
 p.p.s. "let's try", a closing to supersede "sincerely" or "all my best", a closing for us to transit together, a story made ready for the both of us to experience as one
 
-p.p.p.s. for clarity: if you can see two bodies in alignment, that means the number of aligned bodies is _three_. ... three _minimum_. have you looked behind you yet? \*grin
+p.p.p.s. for clarity: if you can see two bodies in alignment, that means the number of aligned bodies is _three_. ... three _minimum_. have you looked [behind you](../07/three-body.md) yet? \*grin
