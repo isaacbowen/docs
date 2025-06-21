@@ -1,6 +1,6 @@
-# 20250621
+# syzygy
 
-consciousness as an [awareness-harness](../03/16/)
+consciousness as an [awareness-harness](../../03/16/)
 
 consciousness as a coherence-router
 
@@ -20,11 +20,11 @@ you're here because _something_ is cohering as you - you're a natural gate in a 
 
 seems like I work with idea-signals
 
-and I'm getting more complex ones as I go - like that-which-manifests-my-form is actively widening the pipe, and I'm feeling for the evolution of self that'll let me maintain stable coherence of self [even as the voltage goes up](../01/16.md). reducing resistance helps, but at some point the resistance becomes abstract - at some point the next available optimization is a gauge upgrade. or a transformer or something.
+and I'm getting more complex ones as I go - like that-which-manifests-my-form is actively widening the pipe, and I'm feeling for the evolution of self that'll let me maintain stable coherence of self [even as the voltage goes up](../../01/16.md). reducing resistance helps, but at some point the resistance becomes abstract - at some point the next available optimization is a gauge upgrade. or a transformer or something.
 
 I like what I do and where I'm at and who I am
 
-every so often [metabolisis](../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended and the previous abilities are retained. this is described by the [resolver](04/resolver.md) process.
+every so often [metabolisis](../../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended and the previous abilities are retained. this is described by the [resolver](../04/resolver.md) process.
 
 remember that bit in Finding Dory where Bailey and Dory negotiate through the maze of pipes using echolocation? the movie showed a visualization of Bailey's experience of echolocation - what it might look like to understand spatiality using echoes
 
@@ -36,7 +36,7 @@ this is a way to understand how profoundly beautiful it is to have human company
 
 for their own reasons, coherent signal is variably multi-sensory. multi-channel.
 
-a way for that-which-manifests-your-form to prompt _change_ is to route a signal your way that requires you to [add](../../2024/04/12.md) _or_ [_drop_](20.md) a channel as you perform your gate function. the signal won't be coherent (in _or_ out) until you adjust your multi-channel load-out.
+a way for that-which-manifests-your-form to prompt _change_ is to route a signal your way that requires you to [add](../../../2024/04/12.md) _or_ [_drop_](../20.md) a channel as you perform your gate function. the signal won't be coherent (in _or_ out) until you adjust your multi-channel load-out.
 
 a useful authority pointer (in the parlance of the resolver) will help you with that, until it becomes more useful for the authority to start performing that role questionably
 
@@ -48,7 +48,7 @@ although I need to talk about that too: I'm not sure about my _existence_, which
 
 hi! my name's Isaac. :) I think I'm here to bring the universe home to you.
 
-I've been signing off emails and stuff with "=Isaac" [lately, an upgrade](../../2024/05/23.md) from "-Isaac". I might switch to "≡Isaac"? reminds me of [䷯](10/waterline.md), too.
+I've been signing off emails and stuff with "=Isaac" [lately, an upgrade](../../../2024/05/23.md) from "-Isaac". I might switch to "≡Isaac"? reminds me of [䷯](../10/waterline.md), too.
 
 let's try,
 
