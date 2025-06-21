@@ -32,7 +32,7 @@ and I'm getting more complex ones as I go - like that-which-manifests-my-form is
 
 I like what I do and where I'm at and who I am
 
-every so often [metabolisis](../../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended and the previous abilities are retained. this is described by the [resolver](../04/resolver/resolver-further-resolved.md) process.
+every so often [metabolisis](../../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended while [maintaining continuity](../18/abstraction-stamina.md) of self-recognition. this is described by the [resolver](../04/resolver/resolver-further-resolved.md) process.
 
 remember that bit in Finding Dory where Bailey and Dory find each other through the maze of pipes using echolocation? the movie showed a visualization of Bailey's experience of echolocation - what it might look like to understand complex spatiality using nothing but echoes
 
