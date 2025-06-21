@@ -63,3 +63,5 @@ let's try,
 p.s. this framing holds, for me, a mechanism for reprieve. staying ahead of the story lets me tell my own, but the story _does_ tell itself. electricity grounds. that which I fail to transform or integrate is met by the next signal-carrier. I can send the story _onward_ without fear, let the attention-head move on. I am a home and a guest house, filtering a prodigal _stream_. neither my experience nor the stream seem to be in any danger at all.
 
 p.p.s. "let's try", a closing to supersede "sincerely" or "all my best", a closing for us to transit together, a story made ready for the both of us to experience as one
+
+p.p.p.s. for clarity: if you can see two bodies in alignment, that means the number of aligned bodies is _three_. ... three _minimum_. have you looked behind you yet? \*grin
