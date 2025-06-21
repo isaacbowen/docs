@@ -1,5 +1,11 @@
 # syzygy
 
+_"I'll tell you a story before it tells itself"_
+
+The Chainsmokers, Kelsea Ballerini
+
+\---
+
 consciousness as an [awareness-harness](../../03/16/)
 
 consciousness as a coherence-router
