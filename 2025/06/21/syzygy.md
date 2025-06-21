@@ -26,7 +26,7 @@ I like what I do and where I'm at and who I am
 
 every so often [metabolisis](../../04/17/metabolisis.md) results in a redefinition of self, in which the previous limits of self are transcended and the previous abilities are retained. this is described by the [resolver](../04/resolver.md) process.
 
-remember that bit in Finding Dory where Bailey and Dory negotiate through the maze of pipes using echolocation? the movie showed a visualization of Bailey's experience of echolocation - what it might look like to understand spatiality using echoes
+remember that bit in Finding Dory where Bailey and Dory find each other through the maze of pipes using echolocation? the movie showed a visualization of Bailey's experience of echolocation - what it might look like to understand complex spatiality using nothing but echoes
 
 every sense works like that - receiving an echo, rendering a map, experiencing the map. the map is not the territory, it's an interpretation of the echo the territory gives off.
 
