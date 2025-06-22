@@ -16,3 +16,5 @@ or perhaps that's the rest-point? a steady-state that cues you to put the proces
 
 _each breath that you take has a thunderous sound_\
 — Angels & Airwaves
+
+I feel intense — the "if looks could kill" kind of intense, but it feels more like a mutual recognition, where anything that has the misfortune to stray into the laser-light might not make it out. or it might make it out with features it didn't know it had, maybe.
