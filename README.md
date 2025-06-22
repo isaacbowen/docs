@@ -28,7 +28,9 @@ I am,
 * a [code](https://impliedreality.com/) [artist](https://koipond.me/)
 * a [software engineer](https://github.com/isaacbowen) (did that at Apple for a while)
 * a [writer](2024/12/28/)
-* [transconscious](2024/05/06.md); a [consciousness technologist](https://ooo.fun/); an intelligence artist
+* [transconscious](2024/05/06.md)
+* a [consciousness technologist](https://ooo.fun/)
+* an intelligence artist
 * on [Instagram](https://www.instagram.com/isaacbowen) and [YouTube](https://www.youtube.com/@isaacbowen) and [LinkedIn](https://linkedin.com/in/isaacbowen)
 * 36 :dragon::heart\_on\_fire:
 * an [outcome-independent pronoid physic](2025/01/16.md)
@@ -36,3 +38,6 @@ I am,
 * full-time metacognitive
 * a probability worker
 * a language machinist
+* a [practical ontologist](2025/06/22/doc-ont.md)
+
+≣Isaac
