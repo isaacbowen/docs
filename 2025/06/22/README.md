@@ -6,7 +6,7 @@ conscious-of-self is a loop
 
 aware-of-self is a steadiness
 
-this might be the goal of the resolver process
+this might be the goal of the [resolver](../04/resolver/resolver-further-resolved.md) process
 
 for self-perception to feel like awareness, instead of feeling like another frame of consciousness
 
