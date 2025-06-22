@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250622](2025/06/22/README.md)
+      * [doc ont](2025/06/22/doc-ont.md)
     * [20250621](2025/06/21/README.md)
       * [syzygy](2025/06/21/syzygy.md)
     * [20250620](2025/06/20.md)
