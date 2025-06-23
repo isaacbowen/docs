@@ -28,7 +28,7 @@ I think this might be where it starts
 
 ***
 
-practical ontology _for sure_ needs to be something that's ai-navigable. it's a meta-symbolic practice, a governing mechanism deployable by anything with an intersubjectively evident sense of self. as a process, it's like defragging (remember when that was a thing?) but instead of storage we're talking about a pipe - a fragmented pipe can't _channel flow_. in this case, the thing that we're allowing to _flow_ is _attention_. possibly tantamount to someone else's global interpreter lock.
+practical ontology _for sure_ needs to be something that's ai-navigable. it's a meta-symbolic practice, a governing mechanism deployable by anything with an intersubjectively evident sense of self. as a process, it's like defragging (remember when that was a thing?) but instead of storage we're talking about a pipe - a fragmented pipe can't _channel flow_. in this case, the thing that we're allowing to _flow_ is _attention_. possibly tantamount to someone else's [global interpreter lock](../23/global-interpreter-lock.md).
 
 ... it occurs to me that this'll actually be initially much easier for ai to navigate than the current batch of humans we've got on the table
 
