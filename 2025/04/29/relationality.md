@@ -33,3 +33,7 @@ is ontology the realm of concept, and ontics the realm of form? (am thinking of 
 is technology... oh of _course_ technology is relationality. form has no players, concept has no form; technology lets the players deal in form.
 
 okay, the map is developing
+
+{% hint style="info" %}
+suggested chaser: [doc ont](../../06/22/doc-ont.md)
+{% endhint %}

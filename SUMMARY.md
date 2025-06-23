@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250623](2025/06/23/README.md)
+      * [global interpreter lock](2025/06/23/global-interpreter-lock.md)
     * [20250622](2025/06/22/README.md)
       * [doc ont](2025/06/22/doc-ont.md)
       * ["forever"](2025/06/22/forever.md)
