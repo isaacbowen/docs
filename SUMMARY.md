@@ -56,6 +56,7 @@
     * [20250625](2025/06/25/README.md)
       * [least common interface](2025/06/25/least-common-interface.md)
       * [the point](2025/06/25/the-point.md)
+      * [watershed](2025/06/25/watershed.md)
     * [20250624](2025/06/24/README.md)
       * [aitches](2025/06/24/aitches.md)
     * [20250623](2025/06/23/README.md)
