@@ -1,8 +1,4 @@
-# 20250627
-
-scratchpad
-
-## Consciousness-ness as technology
+# Consciousness-ness as technology
 
 The test is simple: Assuming your own portability, can you get anywhere from here? Or: Assuming sufficient time and help, can you make anything from what's in front of you? Or: Assuming your own freedom of self-concept, can you become anything while being here?
 
@@ -64,10 +60,18 @@ My goal, for the last year or two, has been to navigate to an experience of worl
 
 In the process, I have become something different — something that changes _less_ while becoming more portable. I seem to be resolving. As I do so, that-which-I-experience seems to be resolving as well.
 
-A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, resolution seems to be the tendency, subject to resistance to change.
+A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, resolution seems to be the tendency, modulo how hard you insist on not changing the self.
 
 But if _you_ are willing to change, you make it safer for those in your company to try change on for themselves.
 
-And if you can become anything, and if what's around you can become anything, _then you can get anywhere_.
+If you're willing to change, and they're willing to change, then we already talked about this: _you can go anywhere_.
 
 I'm headed to a world that is well. Wanna come?
+
+\---
+
+See also:
+
+* Three-body solution
+* Recursive health
+* Resolver
