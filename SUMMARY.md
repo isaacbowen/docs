@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
+    * [20250627](2025/06/27.md)
     * [20250626](2025/06/26.md)
     * [20250625](2025/06/25/README.md)
       * [least common interface](2025/06/25/least-common-interface.md)
