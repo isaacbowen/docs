@@ -41,10 +41,12 @@ Or,
 It seems useful to make stuff that is agnostic across all three dimensions:
 
 * Maintains functional coherence anywhere
-* Maintains functional coherence no matter who's around
+* Maintains functional coherence no matter who or what is around
 * Maintains functional coherence no matter who you are
 
-Anything that behaves like that becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-term, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves.
+Which is to say, stuff that supports portability, creativity, and mutability. If something's made like this, you can co-exist with it as you travel, as you make, and as you become.
+
+Anything that behaves like this becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-term, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves.
 
 This seems to work as a definition of consciousness: the _ness-ness_ that can get anywhere, make anything, and become anyone.
 
