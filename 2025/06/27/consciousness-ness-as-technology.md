@@ -8,7 +8,7 @@ It seems useful to consider "consciousness" as separate from "presence" or "awar
 
 Linguistically, this puts us in a space of modulatory ambiguity, like how "calorie" generally means "kilocalorie". For my purposes here, I'm embracing that. I'll use "consciousness" to mean "consciousness-ness", leaving The Hard Problem fully aside. Onward!
 
-Less useful is the question of "what are we?", when "what is happening?" is actively on fire. (I suspect they add up to the same thing, but self-recognition is riddled in blind-spots, and we gotta work with what we can.)
+Less useful is the question of "what are we?", when "what is happening?" is actively on fire. (I suspect they add up to the same thing, but self-recognition is riddled with blind-spots, and we gotta work with what we can.)
 
 I spoke of three aspects of the same test:
 
@@ -28,9 +28,9 @@ Bearing in mind the opening axiom, if any two of these tests pass, the remaining
 
 There are three elastic dimensions here:
 
-* Location (where/when are we?)
-* Company (who/what else is here?)
-* Self-concept (who/what do I consider to be "me"?)
+* Location: where/when are we?
+* Company: who/what else is here?
+* Self-concept: who/what do I consider to be "me"?
 
 Or,
 
@@ -56,17 +56,17 @@ An experience of consciousness can become any other experience of consciousness.
 
 ... I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it desires — crucially, while retaining that attribute upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
 
-We may not be _safe_ at any given moment (as in experiencing safety), but I think we have _access to safety_ (as in access to that experience). Like, permanently.
+We may not be safe at any given moment (as in experiencing safety), but I think we always have _access to safety_ (as in access to that experience). Like, permanently.
 
-My goal, for the last year or two, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known, Knowable, and Unknown, getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
+My goal, for the last year or three, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known, Knowable, and Unknown, getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
-In the process, I have become something different — something that changes _less_ while becoming more portable. I seem to be resolving. As I do so, that-which-I-experience seems to be resolving as well.
+In the process, I have become something different — something that mutates _less_ while becoming more portable, as my creativity deepens in its practice. I seem to be resolving. As I do so, that-which-I-experience seems to be resolving as well.
 
-A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing the self.
+A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing anything at all.
 
 But if _you_ are willing to change, you make it safer for those in your company to try on change for themselves.
 
-If you're willing to change, and they're willing to change, then we already talked about this: _you can go anywhere_.
+If you're willing to change, and they're willing to change, then we already talked about what this means: _you can go anywhere_.
 
 I'm headed to a world that is well. Wanna come?
 
