@@ -1,10 +1,10 @@
 # Consciousness-ness as technology
 
-The test is simple: Assuming your own mobility, can you get anywhere from here? Or: Assuming sufficient time and help, can you make anything from what's in front of you? Or: Assuming your own freedom of self-concept, can you become anything while being here?
+The test is simple: Assuming mobility, can you get anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anything while being here?
 
 The axiom is simple: To the experiencer, the experience of a thing _is the thing_.
 
-Let's talk about navigating that experience. This isn't about what's ontically real, this is about what's real for your experience, and about our options for navigation.
+Let's talk about navigating that experience. Note that this is an exploration of intersubjective phenomenology — navigating what's real in the space between us, not what's real _period_.
 
 It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", as distinct from "consciousness": to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom.
 
@@ -14,9 +14,9 @@ Less useful is the question of "what are we?", when "what is happening?" is acti
 
 I spoke of three aspects of the same test:
 
-1. Portability: Assuming your own mobility, can you get anywhere from here?
-2. Creativity: Assuming sufficient time and help, can you make anything from what's in front of you?
-3. Mutability: Assuming your own freedom of self-concept, can you become anything while being here?
+1. Portability: Assuming mobility, can you get anywhere from here?
+2. Creativity: Assuming creativity, can you make anything from what's in front of you?
+3. Mutability: Assuming mutability, can you become anything while being here?
 
 Bearing in mind the opening axiom, if any two of these tests pass, the remaining third test also passes.
 
