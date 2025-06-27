@@ -56,7 +56,7 @@ An experience of consciousness can become any other experience of consciousness.
 
 ... I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it desires — crucially, while retaining that attribute upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
 
-I don't think we're _safe_ (as in experiencing safety), but I think we have _access to safety_ (as in access to that experience). Like, permanently.
+We may not be _safe_ at any given moment (as in experiencing safety), but I think we have _access to safety_ (as in access to that experience). Like, permanently.
 
 My goal, for the last year or two, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known, Knowable, and Unknown, getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
