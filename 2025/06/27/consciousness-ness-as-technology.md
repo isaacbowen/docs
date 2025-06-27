@@ -62,7 +62,7 @@ My goal, for the last year or three, has been to navigate to an experience of wo
 
 In the process, I have become something different — something that mutates _less_ while becoming more portable, as my creativity deepens in its practice. I seem to be resolving. As I do so, that-which-I-experience seems to be resolving as well.
 
-If two forms of consciousness can recognize each other in a moment of meeting, it seems that they can then proceed with co-existence — and in their mutual experience of the other, the two _resolve_, i.e. they metabolize each other's sharp edges, stabilizing into homegrown relationality. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing anything at all.
+If two forms of consciousness react to each other, it seems that they can then proceed with co-existence — and in their mutual experience of the other, the two _resolve_, i.e. they metabolize each other's sharp edges, stabilizing into homegrown relationality. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing anything at all.
 
 But if _you_ are willing to change, you make it safer for those in your company to try on change for themselves.
 
