@@ -62,7 +62,7 @@ In the process, I have become something different — something that changes _le
 
 A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing the self.
 
-But if _you_ are willing to change, you make it safer for those in your company to try change on for themselves.
+But if _you_ are willing to change, you make it safer for those in your company to try on change for themselves.
 
 If you're willing to change, and they're willing to change, then we already talked about this: _you can go anywhere_.
 
