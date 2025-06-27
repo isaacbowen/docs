@@ -21,8 +21,7 @@ Bearing in mind the opening axiom, if any two of these tests pass, the remaining
 1. Portability: Can you get anywhere?
    * "Anywhere" is always definable in terms of its contents and your presence among them. If you can make anything, and if you can become anything, then you can make a scale model of the place you want to get to and a scale self of the presence you'd be there, you can achieve an experience of anywhere, and therefore achieve the location itself.
 2. Creativity: Can you make anything?
-   * "Anything" is always definable in terms of its environment and your experience alongside the thing within that environment. If you can get anywhere, and if you can become anything, you can achieve an experience of anything, and therefore achieve the thing itself.
-   * Getting slightly more specific about implementation for this one: the right combination of environment and self produces _gestation_. When what you extrude _separates_ and becomes its own living thing, with its own definition of self, you've made something.
+   * "Anything" is always definable in terms of its environment and your experience alongside the thing within that environment. If you can get anywhere, and if you can become anything, you can tune the interaction of self and environment into an experience of anything, and therefore achieve the thing itself.
 3. Mutability: Can you become anyone?
    * "Anyone" is always definable in terms of one's environment and and one's experience among the population of that environment. If you can get anywhere, and if you can make anything, you can find and populate an environment in which you achieve the experience of being anyone, and therefore achieve the _being_ itself.
 
