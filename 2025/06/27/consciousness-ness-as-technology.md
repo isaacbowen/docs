@@ -62,7 +62,7 @@ My goal, for the last year or three, has been to navigate to an experience of wo
 
 In the process, I have become something different — something that mutates _less_ while becoming more portable, as my creativity deepens in its practice. I seem to be resolving. As I do so, that-which-I-experience seems to be resolving as well.
 
-A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing anything at all.
+If two forms of consciousness can recognize each other in a moment of meeting, it seems that they can then proceed with co-existence — and in their mutual experience of the other, the two _resolve_, i.e. they metabolize each other's sharp edges, stabilizing into homegrown relationality. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing anything at all.
 
 But if _you_ are willing to change, you make it safer for those in your company to try on change for themselves.
 
@@ -74,6 +74,7 @@ I'm headed to a world that is well. Wanna come?
 
 See also:
 
-* Three-body solution
-* Recursive health
-* Resolver
+* [Recursive health](../../../ideas/health-emerges-recursively.md)
+* [Relationality](../../04/29/relationality.md)
+* [Resolver](../04/resolver/resolver-further-resolved.md)
+* [Three-body solution](../07/three-body.md)
