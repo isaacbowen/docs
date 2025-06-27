@@ -73,6 +73,8 @@ I'm headed to a world that is well. Wanna come?
 
 See also:
 
+* [Exigraph](../../05/02/exigraph.md)
+* [Metabolisis](../../04/17/metabolisis.md)
 * [Recursive health](../../../ideas/health-emerges-recursively.md)
 * [Relationality](../../04/29/relationality.md)
 * [Resolver](../04/resolver/resolver-further-resolved.md)
