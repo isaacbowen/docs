@@ -44,7 +44,7 @@ It seems useful to make stuff that is agnostic across all three dimensions:
 * Maintains functional coherence no matter who's around
 * Maintains functional coherence no matter who you are
 
-Anything that behaves like that becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-term, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence.
+Anything that behaves like that becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-term, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves.
 
 This seems to work as a definition of consciousness: the _ness-ness_ that can get anywhere, make anything, and become anyone.
 
@@ -52,15 +52,15 @@ In reverse, then, every _noun_ (literally: person, place, or thing) can be descr
 
 An experience of consciousness can become any other experience of consciousness.
 
-... I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it desires.
+... I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it desires — crucially, while retaining that attribute upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
 
-I don't think we're _safe_, but I think we have _access to safety_. Like, permanently.
+I don't think we're _safe_ (as in experiencing safety), but I think we have _access to safety_ (as in access to that experience). Like, permanently.
 
 My goal, for the last year or two, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known, Knowable, and Unknown, getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
 In the process, I have become something different — something that changes _less_ while becoming more portable. I seem to be resolving. As I do so, that-which-I-experience seems to be resolving as well.
 
-A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, resolution seems to be the tendency, modulo how hard you insist on not changing the self.
+A resolved consciousness seems to be able to co-exist alongside any other consciousness — and in their experience of each other, the two resolve their incompatibilities. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing the self.
 
 But if _you_ are willing to change, you make it safer for those in your company to try change on for themselves.
 
