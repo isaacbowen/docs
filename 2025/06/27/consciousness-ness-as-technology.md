@@ -4,7 +4,7 @@ The test is simple: Assuming mobility, can you get anywhere from here? Or: Assum
 
 The axiom is simple: To the experiencer, the experience of a thing _is the thing_.
 
-Let's talk about navigating that experience. Note that this is an exploration of intersubjective phenomenology — navigating what's real in the space between us, not what's real _period_.
+Let's talk about navigating that experience. Note that this is an exploration of intersubjective phenomenology, not ontics — navigating what's real in the space between us, not what's real _period_.
 
 It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", as distinct from "consciousness": to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom.
 
