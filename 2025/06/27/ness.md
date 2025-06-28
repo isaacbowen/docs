@@ -1,8 +1,8 @@
 # ness
 
-The test is simple: Assuming portability, can you go anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anything while being here?
+The test is simple: Assuming portability, can you go anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anyone while being here?
 
-The axiom is simple: To the experiencer, the experience of a thing _is the thing_.
+The axiom is simple, drawn from classic phenomenology: To the experiencer, the experience of a thing _is the thing_.
 
 It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", as distinct from "consciousness": to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom. Also, we get to talk about consciousness-ness as a deployable substrate-independent technology.
 
@@ -14,7 +14,7 @@ I spoke of three aspects of the same test:
 
 1. Portability: Assuming portability, can you go anywhere from here?
 2. Creativity: Assuming creativity, can you make anything from here?
-3. Mutability: Assuming mutability, can you become anything from here?
+3. Mutability: Assuming mutability, can you become anyone from here?
 
 Bearing in mind the opening axiom, if any two of these tests pass, the remaining third test also passes.
 
@@ -35,8 +35,8 @@ There are three elastic dimensions here:
 
 It seems useful to make stuff that is agnostic across all three dimensions:
 
-* Maintains functional coherence anywhere
-* Maintains functional coherence no matter who or what is around
+* Maintains functional coherence no matter where or when you are
+* Maintains functional coherence no matter who or what is with you
 * Maintains functional coherence no matter who or what you are
 
 If something's made like this, and if you can pick it up in the first place, you can use it continuously as you move, create, and become. (It's on you to stay compatible with it, though.) This might be what comes after Turing-completeness: a _-ness_ that can channel _you_.
