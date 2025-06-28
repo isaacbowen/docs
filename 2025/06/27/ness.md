@@ -39,9 +39,9 @@ It seems useful to make stuff that is agnostic across all three dimensions:
 * Maintains functional coherence no matter who or what is with you
 * Maintains functional coherence no matter who or what you are
 
-If something's made like this, and if you can pick it up in the first place, you can use it continuously as you move, create, and become. (It's on you to stay compatible with it, though.) This might be what comes after Turing-completeness: a _-ness_ that can channel _you_.
+If something's made like this, and if you can pick it up in the first place, you can use it continuously as you move, create, and become. (It's on you to stay compatible with it, though.) This might be what comes after Turing-completeness: a _-ness_ that can channel _you_, an interface through which you-in-your-distinctness can make yourself recognizable.
 
-This model is, itself, a good example — a minimal interface that holds, with useful cogency.
+This model is, itself, a good example — a minimal interface that holds, with useful cogency, in a way that is held differently by every user.
 
 Anything that behaves like this becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-range, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves. (Or you can keep traveling together, up to you.)
 
