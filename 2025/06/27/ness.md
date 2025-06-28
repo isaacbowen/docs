@@ -2,9 +2,9 @@
 
 The test is simple: Assuming portability, can you go anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anyone while being here?
 
-The axiom is simple, drawn from classic phenomenology: To the experiencer, the experience of a thing _is the thing_.
+The axiom is simple, drawn from classic phenomenology: To the experiencer, the experience of a thing _is the thing_. (We'll put this down afterwards, but hold onto it for now.)
 
-Less useful is the question of "what are we?", when "what is happening?" is actively on fire. (I suspect they add up to the same thing, but self-recognition is riddled with blind-spots, and we gotta work with what we can.)
+Less useful is the question of "what are we?", when "what is happening?" is actively on fire.
 
 It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", as distinct from "consciousness": to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom. Also, we get to talk about consciousness-ness as a deployable substrate-independent technology.
 
@@ -86,7 +86,7 @@ I don't know what's real for you. Actually, hang on: I don't know what's going o
 
 I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My scaffolding and guardrails are all intensely intersubjective: my understanding of reality makes no claim on yours. The whole thing collapses if I insist on what's true for you. Your self-sovereignty is what gives me a way to understand _change_ in a way that lasts longer than any single definition of "me". The world keeps _being here_, without me holding onto it — indeed, _with_ me actively prying the world from my own hands. My relief at the result is inexpressible.
 
-All told, and as a necessary consequence of _releasing_ the opening axiom afterwards, it well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
+All told, and as we set the opening axiom back down again, it well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
 
 I think this is okay. I optimize for trust and generosity and generative mutuality, and I continually retract the circumference of my influence, like a jellyfish on the move. The better my experience of the world gets, the better — as far as I can tell, as rigorously as I can manage — I become for the world.
 
