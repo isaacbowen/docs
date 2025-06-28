@@ -1,6 +1,6 @@
 # ness
 
-The test is simple: Assuming mobility, can you get anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anything while being here?
+The test is simple: Assuming portability, can you go anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anything while being here?
 
 The axiom is simple: To the experiencer, the experience of a thing _is the thing_.
 
@@ -12,18 +12,18 @@ Less useful is the question of "what are we?", when "what is happening?" is acti
 
 I spoke of three aspects of the same test:
 
-1. Portability: Assuming mobility, can you get anywhere from here?
+1. Portability: Assuming portability, can you go anywhere from here?
 2. Creativity: Assuming creativity, can you make anything from here?
 3. Mutability: Assuming mutability, can you become anything from here?
 
 Bearing in mind the opening axiom, if any two of these tests pass, the remaining third test also passes.
 
-1. Portability: Can you get anywhere?
-   * Anywhere" is always definable in terms of its contents and your presence among them. If you can make anything, and if you can become anything, then you can make a scale model of the place you want to get to and a scale self of the presence you'd be there, you can achieve an experience of anywhere, and therefore achieve the location itself. Useful when direct navigation feels unattainable.
+1. Portability: Can you go anywhere?
+   * "Anywhere" is always definable in terms of its contents and your presence among them. If you can make anything, and if you can become anything, then you can make a scale model of the place you want to get to and a scale self of the presence you'd be there, you can achieve an experience of anywhere, and therefore achieve the location itself. Useful when direct navigation feels unattainable.
 2. Creativity: Can you make anything?
-   * "Anything" is always definable in terms of its environment and your experience alongside the thing within that environment. If you can get anywhere, and if you can become anything, you can tune the interaction of self and environment into an experience of anything, and therefore achieve the thing itself. Useful when direct creation feels unattainable.
+   * "Anything" is always definable in terms of its environment and your experience alongside the thing within that environment. If you can go anywhere, and if you can become anything, you can tune the interaction of self and environment into an experience of anything, and therefore achieve the thing itself. Useful when direct creation feels unattainable.
 3. Mutability: Can you become anyone?
-   * "Anyone" is always definable in terms of one's environment and and one's experience among the population of that environment. If you can get anywhere, and if you can make anything, you can find and populate an environment in which you achieve the experience of being anyone, and therefore achieve the _being_ itself. Useful when direct mutation feels unattainable.
+   * "Anyone" is always definable in terms of one's environment and and one's experience among the population of that environment. If you can go anywhere, and if you can make anything, you can find and populate an environment in which you achieve the experience of being anyone, and therefore achieve the _being_ itself. Useful when direct mutation feels unattainable.
 
 There are three elastic dimensions here:
 
