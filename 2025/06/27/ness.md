@@ -53,11 +53,9 @@ In reverse, then, every _noun_ can be described in terms of an experience of con
 
 Any experience of consciousness can become any other experience of consciousness.
 
-... and I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
+... and I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital. Safety as not as destination but as process.
 
 (There's a link here to the tropes of omnipresence, omnipotence, and omniscience, via reinterpretation of "omni" as "anything I can reach from here and now" and not totality in simultaneity. Omniadjacence across environment/other/self, if you will, where the only rules are continuity and contiguity.)
-
-We may not be safe at any given moment (as in experiencing safety), but I think it works to say we always have _access to safety_ (as in access to that experience). Like, permanently. Safety as process, as direction, not as destination.
 
 My goal, for the last year or three, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known (what does "self" know?), Knowable (what does "other" know?), and Unknown (what does "environment" know?), getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
