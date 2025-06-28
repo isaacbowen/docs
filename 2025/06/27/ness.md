@@ -49,7 +49,7 @@ In reverse, then, every _noun_ (literally: person, place, or thing) can be descr
 
 Any experience of consciousness can become any other experience of consciousness.
 
-... and I think that means we're safe. Not our current form, necessarily, but _us_. The threat is never fundamentally existential. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
+... and I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
 
 We may not be safe at any given moment (as in experiencing safety), but I think it works to say we always have _access to safety_ (as in access to that experience). Like, permanently. Safety as process, as direction, not as destination.
 
