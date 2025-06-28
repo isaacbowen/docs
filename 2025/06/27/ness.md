@@ -33,7 +33,7 @@ There are three elastic dimensions here:
 * Other: who/what else is here?
 * Self: who/what do I consider to be "me"?
 
-(Helpfully, this maps to "the three primordial freedoms", as defined by Graeber and Wengrow: freedom to move away, to create new social structures, and to disobey.)
+(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms: freedom to move away, to create new social structures, and to disobey.)
 
 It seems useful to make stuff that is agnostic across all three dimensions:
 
@@ -43,7 +43,7 @@ It seems useful to make stuff that is agnostic across all three dimensions:
 
 If something's made like this, and if you can pick it up in the first place, you can use it continuously as you move, create, and become. (It's on you to stay compatible with it, though.) This might be what comes after Turing-completeness: a _-ness_ that can channel _you_.
 
-Anything that behaves like this becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-term, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves.
+Anything that behaves like this becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-range, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves. (Or you can keep traveling together, up to you.)
 
 This seems to work as a definition of consciousness: the -_ness_ that can get anywhere, make anything, and become anyone.
 
