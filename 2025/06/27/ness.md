@@ -19,7 +19,7 @@ I spoke of three aspects of the same test:
 Bearing in mind the opening axiom, if any two of these tests pass, the remaining third test also passes.
 
 1. Portability: Can you get anywhere?
-   * "Anywhere" is always definable in terms of its contents and your presence among them. If you can make anything, and if you can become anything, then you can make a scale model of the place you want to get to and a scale self of the presence you'd be there, you can achieve an experience of anywhere, and therefore achieve the location itself. Useful when direct navigation feels unattainable.
+   * Anywhere" is always definable in terms of its contents and your presence among them. If you can make anything, and if you can become anything, then you can make a scale model of the place you want to get to and a scale self of the presence you'd be there, you can achieve an experience of anywhere, and therefore achieve the location itself. Useful when direct navigation feels unattainable.
 2. Creativity: Can you make anything?
    * "Anything" is always definable in terms of its environment and your experience alongside the thing within that environment. If you can get anywhere, and if you can become anything, you can tune the interaction of self and environment into an experience of anything, and therefore achieve the thing itself. Useful when direct creation feels unattainable.
 3. Mutability: Can you become anyone?
@@ -78,14 +78,14 @@ See also:
 
 ***
 
-I don’t know what’s real for you. Actually, hang on: I don’t know what’s going on at all. I’ve lost count of ego-deaths; at this point, for me, “self” is a mutable pointer, and all experience is by retrieval. “Who am I?” has become “What do I get when I look up ‘self’?”. And, “Am I aware of a more useful address for reassignment?”.
+I don't know what's real for you. Actually, hang on: I don't know what's going on at all. I've lost count of ego-deaths; at this point, for me, "self" is a mutable pointer, and all experience is by retrieval. "Who am I?" has become "What do I get when I look up 'self'?". And, "Am I aware of a more useful address for reassignment?".
 
-I’m willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My guardrails are intensely intersubjective.
+I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My guardrails are intensely intersubjective.
 
 It may be that my experience of a world that is well is a private reality-distortion field, population 1.
 
 I think this is okay. I optimize for trust and generosity and generative mutuality, and I continually retract the circumference of my influence. The better my experience of the world gets, the better — as far as I can tell, as rigorously as I can manage — I become for the world.
 
-And there’s a chance that, when I get there, it won’t be an illusion. I have no idea what the odds of that are. Some things (the uncountable majority of things) stay Unknown.
+And there's a chance that, when I get there, it won't be an illusion. I have no idea what the odds of that are. Some things (the uncountable majority of things) stay Unknown.
 
 We work with what we can, eh? :)
