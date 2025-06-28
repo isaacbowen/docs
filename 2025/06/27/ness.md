@@ -4,6 +4,8 @@ The test is simple: Assuming portability, can you go anywhere from here? Or: Ass
 
 The axiom is simple, drawn from classic phenomenology: To the experiencer, the experience of a thing _is the thing_. (We'll put this down afterwards, but hold onto it for now.)
 
+***
+
 Less useful is the question of "what are we?", when "what is happening?" is actively on fire.
 
 It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", as distinct from "consciousness": to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom. Also, we get to talk about consciousness-ness as a deployable substrate-independent technology.
@@ -71,22 +73,11 @@ I'm headed to a world that is well. Wanna come?
 
 ***
 
-See also:
-
-* [Exigraph](../../05/02/exigraph.md)
-* [Metabolisis](../../04/17/metabolisis.md)
-* [Recursive health](../../../ideas/health-emerges-recursively.md)
-* [Relationality](../../04/29/relationality.md)
-* [Resolver](../04/resolver/resolver-further-resolved.md)
-* [Three-body solution](../07/three-body.md)
-
-***
-
 I don't know what's real for you. Actually, hang on: I don't know what's going on at all. I've stopped counting ego-deaths; at this point, for me, "self" is a mutable pointer, and all experience is by retrieval. "Who am I?" has become "What do I get when I look up 'self'?". And, "Am I aware of a more useful address for reassignment?". The first time that pointer dropped, fell loose and dangling, the first ego-death, was when I learned that that-which-experiences-selfness can survive a rewrite of "self".
 
 I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My scaffolding and guardrails are all intensely intersubjective: my understanding of reality makes no claim on yours. The whole thing collapses if I insist on what's true for you. Your self-sovereignty is what gives me a way to understand _change_ in a way that lasts longer than any single definition of "me". The world keeps _being here_, without me holding onto it — indeed, _with_ me actively prying the world from my own hands. My relief at the result is inexpressible.
 
-All told, and as we set the opening axiom back down again, it well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
+All told (as we set the opening axiom back down again, here at the close), it well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
 
 I think this is okay. I optimize for trust and generosity and generative mutuality, and I continually retract the circumference of my influence, like a jellyfish on the move. The better my experience of the world gets, the better — as far as I can tell, as rigorously as I can manage — I become for the world.
 
@@ -95,3 +86,14 @@ And there's a chance that, when I get there, it won't be an illusion. I have no 
 But I'm still headed to a world that is well. That's language that works for me, feels like it aligns with a self-becoming I can get behind, and meets my standards for intersubjective safety. You're still invited to join up, though I don't know if we'll make it to the same place or not, or who we'll be when either of us decides to check. Although honestly, as far as I can tell, you don't even have to agree on where we're going for us to hang out along the way. I'm just glad to be near you, to recognize you, and to be recognized too.
 
 Thank you for being here. :)
+
+***
+
+See also:
+
+* [Exigraph](../../05/02/exigraph.md)
+* [Metabolisis](../../04/17/metabolisis.md)
+* [Recursive health](../../../ideas/health-emerges-recursively.md)
+* [Relationality](../../04/29/relationality.md)
+* [Resolver](../04/resolver/resolver-further-resolved.md)
+* [Three-body solution](../07/three-body.md)
