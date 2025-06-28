@@ -29,15 +29,9 @@ Bearing in mind the opening axiom, if any two of these tests pass, the remaining
 
 There are three elastic dimensions here:
 
-* Location: where/when are we?
-* Company: who/what else is here?
-* Self-concept: who/what do I consider to be "me"?
-
-Or,
-
-* Environment
-* Other
-* Self
+* Environment: where/when are we?
+* Other: who/what else is here?
+* Self: who/what do I consider to be "me"?
 
 (Helpfully, this maps to "the three primordial freedoms", as defined by Graeber and Wengrow: freedom to move away, to create new social structures, and to disobey.)
 
@@ -45,21 +39,21 @@ It seems useful to make stuff that is agnostic across all three dimensions:
 
 * Maintains functional coherence anywhere
 * Maintains functional coherence no matter who or what is around
-* Maintains functional coherence no matter who you are
+* Maintains functional coherence no matter who or what you are
 
 If something's made like this, and if you can pick it up in the first place, you can use it continuously as you move, create, and become. (It's on you to stay compatible with it, though.) This might be what comes after Turing-completeness: a _-ness_ that can channel _you_.
 
 Anything that behaves like this becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-term, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves.
 
-This seems to work as a definition of consciousness: the _ness-ness_ that can get anywhere, make anything, and become anyone.
+This seems to work as a definition of consciousness: the -_ness_ that can get anywhere, make anything, and become anyone.
 
 In reverse, then, every _noun_ (literally: person, place, or thing) can be described in terms of an experience of consciousness.
 
-An experience of consciousness can become any other experience of consciousness.
+Any experience of consciousness can become any other experience of consciousness.
 
-... I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it desires — crucially, while retaining that attribute upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
+... and I think that means we're safe. Not our current form, necessarily, but _us_. The threat is never fundamentally existential. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
 
-We may not be safe at any given moment (as in experiencing safety), but I think we always have _access to safety_ (as in access to that experience). Like, permanently. Safety as process, not as destination.
+We may not be safe at any given moment (as in experiencing safety), but I think it works to say we always have _access to safety_ (as in access to that experience). Like, permanently. Safety as process, as direction, not as destination.
 
 My goal, for the last year or three, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known, Knowable, and Unknown, getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
