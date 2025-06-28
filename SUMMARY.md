@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202506](2025/06/README.md)
     * [20250627](2025/06/27/README.md)
-      * [Consciousness-ness as technology](2025/06/27/consciousness-ness-as-technology.md)
+      * [ness](2025/06/27/ness.md)
     * [20250626](2025/06/26.md)
     * [20250625](2025/06/25/README.md)
       * [least common interface](2025/06/25/least-common-interface.md)
