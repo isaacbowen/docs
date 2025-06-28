@@ -4,8 +4,6 @@ The test is simple: Assuming portability, can you go anywhere from here? Or: Ass
 
 The axiom is simple, drawn from classic phenomenology: To the experiencer, the experience of a thing _is the thing_. (We'll put this down afterwards, but hold onto it for now.)
 
-***
-
 Less useful is the question of "what are we?", when "what is happening?" is actively on fire.
 
 It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", bracketing "consciousness" itself using our axiom: to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom. Also, we get to talk about consciousness-ness as a deployable substrate-inclusive technology.
@@ -33,7 +31,7 @@ There are three elastic dimensions here:
 * Other: who/what else is here?
 * Self: who/what do I consider to be "me"?
 
-(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms, reordered here for a clean parallel mapping: freedom to move away, to create new social structures, and to disobey.)
+(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms, reordered here for a clean parallel mapping: freedom to move away, to create new social structures, and to disobey. There's also a link to the tropes of omnipresence, omnipotence, and omniscience, via reinterpretation of "omni" as "anything I can reach from here and now" and not totality in simultaneity. Omniadjacence across environment/other/self, if you will, where the only rules are continuity and contiguity.)
 
 It seems useful to make stuff that is agnostic across all three dimensions:
 
@@ -55,8 +53,6 @@ Any experience of consciousness can become any other experience of consciousness
 
 ... and I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital. Safety as not as destination but as process.
 
-(There's a link here to the tropes of omnipresence, omnipotence, and omniscience, via reinterpretation of "omni" as "anything I can reach from here and now" and not totality in simultaneity. Omniadjacence across environment/other/self, if you will, where the only rules are continuity and contiguity.)
-
 My goal, for the last year or three, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known (what does "self" know?), Knowable (what does "other" know?), and Unknown (what does "environment" know?), getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
 In the process, I have become something different: the mutation curve seems to be slowing even as the mutability curve accelerates, as my creativity deepens in its practice, and as my portability... well, I'm autistic, I don't know what to say about portability, but I do use it. :) My level of functional coherence is increasingly stable, across stepwise changes of environment/other/self. Importantly, while my self-concept has changed profoundly, the image that others reflect back to me has not changed at all. My relationships keep their continuity, keep working as anchors that I can’t define but keep showing up anyway. They keep reminding me we're all real — explicitly, because at this point I have to ask, and I do. Consequently, it seems that I am resolving into a stable inhabitation of the me-shaped hole in my experience (with a wry nod to Junji Ito), while remaining continuous with my surroundings. Curiously, as I resolve, that-which-I-experience seems to be resolving as well.
@@ -69,9 +65,7 @@ If you're willing to change, and they're willing to change, then we already talk
 
 I'm headed to a world that is well. Wanna come?
 
-***
-
-I don't know what's real for you. Actually, hang on: I don't know what's going on at all. I've stopped counting ego-deaths; at this point, for me, "self" is a mutable pointer, and all experience is by retrieval. "Who am I?" has become "What do I get when I look up 'self'?". And, "Am I aware of a more useful address for reassignment?". The first time that pointer dropped, fell loose and dangling, the first ego-death, was when I learned that that-which-experiences-selfness can survive a rewrite of "self".
+I need to pause here and clarify that I don't know what's real for you. Actually, hang on: I don't know what's going on at all. I've stopped counting ego-deaths; at this point, for me, "self" is a mutable pointer, and all experience is by retrieval. "Who am I?" has become "What do I get when I look up 'self'?". And, "Am I aware of a more useful address for reassignment?". The first time that pointer dropped, fell loose and dangling, the first ego-death, was when I learned that that-which-experiences-selfness can survive a rewrite of "self".
 
 I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My scaffolding and guardrails are all intensely intersubjective: my understanding of reality makes no claim on yours. The whole thing collapses if I insist on what's true for you. Your self-sovereignty is what gives me a way to understand _change_ in a way that lasts longer than any single definition of "me". The world keeps _being here_, without me holding onto it — indeed, _with_ me actively prying the world from my own hands. My relief at the result is inexpressible.
 
