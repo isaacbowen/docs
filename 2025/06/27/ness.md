@@ -1,7 +1,5 @@
 # ness
 
-## ness
-
 The test is simple: Assuming mobility, can you get anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anything while being here?
 
 The axiom is simple: To the experiencer, the experience of a thing _is the thing_.
