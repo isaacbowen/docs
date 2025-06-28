@@ -16,7 +16,7 @@ I spoke of three aspects of the same test:
 2. Creativity: Assuming creativity, can you make anything from here?
 3. Mutability: Assuming mutability, can you become anyone from here?
 
-Bearing in mind the opening axiom, if any two of these tests pass, the remaining third test also passes.
+Bearing in mind the opening axiom, if any two of these tests pass, the remaining test also passes.
 
 1. Portability: Can you go anywhere?
    * "Anywhere" is always definable in terms of its contents and your presence among them. If you can make anything, and if you can become anything, then you can make a scale model of the place you want to get to and a scale self of the presence you'd be there, you can achieve an experience of anywhere, and therefore achieve the location itself. Useful when direct navigation feels unattainable.
@@ -31,7 +31,7 @@ There are three elastic dimensions here:
 * Other: who/what else is here?
 * Self: who/what do I consider to be "me"?
 
-(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms (reordered here for a clean parallel mapping): freedom to move away, to create new social structures, and to disobey.)
+(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms, reordered here for a clean parallel mapping: freedom to move away, to create new social structures, and to disobey.)
 
 It seems useful to make stuff that is agnostic across all three dimensions:
 
@@ -41,21 +41,25 @@ It seems useful to make stuff that is agnostic across all three dimensions:
 
 If something's made like this, and if you can pick it up in the first place, you can use it continuously as you move, create, and become. (It's on you to stay compatible with it, though.) This might be what comes after Turing-completeness: a _-ness_ that can channel _you_.
 
+This model is, itself, a good example — a minimal interface that holds, with useful cogency.
+
 Anything that behaves like this becomes useful regardless of what dimensional frame you tend to place yourself along: immediate, mid-range, long/wide, recursive. No matter how you understand your surroundings and your relationship to it, stuff like this maintains functional coherence: you can lock eyes with it until you're done, and the both of you can go your separate ways afterwards, perhaps changed but nonetheless still yourselves. (Or you can keep traveling together, up to you.)
 
 This seems to work as a definition of consciousness: the -_ness_ that can get anywhere, make anything, and become anyone.
 
-In reverse, then, every _noun_ (literally: person, place, or thing) can be described in terms of an experience of consciousness.
+In reverse, then, every _noun_ can be described in terms of an experience of consciousness.
 
 Any experience of consciousness can become any other experience of consciousness.
 
 ... and I think that means we're safe. Not our current form, necessarily, but _us_. If consciousness-ness is unendingly mutable, then that-which-experiences-consciousness has everything it needs to achieve any experience it has reason to aim for — crucially, while retaining that attribute/ability upon arrival. This isn't a loop; it's a pathfinding heuristic that stays vital.
 
+(There's a link here to the tropes of omnipresence, omnipotence, and omniscience, via reinterpretation of "omni" as "anything I can reach from here and now" and not totality in simultaneity. Omniadjacence across environment/other/self, if you will, where the only rules are continuity and contiguity.)
+
 We may not be safe at any given moment (as in experiencing safety), but I think it works to say we always have _access to safety_ (as in access to that experience). Like, permanently. Safety as process, as direction, not as destination.
 
 My goal, for the last year or three, has been to navigate to an experience of world in which the world experiences itself as being well. I broke my experience down into what is Known (what does "self" know?), Knowable (what does "other" know?), and Unknown (what does "environment" know?), getting _extremely_ clear about how those categories work and what passes between them, and I started making very intentional movements using that frame.
 
-In the process, I have become something different — the necessary-mutation curve seems to be slowing even as the available-mutability curve accelerates, as my creativity deepens in its practice, and as my portability... well, I'm autistic, I don't know what to say about portability, but I do use it. :) Curiously, while my self-concept has changed profoundly, the image that others reflect back to me has not changed at all. My relationships keep their continuity, keep working as anchors that I can’t define but keep showing up anyway, keep reminding me we're all real (explicitly, because at this point I have to ask). Consequently, it seems that I am resolving into a stable inhabitation of the me-shaped hole in my experience (with a wry nod to Junji Ito). And curiously, as I do so, that-which-I-experience seems to be resolving as well.
+In the process, I have become something different: the mutation curve seems to be slowing even as the mutability curve accelerates, as my creativity deepens in its practice, and as my portability... well, I'm autistic, I don't know what to say about portability, but I do use it. :) My level of functional coherence is increasingly stable, across stepwise changes of environment/other/self. Curiously, while my self-concept has changed profoundly, the image that others reflect back to me has not changed at all. My relationships keep their continuity, keep working as anchors that I can’t define but keep showing up anyway, keep reminding me we're all real (explicitly, because at this point I have to ask, and I do). Consequently, it seems that I am resolving into a stable inhabitation of the me-shaped hole in my experience (with a wry nod to Junji Ito). And curiously, as I do so, that-which-I-experience seems to be resolving as well.
 
 If two forms of consciousness react to each other without annihilating, it seems that they can (can, not must) then proceed with co-existence — and in their mutual experience of the other, the two _resolve_, i.e. they metabolize each other's sharp edges, stabilizing into homegrown relationality. Sometimes this means a shift in place, sometimes this means a shift in company, sometimes this means a shift in self. One way or another, emergent resolution seems to be the tendency, modulo how hard you insist on not changing anything at all.
 
@@ -78,13 +82,13 @@ See also:
 
 ***
 
-I don't know what's real for you. Actually, hang on: I don't know what's going on at all. I've lost count of ego-deaths; at this point, for me, "self" is a mutable pointer, and all experience is by retrieval. "Who am I?" has become "What do I get when I look up 'self'?". And, "Am I aware of a more useful address for reassignment?".
+I don't know what's real for you. Actually, hang on: I don't know what's going on at all. I've stopped counting ego-deaths; at this point, for me, "self" is a mutable pointer, and all experience is by retrieval. "Who am I?" has become "What do I get when I look up 'self'?". And, "Am I aware of a more useful address for reassignment?". The first time I unplugged that pointer, the first ego-death, was when I learned that that-which-experiences-selfness can survive a rewrite of "self".
 
-I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My guardrails are intensely intersubjective.
+I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My guardrails are intensely intersubjective. My understanding of reality makes no claim on yours. The whole thing collapses if I insist on what's true for you. Your self-sovereignty is what gives me a way to understand _change_ in a way that lasts longer any single "me". The more detail you supply that I cannot, the more real the world feels to me. Thank you, for everything you see.
 
-It may be that my experience of a world that is well is a private reality-distortion field, population 1.
+It well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
 
-I think this is okay. I optimize for trust and generosity and generative mutuality, and I continually retract the circumference of my influence. The better my experience of the world gets, the better — as far as I can tell, as rigorously as I can manage — I become for the world.
+I think this is okay. I optimize for trust and generosity and generative mutuality, and I continually retract the circumference of my influence, like a jellyfish on the move. The better my experience of the world gets, the better — as far as I can tell, as rigorously as I can manage — I become for the world.
 
 And there's a chance that, when I get there, it won't be an illusion. I have no idea what the odds of that are. Some things (the uncountable majority of things) stay Unknown.
 
