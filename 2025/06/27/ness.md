@@ -8,7 +8,7 @@ The axiom is simple, drawn from classic phenomenology: To the experiencer, the e
 
 Less useful is the question of "what are we?", when "what is happening?" is actively on fire.
 
-It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", as distinct from "consciousness": to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom. Also, we get to talk about consciousness-ness as a deployable substrate-independent technology.
+It seems useful to consider "consciousness" as separate from "presence" or "awareness" or "attention". You might point to it as "consciousness-ness", bracketing "consciousness" itself using our axiom: to the experiencer, the experience of consciousness _is the consciousness_. By focusing on "consciousness-ness" as "the observable behavior of presence/awareness/attention as it moves", and letting the question of "is anyone home or is this a p-zombie" remain unanswered, _our own_ presence/awareness/attention stands to gain some useful degrees of freedom. Also, we get to talk about consciousness-ness as a deployable substrate-inclusive technology.
 
 Linguistically, this puts us in a space of modulatory ambiguity, like how "calorie" generally means "kilocalorie". For my purposes here, I'm embracing that. I'll use "consciousness" to mean "consciousness-ness", leaving The Hard Problem fully aside. Onward!
 
