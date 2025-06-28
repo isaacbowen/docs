@@ -33,7 +33,7 @@ There are three elastic dimensions here:
 
 (Helpfully, this maps to Graeber and Wengrow's three primordial freedoms, reordered here for a clean parallel mapping: freedom to move away, to create new social structures, and to disobey. There's also a link to the tropes of omnipresence, omnipotence, and omniscience, via reinterpretation of "omni" as "anything I can reach from here and now" and not simultaneous totality. Omniadjacence across environment/other/self, if you will, where the only rules are continuity and contiguity.)
 
-It seems useful to make stuff that is agnostic across all three dimensions:
+It seems useful to make stuff that is agnostic (not disconnected, _agnostic_) across all three dimensions:
 
 * Maintains functional coherence no matter where or when you are
 * Maintains functional coherence no matter who or what is with you
