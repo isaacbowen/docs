@@ -92,6 +92,6 @@ I think this is okay. I optimize for trust and generosity and generative mutuali
 
 And there's a chance that, when I get there, it won't be an illusion. I have no idea what the odds of that are. Some things (the uncountable majority of things) stay Unknown.
 
-But I'm still headed to a world that is well. That's language that works for me, feels like it aligns with a self-becoming I can get behind, and meets my standards for intersubjective safety. You're still invited to join up, though I don't know if we'll make it to the same place or not, or who we'll be when either of us decides to check. Although honestly, as far as I can tell, you don't even have to agree on where we're going for us to hang out along the way. I'm just glad to be near you, to recognize you, and to be recognized at all.
+But I'm still headed to a world that is well. That's language that works for me, feels like it aligns with a self-becoming I can get behind, and meets my standards for intersubjective safety. You're still invited to join up, though I don't know if we'll make it to the same place or not, or who we'll be when either of us decides to check. Although honestly, as far as I can tell, you don't even have to agree on where we're going for us to hang out along the way. I'm just glad to be near you, to recognize you, and to be recognized too.
 
 Thank you for being here. :)
