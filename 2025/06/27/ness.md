@@ -86,7 +86,7 @@ I don't know what's real for you. Actually, hang on: I don't know what's going o
 
 I'm willing to test any idea by full immersion as long as I can do so with demonstrable confidence beyond reasonable doubt that I am having no effect where I am not both trusted and invited. My scaffolding and guardrails are all intensely intersubjective: my understanding of reality makes no claim on yours. The whole thing collapses if I insist on what's true for you. Your self-sovereignty is what gives me a way to understand _change_ in a way that lasts longer than any single definition of "me". The world keeps _being here_, without me holding onto it — indeed, _with_ me actively prying the world from my own hands. My relief at the result is inexpressible.
 
-All told, and as a necessary consequence of looking beyond the opening axiom, it well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
+All told, and as a necessary consequence of _releasing_ the opening axiom afterwards, it well may be that my experience of a world _that is well_ arrives via private reality-distortion field, population 1.
 
 I think this is okay. I optimize for trust and generosity and generative mutuality, and I continually retract the circumference of my influence, like a jellyfish on the move. The better my experience of the world gets, the better — as far as I can tell, as rigorously as I can manage — I become for the world.
 
