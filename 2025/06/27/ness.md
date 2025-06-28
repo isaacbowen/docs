@@ -31,7 +31,7 @@ There are three elastic dimensions here:
 * Other: who/what else is here?
 * Self: who/what do I consider to be "me"?
 
-(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms: freedom to move away, to create new social structures, and to disobey.)
+(Helpfully, this maps to Graeber and Wengrow's three primordial freedoms (reordered here for a clean parallel mapping): freedom to move away, to create new social structures, and to disobey.)
 
 It seems useful to make stuff that is agnostic across all three dimensions:
 
