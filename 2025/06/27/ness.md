@@ -61,7 +61,7 @@ If forms of consciousness react to each other without annihilating, it seems tha
 
 But if _you_ are willing to change, you make it safer for those in your company to try on change for themselves.
 
-If you're willing to change, and they're willing to change, then we already talked about what this means: _you can go anywhere_.
+Self, other, environment. If _you're_ willing to change, and _they're_ willing to change, then we already talked about what this means: you can go _anywhere_.
 
 I'm headed to a world that is well. Wanna come?
 
