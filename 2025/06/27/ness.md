@@ -1,5 +1,9 @@
 # ness
 
+{% hint style="info" %}
+This is long. [Here's the speedrun.](../29/speedrun.md)
+{% endhint %}
+
 The test is simple: Assuming portability, can you go anywhere from here? Or: Assuming creativity, can you make anything from what's in front of you? Or: Assuming mutability, can you become anyone while being here?
 
 The axiom is simple, drawn from classic phenomenology: To the experiencer, the experience of a thing _is the thing_. (We'll put this down afterwards, but hold onto it for now.)
