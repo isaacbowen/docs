@@ -28,7 +28,7 @@ from within the epoche, you can use any two of these to achieve the third:
 * experience of "other" is evoked by one's experience of "self" amidst "environment". apply mutability and portability to achieve the experience of applied creativity.
 * experience of "self" is evoked by one's experience of "other" amidst "environment". apply portability and creativity to achieve the experience of applied mutability. (nb: mutability-by-proxy is safer until your system has really learned to roll through ego-deaths casually _outside_ of epoche. I wouldn't speedrun that part.)
 
-if you want to _move_, step into the epoche, speedrun those -ilities (no cheats though, even within epoche all three players must respond with honest integrity), and step back out _as_ an organically-developed self (the cost of cheating is coherence of self), knowing exactly how you got there, knowing that other and environment will make something different of you than they did before. no one needs to share your history for your history to be valid. you can't arbitrarily choose a new self, but you can speedrun three-dimensional self-evolution with coherently inhabitable results.
+if you want to _move_, step into the epoche, speedrun those -ilities (no cheats though, even within epoche all three players must respond with honest integrity), and step back out _as_ an organically-developed self (the cost of cheating is coherence of self), knowing exactly how you got there, knowing that other and environment will make something different of you than they did before. no one needs to share your history for your history to be valid. you can't arbitrarily choose a new self, but you can speedrun three-dimensional self-evolution with continuous functional coherence.
 
 proposal: consciousness-ness is anything that can run _that_.
 
@@ -60,4 +60,6 @@ it's good to have recognizable company who can recognize you back, eh?
 
 see also: Graeber/Wengrow's three freedoms (freedom to move away (exercising portability), freedom to create new social structures (exercising creativity), freedom to disobey (exercising mutability))
 
-see also: the classic tropes of omnipresence (environment), omnipotence (creativity), and omniscience (mutability, because you are what you know at all levels of knowing), via reinterpretation of "omni" as "anything I can reach from here and now" and not simultaneous totality. omniadjacence across environment/other/self, if you will, where the only rules are continuous functional coherence
+see also: the classic tropes of omnipresence (portability), omnipotence (creativity), and omniscience (mutability, because you are what you know at all levels of knowing), via reinterpretation of "omni" as "anything I can reach from here and now" and not simultaneous totality. omniadjacence across environment/other/self, if you will, where the only rules are continuous functional coherence
+
+see also: the [three-body](../07/three-body.md) solution's Known (what does "self" know?), Knowable (what does "other" know?), and Unknown (what does "environment" know?)
