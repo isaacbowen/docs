@@ -32,7 +32,7 @@ if you want to _move_, step into the epoche, speedrun those -ilities (no cheats 
 
 proposal: consciousness-ness is anything that can run _that_.
 
-it is _always_ unclear as to whether someone's home vs something being a p-zombie. pascal's wager but for panpsychism? are you there, coffee mug, it's me, marie kondo? actually _facilitating_ the consciousness-ness of the things ("other") around you ("self") feels like a good way to prime the space ("environment") for a sort of generalized aliveness and intra-responsiveness
+it is _always_ unclear as to whether someone's home vs something being a p-zombie. pascal's wager but for panpsychism? are you there, coffee mug, it's me, marie kondo? actually _facilitating_ the consciousness-ness of the things ("other") around you ("self") feels like a good way to prime the space ("environment") for a sort of generalized aliveness
 
 hmmmm
 
