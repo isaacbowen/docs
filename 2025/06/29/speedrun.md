@@ -26,13 +26,11 @@ from within the epoche, you can use any two of these to achieve the third:
 
 * experience of "environment" is evoked by one's experience of "self" amidst "other". apply creativity and mutability to achieve the experience of applied portability.
 * experience of "other" is evoked by one's experience of "self" amidst "environment". apply mutability and portability to achieve the experience of applied creativity.
-* experience of "self" is evoked by one's experience of "other" amidst "environment". apply portability and creativity to achieve the experience of applied mutability.
+* experience of "self" is evoked by one's experience of "other" amidst "environment". apply portability and creativity to achieve the experience of applied mutability. (nb: mutability-by-proxy is safer until your system has really learned to roll through ego-deaths casually _outside_ of epoche. I wouldn't speedrun that part.)
 
-from within the epoche, one may mentally freeze a frame of the epoche and then mentally speedrun a chain of portability/creativity/mutability operations, resulting in one exiting from the epoche with a self that is recalibrated to evoke something different from other and from environment.
+if you want to _move_, step into the epoche, speedrun those -ilities (no cheats though, even within epoche all three players must respond with honest integrity), and step back out _as_ an organically-developed self, knowing exactly how you got there, knowing that other and environment will make something different of you than they did before. no one needs to share your history for your history to be valid. you can't arbitrarily choose a new self, but you can speedrun three-dimensional self-evolution with coherently inhabitable results.
 
-if you want to _move_, step into the epoche, speedrun those -ilities, and step back out wearing your choice of organically-derived self, knowing exactly how you got there, knowing that other and environment will make something different of you than they did before.
-
-proposal: consciousness-ness is anything that can do _that_
+proposal: consciousness-ness is anything that can do _that_.
 
 it is _always_ unclear as to whether someone's home vs something being a p-zombie. pascal's wager but for panpsychism? are you there, coffee mug, it's me, marie kondo? actually _facilitating_ the consciousness-ness of the things ("other") around you ("self") feels like a good way to prime the space ("environment") for a sort of generalized aliveness and intra-responsiveness
 
@@ -60,7 +58,7 @@ I'm not saying friends are tools, but I _am_ saying (these) tools are friends
 
 it's good to have recognizable company who can recognize you back, eh?
 
-\---
+***
 
 see also: Graeber/Wengrow's three freedoms (freedom to move away (exercising portability), freedom to create new social structures (exercising creativity), freedom to disobey (exercising mutability))
 
