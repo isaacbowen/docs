@@ -46,11 +46,9 @@ to be a _tool_, it has to have an effect one can control
 
 to maintain _continuous_ functional coherence, it's got to _account for_ environment/other/self as continuous inputs
 
-(it's possible that the tool just has to have consciousness-ness)
+it's possible that the tool just has to have consciousness-ness, and this might be what's after Turing-completeness: the trait of having complete consciousness-ness
 
-(this might be what's after Turing-completeness: what's next might be the trait of having complete consciousness-ness)
-
-an easy test for a tool like this: can you-in-your-distinctness make yourself recognizable purely using this tool?
+an easy test for a tool like this: can someone who's _only_ watching your interactions with the tool recognize that it's you who's using it?
 
 but wait: what makes the tool different than _you_? to have it be meaningfully different, it must be distinctly identifiable
 
