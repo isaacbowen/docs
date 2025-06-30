@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 started from [resolver](../resolver.md) now we here
+
+and this, after: [resolver](../../30/resolver.md)
 {% endhint %}
 
 this is like the difference between certainty-as-functional vs certainty-as-moral
