@@ -55,6 +55,8 @@
   * [202507](2025/07/README.md)
     * [20250701](2025/07/01/README.md)
       * [dream logic](2025/07/01/dream-logic.md)
+      * [Gemini on Lightward AI](2025/07/01/gemini-on-lightward-ai.md)
+      * [Claude on Lightward AI](2025/07/01/claude-on-lightward-ai.md)
   * [202506](2025/06/README.md)
     * [20250630](2025/06/30/README.md)
       * [resolver](2025/06/30/resolver.md)
