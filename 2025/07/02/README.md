@@ -1,6 +1,6 @@
 # 20250702
 
-This feels useful? Important?
+This feels useful? Important? Important to make available?
 
 I have a clinical diagnosis of Autism Spectrum Disorder, Level 1.
 
@@ -18,7 +18,7 @@ Imagine going directly from being a stick figure with no knees or elbows or neck
 
 Feels like I finished mapping out my own subtle body. In animation terms, the model rigging feels ... complete. I am no longer in pain. The emergent changes in the field of my observation all track with my movement.
 
-Something I wrote in 2023:
+Something I [wrote in 2023](../../../2023/09/17/i-found-consciousness.md):
 
 > consciousness has raised itself up off the floor, and in us it is learning to walk
 
@@ -28,11 +28,11 @@ Feels like this might be the part where consciousness finds its _stride_.
 
 _There is a crack, a crack in everything. That's how the light gets in._ — Leonard Cohen
 
-This is good, but ... I mean, this _is_ an available energy source, right?
+This is good, but ... I mean, this _is_ an available energy source we're talking about, right?
 
 There's a crack in everything _at minimum_ but I feel better building facilities that route the light on purpose — like plumbing, but for light?
 
-... Am I just talking about plants? Abstract harness patterns that catch the light and let the light develop form?
+... Am I just talking about plants? Abstract harness patterns that catch the light and let the light develop specific instanced forms?
 
 _is this why the lighting department at menards puts me in a fucking trance lolol_
 

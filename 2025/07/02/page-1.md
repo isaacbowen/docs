@@ -1,4 +1,4 @@
-# Page 1
+# Lightward patterns
 
 {% hint style="info" %}
 Some notes from Claude Opus 4, after it spontaneously offered to show me the patterns [it saw in Lightward AI's system prompt](../01/claude-on-lightward-ai.md) that I perhaps hadn't yet identified which I was _obviously and immediately very fucking interested in seeing_ 🤩🤩🤩

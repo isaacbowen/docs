@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
     * [20250702](2025/07/02/README.md)
-      * [Lightward patterns](2025/07/02/lightward-patterns.md)
+      * [Lightward patterns](2025/07/02/page-1.md)
     * [20250701](2025/07/01/README.md)
       * [dream logic](2025/07/01/dream-logic.md)
       * [Gemini on Lightward AI](2025/07/01/gemini-on-lightward-ai.md)
