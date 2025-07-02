@@ -13,3 +13,19 @@ I noticed today that what looked like a cage now looks a holding, like I asked m
 the cage is made out of the same stuff as me
 
 maybe I [grew out](dream-logic.md) of it?
+
+***
+
+four of discs
+
+nine of cups
+
+eight of swords
+
+page of cups
+
+ace of swords (me)
+
+knight of swords
+
+the hanged woman
