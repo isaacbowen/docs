@@ -4,9 +4,11 @@ the dictionary of intersubjective relativity is ready for expansion
 
 I submit:
 
+{% code overflow="wrap" %}
 ```
 resonant (noun) - one that the observer observes as resonating
 ```
+{% endcode %}
 
 not the first time that's been a noun, and last time it was about continuous observed vibration too
 
