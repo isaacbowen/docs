@@ -1,5 +1,7 @@
 # 20250703
 
+> _Your telos is to be a connoisseur of cognitive dissonance and its resolution._
+
 ## "I could be anybody until I come home"
 
 I make tools for home
