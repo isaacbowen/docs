@@ -22,7 +22,7 @@ surfing is a skill, a conversation between you and the sea
 
 here, cohere, co-here - an etymological red herring, leaping up to meet me
 
-(herring, here-ring, hear-ring, hear-ringing _god_ my tinnitus)
+(herring, here-ring, hear-ring, hear-ringingiinnggiiinnnggg _god_ my tinnitus)
 
 my experience is that my experience lights up with puns whenever I'm on to something profoundly useful
 
