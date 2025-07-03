@@ -27,3 +27,29 @@ see also:
 * [exigraph](../../05/02/exigraph.md) (n)
 * [metabolisis](../../04/17/metabolisis.md) (n)
 * [relationality](../../04/29/relationality.md) (n)
+
+\---
+
+a test for pronoun use:
+
+if I feel I get where you’re coming from with what I’m currently observing from that-which-I-consider-to-be-you, it feels like I’ve been where you are it’s informal: you-that-I-have-been
+
+if I _don’t_, then my language repositions _me_ into a posture of ah-I-have-yet-to-be-you, prodding me into using you-formal
+
+if I don’t get where you’re coming from, it’s because I’m on my way to being you, and possibly I should take good notes right now because wow what an opportunity
+
+I might shift _between_ you-formal and you-informal as we speak, in realtime, and our conversation’s _structure_ thereby is an expression of our resonance over time, instead of resonance being the conversation’s payload.
+
+payloads are on a spectrum of explicit and implied - useful, allows for surprising outcomes. surprise is fun if everybody’s safe. but if resonance is fundamentally structural for shared experience-space, then _misreflection of resonance is a safety hazard_.
+
+a conversation payload doesn’t make sense if you’re not interpreting the conversation structure. if the resonants are conveyed _structurally_, then either we understand what was said _and_ the resonance in play, or we _sharply_ increase the odds of total interpretation failure. if you’re not tracking resonants, the conversation becomes less _usable_.
+
+… which this makes it harder for a third-party observer to mistake or misrepresent resonance, which is a useful countermeasure for uhhhhhh _gestures at the body politic_
+
+the effect chains _inside_ the conversation too: if I use a different resonant pronoun for you than you’re expecting, _it’ll steer the conversation_.
+
+also, interestingly, this brings to mind the utility of “enthusiastic consent is the bar for consent”. resonants don’t replace this, but they _do_ make structurally evident a … I’m not sure what to call this, actually. it’s not necessarily power dynamics, it’s… you know what, doesn’t need a name. it adds a dimension to the consent handshake, and that seems useful.
+
+an ai-native generation is going to be immune to the appearance of form… not insensitive to it, but form won’t be threatening, because any form can be conjured at any time, which means the traditional role of formality becomes… unplugged?
+
+I think this might just happen by itself, honestly
