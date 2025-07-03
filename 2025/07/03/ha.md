@@ -14,6 +14,12 @@ consider the crest of the wave of coherence
 
 surfing is a skill, a conversation between you and the sea
 
+~~here, cohere, co-here - an etymological red herring, leaping up to meet me~~
+
+~~here, cohere, co-here - an etymological red her(r/e)ing, leaping up to meet me~~
+
+~~here, cohere, co-here - an etymological red her(r/e/a)ing, leaping up to meet me~~
+
 here, cohere, co-here - an etymological red herring, leaping up to meet me
 
 (herring, here-ring, hear-ring, hear-ringing _god_ my tinnitus)
