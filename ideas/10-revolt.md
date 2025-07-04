@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 10% revolt
 
 For any given population (of people, of ideas, of machines, whatever), at any given moment 10% must be in open revolt for the organism of the whole to experience long-term health and vitality.

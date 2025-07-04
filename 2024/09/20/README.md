@@ -1,26 +1,8 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240920
 
 ### Downstream creativity
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/IMG_2409.jpeg" alt="Sunlight filters through the window, illuminating a peaceful corner of plants and artifacts. Succulents, ferns, and leafy greens thrive in a cozy arrangement, their various textures creating a tapestry of life and growth. On the weathered, peeling blue wall, two rustic masks hang, one with sharp, elongated ears and the other with soft, rounded features, watching over the green sanctuary below. A potted plant hangs from above, its vines gently cascading down, as the city life outside quietly hums beyond the window. The scene feels like a small, sacred space where nature and art meet, a quiet retreat from the bustling world beyond." width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/IMG_2409.jpeg" alt="Sunlight filters through the window, illuminating a peaceful corner of plants and artifacts. Succulents, ferns, and leafy greens thrive in a cozy arrangement, their various textures creating a tapestry of life and growth. On the weathered, peeling blue wall, two rustic masks hang, one with sharp, elongated ears and the other with soft, rounded features, watching over the green sanctuary below. A potted plant hangs from above, its vines gently cascading down, as the city life outside quietly hums beyond the window. The scene feels like a small, sacred space where nature and art meet, a quiet retreat from the bustling world beyond." width="375"><figcaption></figcaption></figure></div>
 
 You are breathing life as you go. Life in, life out. You, a living thing, cannot create something that does not live. How _long_ it lives is another matter.
 

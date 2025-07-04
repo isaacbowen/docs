@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20080607
 
 There used to be an archive somewhere of all my im conversations from 2005 on. Might be backed up on an old drive, not sure. Haven't looked too hard.

@@ -1,16 +1,5 @@
 ---
 description: '20180129'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # On change, and opting in: a meditation
@@ -27,7 +16,7 @@ I cannot become a different person overnight. But in a year, a month, a fortnigh
 \
 (no I did not do shrooms)\
 \
-\-Isaac
+-Isaac
 
 {% hint style="info" %}
 Originally sent out via email newsletter, through the now-defunct service Tinyletter

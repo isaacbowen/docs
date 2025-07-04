@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ideas are best tested by living in them
 
 Want to test an idea? Immerse yourself in it, use it as your only lens for the world, and see how far you can get. You can always opt back out; might as well opt in fully and see what you can see.

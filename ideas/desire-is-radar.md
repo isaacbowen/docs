@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Desire is radar
 
 Your sense of desire is like radar for experience-space. It's your best measure of what's around you. When your desire-sense goes off, it's telling you what direction holds the most solid footing — for you, for the role you play with the people around you, and for the whole.

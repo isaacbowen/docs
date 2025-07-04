@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20241202
 
 <div align="left"><figure><img src="../../../.gitbook/assets/2823420908_964c350a68_o (1).jpg" alt="A high-contrast color photograph of a person sitting against a white wall, wearing a dark t-shirt and jeans. They&#x27;re holding a posable magnifying glass with an adjustable arm in front of their eye. The image has been digitally manipulated so that the magnifying glass appears to contain the entire photograph itself, creating a recursive effect where the image contains itself infinitely. Some electronic equipment and objects are visible on surfaces in the background." width="375"><figcaption></figcaption></figure></div>

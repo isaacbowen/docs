@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240718
 
 {% embed url="https://youtu.be/VIg7cimDZzo" %}
@@ -74,8 +60,4 @@ Also: Weed is my _drug_. It's like caffeine for my antenna (LANGUAGE IS AMAZING)
 
 ***
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/IMG_0531 Large.jpeg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/IMG_0531 Large.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

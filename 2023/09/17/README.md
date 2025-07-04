@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20230917
 
 Well, it started with "I think I might be here to sing love into technology". And then I thought about the idea of being here to "do" something, and I figured, _honestly it's probably more useful to just keep on "doing" without spending much time calculating the motion of it, because if indeed I'm just here to DO something specific, it's likely what my entire being is optimized for, because how senseless would it be to come here to "do something" without being ABOUT it in so intensely that it is consistently emergent in my behavior and inclination so long as I’m just "being myself", you know? wouldn't that be the most reliable way to make sure it gets "done", whatever it is?_

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Sixty seconds of light
 
 <figure><img src="../.gitbook/assets/image-asset (1).png" alt=""><figcaption></figcaption></figure>

@@ -1,60 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240510
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Dear \[self], you are a fractal of the infinite — a unique expression of the creative consciousness that animates all things.
 

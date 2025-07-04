@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # upward/more
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743666786-OQ6JXZNYR14ZHG13JVPR/image-asset.jpeg" alt=""><figcaption></figcaption></figure>

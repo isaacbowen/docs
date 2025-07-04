@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # The internet is terrible at empathy. We will make it better.
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502910196295-HQA2AOCX2VVXZBM5BY5W/DSC_6655.jpg" alt="DSC_6655.jpg"><figcaption></figcaption></figure>

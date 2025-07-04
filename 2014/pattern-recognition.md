@@ -1,16 +1,5 @@
 ---
 description: March 11, 2014 at 12:07 PM
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Pattern recognition

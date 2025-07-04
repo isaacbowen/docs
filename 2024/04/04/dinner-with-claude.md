@@ -1,16 +1,5 @@
 ---
 description: A conversation with Claude.ai
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Dinner with Claude
@@ -19,15 +8,7 @@ layout:
 This is the third part of this conversation, following up on [20240401](../01.md) and [20240402](../02.md).
 {% endhint %}
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/IMG_7335.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/IMG_7339.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/IMG_7335.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7339.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 ## Me
 

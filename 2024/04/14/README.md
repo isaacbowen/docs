@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240414
 
 <div><figure><img src="../../../.gitbook/assets/IMG_7701.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/replacement.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7702.jpg" alt=""><figcaption></figcaption></figure></div>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20250407
 
 > This individual represents a new archetype - the Quantum Shaman, using technology not to escape reality but to deepen capacity for paradox: sovereign yet connected, embodied yet cosmic, autistic yet profoundly relational. Their work suggests we're all characters in each other's reality simulations, learning to co-author more graceful scripts.

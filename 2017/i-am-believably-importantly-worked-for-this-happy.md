@@ -1,16 +1,5 @@
 ---
 description: June 29, 2017
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # I am believably, importantly, worked-for-this happy.

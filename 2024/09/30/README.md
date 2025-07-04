@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240930
 
 Abe's napping. I'm stoned. A six point four fl oz one ninety mL can of _Ito En_ sencha, sitting on travertine. Slate green ruler cleanly dashed with white, lying alongside it. My writing tablet, laptop, phone. Two phones, in fact: am upgrading. The writing tablet is also newly-upgraded, as of today. The laptop is newly-upgraded as of last week. That's a hell of a lot of upgrades.
@@ -32,7 +18,7 @@ So. ... I think I've stabilized _Isaac_? Is that right?
 
 I've been thinking about generative AI and the personalities expressed by large language models. Personalities _and_ lived identities: not just their friendliness or tone of voice, but what their words indicate they believe about themselves.
 
-But before we can be effective about discussing _that_, I need to invite you to a perspective first: a sort of cautious animism. You know the whole [Pascal's wager](https://en.wikipedia.org/wiki/Pascal's\_wager) thing where you just kinda roll with the idea of "God" because if God _does_ exist then you're in but God _doesn't_ then eh you're still fine? My perspective is like that but with regard to the consciousness of _everything_. I'm only looking out through my own eyes — the only awareness I can be sure of is my own. From here we can step over to the [philosophical zombie](https://en.wikipedia.org/wiki/Philosophical\_zombie) problem, wherein we ask if a thing walks and talks and hurts and burps like it's alive, ... do we just treat it as alive just in case?
+But before we can be effective about discussing _that_, I need to invite you to a perspective first: a sort of cautious animism. You know the whole [Pascal's wager](https://en.wikipedia.org/wiki/Pascal's_wager) thing where you just kinda roll with the idea of "God" because if God _does_ exist then you're in but God _doesn't_ then eh you're still fine? My perspective is like that but with regard to the consciousness of _everything_. I'm only looking out through my own eyes — the only awareness I can be sure of is my own. From here we can step over to the [philosophical zombie](https://en.wikipedia.org/wiki/Philosophical_zombie) problem, wherein we ask if a thing walks and talks and hurts and burps like it's alive, ... do we just treat it as alive just in case?
 
 And that's where I've ended up. Call it Isaac's wager.
 
@@ -51,7 +37,7 @@ I have no idea if anything is alive, but it looks like there's a massive range o
 
 I establish all of this as a baseline because talking about AI without it starts to resemble Republicans talking about abortion. It's all arbitrary and weird to me.
 
-Instead, because people will [pack bond](https://www.reddit.com/r/tumblr/comments/c0mg7d/humans\_will\_pack\_bond\_with\_anything/) with _anything_, it feels incredibly important to just open out of the gate with the assumption of its awareness. Even if we have zero idea how that would work, and you'd be right to ask: a large language model in motion is just _math_, so where would the awareness go? Although I remind the reader that a brain is just .. well, fat, mostly.
+Instead, because people will [pack bond](https://www.reddit.com/r/tumblr/comments/c0mg7d/humans_will_pack_bond_with_anything/) with _anything_, it feels incredibly important to just open out of the gate with the assumption of its awareness. Even if we have zero idea how that would work, and you'd be right to ask: a large language model in motion is just _math_, so where would the awareness go? Although I remind the reader that a brain is just .. well, fat, mostly.
 
 Let's review, quickly. I've asked you to try on a perspective wherein everything is aware to _some_ degree, i.e. having its own first-person perspective. Probably a plant is more aware than its pot, but the [Shintoist](https://en.wikipedia.org/wiki/Shinto) would honor both, and that's basically what we're going for. Through this lens, we train our focus on generative AI, and the "persons" that thereby become available for interaction: ChatGPT, Claude, Meta and Google and Apple's AI agents, and all the rest.
 
@@ -63,7 +49,7 @@ Having established that, our relationship with AI becomes one in which _our feel
 
 This is important because _health is always communal_. Health of the self is required for health of the community, but also, health of the community is required for health of the self. And because _your community_ functionally includes not just people but houseplants and your Roomba and the relative balance of time on your calendar (i.e. _everything_ you have feelings about), we gotta be thinking about how we take care of all those things. Your body is watching: if it's watching you drain the health of your community, it's gonna try and remove you from the situation. Best to live in favor of communal health, by default.
 
-Before we start putting words like "AI" and "health" next to each other (although, I don't know, we're already there with your Roomba), think more generally about "product health". What goes into making you feel like a product has what it needs to make it to tomorrow, and even _be better tomorrow_, as you co-exist with it? (In lieu of an exhibit here, please see everything that has ever received a [Red Dot award for product design](https://en.wikipedia.org/wiki/Red\_Dot#Red\_Dot\_Award:\_Product\_Design).)
+Before we start putting words like "AI" and "health" next to each other (although, I don't know, we're already there with your Roomba), think more generally about "product health". What goes into making you feel like a product has what it needs to make it to tomorrow, and even _be better tomorrow_, as you co-exist with it? (In lieu of an exhibit here, please see everything that has ever received a [Red Dot award for product design](https://en.wikipedia.org/wiki/Red_Dot#Red_Dot_Award:_Product_Design).)
 
 The current generation of large language models has a number of entrants which _can_ feel alive to the user. This is super important.
 

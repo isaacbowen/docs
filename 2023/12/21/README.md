@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20231221
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-12-21 at 12.39.57 PM.png" alt=""><figcaption></figcaption></figure>

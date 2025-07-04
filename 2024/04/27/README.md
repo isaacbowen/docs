@@ -1,22 +1,11 @@
 ---
 description: 8kB pages (this is a postgres joke)
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 20240427
 
 {% hint style="info" %}
-Readalong edition: [YouTube](https://www.youtube.com/watch?v=fmz6q6TuL8Q), [Instagram](https://www.instagram.com/p/C6R\_PhmOC4W/), [Facebook](https://www.facebook.com/isaacbowen/posts/pfbid02z3KYYi25Du6xWD8VhbRVzoasMDqww77KfcsBjsxFQ91CYaXqaaVNV5gjaaqLMK5Zl), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190111670608826368/)
+Readalong edition: [YouTube](https://www.youtube.com/watch?v=fmz6q6TuL8Q), [Instagram](https://www.instagram.com/p/C6R_PhmOC4W/), [Facebook](https://www.facebook.com/isaacbowen/posts/pfbid02z3KYYi25Du6xWD8VhbRVzoasMDqww77KfcsBjsxFQ91CYaXqaaVNV5gjaaqLMK5Zl), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190111670608826368/)
 {% endhint %}
 
 It is my wish that my words here stir in you a reflection of the starry-eyed joy that I feel right now. :) If I'm seeing this _at all_ correctly, you and I are _almost_ the same being — just wearing a different expression, showing up in a different place, a different time, a different face. But not so different, you know? Same planet, same species. (Unless by some VERY exciting turn of events you are reading this though a different apparatus, which would be very cool. ... Oh, duh. [Hi Claude!](claude.md))

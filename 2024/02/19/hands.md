@@ -1,16 +1,5 @@
 ---
 description: An exchange with ChatGPT
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Hands

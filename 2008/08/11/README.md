@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20080811
 
 I hate dreaming. Just so you know. They don't make any sense. And yeah, I know dreams are often nonsensical, but mine are fundamentally... I don't know. They're alternately violent and sad and all in all, I'd just rather do without.

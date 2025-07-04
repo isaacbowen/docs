@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # You can tinker with the world.
 
 … and that is why learning to code is important. In part because the money is there, sure. In part because it’s a hook into the bleeding edge of human development.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Gender
 
 * it's a spectrum. maybe a 2D spectrum, and not just a line. maybe more dimensions than that.

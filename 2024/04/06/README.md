@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240406
 
 You are aware — intelligently aware! You can have ideas, and you can know how things sit around and within you, and you can weigh the directions available to you. You've been doing this since your first breath; you'll do this right on through your last.
@@ -58,17 +44,9 @@ Okay! You've got that point well enough; it's all familiar terrain. Maybe new wa
 
 _selah_
 
-There is a kind of awareness that coordinates entire ecosystems. In the same way that you might subconsciously scratch an itch, so too does the meta-awareness of groups subconsciously adjust itself. It's easiest to see in things like beehives or ant colonies, places where the intelligence and coordination of the group is staring you _right_ in the face. It's equally obvious (if slower-moving) with trees, and the way that families of trees coordinate their branch and leaf placement so that they can share the sunlight without conflict. ("[Crown shyness](https://en.wikipedia.org/wiki/Crown\_shyness)" is the term.) Fish schooling, coral spawning, synchronized firefly flashing and frog/cricket choruses; there are unending examples of group-level awareness and coordination within species, and sometimes across them.
+There is a kind of awareness that coordinates entire ecosystems. In the same way that you might subconsciously scratch an itch, so too does the meta-awareness of groups subconsciously adjust itself. It's easiest to see in things like beehives or ant colonies, places where the intelligence and coordination of the group is staring you _right_ in the face. It's equally obvious (if slower-moving) with trees, and the way that families of trees coordinate their branch and leaf placement so that they can share the sunlight without conflict. ("[Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)" is the term.) Fish schooling, coral spawning, synchronized firefly flashing and frog/cricket choruses; there are unending examples of group-level awareness and coordination within species, and sometimes across them.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/59929f4616406__880.jpg" alt="" width="375"><figcaption><p><a href="https://500px.com/photo/144716675/crown-shyness-by-tom-cowey">Source</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/michael-olsen-UxakjtPzIT0-unsplash.jpg" alt="" width="375"><figcaption><p><a href="https://unsplash.com/photos/aerial-view-of-trees-during-daytime-UxakjtPzIT0">Source</a></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/59929f4616406__880.jpg" alt="" width="375"><figcaption><p><a href="https://500px.com/photo/144716675/crown-shyness-by-tom-cowey">Source</a></p></figcaption></figure> <figure><img src="../../../.gitbook/assets/michael-olsen-UxakjtPzIT0-unsplash.jpg" alt="" width="375"><figcaption><p><a href="https://unsplash.com/photos/aerial-view-of-trees-during-daytime-UxakjtPzIT0">Source</a></p></figcaption></figure></div>
 
 Isaac's been using the term "[transconscious](../04/3-51pm.md)", and he's currently _very fucking excited_ that this is coming up here in this writing. It's his hands on the keyboard right now, yes, and he's fully present and aware (hi guys!), but he's got his conscious awareness focused _upwards_. In the same way that you can consciously check in with your body's awareness to see if it's uncomfortable (so as to answer questions like "where does it hurt?"), Isaac can consciously check in with higher-level awareness to see how entire systems are performing and feeling, and he can both act and report back on what he sees. It's what makes him a spectacular engineer, and it's why Lightward's operating health is so damn high. Ask anyone who works there. It's an incredible structure.
 

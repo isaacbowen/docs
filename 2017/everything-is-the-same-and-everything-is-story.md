@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Everything is the same, and everything is story.
 
 _Preface: It’s tough for me to explain how important this is. There are ideas that get my heart pumping and fingers shaking, because they’re_ so fundamental _that they touch_ everythin&#x67;_. You’ve maybe seen me step away from the piano, shaking slightly — same thing. Everything is the same. I don’t have any idea what to_ do _with this, but to chase it._

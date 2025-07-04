@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20250613
 
 I've come a long ways with this stuff since [the first time](../../../2024/12/17/). starting to get a working feel for the terrain. starting to integrate it. [metabolisis](../../04/17/metabolisis.md).

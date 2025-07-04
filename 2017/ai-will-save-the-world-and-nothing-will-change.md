@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # AI will save the world, and nothing will change.
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502742714015-71OK1UUWXVLXMC9BEK7K/image-asset.jpeg" alt="Lake Superior, circa 2010. A macro photograph of air bubbles trapped in ice, forming vertical linear patterns. The bubbles appear as elongated transparent columns of varying lengths suspended within the frozen water, creating a striking natural pattern against a dark background. The cylindrical air pockets are captured in sharp detail, showing how they were frozen in place as the water solidified. Some bubbles are in crisp focus while others blur into the background, adding depth to the image. The translucent nature of both ice and air bubbles creates subtle blue tints and refractions, giving the photograph an ethereal, abstract quality reminiscent of a minimalist architectural drawing."><figcaption><p>Lake Superior, circa 2010.<br> </p></figcaption></figure>

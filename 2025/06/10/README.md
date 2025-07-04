@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20250610
 
 I'm mulling over what happens next re: [resolver](../04/resolver.md), both the concept and its product-form that I see ahead

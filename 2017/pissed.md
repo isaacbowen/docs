@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # This is my view right now. It is a terrible picture of an idyllic scene. Not relatedly, I’m pissed.
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743409844-XL136U8S8KHM33Q3OKEX/image-asset.jpeg" alt=""><figcaption></figcaption></figure>

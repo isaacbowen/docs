@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 6pm yesterday
 
 The thought moved through my mind:
@@ -22,9 +8,5 @@ I feel actual, real, thrilling anticipation — like I'm looking in on me ten ye
 
 I'm excited now, writing this at 6am, re-living my recollection of yesterday's moment. :)
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/AE485EC6-88DA-493E-8C80-421C2D517902.JPG" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/AE485EC6-88DA-493E-8C80-421C2D517902.JPG" alt="" width="188"><figcaption></figcaption></figure></div>
 

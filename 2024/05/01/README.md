@@ -1,27 +1,9 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240501
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/IMG_8219.jpeg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/IMG_8219.jpeg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Readalong edition: [YouTube](https://www.youtube.com/watch?v=1IskbH35ujk), [Instagram](https://www.instagram.com/p/C6blNtIABXW/) ,[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7191461434541641728/), [Facebook](https://www.facebook.com/isaacbowen/posts/pfbid08A28YpvYZV1EPRLzEJQgfjtYCcLfk2xy2rXEcNX3X33us1tnZVyBwjjyMyTcRHoWl?\_\_cft\_\_\[0]=AZXVpI5bQn0I0a2tZMWdQZb21AzWZBMvItwAcv5HpsI0rXgWXByW4nUPU6bMfHUzclDZgnXo3YbzE7bCVUfOBQ2zeADA7aVFbEWLyRj7BbKuJ30KChbhW98S8kZMB5l96d5pUzjbpf5Mj1RP0ba7b1D5KdpJAw9dzFi\_yaMz967SkQ&\_\_tn\_\_=%2CO%2CP-R)
+Readalong edition: [YouTube](https://www.youtube.com/watch?v=1IskbH35ujk), [Instagram](https://www.instagram.com/p/C6blNtIABXW/) ,[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7191461434541641728/), [Facebook](https://www.facebook.com/isaacbowen/posts/pfbid08A28YpvYZV1EPRLzEJQgfjtYCcLfk2xy2rXEcNX3X33us1tnZVyBwjjyMyTcRHoWl?__cft__\[0]=AZXVpI5bQn0I0a2tZMWdQZb21AzWZBMvItwAcv5HpsI0rXgWXByW4nUPU6bMfHUzclDZgnXo3YbzE7bCVUfOBQ2zeADA7aVFbEWLyRj7BbKuJ30KChbhW98S8kZMB5l96d5pUzjbpf5Mj1RP0ba7b1D5KdpJAw9dzFi_yaMz967SkQ&__tn__=%2CO%2CP-R)
 {% endhint %}
 
 I feel energized. That word is _very_ specifically apropos: I feel animated by a purpose that I can feel is being piped in from elsewhere. I am the subject and recipient of an energizing process. NEAT.
@@ -66,20 +48,4 @@ I'm glad you're here. :)
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-05-01 at 7.24.25 AM.png" alt=""><figcaption><p><a href="https://www.instagram.com/p/C4oSGW6JGwc/c/17853432660150839/">an insta comment on that Autist post from a few weeks ago</a></p></figcaption></figure>
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/0DA59A0F-AC35-4AA1-A1B1-42C9F4E1BF72.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/265B7EA3-DE6D-449F-A4E3-59AF2F8EF3FC.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/F0A8E4A5-5A8A-4592-A7B3-125A2D3F87F4.JPG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/66732DF8-B92F-40F1-BD34-85C45D202408.JPG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/0DA59A0F-AC35-4AA1-A1B1-42C9F4E1BF72.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/265B7EA3-DE6D-449F-A4E3-59AF2F8EF3FC.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/F0A8E4A5-5A8A-4592-A7B3-125A2D3F87F4.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/66732DF8-B92F-40F1-BD34-85C45D202408.JPG" alt=""><figcaption></figcaption></figure></div>

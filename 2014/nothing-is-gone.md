@@ -1,16 +1,5 @@
 ---
 description: Aug 12, 2018
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Nothing is gone.

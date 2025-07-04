@@ -1,24 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # On multiple expression
 
-<div align="left">
-
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-05-08 at 5.45.37 PM.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/Screenshot 2024-05-08 at 5.45.37 PM.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 A favor: read this next bit gently. Keep what's useful, don't force down the rest, honestly just ignore whatever isn't useful to you. :)
 

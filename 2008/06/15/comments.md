@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Comments
 
 > Theres truth for everyone in this post.  The way we go through the motions to fit in and appear acceptable, the way we later retreat to our own places of survival.

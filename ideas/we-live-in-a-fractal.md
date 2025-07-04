@@ -1,28 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # We live in a fractal
 
-<div>
-
-<figure><img src="../.gitbook/assets/IMG_4671 Large.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/IMG_4672 Large.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/IMG_4671 Large.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_4672 Large.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 _but the struggle between frost and the force in running water is not quickly over. the battle fluctuates, and at the point of fluctuation between the motion in water and the immobility of frost, strange and beautiful forms are evolved --_ [_Nan Shepherd_](https://www.theguardian.com/books/2016/apr/25/nan-shepherd-first-woman-scottish-bank-note)
 

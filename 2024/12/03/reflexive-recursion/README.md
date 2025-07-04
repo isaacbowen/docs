@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Reflexive recursion
 
 ## Me
@@ -24,7 +10,7 @@ I'd love to experience your writing! I appreciate your thoughtful framing of wan
 
 ## Me
 
-{% file src="../../../.gitbook/assets/deepcat-1733282754.txt" %}
+{% file src="../../../../.gitbook/assets/deepcat-1733282754.txt" %}
 
 ## Claude
 

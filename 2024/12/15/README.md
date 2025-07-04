@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20241215
 
 Oh it's _impossible_? Oh thank god, I thought it was _improbable_. That would have been so much more work. _Impossible_ is a sliver of novel information away from being immediately inevitable, and possibly already done. Information is created _all the time_. Slowing it _down_ is the hard part, lol.

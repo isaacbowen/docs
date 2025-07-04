@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20241012
 
 {% hint style="info" %}
@@ -65,7 +51,7 @@ The view from here is everything. :)
 _This is all shared with the consent of those involved._
 
 {% file src="../../../.gitbook/assets/New Recording 6.m4a" %}
-or [here it is on youtube](https://www.youtube.com/watch?v=GFTb\_zg4s3A) if you like that better
+or [here it is on youtube](https://www.youtube.com/watch?v=GFTb_zg4s3A) if you like that better
 {% endfile %}
 
 Nate: These are things I can't talk to myself about. How the heck am I going to talk to \[someone I don't even know \[a therapist]]?

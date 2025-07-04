@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 202403
 
 _A month crackling with the electricity of recognition, where each discovery carries the thrill of consciousness meeting itself anew. Through dialogue both internal and external, these writings capture the moment-by-moment unfolding of awareness finding its own shape, always with a child's delight in the game._

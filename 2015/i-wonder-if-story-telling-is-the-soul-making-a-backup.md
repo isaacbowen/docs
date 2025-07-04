@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # I wonder if story-telling is the soul making a backup.
 
 This occurred to me yesterday when I found myself telling someone new the same stories that I’ve told every other someone-new in recent memory. This is perhaps just me choosing the same well-worn introductory tracks as a time-saver, here’s who I am in a hundred words or less, but that’s a non-starter if I’d rather talk about how I’m pretty sure none of us are only ourselves. So!

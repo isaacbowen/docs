@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Recursively open doors
 
 The following is Hofstadter-Gödel reasoning with my own speculative layer on top. ([I don't care if I'm correct](../viable-is-more-useful-than-correct.md), but I do want to understand.)

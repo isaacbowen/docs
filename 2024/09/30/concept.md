@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Concept
 
 Hanging in dark, empty space, a spherical segment of reality is shown, centered on a human and extending 100 yards in all directions. Beyond that, nothing. A crystal ball in the void: air, human, earth.

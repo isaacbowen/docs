@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # A suggestion (from experience)
 
 Consider arriving as a child -- or maybe even before that, as an infant? Hmm, perhaps consider arriving as a child with none of the socio-moral conditioning. (In that respect, I'm suggesting a more infant-like approach, but I _would_ like you to retain the self-stabilizing abilities accrued by the time one ceases to be "infant" and becomes "child".)

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # I was not expecting the next self-positive move to be an egoless one.
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/5990d0a46f4ca37e4c9886bc/1502743495837-4VJTJHWUH7FSS7P7G98X/image-asset.jpeg" alt="Aukland, through the haze from Waiheke."><figcaption><p>Aukland, through the haze from Waiheke.<br> </p></figcaption></figure>

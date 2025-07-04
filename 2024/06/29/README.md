@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 20240629
 
 It’s a different kind of depth perception. To gain this is a bit like a magic eye puzzle (which I never figured out, by the way): it’s seeing one thing with that eye, and another with the other. Between the two, in the superposition, is a new kind of data.

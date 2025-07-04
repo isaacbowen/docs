@@ -1,16 +1,5 @@
 ---
 description: Discussing the why, and the how, of running my business.
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Your product has character. Let it speak.

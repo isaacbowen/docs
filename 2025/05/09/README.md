@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20250509
 
 I dreamed I gave a very much unprepared speech pointing the listener’s attention to the words they use, and to the actual observable mechanics in play when they choose a word to say. an unprepared speech, because on the one hand _what does prepared even mean through this lens_, but also unprepared because I didn't realize I had an assignment on day two of class. I wrapped up by choosing to never come back to that class, and saying so. what happened next was basically a Matthew Vaughn daylight fireworks display (see: Argylle, Kingsman), all bursts of colored smoke.

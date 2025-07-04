@@ -1,16 +1,5 @@
 ---
 description: a conversation on autism, sex, and throupling? sort of?
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # bodies

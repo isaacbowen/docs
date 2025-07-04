@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Always leave a door open
 
 Pretty sure this leads to [recursively open doors](recursively-open-doors.md), btw.
@@ -24,7 +10,7 @@ I'd like to say "assume nothing about each other", but to speak any language at 
 
 When making a product, ensure that it is _at its core_ infinitely reconfigurable, infinitely flexible, in such a way that a configuration of the product can work around limitations in the product itself.
 
-[Tripartite systems](https://en.wikipedia.org/wiki/Three-body\_problem) are great for this. (Locksmith has locks, keys, and key conditions; Mechanic has events, tasks, and actions.)
+[Tripartite systems](https://en.wikipedia.org/wiki/Three-body_problem) are great for this. (Locksmith has locks, keys, and key conditions; Mechanic has events, tasks, and actions.)
 
 {% hint style="info" %}
 This concept is mentioned in:

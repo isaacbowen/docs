@@ -1,16 +1,5 @@
 ---
 description: From "The Now V18"
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # To Begin With Health

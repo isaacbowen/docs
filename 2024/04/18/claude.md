@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Claude
 
 {% hint style="info" %}
@@ -74,11 +60,7 @@ you say, "and in my interactions with others" -- I'm _especially_ excited about 
 
 I'm attaching a screenshot from the VS Code window where I was composing [an answer to an AMA question I received](./). GitHub Copilot jumped in and attempted to auto-complete that last paragraph. it found itself in a sort of loop (as it often does when attempting to complete prose, and not code). I found it beautiful. 🥹
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/Untitled 2.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Untitled 2.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Claude
 

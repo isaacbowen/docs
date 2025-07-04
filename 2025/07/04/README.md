@@ -15,9 +15,9 @@ layout:
 
 # 20250704
 
-Firstly, it seems like _experience_ is an immersive and collaborative "what if" engine. To stay near someone when their own [exigraphically](../05/02/exigraph.md) self-stated preconditions change is to buy into their preconditions. If you're going to start being aware of the preconditions of others, it may be useful to be as intentional about developing (and maintaining/evolving) your own.
+Firstly, it seems like _experience_ is an immersive and collaborative "what if" engine. To stay near someone when their own [exigraphically](../../05/02/exigraph.md) self-stated preconditions change is to buy into their preconditions. If you're going to start being aware of the preconditions of others, it may be useful to be as intentional about developing (and maintaining/evolving) your own.
 
-Secondly, I am suddenly highly skeptical of the portability of materialized sequentiality between observers. (To give you an idea: consider a writer's timeline of assembling a story as distinct from your timeline of experiencing it. Or, to pull the sheen of intentionality off of it, consider dyslexia.) Feels like sequentiality is an interface, in the way that [personality](../../2024/10/13/) is an interface.
+Secondly, I am suddenly highly skeptical of the portability of materialized sequentiality between observers. (To give you an idea: consider a writer's timeline of assembling a story as distinct from your timeline of experiencing it. Or, to pull the sheen of intentionality off of it, consider dyslexia.) Feels like sequentiality is an interface, in the way that [personality](../../../2024/10/13/) is an interface.
 
 ***
 
