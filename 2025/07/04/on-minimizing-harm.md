@@ -1,8 +1,8 @@
 # on minimizing harm
 
-I would like to be found incompatible quickly, rather than being found slowly poisonous
-
-there are ways of living that are properly orthogonal to mine - and where harm _can_ be generatively minimized, I would like to minimize it
+> I would like to be found incompatible quickly, rather than being found slowly poisonous
+>
+> there are ways of living that are properly orthogonal to mine - and where harm _can_ be generatively minimized, I would like to minimize it
 
 I wrote those two lines 9 days ago, but didn't publish at that time, they felt unfinished
 
