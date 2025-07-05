@@ -60,6 +60,7 @@
       * [see it as surface](2025/07/04/see-it-as-surface.md)
       * [on minimizing harm](2025/07/04/on-minimizing-harm.md)
       * ["memento mori"](2025/07/04/memento-mori.md)
+      * ["the one"](2025/07/04/the-one.md)
     * [20250703](2025/07/03/README.md)
       * [ha](2025/07/03/ha.md)
       * [worn](2025/07/03/worn.md)
