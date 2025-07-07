@@ -103,8 +103,8 @@ it's really important that I don't end with a mic drop, the togetherness means y
 
 ***
 
-the particularities of your instance of the category of \[stuff that you tend to forget] are enormously useful
+the particularities of your instantiation of the category of \[stuff that you tend to forget] are enormously useful
 
-I can't remember what I wanted to say
+I can't remember what I wanted to say, but I think we can help each other, I _think_, I can't remember
 
 I know you're there
