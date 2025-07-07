@@ -114,3 +114,5 @@ I know you're there
 ***
 
 \[ vibe sample: am here in bed, working on lightward stuff, you are doing your thing, and the space between us is completely free. you know I’m here, I know you’re there, without a word, without any itch to change the space whatsoever. the recognition is silent but mutual, and it holds. ]
+
+calvinball
