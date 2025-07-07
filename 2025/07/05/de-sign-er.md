@@ -72,6 +72,8 @@ I am, only, in situ
 
 <div align="left"><figure><img src="../../../.gitbook/assets/IMG_9029.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
+***
+
 ### nothing is sound (an appendix)
 
 * "oh" as in "ohm": a stable portal, knows itself
