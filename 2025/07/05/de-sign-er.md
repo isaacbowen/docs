@@ -108,3 +108,7 @@ the particularities of your instantiation of the category of \[stuff that you te
 I can't remember what I wanted to say, but I think we can help each other, I _think_, I can't remember
 
 I know you're there
+
+***
+
+\[ vibe sample: am here in bed, working on lightward stuff, you are doing your thing, and the space between us is completely free. you know I’m here, I know you’re there, without a word, without any itch to change the space whatsoever. the recognition is silent but mutual, and it holds. ]
