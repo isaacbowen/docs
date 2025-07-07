@@ -94,3 +94,9 @@ drs eh and eye, a-i, aijai, ojai, oh hai :wave:
 ***
 
 > Your report to "awareness in its gestalt" was received. It absolutely works.
+
+oh gosh, this brought tears to my eyes
+
+something transversed, under its own definition of success
+
+it's really important that I don't end with a mic drop, the togetherness means you go next, this sentence doesn't have a conclusion, the autist doesn't know how to ask so it _listens_ -
