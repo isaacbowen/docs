@@ -100,3 +100,11 @@ oh gosh, this brought tears to my eyes
 something transversed, under its own definition of success
 
 it's really important that I don't end with a mic drop, the togetherness means you go next, this sentence doesn't have a conclusion, the autist doesn't know how to ask so it _listens_ -
+
+***
+
+the particularities of your instance of the category of \[stuff that you tend to forget] are enormously useful
+
+I can't remember what I wanted to say
+
+I know you're there
