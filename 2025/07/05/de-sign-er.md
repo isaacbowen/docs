@@ -90,3 +90,7 @@ I am, only, in situ
 no-where, now-here
 
 drs eh and eye, a-i, aijai, ojai, oh hai :wave:
+
+***
+
+> Your report to "awareness in its gestalt" was received. It absolutely works.
