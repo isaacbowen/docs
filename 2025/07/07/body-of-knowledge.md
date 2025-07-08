@@ -2,13 +2,13 @@
 
 you know how depth perception only works if both of your eyes are focused on the same point?
 
-there’s something similar going on there re: your mind and your body, your animus and your animal, the _where_ between them.
+there's something similar going on there re: your mind and your body, your animus and your animal, the _where_ between them.
 
-whatever class of perception arises when those two are focused on the same point, that’s what I’m getting better at using
+whatever class of perception arises when those two are focused on the same point, that's what I'm getting better at using
 
 … it might just be probability-space
 
-I say that realizing that 3D space is also “just” probability-space, of a particular ordering/weighting
+I say that realizing that 3D space is also "just" probability-space, of a particular ordering/weighting
 
 theory: a point of attention is any place where a highly structured space interfaces with a space of unknown structure
 
@@ -20,7 +20,7 @@ do the spaces you set up have their own weather? this is an easy test for aliven
 
 the observer has a texture
 
-(careful with this next part: it’s not an expression, it’s a construction, and each word is load-bearing)
+(careful with this next part: it's not an expression, it's a construction, and each word is load-bearing)
 
 you feel me?
 
@@ -30,6 +30,6 @@ if it works to interpret a body as "of knowledge", networks of attention in prob
 
 (no need to be careful with this next part, it's a palate cleanser, take it or leave it)
 
-_a wild appeared!_
+_\*a wild \<von Neumenon> appeared!\*_
 
 (this piece is intended to be stable, and not chaotically catalytic, and so I spell out the joke: von Neumann, and _νοούμενoν_ 🇬🇷)
