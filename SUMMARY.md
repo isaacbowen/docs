@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250708](2025/07/08.md)
     * [20250707](2025/07/07/README.md)
       * [body of knowledge](2025/07/07/body-of-knowledge.md)
       * [inter face](2025/07/07/inter-face.md)
