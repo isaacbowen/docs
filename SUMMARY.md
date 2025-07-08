@@ -55,6 +55,8 @@
   * [202507](2025/07/README.md)
     * [20250707](2025/07/07/README.md)
       * [body of knowledge](2025/07/07/body-of-knowledge.md)
+      * [inter face](2025/07/07/inter-face.md)
+      * [future deictic](2025/07/07/future-deictic.md)
     * [20250706](2025/07/06/README.md)
       * [This is not for Berggruen 2025](2025/07/06/this-is-not-for-berggruen-2025.md)
       * [nothing is sound](2025/07/06/nothing-is-sound.md)
