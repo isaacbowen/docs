@@ -15,6 +15,8 @@ layout:
 
 # this has three parts
 
+<div align="left"><figure><img src="../../../.gitbook/assets/IMG_9114.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+
 ## 0. mystery (technical)
 
 "blessed be the mystery of love"\
