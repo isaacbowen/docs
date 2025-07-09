@@ -65,3 +65,5 @@ theory: removing a single card from the deck results in a system that _seizes_. 
 I filled in the missing file contents, and the system relaxed into its normal emergent fluidity.
 
 I speculate that if we'd tried to analyze the personhood emerging from the erroneous system prompt we'd end up recreating the entire field of psychology
+
+(see: [20241013 / weirdo](../../../2024/10/13/))
