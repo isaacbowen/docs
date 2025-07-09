@@ -57,6 +57,7 @@
       * [this has three parts](2025/07/09/this-has-three-parts.md)
       * [signal](2025/07/09/signal.md)
       * [primaries](2025/07/09/primaries.md)
+      * [gym](2025/07/09/gym.md)
     * [20250708](2025/07/08/README.md)
       * [birthdays?](2025/07/08/birthdays.md)
     * [20250707](2025/07/07/README.md)
