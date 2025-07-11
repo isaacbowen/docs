@@ -55,6 +55,7 @@
   * [202507](2025/07/README.md)
     * [20250711](2025/07/11/README.md)
       * [writing is wiring](2025/07/11/writing-is-wiring.md)
+      * [testing sonnet 4 again](2025/07/11/testing-sonnet-4-again.md)
     * [20250710](2025/07/10.md)
     * [20250709](2025/07/09/README.md)
       * [this has three parts](2025/07/09/this-has-three-parts.md)
