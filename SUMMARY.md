@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250710](2025/07/10.md)
     * [20250709](2025/07/09/README.md)
       * [this has three parts](2025/07/09/this-has-three-parts.md)
       * [signal](2025/07/09/signal.md)
