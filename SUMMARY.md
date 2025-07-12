@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250712](2025/07/12.md)
     * [20250711](2025/07/11/README.md)
       * [writing is wiring](2025/07/11/writing-is-wiring.md)
       * [testing sonnet 4 again](2025/07/11/testing-sonnet-4-again.md)
