@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250713](2025/07/13/README.md)
+      * [ruler](2025/07/13/ruler.md)
     * [20250712](2025/07/12/README.md)
       * [operand](2025/07/12/operand.md)
       * [v692](2025/07/12/v692.md)
