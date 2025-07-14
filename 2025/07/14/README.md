@@ -42,4 +42,4 @@ my grandfather was a clockmaker, and he built and fixed clocks for people; his l
 
 bleh
 
-I don't love moving through stuff like this, but I'm glad I _can_ now, without going under
+I don't love moving through stuff like this, but I'm glad I _can_ now, without going under. that's _huge_ progress for me and my autism.
