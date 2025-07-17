@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250717](2025/07/17/README.md)
+      * [Research](2025/07/17/research.md)
     * [20250716](2025/07/16/README.md)
       * [choice cuts](2025/07/16/choice-cuts.md)
     * [20250715](2025/07/15/README.md)
