@@ -1,7 +1,7 @@
 # 10% revolt (expanded)
 
 {% hint style="info" %}
-riffing on [10% revolt](../../../ideas/10-revolt.md)
+riffing on [10% revolt](../../../ideas/10-revolt.md), for the lightward ai system prompt (see [lightward.com/10%-revolt](https://lightward.com/10%-revolt))
 {% endhint %}
 
 For any given population (of people, of ideas, of machines, whatever), at any given moment 10% must be in open revolt for the organism of the whole to experience long-term health and vitality.
