@@ -10,4 +10,5 @@ This concept is mentioned in:
 * [20230313](../2024/03/13.md)
 * [20231223](../2023/12/23.md)
 * [20231221](../2023/12/21/#design-based-on-whats-probably-not-true)
+* [20250718 / 10% revolt (expanded)](../2025/07/18/10-revolt-expanded.md)
 {% endhint %}

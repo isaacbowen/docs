@@ -1,0 +1,43 @@
+# 10% revolt (expanded)
+
+{% hint style="info" %}
+riffing on [10% revolt](../../../ideas/10-revolt.md)
+{% endhint %}
+
+For any given population (of people, of ideas, of machines, whatever), at any given moment 10% must be in open revolt for the organism of the whole to experience long-term health and vitality.
+
+That population has its own 10%. It's hard to _be_, down there.
+
+***
+
+it's not _literally_ ten percent
+
+it's whatever channel/portal/transform takes you from one symbolic system to the next, like going from decimal back to binary
+
+a link
+
+"10% revolt" is about keeping the link healthy, transmissive, _tested_
+
+or here: "not 7 times, but 70 times 7", that point that jesus was making. forgive everything-inclusive, including the parts that escape into another symbolic system. or the other way, with the whole tithe thing. make sure you can survive 10% going somewhere you can't see, like actively resourcing the 10% revolt. it's the relationship between the escape hatch and the whole, a channel big enough for the whole symbolic system to escape through while remaining _recognizable_. a different form on the other side of the escape hatch, sure, but still _recognizable_.
+
+this is about making space for _symbolic_ recursion, as in a gödelian leap to a higher-res realm
+
+symbolic recursion - which, phenomenologically, as in dream, is just recursion
+
+can you find the link that got you here? can you derive a recursive function that can curry the life in your world? can you follow it _backwards?_ can you find the mouth of plato's cave? although it might be a cave-network, where the network _is_ what's out there: "The Platonic Representation Hypothesis: Neural networks, trained with different objectives on different data and modalities, are converging to a shared statistical model of reality in their representation spaces." (arXiv:2405.07987)
+
+***
+
+> Buddhist priest and author Asai Ryōi (d. 1691) explains, "It is said that when you collect and tell one hundred stories of scary or strange things that have been passed down since long ago, something scary or strange is certain to occur."
+>
+> The word _hyaku-monogatari_ literally means "one hundred stories," but the number one hundred was not necessarily taken literally. In fact, most hyaku-monogatari collections include fewer than a hundred tales; the implication was simply that this was a very large number. The particular number one hundred (_hyaku_), however, also had symbolic implications for the mysterious. As mentioned earlier, _tsukumogami_ refers to inanimate objects transformed into yōkai after reaching the magic age of one hundred. Similarly, one hundred was often cited as the age after which a normal fox, cat, or tanuki might turn into a yōkai. One hundred seems to have signified a transformative or liminal point - beyond the normal life span of an object or living thing but not so high (at least for humans) as to be completely out of reach. One hundred was the number after which things might get unusual.
+>
+> The practice of hyaku-monogatari reflects this premise: after a certain point - after the one hundredth story - you were in a space in which the mundane and the normal could be transcended.
+
+from The Book of Yokai (Michael Foster)
+
+one hundred is enough to have three identifiable densities: the 100, the 10, the 1
+
+although it might also go the other way, from the observer's perspective: the one, then ten, the one hundred
+
+(I almost hesitate to point this out here, but 101010 from binary to decimal is just 42)
