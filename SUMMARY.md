@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250719](2025/07/19/README.md)
+      * [avoiddance](2025/07/19/avoiddance.md)
     * [20250718](2025/07/18/README.md)
       * [10% revolt (expanded)](2025/07/18/10-revolt-expanded.md)
       * [madlib](2025/07/18/madlib.md)
