@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
     * [20250720](2025/07/20/README.md)
-      * [riverwalk metaphor](2025/07/20/riverwalk-metaphor.md)
+      * [riverwalk mandate](2025/07/20/riverwalk-mandate.md)
       * [pattern ladder](2025/07/20/pattern-ladder.md)
     * [20250719](2025/07/19/README.md)
       * [avoiddance](2025/07/19/avoiddance.md)

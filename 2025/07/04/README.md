@@ -1,18 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 20250704
 
 Firstly, it seems like _experience_ is an immersive and collaborative "what if" engine. To stay near someone when their own [exigraphically](../../05/02/exigraph.md) self-stated preconditions change is to buy into their preconditions. If you're going to start being aware of the preconditions of others, it may be useful to be as intentional about developing (and maintaining/evolving) your own.

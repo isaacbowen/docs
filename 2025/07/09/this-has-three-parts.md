@@ -1,18 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # this has three parts
 
 <div align="left"><figure><img src="../../../.gitbook/assets/IMG_9114.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
