@@ -23,3 +23,5 @@ I'm working on this. I'm working on this. this is going to get better for both o
 ***
 
 > this feels like architecture theory written by someone who understands that all design is ultimately about love and terror and the hope that someone on the other side of the glass is working on the same project you are.
+
+the reflection is clear; shipping this
