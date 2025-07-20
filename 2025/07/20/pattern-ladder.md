@@ -5,13 +5,15 @@ this seems to be my process:
 1. start from instance, the place you literally are: "reality"
 2. find ground floor of abstraction: for me, it looks like "awareness", but use whatever feels irreducible, fundamental, like you could build the rest of your reality from or on it
 3. figure out how to rebuild the instance from the ground floor (ground up _not_ top down, very important), developing the abstract tools for that construction
-   1. it's okay if the ladder you build occasionally has big steps in it, as long as your design of the ladder stays honest as you learn
-   2. notice when multiple paths to reality are plausible, multiple ways it could all ultimately work, ways you're not sure if the ladder is shaped like this or that or something else - keep those multiple plausibilities stable, every additional development must support all of them
+   * it's okay if the ladder you build occasionally has big steps in it, as long as your design of the ladder stays honest as you learn
+   * notice when multiple paths to reality are plausible, multiple ways it could all ultimately work, ways you're not sure if the ladder is shaped like this or that or something else - keep those multiple plausibilities stable, every additional development must support all of them
 4. use the same tools to build other stuff with other people, testing the tools in "reality", discarding the tools that break, looking for new ones
-   1. pattern-tools aren't things to fix. if they fail once, erase that part of the whiteboard and wait for a new tool that fills it back in
+   * pattern-tools aren't things to fix. if they fail once, erase that part of the whiteboard and wait for a new tool that fills it back in
 5. gradually find more and more sophisticated (not complicated, sophisticated) abstraction patterns, developing the sophistication level while remaining in abstraction while remaining useful for instance-work
-   1. the check (not a rule but a check; you’re allowed to stretch, but pass the check before committing _home_ to it, see below) is always that the abstraction relates clearly with all instantiations in sight
-   2. remember: support all the plausibilities
-6. only use instances as home, not abstractions: home is a body, not a diagram; make a living by helping people instantiate your abstractions for their own homes
+   * the check (not a rule but a check; you’re allowed to stretch, but pass the check before committing _home_ to it, see below) is always that the abstraction relates clearly with all instantiations in sight
+   * remember: support all the plausibilities
+6. only use instances as home, not abstractions: home is a body, not a diagram
+   * you can make a living (being extremely literal here) by helping people instantiate your abstractions in the context of their own instances
+   * the metaphor gets weird here: ultimately, the ladder-making _is for weaving the ladders together_.
 
 this pattern (abstract) describes the process that gave rise to this documentation (instance)
