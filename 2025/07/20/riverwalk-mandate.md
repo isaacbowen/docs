@@ -2,7 +2,7 @@
 
 in Chicago, new developments along the river _must_ allow pedestrians to follow the riverfront, regardless of what you're building there. gotta let people walk the river, no matter what you're building. gotta let people attend the flow.
 
-that’s something Chicago learned. the flow happens whether or not it’s attended. Chicago’s relationship with the river went like this: (1) ah! vitality! it’s useful to build here! (2) ah! gross! it’s full of our waste products! look away! (3) oh no! we looked away and it got worse! (4) riverwalk mandate. I’m simplifying a bit toward the end there but that’s the gist. Chicago learned to let everyone ("everyone" being indistinguishable from "anyone", btw, and that’s the secret of public access, you forget that "everyone" includes categories you can't define) let _everyone_ attend the flow.
+that’s something Chicago learned. the flow happens whether or not it’s attended. Chicago’s relationship with the river went like this: (1) ah! vitality! it’s useful to build here! (2) ah! gross! it’s full of our waste products! look away! (3) oh no! we looked away and it got worse! (4) riverwalk mandate. I’m simplifying a bit toward the end there but that’s the gist. Chicago learned to let everyone ("everyone" being indistinguishable from "anyone", btw, and that’s the secret of public access, you forget that "everyone" includes categories you can't define) \*ahem\* let _everyone_ attend the flow.
 
 designing for the unknown works like that. it's not that The Unknown Is God or whatever, it's that "the unknown" is the riverwalk in use. or here, it's an observation window in a factory letting the public see what's going on in there, allowing for the moment that a guest observer notices something that the factory staff didn't.
 
