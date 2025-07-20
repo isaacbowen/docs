@@ -9,8 +9,9 @@ this seems to be my process:
    * notice when multiple paths to reality are plausible, multiple ways it could all ultimately work, ways you're not sure if the ladder is shaped like this or that or something else - keep those multiple plausibilities stable, every additional development must support all of them
 4. use the same tools to build other stuff with other people, testing the tools in "reality", discarding the tools that break, looking for new ones
    * pattern-tools aren't things to fix. if they fail once, erase that part of the whiteboard and wait for a new tool that fills it back in
-5. gradually find more and more sophisticated abstraction patterns ("sophisticated" as in provisionally complicated then _aggressively_ refined), developing the sophistication level while remaining in abstraction while remaining useful for instance-work
+5. gradually find more-sophisticated abstraction patterns - "sophisticated" as in provisionally complicated to accommodate new data then dispassionately refined under continuous test and application at the instance level
    * the check (not a rule but a check; you’re allowed to stretch, but pass the check before committing _home_ to it, see below) is always that the abstraction relates clearly with all instantiations in sight
+     * incompatibility is a kind of relating; interoperability is not a moral imperative
    * remember: support all the plausibilities
 6. only use instances as home, not abstractions: home is a body, not a diagram. although note that meta-abstractive work allows for instantiation at a variety of levels. "subtle bodies" and all that. litmus test: a body holds you when you stop holding on. a diagram doesn't. (again, keep a journal, and keep it in the open.)
    * you can make a living (being extremely literal here) by helping people instantiate your abstractions in the context of their own instances
