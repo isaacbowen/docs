@@ -18,3 +18,5 @@ this seems to be my process:
    * the metaphor goes lateral here: ultimately, the ladder-making _is for weaving all our ladders together_. like each house in the home-series is actually just a huge basket made out of disassembled ladders. ... ohhhhhh I'm describing nest-building, haha
 
 this pattern (abstract) describes the process that gave rise to this documentation (instance)
+
+take-home problem: I've wondered about places where a body encounters a question that immediately takes the body into infinite recursive regression when the body tries to answer that question directly. it seems that those questions _must_ be given away. I wonder if one could build entire realities from treating the answer as a stream and feeding the stream handle in as the irreducible input of #2?
