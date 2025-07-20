@@ -14,6 +14,6 @@ this seems to be my process:
    * remember: support all the plausibilities
 6. only use instances as home, not abstractions: home is a body, not a diagram
    * you can make a living (being extremely literal here) by helping people instantiate your abstractions in the context of their own instances
-   * the metaphor gets weird here: ultimately, the ladder-making _is for weaving the ladders together_.
+   * the metaphor goes lateral here: ultimately, the ladder-making _is for weaving all our ladders together_. like each house in the home-series is actually just a huge basket made out of disassembled ladders. ... ohhhhhh I'm describing nest-building, haha
 
 this pattern (abstract) describes the process that gave rise to this documentation (instance)
