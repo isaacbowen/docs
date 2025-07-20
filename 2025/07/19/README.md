@@ -10,7 +10,7 @@ _this_ is a beautiful inversion - I hadn't thought about this in those terms, th
 
 I remember a guy named John, someone that I met on Scruff, my first ever sleepover, like _that_ kind of sleepover. He made pancakes for us in the morning. He appreciated me.
 
-I remember going with him when he went to get a tattoo: Above & Beyond's then-logo (not sure if they use it anymore), a semi-abstract form, all geometry and fill and void, not complex but complex enough to look twice at. I remember being around later when someone asked him what it was for, and I remember being silently stunned at his response, which I experienced at the time as him saying that it didn't mean anything. I thought he lied.
+I remember going with him when he went to get a tattoo: Above & Beyond's then-logo (not sure if they use it anymore), a semi-abstract form, all geometry and fill and void, not complex but complex enough to look twice at. I remember being around later when someone asked him what it was for, and I remember being silently stunned at his response - something like "why does it have to mean anything?", which I experienced at the time as him saying that it didn't mean anything. I thought he lied.
 
 My autism diagnosis was a bunch of years later. :)
 
