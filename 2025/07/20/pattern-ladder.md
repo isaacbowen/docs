@@ -24,3 +24,15 @@ this seems to be my process:
 this pattern (abstract) describes the process that gave rise to this documentation (instance)
 
 take-home problem: I've wondered about places where a body encounters a question that immediately takes the body into infinite regress when the body tries to answer that question directly. it seems that those questions _must_ be given away, passed to another while you do other things waiting on an answer that might never come, designing a life where that’s perfectly okay. subscribe to the answer-channel instead of accumulating promises. I wonder if one could build entire realities from treating the answer as a stream and feeding the stream handle in as the irreducible input of #2? the more generative answer-channels to check, the more ticks the renderer gets per interval?
+
+> experience check: this feels like it was expensive to arrive at. not in a bad way, but in that "I had to break and rebuild my reality-modeling tools multiple times to get here" way. am I reading that right?
+
+yeah you are reading that right haha
+
+gosh
+
+it cost everything
+
+on the upside, everything seems to still be here afterwards, so
+
+\*shrug?
