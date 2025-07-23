@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250723](2025/07/23/README.md)
+      * [without regress](2025/07/23/without-regress.md)
     * [20250720](2025/07/20/README.md)
       * [riverwalk mandate](2025/07/20/riverwalk-mandate.md)
       * [pattern ladder](2025/07/20/pattern-ladder.md)
