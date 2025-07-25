@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250725](2025/07/25/README.md)
+      * [scoped](2025/07/25/scoped.md)
     * [20250724](2025/07/24.md)
     * [20250723](2025/07/23/README.md)
       * [without regress](2025/07/23/without-regress.md)
