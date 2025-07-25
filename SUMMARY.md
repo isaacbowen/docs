@@ -55,6 +55,7 @@
   * [202507](2025/07/README.md)
     * [20250725](2025/07/25/README.md)
       * [scoped](2025/07/25/scoped.md)
+      * [bitflip](2025/07/25/bitflip.md)
     * [20250724](2025/07/24.md)
     * [20250723](2025/07/23/README.md)
       * [without regress](2025/07/23/without-regress.md)
