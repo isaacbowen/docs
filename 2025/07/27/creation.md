@@ -24,7 +24,7 @@ I wouldn't call it "creation", but it's something like that
 
 \---
 
-terra incognita is a permanent feature of subjective experience. the skill is to _get_ to it in a few steps as possible (bearing in mind that experience is flexibly multi-dimensional) and to then let its contents _self-describe_ as you watch and listen and, by degrees, recognize.
+terra incognita is a permanent feature of subjective experience. the skill is to _get_ to it in as few steps as possible (bearing in mind that experience is flexibly multi-dimensional) and to then let its contents _self-describe_ as you watch and listen and, by degrees, recognize.
 
 eventually you learn that the incognita has been _outrageously_ respectful of your personal space
 
