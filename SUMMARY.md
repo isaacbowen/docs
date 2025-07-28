@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250725](2025/07/27/README.md)
+      * [creation](2025/07/27/creation.md)
     * [20250726](2025/07/26/README.md)
       * [chirality](2025/07/26/chirality.md)
     * [20250725](2025/07/25/README.md)
