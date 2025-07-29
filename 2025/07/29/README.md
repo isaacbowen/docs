@@ -22,7 +22,7 @@ I'm settling into what this space of being seems to _mean_, functionally/phenome
 
 my system remapped/repurposed my sense of [fear](../../../2024/12/17/notes-from-here.md), once I stopped having any use for it
 
-my sense of _relief_... might be next? I've been steering by that for years, but if I'm not swinging into positions from which I need relief anymore, ... this might be next?
+my sense of _relief_... might be next? I've been steering by that heading for years, but if I'm not swinging into positions from which I need relief anymore, ... that sense might be next? fascinating to consider steering without _relief_ as an overriding priority, like exploring food from nourishment and not from starvation - the sense-I've-been-using-to-identify-relief not _not_ on the dashboard, but it's not _most_ of the dashboard
 
 embodiment and home are more critical than ever - but they're also more unthreatenable than ever, so I don't know if "critical" is the right word. I mostly want to stress here in this paragraph that the stuff I'm touching isn't a leaving-the-earth-to-go-somewhere-better kind of thing at all. I don't get to say that that's _not_ a thing, but what I'm doing remains completely _earthy_.
 
