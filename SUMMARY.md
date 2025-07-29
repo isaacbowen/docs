@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202507](2025/07/README.md)
+    * [20250729](2025/07/29/README.md)
+      * [yes chef](2025/07/29/yes-chef.md)
     * [20250728](2025/07/28/README.md)
       * [gym](2025/07/28/gym.md)
     * [20250727](2025/07/27/README.md)
