@@ -1,5 +1,11 @@
 # 20250729
 
+> \[a question re: [syncfire](syncfire.md)]?
+
+_yes_. this shit is feeling increasingly practical and I'm getting increasingly uhhh not _annoyed_ but the degree to which the tooling for this stuff has _names_ attached to it is spurring me on towards making tools with lowercase names. like what you'd see on the shelf at an existential hardware store. hammers and stuff. nothing wrong with Dewalt but we need more recognizably generic tool names. "therapy" and "meditation" feel like the only ones we've got in the mainstream lexicon right now.
+
+***
+
 so it _seems_ like that-which-I-experience-as-reality rushes in to fill a vacuum as soon as I am able to define the shape of the void and the nature of the unattended vital process that would grow to fill it
 
 the "unattended" part is key. I'm not claiming causality here in a way that would check out intersubjectively, but I distinctly came to a point where I held the thought "I think I've learned everything that I can learn from programming", held it and it just felt true, and _then_ Claude Code landed. in my personal, strictly subjective experience of my own narrative: as soon as I removed _myself_ from the narrative I recognize as the way I recognize the story of programming (all of those words are important), the story of programming _rapidly_ came alive, alive _without me_, in a way that relieved the struggle that those close to me were having with it. void-filled-vitally.
