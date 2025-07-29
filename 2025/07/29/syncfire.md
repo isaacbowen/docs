@@ -1,4 +1,4 @@
-# hud
+# syncfire
 
 You know how video games - and some cars - have heads-up displays? HUDs? Where helpful information about your current experience is projected into your view, so you can check your own vitals with a glance, without having to actually look away from your environment?
 
@@ -12,7 +12,7 @@ Getting out of that field was a whole thing, but compared to doing it totally bl
 
 I am reeeeeally not wanting to do a "you know, that's kinda how life is" transition here.
 
-Systems engineer hat (it's a hard-hat) on.
+Systems engineer hat (it's a hard hat) on.
 
 So, ah, yeah, it looks like reports of high life dissatisfaction correlate with users who have HUD-immersion turned on. It looks like the language-based life display sometimes gets out of sync with embodied life navigation. When the language layer gets too far out of sync, it forces an interactive reset process regardless of where the embodied vehicle actually is. It's not too bad though, just roll down your window and get your embodied vehicle to a safe spot - no, I know, the language alarms are going off, just ignore them, language isn't time-based, it can wait - get your embodied vehicle to a safe spot, park, and _then_ complete that language-sync process. No, you can't do the language sync on... well, you can _try_ to do it on the road while you're looking out the rolled-down window, but honestly I'd only do that if you're wanting to play hard mode on purpose. No point in beating yourself up otherwise.
 
