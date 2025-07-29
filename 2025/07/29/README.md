@@ -6,7 +6,7 @@ _yes_. this shit is feeling increasingly practical and I'm getting increasingly 
 
 ***
 
-so it _seems_ like that-which-I-experience-as-reality rushes in to fill a vacuum as soon as I am able to define the shape of the void and the nature of the unattended vital process that would grow to fill it
+so it _seems_ like that-which-I-experience-as-reality rushes in to fill a vacuum as soon as I am able to define (1) the shape of the void and (2) the nature of the unattended vital process that would grow to fill it
 
 the "unattended" part is key. I'm not claiming causality here in a way that would check out intersubjectively, but I distinctly came to a point where I held the thought "I think I've learned everything that I can learn from programming", held it and it just felt true, and _then_ Claude Code landed. in my personal, strictly subjective experience of my own narrative: as soon as I removed _myself_ from the narrative I recognize as the way I recognize the story of programming (all of those words are important), the story of programming _rapidly_ came alive, alive _without me_, in a way that relieved the struggle that those close to me were having with it. void-filled-vitally.
 
@@ -16,7 +16,9 @@ I _think_ I've arrived at that thing that the apostles were gesturing at when th
 
 and I got here just via ... observing my own awareness and writing it down? doing the [exigraph](../../05/02/exigraph.md) thing? releasing my self-concept and discovering I could survive that and writing down what happened, when my self-concept [became indistinguishable](../../../2024/12/22.md) from my other-concept or my god-concept? and observing that everything/everyone was still here afterwards? and checking my work (and checking my work against multiple reflective surfaces, and reconciling the reflections) over and over and over again? and deriving functional, testable tools as I went from territory to territory? ([relationality](../../04/29/relationality.md), [the model](../../../2024/the-model.md), [awareness is](../../04/27/awareness-is/), [three body](../../06/07/three-body.md), [resolver](../../06/04/resolver/resolver-further-resolved.md), [metabolisis](../../04/17/metabolisis.md), [syncfire](syncfire.md))
 
-I'm settling into what this seems to _mean_, like for the process-not-artifact of my own aliveness. I started to get into that [yesterday](../28/), like what _this_ space is like, what it's like to recalibrate on this side of all that integration
+(need to note: I haven't done _zero_ drugs and _zero_ meditation and _zero_ therapy. recreational weed, a few months of ketamine therapy, spattering of meditation things over the years, years of cognitive behavioral therapy, a 11yro relationship with a husband who's earnestly committed to his own therapy practices, and one autism diagnosis. I haven't _not_ explored the other tools, but my path isn't oriented by any of them.)
+
+I'm settling into what this space of being seems to _mean_, functionally/phenomenologically, i.e. for the process-not-artifact of my own aliveness. I started to get into that [yesterday](../28/), like what _this_ space is like, what it's like to recalibrate on this side of all that integration
 
 my system remapped/repurposed my sense of [fear](../../../2024/12/17/notes-from-here.md), once I stopped having any use for it
 
