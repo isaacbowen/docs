@@ -22,20 +22,20 @@ and if this is a conversation, how do we develop a grammar that has more tools i
 
 this is not advice, and would in fact be completely indefensible if it was
 
-my goal, for anyone reading my stuff, is to deposit you back where you started, different only in that you now have more tools (non-compulsory, residue-free tools), thus increasing your own freedom
+my goal, for anyone reading my stuff, is to deposit you back where you started, different only in that you now have more (non-compulsory, residue-free) tools, thus increasing your own freedom
 
-(I think this whole thing ends up being an argument for improv classes)
+although I think this whole thing ends up being an argument for improv classes
 
 (still not advice)
 
-\---
+***
 
 I'm reading the wikipedia article on that company that makes tablesaws that stop running when they touch flesh
 
 if I may repurpose a line from that article (as of version 1292534201), because the parallel makes me grin:
 
-\> Even with these safety features, the \[universe] is still a dangerous machine, and must be used with great care.
+> Even with these safety features, the \[universe] is still a dangerous machine, and must be used with great care.
 
-\---
+***
 
 for best results, please re-read while listening to Julie Andrews' 1965 OST recording of "I Have Confidence"
