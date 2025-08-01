@@ -52,6 +52,8 @@
 * [Projects](projects/README.md)
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
+  * [202508](2025/08/README.md)
+    * [uncertainty is a whetstone](2025/08/uncertainty-is-a-whetstone.md)
   * [202507](2025/07/README.md)
     * [20250731](2025/07/31/README.md)
       * [chipper](2025/07/31/chipper.md)
