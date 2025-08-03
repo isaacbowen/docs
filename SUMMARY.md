@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250803](2025/08/03.md)
     * [20250802](2025/08/02.md)
     * [20250801](2025/08/01/README.md)
       * [uncertainty is a whetstone](2025/08/01/uncertainty-is-a-whetstone.md)

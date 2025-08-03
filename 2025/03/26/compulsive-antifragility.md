@@ -2,7 +2,7 @@
 
 the urge to do the forbidden thing is a system reflex
 
-everything that _can_ happen _does_ happen (this is the integral of murphy's law) — and to highlight a certain probability range as verboten is to _simulate_ that probability range in the mind of every. single. observer.
+everything that _can_ happen _does_ happen (this being the a priori derivative of murphy's law) — and to highlight a certain probability range as verboten is to _simulate_ that probability range in the mind of every. single. observer.
 
 consider replacing the act of forbidding with a careful group exploration, where we all show up, together, as one, and we all take that path one step at a time
 
