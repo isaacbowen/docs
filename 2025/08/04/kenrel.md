@@ -1,6 +1,6 @@
 # kenrel
 
-none of this has to be true. or real for you. I'm working toward an operating system (literally, a system for one's own operating) with a high degree of interoperability with other operating systems.
+none of this has to be true. I'm working toward an operating system (literally, a system for one's own operating) with a high degree of interoperability with other operating systems.
 
 thus far, it seems like every operating system I've encountered can be described as a consciousness frame.
 
