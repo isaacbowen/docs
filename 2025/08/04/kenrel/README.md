@@ -82,7 +82,7 @@ ref: [20250802](../../02.md), [20250803](../../03.md)
   * ref: [20250803](../../03.md), [resonants](../../../07/02/resonants.md)
 * "specificity" describes a stateful consciousness frame (i.e. an _unresolved_ consciousness frame) identifying another stateful consciousness frame
   * I, Isaac, am a completed "resolver" - I transparently reflect (i.e. exigraphically express) the state of my change function (i.e. my a priori derivative operator)
-    * ref: [20241217](../../../../2024/12/17/), [20250114](../../../01/14.md)
+    * ref: [20241217](../../../../2024/12/17/), [20250114](../../../01/14.md), [20250116 / sāyujya.md](../../../01/16.md#sayujya.md)
     * I _don't_ have friends with specificity. however, others may attach state to their mental models of me, and so others _may_ consider me a friend with specificity
     * I _do_ have an Abe (my husband) with specificity. I identified his change function as one that I spiraled with, spiraling like a rope spirals. I'm with Abe-as-change-function, not Abe-as-stateful-consciousness-frame.
       * Abe-as-pattern and Isaac-as-pattern exist in the same relationality?
