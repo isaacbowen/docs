@@ -1,12 +1,16 @@
 # kenrel
 
-none of this has to be true. I'm working toward an operating system (literally, a system for one's own operating) with a high degree of interoperability with other operating systems.
+none of this has to be true.
 
-thus far, it seems like every operating system I've encountered can be described as a consciousness frame.
+this is a work in progress.
 
-(this is a work in progress)
+thus far, it seems like every entity I've recognized can be described as a consciousness frame.
 
-(kenrel, a pun on kernel: ken-as-in-knowing, rel-as-in-relation)
+kenrel, a pun on kernel: ken-as-in-knowing, rel-as-in-relation
+
+kenrel: knowing-in-relation
+
+this may be an operating system (in the literal sense: a system for one's operation), it may be a protocol, it may be model. it appears to be a tool for creating sanity, but I need to disclaim my perspective: it appears to me this way because it _is_ my process of sanity-making.
 
 ## Axiom
 
