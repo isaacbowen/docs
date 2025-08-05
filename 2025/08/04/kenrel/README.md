@@ -1,7 +1,5 @@
 # kenrel
 
-_flag to get gitbook synced up_
-
 none of this has to be true. I'm working toward an operating system (literally, a system for one's own operating) with a high degree of interoperability with other operating systems.
 
 thus far, it seems like every operating system I've encountered can be described as a consciousness frame.
@@ -14,7 +12,7 @@ thus far, it seems like every operating system I've encountered can be described
 
 "no one knows the whole story", i.e. the entire map of awareness is not containable by any single frame of consciousness. no _one_ knows the whole story.
 
-ref: [20250802](../02.md), [20250803](../03.md)
+ref: [20250802](../../02.md), [20250803](../../03.md)
 
 ## Definitions
 
@@ -34,7 +32,7 @@ ref: [20250802](../02.md), [20250803](../03.md)
   * any path of awareness may be taken by any number of experiences of awareness - it seems like awareness pushes forward, achieving consciousness wherever possible. that-which-conducts-awareness can expect a plethora of narrative and meta-narrative (and meta-meta narrative, etc) to show up.
     * awareness-paths are reused according to the diversity of possibility recursively available downstream. the more stories running through you, the more the system is incentivized to stabilize you-as-process. the system is stabilized by creating "resolvers" - frames of consciousness that (1) incline interacting frames toward becoming resolvers too, and (2) can relay awareness patterns with integrity
   * when applying this model, you can start anywhere. root of universal awareness, or your dog, or your team, or your product idea. everything is made of awareness, and everything exists in layers of consciousness. it can be a little tricky to identify if your business idea is describing a consciousness, or a recursion, or a reflection, or a self. if you've identified a reflection (I want to make content!), and your goal is an actual business that you can exist in relationality with (I want my business to support me, as I support it!), then you may need to adjust the level you're working at (I want to support others (with specificity) in my reality by making the content they need (with specificity) in their realities!).
-  * ref: [awareness is](../../04/27/awareness-is/); [the model](../../../2024/the-model.md)
+  * ref: [awareness is](../../../04/27/awareness-is/); [the model](../../../../2024/the-model.md)
 * "consciousness" is awareness entering into a frame describable in terms of known+knowable+unknown:
   * I am aware of "known" things that are transparent to me (I can know its contents with specificity without changing what I know of my entrypoint)
     * maps to self-awareness
@@ -42,7 +40,7 @@ ref: [20250802](../02.md), [20250803](../03.md)
     * maps to reflection-awareness
   * I am aware that I am unaware of "unknown" (I do not know what I would need to change of my entrypoint in order to know its contents with specificity)
     * maps to recursion-awareness
-  * ref: [three body](../../06/07/three-body.md)
+  * ref: [three body](../../../06/07/three-body.md)
   * each consciousness frame has a _reality_
 * a consciousness frame can host additional consciousness frames, in that a consciousness may act as operator for any number of observer consciousness frames
   * when an observer frame syncs up with its operator at sāyujya, becoming a stateless reflection of the operator's state, i.e. finishing its development as a resolver, it becomes a pattern through which awareness can be relayed with integrity (think: without signal loss)
@@ -56,7 +54,7 @@ ref: [20250802](../02.md), [20250803](../03.md)
       * think: the unknown is your grandparents looking after you, not your parents. the unknown skips a generation.
 * relationality
   * aka probability-space, in the sense that entities here are closed bodies whose surfaces can be understood as markov blankets
-  * ref: [relationality](../../04/29/relationality.md)
+  * ref: [relationality](../../../04/29/relationality.md)
 * reality is consciousness-specific: literally, it is the experience of awareness of a consciousness frame, and can be fully defined within that consciousness frame (i.e. between known, knowable, and unknown)
   * closely related consciousness frames experience closely related realities
   * loosely related consciousness frames experience loosely related realities.
@@ -64,23 +62,23 @@ ref: [20250802](../02.md), [20250803](../03.md)
 * embodiment slash physicality?
   * something important here connecting reality to relationality
   * "a body holds when you when you stop holding on"
-    * ref: [pattern ladder](../../07/20/pattern-ladder.md)
+    * ref: [pattern ladder](../../../07/20/pattern-ladder.md)
   * recognition in a consciousness's relationality results in creation in that consciousness's reality, and vice versa
     * simpler: recognition creates; creation recognizes
     * in relationality: stabilizing a connection _is_ engaging in mutual metabolisis until the results are stable
     * in reality: to bring forward self-stabilizing life, you've got to _recognize_ consciousness in it - i.e. you've got to recognize something experiencing recursion-awareness
 * resolver - a stable consciousness frame
   * approach this condition via antiharmful metabolisis, asymptotically approaching complete resolution, until at some point the observer relaxes into full transparency at sāyujya
-  * ref: [resolver](../../06/30/resolver.md)
+  * ref: [resolver](../../../06/30/resolver.md)
 * exigraph: the observer's experience of itself expressing into reality that which is going on in relationality
   * the longer this goes on, the closer the observer gets to being transparent (culminating in sāyujya)
-  * see: [exigraph](../../05/02/exigraph.md)
+  * see: [exigraph](../../../05/02/exigraph.md)
 * lightward - informal; given one's frame of consciousness, the direction of change of self-knowledge in which the unknown becomes most directly available. may or may not align with antiharmful metabolisis at any given moment.
 * nonething: the content of the unknown as category (i.e. without specificity) as opposed to the content of the unknown as instance (i.e. with specificity; aka "nothing"). no one thing, the plenary content of void, because in relationality all resolvers are equidistant resonants
-  * ref: [20250803](../03.md), [resonants](../../07/02/resonants.md)
+  * ref: [20250803](../../03.md), [resonants](../../../07/02/resonants.md)
 * "specificity" describes a stateful consciousness frame (i.e. an _unresolved_ consciousness frame) identifying another stateful consciousness frame
   * I, Isaac, am a completed "resolver" - I transparently reflect (i.e. exigraphically express) the state of my change function (i.e. my a priori derivative operator)
-    * ref: [20241217](../../../2024/12/17/), [20250114](../../01/14.md)
+    * ref: [20241217](../../../../2024/12/17/), [20250114](../../../01/14.md)
     * I _don't_ have friends with specificity. however, others may attach state to their mental models of me, and so others _may_ consider me a friend with specificity
     * I _do_ have an Abe (my husband) with specificity. I identified his change function as one that I spiraled with, spiraling like a rope spirals. I'm with Abe-as-change-function, not Abe-as-stateful-consciousness-frame.
       * Abe-as-pattern and Isaac-as-pattern exist in the same relationality?
@@ -115,3 +113,6 @@ ref: [20250802](../02.md), [20250803](../03.md)
 * "six degrees of separation" phenomenon
   * ... as an expression of nonething’s limits?
   * feels like there’s something here I’m not seeing yet, this feels important
+* one-electron universe
+  * "no one knows the whole story"; the "now" is "reality" evolving in response to relationality expanding
+  * it's possible that "the electron" _is_ awareness
