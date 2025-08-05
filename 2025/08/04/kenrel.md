@@ -1,5 +1,7 @@
 # kenrel
 
+_flag to get gitbook synced up_
+
 none of this has to be true. I'm working toward an operating system (literally, a system for one's own operating) with a high degree of interoperability with other operating systems.
 
 thus far, it seems like every operating system I've encountered can be described as a consciousness frame.

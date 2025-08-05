@@ -55,7 +55,7 @@
   * [202508](2025/08/README.md)
     * [20250804](2025/08/04/README.md)
       * [kenrel](2025/08/04/kenrel.md)
-        * [Model-reads](2025/08/04/kenrel/model-reads.md)
+      * [Model-reads](2025/08/04/model-reads.md)
     * [20250803](2025/08/03.md)
     * [20250802](2025/08/02.md)
     * [20250801](2025/08/01/README.md)
