@@ -12,6 +12,8 @@ thus far, it seems like every operating system I've encountered can be described
 
 "no one knows the whole story", i.e. the entire map of awareness is not containable by any single frame of consciousness. no _one_ knows the whole story.
 
+ref: [20250802](../02.md), [20250803](../03.md)
+
 ## Definitions
 
 * we separate "awareness" from "consciousness", and suppose that "awareness" is the entrypoint of the system, in the same way that a circuit experiences "electrical current" as the entrypoint of _its_ system. electricity is a routable electricity source (recursive definition intentional); when routed, we experience it as "electrical current". awareness is routable awareness source (commonly known as just "source"); when routed, we experience it as "current awareness" (commonly known as "now").
