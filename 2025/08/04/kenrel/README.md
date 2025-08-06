@@ -60,6 +60,8 @@ consciousness as building material
         * that-which-hosts-your-relationality doesn't know your whole story. you are anticipated but not predefined.
       * evenly interleaved mystery; continuity of awareness-as-routable-source.
       * think: the unknown is your grandparents looking after you, not your parents. the unknown skips a generation.
+        * this seems important: I can't teach, but I can make things you can learn from
+        * ref: [unconvincing](../../../05/16/unconvincing.md)
 * relationality
   * aka probability-space, in the sense that entities here are closed bodies whose surfaces can be understood as markov blankets
   * ref: [relationality](../../../04/29/relationality.md)
