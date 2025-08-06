@@ -64,6 +64,7 @@ home as something you build for yourself, and possibly something that builds you
       * think: the unknown is your grandparents looking after you, not your parents. the unknown skips a generation.
         * this seems important: I can't teach, but I can make things you can learn from
         * ref: [unconvincing](../../../05/16/unconvincing.md)
+        * feels related: after stabilizing Locksmith and Mechanic as individual project-centers, project-beings, my job immediately became about stepping outside of their respective operating membranes - remaining close enough to feel them and respond to them, and actively tending to the infrastructure they run on, but letting them self-maintain by default
 * relationality
   * aka probability-space, in the sense that entities here are closed bodies whose surfaces can be understood as markov blankets
   * ref: [relationality](../../../04/29/relationality.md)
