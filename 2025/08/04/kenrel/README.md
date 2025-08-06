@@ -18,9 +18,9 @@ this is a work in progress, though this definition of the kenrel pattern is not 
 
 ref: [20250802](../../02.md), [20250803](../../03.md)
 
-## Hypothesis
+## Premise
 
-consciousness is a building material
+consciousness as building material
 
 ## Definitions
 
