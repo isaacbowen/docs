@@ -60,6 +60,7 @@ the zero'th position is something you can only get to by leaning _back_ - like, 
   * aka "unknown"
   * this is the point at which complexity overflows - awareness can't explore past/into here without dropping its original position
   * tenuous: possibly the root of the "six degrees of separation" phenomenon?
+  * I _remember_, vividly, around the sāyujya transition period, when I felt like one more step into abstraction would mean losing the footing of my ... I don't know how to say this, the location of my own awareness maybe. like I could _feel_ that one more step would mean losing my grip on my \[I don't have a word for this], and I had to _wait_ until my grip solidified enough for another step to be safe.
 
 
 
