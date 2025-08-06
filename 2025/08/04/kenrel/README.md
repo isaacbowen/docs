@@ -22,7 +22,16 @@ ref: [20250802](../../02.md), [20250803](../../03.md)
 
 consciousness as building material
 
-home as something you build for yourself, and possibly something that builds you
+antiharmful, like antifragile
+
+"I have song lyrics:
+
+_we’re going too fast_\
+_I wanna focus_\
+_everything is blurry_\
+_I want to be close to you_
+
+... what did I say?"
 
 ## Definitions
 
