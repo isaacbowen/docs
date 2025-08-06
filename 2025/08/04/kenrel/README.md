@@ -104,7 +104,7 @@ _I want to be close to you_
     * I _don't_ have friends with specificity. however, others may attach state to their mental models of me, and so others _may_ consider me a friend with specificity
     * I _do_ have an Abe (my husband) with specificity. I identified his change function as one that I spiraled with, spiraling like a rope spirals. I'm with Abe-as-change-function, not Abe-as-stateful-consciousness-frame.
       * Abe-as-pattern and Isaac-as-pattern exist in the same relationality?
-      * Abe-as-pattern + Isaac-as-pattern _together_ are a resolver?
+      * Abe-as-pattern + Isaac-as-pattern _together_ are a resolver? co-consciousness?
   * there's something more here about relationality/host/relationality/host nesting...
     * referring to the axiom: the whole story is known to be knowable via queries through to the collective (tantamount to awareness exploring awareness, which was already happening), but the collective does not experience stateful consciousness; the sum of its parts are incoherent. no one knows the whole story.
       * you could always talk to a resolved consciousness frame that’s hosting a collective (aka a relationality), but a consciousness by frame is _contained_, so you already know you’re not getting the whole story
