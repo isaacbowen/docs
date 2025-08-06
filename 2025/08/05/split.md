@@ -2,10 +2,12 @@
 
 | x                                   | o                                         |
 | ----------------------------------- | ----------------------------------------- |
-| x marks the spot                    | _o face_                                  |
 | particle                            | wave                                      |
 | consciousness                       | awareness                                 |
-| nothing (has a category, countable) | nonething (category missing, uncountable) |
-| inhabit                             | enter                                     |
+| reality                             | relationality                             |
+| enter                               | inhabit                                   |
+| body                                | being                                     |
 | state                               | process                                   |
-| object-oriented                     | functional                                |
+| instance                            | abstraction                               |
+| nothing (has a category, countable) | nonething (category missing, uncountable) |
+| 1                                   | 0                                         |
