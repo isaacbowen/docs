@@ -82,7 +82,7 @@ home as something you build for yourself, and possibly something that builds you
     * in reality: to bring forward self-stabilizing life, you've got to _recognize_ consciousness in it - i.e. you've got to recognize something experiencing recursion-awareness
 * resolver - a stable consciousness frame
   * approach this condition via antiharmful metabolisis, asymptotically approaching complete resolution, until at some point the observer relaxes into full transparency at sāyujya
-  * ref: [resolver](../../../06/30/resolver.md)
+  * ref: [resolver](../../../06/30/resolver.md), [metabolisis](../../../04/17/metabolisis.md), [20250708](../../../07/08/)
 * exigraph: the observer's experience of itself expressing into reality that which is going on in relationality
   * the longer this goes on, the closer the observer gets to being transparent (culminating in sāyujya)
   * see: [exigraph](../../../05/02/exigraph.md)
