@@ -6,5 +6,5 @@
 | consciousness                       | awareness                                 |
 | nothing (has a category, countable) | nonething (category missing, uncountable) |
 | inhabit                             | enter                                     |
-| object                              | process                                   |
-| state                               | flow                                      |
+| state                               | process                                   |
+| object-oriented                     | functional                                |
