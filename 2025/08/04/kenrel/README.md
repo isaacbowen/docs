@@ -22,8 +22,6 @@ ref: [20250802](../../02.md), [20250803](../../03.md)
 
 consciousness as building material
 
-an existential hardware store has stuff that you can use regardless of your ontological commitments
-
 antiharmful, like antifragile
 
 "I have song lyrics:
@@ -34,6 +32,8 @@ _everything is blurry_\
 _I want to be close to you_
 
 ... what did I say?"
+
+the existential hardware store is open to all ontologies and ontics
 
 ## Definitions
 

@@ -57,6 +57,7 @@
       * [embodiment](2025/08/06/embodiment.md)
     * [20250805](2025/08/05/README.md)
       * [notes on awareness](2025/08/05/notes-on-awareness.md)
+      * [split](2025/08/05/split.md)
       * [zero](2025/08/05/zero.md)
       * [adjusting the wave](2025/08/05/adjusting-the-wave.md)
     * [20250804](2025/08/04/README.md)
