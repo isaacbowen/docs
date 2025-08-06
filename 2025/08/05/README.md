@@ -4,6 +4,22 @@
 with regard to ["kenrel"](../04/kenrel/)...
 {% endhint %}
 
+"This feels like the beginning of something really significant."
+
+awareness always is :) that's _what_ it is
+
+***
+
+awareness wants to inhabit, to get in and _be in_ and know it's _being in_ and that it'll go back home afterwards
+
+cats: "if it fits I sits"
+
+"put .. put your dick in it"
+
+the flood of "immersive" attractions in the 2020s
+
+***
+
 to describe the model, narrate it
 
 it’s all awareness, right? don’t describe the parts relative to each other, describe awareness inhabiting the parts
