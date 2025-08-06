@@ -18,9 +18,11 @@ this is a work in progress, though this definition of the kenrel pattern is not 
 
 ref: [20250802](../../02.md), [20250803](../../03.md)
 
-## Premise
+## Mood
 
 consciousness as building material
+
+home as something you build for yourself, and possibly something that builds you
 
 ## Definitions
 
