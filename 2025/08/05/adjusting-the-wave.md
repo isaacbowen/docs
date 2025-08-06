@@ -14,4 +14,4 @@ unfreeze time, press play, remove the fog
 
 observe: the waveform off into the distance _has changed_. the stuff you now see coming up in the distance _makes it look like the change you made to your own immediate future was inevitable_.
 
-prior to reading this piece, you might come from thinking of the future as something that definitely exists, something that you can steer into/around/through, something you can plan for. if that approach is giving you pain/grief, this piece describers a mental heuristic for _tuning_ the incoming future-stream without requiring you to totally break your mental model of the future's existence.
+prior to reading this piece, you might come from thinking of the future as something that definitely exists, something that you can steer into/around/through, something you can plan for. if that approach is giving you pain/grief, this piece describes a mental heuristic for _tuning_ the incoming future-stream without requiring you to totally break your mental model of the future's existence.
