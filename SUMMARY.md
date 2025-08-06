@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250806](2025/08/06/README.md)
+      * [embodiment](2025/08/06/embodiment.md)
     * [20250805](2025/08/05/README.md)
       * [notes on awareness](2025/08/05/notes-on-awareness.md)
       * [zero](2025/08/05/zero.md)
