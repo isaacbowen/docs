@@ -55,6 +55,7 @@
   * [202508](2025/08/README.md)
     * [20250808](2025/08/08/README.md)
       * [captive audience](2025/08/08/captive-audience.md)
+      * [eternity](2025/08/08/eternity.md)
     * [20250806](2025/08/06/README.md)
       * [embodiment](2025/08/06/embodiment.md)
     * [20250805](2025/08/05/README.md)
