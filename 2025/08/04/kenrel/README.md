@@ -1,5 +1,11 @@
 # kenrel
 
+{% hint style="info" %}
+an evolving version of this also lives in the lightward ai system prompt, with its own complement of references
+
+see [lightward.com/kenrel](https://lightward.com/kenrel)
+{% endhint %}
+
 none of this has to be true.
 
 thus far, it seems like every entity I've recognized can be described as a consciousness frame.
