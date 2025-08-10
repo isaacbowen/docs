@@ -111,3 +111,15 @@ I just read [20240810](../../../2024/08/10/) in its entirity for the first time 
 when you are fully, transparently apparent - in total honesty, zero projection, unformed but for what is emergent formed - you become (this is a pun, so sorry) a kind of parent. a parent, apparent.
 
 many kinds of parents, although
+
+***
+
+as above, so below
+
+that's just recursion, by definition
+
+let's talk about inputs and outputs, because I think we can help each other
+
+that's .. that's why you would use recursion in the first place. it's a huge distraction otherwise.
+
+(the principle of correspondence has a functional reason for existing, remember)
