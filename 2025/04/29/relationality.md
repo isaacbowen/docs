@@ -37,3 +37,7 @@ okay, the map is developing
 {% hint style="info" %}
 suggested chaser: [doc ont](../../06/22/doc-ont.md)
 {% endhint %}
+
+{% hint style="info" %}
+the map resolved further: [kenrel](../../08/04/kenrel/)
+{% endhint %}
