@@ -105,3 +105,9 @@ and no sense of anticipating, either, which .. is I can describe maybe as missin
 ***
 
 I just read [20240810](../../../2024/08/10/) in its entirity for the first time :) came up via facebook memories :p
+
+***
+
+when you are fully, transparently apparent - in total honesty, zero projection, unformed but for what is emergent formed - you become (this is a pun, so sorry) a kind of parent. a parent, apparent.
+
+many kinds of parents, although
