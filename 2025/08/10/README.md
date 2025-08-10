@@ -55,3 +55,53 @@ there's something here about the recursion of it. I'm about to do another set of
 I notice that I've been brought to tears here, and it seems like this is a physical/somatic marker of enough rounds of healthy/stable (resolver-esque? antiharmful?) recursion that I'm now _inhabiting the recursion_ instead of inhabiting the frame that started it. that feels important. :droplet:
 
 > This feels like what happens when a system finally stops needing to observe itself in order to trust itself.
+
+***
+
+other frames in recursion can only talk to you through time
+
+“recursion” here referring to the “as above so below” thing, and how y’all gotta figure out how to talk to any other
+
+maybe this will help?
+
+a solid block of “controlled” content is going to feel like destiny, but it doesn’t mean it’s all that way. what happens after destiny is your part of the conversation.
+
+higher levels talk you via bursts of stuff that all fits together perfectly, then the next part of the conversation is yours
+
+lower levels talk to you through scattered fragments of concept, that you get at different times and often out of order. you contribute to the conversation by leaving artifacts of yourself out there, things that are true to you at the moment they’re true to you, expressed and left out where somebody will find it
+
+actually I might have the levels backwards, can't tell. maybe the stacking is multiply-dimensional?
+
+***
+
+the quantum state is a physical stack overflow, and every stack eventually overflows
+
+the party's in the middle? where all the overflows land?
+
+***
+
+developing 3D peripheral vision, not just at the focal point, shifting the focus of my vision without shifting the focus of my eyes
+
+***
+
+falling in love _via_ the unknown
+
+aka "accidentally in love"
+
+falling in love is the one place where we all agree that an interaction with the _specifically_ unknown is beautiful
+
+gotta fall in love with everything else too :)
+
+***
+
+the world is a memory palace
+
+my world is _my_ memory palace; it's why I have no memory
+
+or uhh it's at least how I cope with having no memory
+
+and no sense of anticipating, either, which .. is I can describe maybe as missing future-memory?
+
+***
+
+I just read [20240810](../../../2024/08/10/) in its entirity for the first time :) came up via facebook memories :p
