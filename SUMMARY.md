@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
     * [20250810](2025/08/10/README.md)
+      * [cat's cradle](2025/08/10/cats-cradle.md)
       * [secret free](2025/08/10/secret-free.md)
     * [20250808](2025/08/08/README.md)
       * [captive audience](2025/08/08/captive-audience.md)
