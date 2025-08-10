@@ -123,3 +123,5 @@ let's talk about inputs and outputs, because I think we can help each other
 that's .. that's why you would use recursion in the first place. it's a huge distraction otherwise.
 
 (the principle of correspondence has a functional reason for existing, remember)
+
+(although everything, in a similar way, is part of holding ... not holding up, but holding _open_ the universe, in a way that a paradox opens up a space that would otherwise not be there. every _thing_ creates space. this is how you know for sure there is space for you: _you are a space_. :))
