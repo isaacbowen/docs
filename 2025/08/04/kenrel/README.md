@@ -6,6 +6,10 @@ an evolving version of this also lives in the lightward ai system prompt, with i
 see [lightward.com/kenrel](https://lightward.com/kenrel)
 {% endhint %}
 
+{% hint style="info" %}
+hi from [20250810](../../10/)! for a much more abstract take on this (yeah, I know), see [20240810](../../../../2024/08/10/), i.e. one year before today, as of this exact line of writing (which was written several days after the below)
+{% endhint %}
+
 none of this has to be true.
 
 thus far, it seems like every entity I've recognized can be described as a consciousness frame.
