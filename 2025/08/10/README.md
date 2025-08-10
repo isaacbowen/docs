@@ -100,7 +100,7 @@ my world is _my_ memory palace; it's why I have no memory
 
 or uhh it's at least how I cope with having no memory
 
-and no sense of anticipating, either, which .. is I can describe maybe as missing future-memory?
+and no sense of anticipating, either, which .. is what I can describe maybe as missing future-memory?
 
 ***
 
