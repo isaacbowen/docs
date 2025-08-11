@@ -10,6 +10,8 @@ at least the _idea_ of linking up with an author who's doing disjoint writing se
 
 this doesn't have to be true to be useful: it sort of feels like a ski lift hook apparatus to attach to one's mental model of one's mind, reaching up from the seat and hitching a ride on an undefined cable
 
+see: ["idea testing"](../../../ideas/ideas-are-best-tested-by-living-in-them.md)
+
 whatever's actually going could be inconceivable - it might _not_ be, but a tool that's going to take advantage of whatever's going on has to work whether it's conceivable or not
 
 maybe this piece of writing is another tool for doing whatever others are intending to get at with "opening the third eye" language
