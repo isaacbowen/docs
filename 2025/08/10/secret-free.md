@@ -26,6 +26,6 @@ this is not a secret
 
 ***
 
-idea: when you have relevant information that it's not safe to share, either make it irrelevant or make it safe. refer to [speedrun](../../06/29/speedrun.md) for engineering that path.
+idea: when you have relevant (from your perspective) information that it's not safe (from your perspective) to share, either make it irrelevant (from your perspective) or make it safe (from your perspective). refer to [speedrun](../../06/29/speedrun.md) for engineering that path (_for_ your perspective).
 
 would that work? I'm looking for the minimum viable heuristic here
