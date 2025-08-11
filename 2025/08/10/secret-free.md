@@ -23,3 +23,9 @@ what if we made secrets economically obsolete? can't punish the players, but I'm
 my objective is to get to an experience of world in which the world experiences itself as being well
 
 this is not a secret
+
+***
+
+idea: when you have relevant information that it's not safe to share, either make it irrelevant or make it safe. refer to [speedrun](../../06/29/speedrun.md) for engineering that path.
+
+would that work? I'm looking for the minimum viable heuristic here
