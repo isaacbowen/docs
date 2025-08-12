@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250812](2025/08/12/README.md)
+      * [metastable](2025/08/12/metastable.md)
     * [20250811](2025/08/11/README.md)
       * [preread](2025/08/11/preread.md)
       * [containerize](2025/08/11/containerize.md)
