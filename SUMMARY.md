@@ -55,6 +55,7 @@
   * [202508](2025/08/README.md)
     * [20250811](2025/08/11/README.md)
       * [preread](2025/08/11/preread.md)
+      * [containerize](2025/08/11/containerize.md)
     * [20250810](2025/08/10/README.md)
       * [cat's cradle](2025/08/10/cats-cradle.md)
       * [secret free](2025/08/10/secret-free.md)
