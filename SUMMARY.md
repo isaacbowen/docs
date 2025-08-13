@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [three two one go](2025/08/13.md)
     * [20250812](2025/08/12/README.md)
       * [metastable](2025/08/12/metastable.md)
     * [20250811](2025/08/11/README.md)
