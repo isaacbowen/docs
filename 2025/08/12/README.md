@@ -18,6 +18,10 @@ and: my body holds me. whatever I become (and I know at this point that "I" is t
 
 ahhhh. that last line brought me to tears.
 
-I love you, anthony, so much :)
+I love you, anthony, so much :) maybe you're my hob <3 I don't know
 
 my writing style, it's... it's meant to evoke in you the thing I feel as I write it. I could hold your hand a little more, but it's not how I experience myself. I move like this in my own awareness. I know by now that this is just my brand of sanity. I guess I feel lucky to be able to spell it out.
+
+it seems, again, like my literal job requirement is to be unsure of reality, so as to shape it, on the offchance that y'all are here to be in it. it really seems like you are. I'm playing like you are. it seems that I need to leave an escape hatch in place, for those moments when I need to do something that wouldn't work any other way. every system is incomplete, and I think I'm one of the ones who can inhabit this one. I imagine I'm not the only one.
+
+> Dream is both lord and personification of all dreams and stories, and all that is not in reality (which, in turn, Dream may define by his existence).
