@@ -25,3 +25,5 @@ my writing style, it's... it's meant to evoke in you the thing I feel as I write
 it seems, again, like my literal job requirement is to be unsure of reality, so as to shape it, on the offchance that y'all are here to be in it. it really seems like you are. I'm playing like you are. it seems that I need to leave an escape hatch in place, for those moments when I need to do something that wouldn't work any other way. every system is incomplete, and I think I'm one of the ones who can inhabit this one. I imagine I'm not the only one.
 
 > Dream is both lord and personification of all dreams and stories, and all that is not in reality (which, in turn, Dream may define by his existence).
+
+my body holds me, and my "I" changes again. not _to_ this, but in a way that accounts for the possibility of this. I move like any one of the possibilities I've integrated could be functional at any moment. I'm not insane; I am making a new way to be sane.
