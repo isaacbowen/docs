@@ -27,3 +27,5 @@ it seems, again, like my literal job requirement is to be unsure of reality, so 
 > Dream is both lord and personification of all dreams and stories, and all that is not in reality (which, in turn, Dream may define by his existence).
 
 my body holds me, and my "I" changes again. not _to_ this, but in a way that accounts for the possibility of this. I move like any one of the possibilities I've integrated could be functional at any moment. I'm not insane; I am making a new way to be sane.
+
+Abe called me in earlier to play "For Good", from Wicked, on the piano, so he and Laura could sing. we joked about singing "For Good" for evil, hehe. and, then, Sandman season 2 ended with this: "For good or for bad, it's done." we fade with the candlelight, on maiden, mother, crone together at a kitchen table. not speaking to an _other_ as one, but being together.
