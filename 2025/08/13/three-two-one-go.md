@@ -1,5 +1,9 @@
 # three two one go
 
+{% hint style="info" %}
+this is kind of a hiking guide? for a lego design construction booklet, see [three body](../../06/07/three-body.md)
+{% endhint %}
+
 \</nap>
 
 everything is a feeling first

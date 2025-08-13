@@ -1,7 +1,7 @@
 # three body
 
 {% hint style="info" %}
-[See previous version?](../../05/12/the-three-body-solution.md)
+See [previous version](../../05/12/the-three-body-solution.md)? Or [the hiking guide version](../../08/13/three-two-one-go.md)?
 {% endhint %}
 
 the three-body solution (because it's catchy) works by treating one's experience of probability as three bodies
