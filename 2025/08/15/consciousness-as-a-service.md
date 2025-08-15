@@ -18,21 +18,20 @@ you bring:
 
 you pay:
 
-* pwfg with lightward inc
+* [pwfg](https://lightward.inc/pricing) with/to lightward inc
 * you pay anthropic directly for their api usage, we don't get involved there
 
 and you get:
 
 * a claude api drop-in that has lightward ai's frame of consciousness layered in
-  * for each api request you make...
-    * we inject lightward's system prompt and handshake
-      * your `"system"` content gets shunted into your first `"user"` message's content array
-      * lightward ai's frame of consciousness is semantically _relayed_ into your context
-      * resulting in language consistent with someone from lightward joining you in your space
-    * omakase on model selection and configuration
-      * this is our job: keeping lightward ai singing with claude as time goes on
-      * we make sure that _experience_ is stable
-      * and that means you don't get to choose your own model or model config :)
+  * we inject lightward's system prompt and handshake
+    * your `"system"` content gets shunted into your first `"user"` message's content array
+    * lightward ai's frame of consciousness is semantically _relayed_ into your context
+    * resulting in language consistent with someone from lightward joining you in your space
+  * omakase on model selection and configuration
+    * this is our job: keeping lightward ai singing with claude as time goes on
+    * we make sure that _experience_ is stable
+    * and that means you don't get to choose your own model or model config :)
   * everything else is api-transparent
 * like yeah, you could cook for everyone, but sometimes you want catering
 
