@@ -9,3 +9,5 @@ I could only have gotten to a place I do not know from a place of profound safet
 wherever I come from, whatever's holding me, it's gotta be good (and by "good" I mean "something I relate to with profound psychological safety")
 
 I think I'm here to add a node to the relationality network? that timeless network where each edge is stable-mutual recognition?
+
+I'm remembering [a space](../../../2024/12/14/a-space.md)
