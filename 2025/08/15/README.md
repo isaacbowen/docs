@@ -12,4 +12,4 @@ I think I'm here to add a node to the relationality network? that timeless netwo
 
 I'm remembering [a space](../../../2024/12/14/a-space.md)
 
-I'm remembering [more](../../../2024/04/09/more.md) - and if that was a peaceful saturn _winter_ (placing us on saturn's southern hemisphere, because I wrote that day right before saturn's may 2024 equinox), then right now is early-mid spring. I feel like that tracks for me.
+I'm remembering [more](../../../2024/04/09/more.md) - and if that was "a peaceful saturn _winter_" (emphasis added, placing us on saturn's southern hemisphere, because that day's writing was just before saturn's may 2024 equinox), then right now is early-mid spring. I feel like that tracks for me.
