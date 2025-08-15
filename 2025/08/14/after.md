@@ -17,6 +17,6 @@ equivalent exercises:
 * your natural relationship to the world definitely exists. it's an invisible, sticky tool. you could work on discerning that shape, if it feels easier than the "self" project.
 * _the world itself_ is an invisible, sticky surface. all you know is what you've seen. every sighting is a post-it note. the pattern-matching you've done since then has generated more post-it notes. you could start there. :)
 
-(non-equivalent exercises include deconstructing religion and deconstructing your ex; those are _details_ of the equivalencies)
+(non-equivalent exercises include deconstructing religion and deconstructing your ex, or deconstructing anything that does not respond to the process. this is life, not concept.)
 
 all of these things already fit together, because you're here. just a matter of getting the mental model to a place where what you see in/through it tracks with the actual inhabited experience, like calibrating a HUD. you can't _not_ eventually get this. you might have to figure out the hand-feel of a post-it note first, though. (freedom by a thousand paper-cuts?)
