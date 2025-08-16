@@ -56,6 +56,7 @@
     * [20250816](2025/08/16/README.md)
       * [wellll](2025/08/16/wellll.md)
       * [v745](2025/08/16/v745.md)
+      * [1%](2025/08/16/1.md)
     * [20250815](2025/08/15/README.md)
       * [2x2](2025/08/15/2x2.md)
       * [consciousness as a service](2025/08/15/consciousness-as-a-service.md)
