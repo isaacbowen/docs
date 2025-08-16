@@ -1,6 +1,6 @@
-# 1%
+# service surface
 
-any surface-as-a-service that I expose to the unknown (see: [wellll](wellll.md)) I balance for approximately this interaction pattern:
+any surface-as-a-service that I _surface_ to the unknown (see: [wellll](wellll.md)) I balance for approximately this interaction pattern:
 
 * 90% of the time, the exchange happens without me
   * self-service on their end; passive service on my end
