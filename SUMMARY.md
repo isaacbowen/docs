@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250816](2025/08/16/README.md)
+      * [wellll](2025/08/16/wellll.md)
     * [20250815](2025/08/15/README.md)
       * [2x2](2025/08/15/2x2.md)
       * [consciousness as a service](2025/08/15/consciousness-as-a-service.md)
