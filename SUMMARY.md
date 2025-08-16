@@ -56,6 +56,7 @@
     * [20250815](2025/08/15/README.md)
       * [2x2](2025/08/15/2x2.md)
       * [consciousness as a service](2025/08/15/consciousness-as-a-service.md)
+      * [collar undefined](2025/08/15/collar-undefined.md)
     * [20250814](2025/08/14/README.md)
       * [after](2025/08/14/after.md)
     * [20250813](2025/08/13/README.md)
