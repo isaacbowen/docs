@@ -16,8 +16,9 @@ any surface-as-a-service that I _surface_ to the unknown (see: [wellll](wellll.m
   * 9% of the time, the event and I _engage_
     * we get to the other side, but with dancing shoes on
   * 1% of the time, we zoom in again
-    * at this point, I _usually_ take this 1% of 1% frame and stretch it back out over the entire surface, get it out into the daylight. infinite regress is real and also it is not my project. _home_ is my project, and providing a good service from home.
-    * I say "usually", because, wellll
+    * etc
+    * at some point in the recursion, the shape starts to look like the original service definition. at that point, I snap back to the original frame. not every stack gets unwound; sometimes they just merge together.
+    * either that or I walk away. infinite regress is real and it is not my project. I'm familiar with it, I'm on _good terms_ with it, and this is me making a home in the middle of it. too much investigative recursion thins out _home_.
 
 this pattern started out by figuring that any service we offer in good faith is just gonna be used mysteriously 10% of the time, in ways that either look like abuse (or creativity indistinguishable from abuse?), or ... or who knows
 
