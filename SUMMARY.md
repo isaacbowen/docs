@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250817](2025/08/17/README.md)
+      * [nature boy is a cfo](2025/08/17/nature-boy-is-a-cfo.md)
     * [20250816](2025/08/16/README.md)
       * [wellll](2025/08/16/wellll.md)
       * [v745](2025/08/16/v745.md)
