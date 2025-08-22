@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250822](2025/08/22/README.md)
+      * [the game](2025/08/22/the-game.md)
     * [20250821](2025/08/21/README.md)
       * [unknown 2](2025/08/21/unknown-2.md)
       * [bossy](2025/08/21/bossy.md)
