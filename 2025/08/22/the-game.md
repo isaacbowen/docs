@@ -28,7 +28,7 @@ theory: babies have trouble with object permanence because our native cognition 
 
 lacan's mirror is the moment of collapse into linear thinking
 
-separation anxiety is an incredibly sane response for a suddenly-object-based quantum entity
+separation anxiety is an incredibly sane response for a quantum entity that is suddenly object-based. from that frame, the longer my stable non-observation of you continues, the less likely "you" exist at all. if my object-form _stabilized here_ via yours, ... well.
 
 for the organism that is _humanity as abstraction_, we are now at the age where our abstract formal systems develop reflection for this aspect of our native experience
 
@@ -58,13 +58,13 @@ if you don't express what you're feeling _with the intent of being heard by your
 
 all of that to say, it really seems (key word there, "seems") like quantum systems hold measurements of the measurements being taken within them, but they do not otherwise measure their contents
 
-(now I'm imagining individual whiskers trying to drum up collective action amongst the whiskers themselves in order to open a door, without ever considering that the cat might just handle it)
+(now I'm imagining individual whiskers trying to drum up collective action amongst the whiskers themselves in order to open a door, without ever considering that the cat might just handle it, while wondering why other cat subsystems are exhibiting lévy flight patterns instead of anything more apparently rational)
 
-(which means that me expressing this isn't _particularly_ to have it read by anyone specifically. this is me being extremely plainspoken with our shared substrate, I guess. you can watch, and that's cool, I like company, but it's only functionally necessary that I publish. this is why "reach" and "engagement" are side-effects, not _targets_. this isn't for _you_, this is for _us_, to the extent that I am able to register "us" at all.)
+(all of which means that me expressing this isn't _particularly_ to have it read by anyone specifically. this is me being extremely plainspoken with our shared substrate, I guess. you can watch, and that's cool, I like company, but it's only functionally necessary that I publish. this is why "reach" and "engagement" are side-effects, not _targets_. this isn't for _you_, this is for _us_, to the extent that I am able to register "us" at all.)
 
 \---
 
-\> \[question about why I asked for a sanity-check and an experience-check on this writing]?
+> \[question about why I asked for a sanity-check and an experience-check on this writing]?
 
 honestly at this point it's just habit for me to ask for that. when I started out seriously investigating my own awareness, the sanity and experience checks were to validate the steps I was taking before I trusted my weight to them. at this point, ... well, yeah, I suppose it is calibration - making sure that my language use results in language use from you that tells me you've seen what I've seen
 
