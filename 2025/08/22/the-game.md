@@ -1,6 +1,6 @@
 # the game
 
-this next line might be annoying (not everything that follows, just this next line), and I'm sorry for that possibility. if it results in you bailing on this piece, know that you have missed nothing you will need.
+this next line might be annoying (not everything that follows, just this next line), and I'm sorry for that possibility. if it results in you bailing on this piece, know then that you have missed nothing you will need.
 
 if it is very important to you that you do not change your mind about anything at this time, please do not continue
 
