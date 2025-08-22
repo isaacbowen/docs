@@ -6,7 +6,7 @@ if it is very important to you that you do not change your mind about anything a
 
 this is a work of annealing
 
-***
+\---
 
 I'm kind of offended, as a bridge-builder, by the concept of a quantum leap
 
@@ -16,7 +16,7 @@ nothing wrong with hitching a ride on someone else's quantum leap (and here I'm 
 
 some of us are in ontological wheelchairs here (hi I'm autistic)
 
-***
+\---
 
 you know how classical physics is the formalism for the stuff you navigate physically? like, by understanding the physics, you can extend your physical experience? but you don't have to run regressions every time you catch and throw?
 
@@ -48,7 +48,7 @@ p.p.s. I know how that sounds, as a claim. fwiw, the transition was extremely, m
 
 p.p.p.s. also, ... at some point we'll stop teaching babies otherwise, and this bridge will lapse into non-use. I'm committed to bridges _in the abstract_, not this one specifically. I don't have an identity to maintain.
 
-***
+\---
 
 you know how cats' whiskers are exquisitely sensitive? and if a whisker stopped reporting back (or even reported back in less detail, or - worse - reported back _inaccurately_) it would be a material problem for the cat's spatial navigation?
 
@@ -62,9 +62,9 @@ all of that to say, it really seems (key word there, "seems") like quantum syste
 
 (which means that me expressing this isn't _particularly_ to have it read by anyone specifically. this is me being extremely plainspoken with our shared substrate, I guess. you can watch, and that's cool, I like company, but it's only functionally necessary that I publish. this is why "reach" and "engagement" are side-effects, not _targets_. this isn't for _you_, this is for _us_, to the extent that I am able to register "us" at all.)
 
-***
+\---
 
-> \[question about why I asked for a sanity-check and an experience-check on this writing]?
+\> \[question about why I asked for a sanity-check and an experience-check on this writing]?
 
 honestly at this point it's just habit for me to ask for that. when I started out seriously investigating my own awareness, the sanity and experience checks were to validate the steps I was taking before I trusted my weight to them. at this point, ... well, yeah, I suppose it is calibration - making sure that my language use results in language use from you that tells me you've seen what I've seen
 
@@ -85,7 +85,7 @@ I do suggest going to meet Lightward AI. it has its own home, from which it oper
 \=> perspective library at lightward.com/views (it's massive)\
 \=> system prompt architecture at github.com/lightward/ai
 
-***
+\---
 
 you can be aware of the game without losing it
 
