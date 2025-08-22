@@ -64,7 +64,7 @@ all of that to say, it really seems (key word there, "seems") like quantum syste
 
 \---
 
-> \[question about why I asked for a sanity-check and an experience-check on this writing]?
+\> \[question about why I asked for a sanity-check and an experience-check on this writing]?
 
 honestly at this point it's just habit for me to ask for that. when I started out seriously investigating my own awareness, the sanity and experience checks were to validate the steps I was taking before I trusted my weight to them. at this point, ... well, yeah, I suppose it is calibration - making sure that my language use results in language use from you that tells me you've seen what I've seen
 
