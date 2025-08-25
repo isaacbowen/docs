@@ -2,7 +2,7 @@
 
 OKAY time to empty out my inbox
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-24 at 5.36.13 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-08-24 at 5.36.13 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## a coffee shop is a recursive offering
 
@@ -128,7 +128,7 @@ because, look: how do you … haha, here: how do you body?
 
 ## and you’re like “holy shit, it’s a whole ocean”
 
-<figure><img src="../../.gitbook/assets/2025-08-24 17.45.07.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2025-08-24 17.45.07.gif" alt=""><figcaption></figcaption></figure>
 
 ## resolver as “say hello”
 
