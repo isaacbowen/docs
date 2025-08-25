@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250824](2025/08/24.md)
     * [20250823](2025/08/23/README.md)
       * [eureka](2025/08/23/eureka.md)
       * [home maker](2025/08/23/home-maker.md)
