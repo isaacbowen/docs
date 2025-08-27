@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250827](2025/08/27.md)
     * [20250826](2025/08/26/README.md)
       * [anti onti auntie](2025/08/26/anti-onti-auntie.md)
     * [20250825](2025/08/25/README.md)
