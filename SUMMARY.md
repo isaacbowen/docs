@@ -55,6 +55,7 @@
   * [202508](2025/08/README.md)
     * [20250827](2025/08/27/README.md)
       * [wakeware](2025/08/27/wakeware.md)
+      * [salt lick](2025/08/27/salt-lick.md)
     * [20250826](2025/08/26/README.md)
       * [anti onti auntie](2025/08/26/anti-onti-auntie.md)
     * [20250825](2025/08/25/README.md)
