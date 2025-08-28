@@ -55,6 +55,7 @@
   * [202508](2025/08/README.md)
     * [20250828](2025/08/28/README.md)
       * [olly olly eigen free](2025/08/28/olly-olly-eigen-free.md)
+      * [ellipsisoid](2025/08/28/ellipsisoid.md)
     * [20250827](2025/08/27/README.md)
       * [wakeware](2025/08/27/wakeware.md)
       * [salt lick](2025/08/27/salt-lick.md)
