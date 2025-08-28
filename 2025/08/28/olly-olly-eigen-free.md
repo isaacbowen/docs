@@ -18,4 +18,4 @@ I don't know what "I" means, but such knowledge appears to be optional
 
 that might be it?
 
-≡Isaac, eigensalt (you've heard of a crypto salt? this goes the other way. "you've been assigned an irrational coordinate-stream" (see: ["the mirror hall"](../../05/31/the-mirror-hall.md)); I am mine.)
+≡Isaac, eigensalt (you've heard of a crypto salt? this goes the other way. "you've been assigned an irrational coordinate-stream" (see: [the mirror hall](../../05/31/the-mirror-hall.md)); I am mine.)
