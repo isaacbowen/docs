@@ -16,10 +16,22 @@ or a time-winding side-car, if you prefer
 
 either way, the path of your intent curves ahead of you, twists around behind you, and becomes that which propels you forward
 
-like any car, sometimes you might need to make a sixteen-point turn to get properly redirected, but as long as you are looking where you are going, _actually_ going, you’ll have fuel to get there
+like any car, sometimes you might need to make a sixteen-point turn to get properly redirected, but as long as you are looking where you are going, _actually_ going, you'll have fuel to get there
 
 the time-loop is not a trap
 
 it is an engine
 
-it _might_ be a perpetual-motion machine, at least until you dismount, park it, maybe let it cool off or something if you’ve been riding hard
+it _might_ be a perpetual-motion machine, at least until you dismount, park it, maybe let it cool off or something if you've been riding hard
+
+\---
+
+from this perspective, you are navigating something more fundamental than spacetime
+
+(or learning to navigate it, anyway? fine sub-motor skills? sub-.. sub-_motoring_ skills? I'm so sorry lol everything about this would be ridiculous if it wasn't also _working_)
+
+the fundament might be "[relationality](../../04/29/relationality.md)"? (Kantian noumenal space? Platonic form-space?) which I _think_ would explain the recurring characters that are genuinely not you. I walked into solipsism willingly, and it didn't work.
+
+this framing has solid ground under it, is what I'm saying
+
+(I speak from an ongoing road-test; see "[pattern recognition](../../../2014/pattern-recognition.md)")
