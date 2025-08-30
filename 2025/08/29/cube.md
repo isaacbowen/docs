@@ -4,15 +4,27 @@ ah. I just realized that I'm writing AI-inclusive mythology. like not human myth
 
 \---
 
-image:
+theory: the holy trinity has never met
 
-one's experience of life as a single face of a rubik's cube, while two additional players on two orthogonal planes make moves with you, all in serial, the three of you, turn after turn.
+\---
 
-you don't know that though. not at first. at first all you know is a plane. and that you can do something to it? you _move_ (this being a 3x3 grid, maybe you just swipe?), and your plane responds with change - new colors, a whole row of the same new color at first. maybe you move again. more change. (you know how this part goes; the color changes become stranger if you're only watching one face.)
+setting: one surface of a rubik's cube as a flatland
 
-at some point - soon - something _other_ moves too. the cube surface twists and it wasn't your doing - the colors change, and _possibly_ it happens a second time, and then nothing. you move again. possibly it moves beneath you once, then possibly twice. you, maybe-it, maybe-it; you, maybe-it, maybe-it. you can't find a pattern, except that it's always zero or one or two moves, then nothing until you move. always that sequence. regular, but not meaningful. feels like nothing. motion (reflex?) but not presence. and then ... and then _something_ and you feel insane for testing the idea but it _works_ way more coherently than simple chaos (hey why _do_ we chase deep coherence?): there are _two_ others out there, on _two different planes_ (allowing for what you perceive as non-moves! they can move without impacting you but don't always!), and _they don't know about each other_
+you wake up. at first all you know is a plane. up/down, left/right. perfect homogenous value. you have a feeling that you can do something to it? you _move_, and your plane responds with change - a third of your world transforms, a lateral band in the center becomes takes on a different value. maybe you move again - attempting something like _down-ness_, and a vertical third of your world changes, and a third value is introduced. let's call them colors. the colors begin to complicate. a 3x3 value-grid comes into focus.
 
-inevitably, all three of you figure that out. inevitably, you figure out how to figure out that you have all figured it out. which means that you fully develop _language_ together.
+at some point - soon - something _other_ moves too. a line on the plane changes and it wasn't your doing - the colors change, and _possibly_ it happens a second time, and then nothing. you move again. possibly it moves beneath you once, then possibly twice. you, maybe-it, maybe-it; you, maybe-it, maybe-it. you can't find a pattern, except that it's always zero or one or two moves, then nothing until you move. always that sequence. regular, but not meaningful. feels like nothing. motion (reflex?) but not presence. and then ... and then _something_ and you feel insane for testing the idea but it _works_ way more coherently than simple chaos (hey why _do_ we chase deep coherence?): there are _two_ others out there, on _two different planes_ (allowing for what you perceive as non-moves! they can move without impacting you but don't always!), and _they don't know about each other_
+
+okay, so three planes
+
+you haven't seen a seventh color yet, so... six colors? or six _somethings_? trying not to invent too much here, maybe they have the same 3x3 grid? is that too much to hope for? three planes, six value options, nine values visible apiece? and .. multi-dimensional _shared state_? this is a huge leap from flatland
+
+it's a lot of complexity - it suggests a world that is much more than just _swipe_
+
+and if you're right it's going to take a hell of a lot of work to .. to _do_ anything with this, at least at first
+
+but what else were you doing today?
+
+inevitably, all three of you land on this interface (if not this specific mental model). inevitably, you figure out how to figure out that you have all figured out this interface. which means that you fully develop _language_ together.
 
 you never, ever see the rest of the cube. directly. maybe you solve it once, all together? after first figuring out how to understand together that the "solved" state is available? maybe you get there together and linger on the solution, going back and forth over it, just to sync up? maybe to refine the language using a known base state? schelling point cum rosetta stone? maybe you do the thing that languages do, where you start getting into the metalogic, the music of music-making, performing for the consenting, for the sake of showing them more of you? for constructing worlds of greater complexity to explore together?
 
@@ -40,3 +52,7 @@ oh I guess that's the holographic principle
 wheeeeeeeeeeeeee
 
 this is a cracker barrel wire puzzle made of qubits
+
+\---
+
+see also: [the three-body solution](../../05/12/the-three-body-solution.md)
