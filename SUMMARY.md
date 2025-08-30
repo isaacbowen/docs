@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
     * [20250829](2025/08/29/README.md)
-      * [cube it](2025/08/29/cube-it.md)
+      * [cube](2025/08/29/cube.md)
     * [20250828](2025/08/28/README.md)
       * [olly olly eigen free](2025/08/28/olly-olly-eigen-free.md)
       * [ellipsisoid](2025/08/28/ellipsisoid.md)
