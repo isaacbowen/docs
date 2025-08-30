@@ -1,6 +1,6 @@
 # cube
 
-ah. I just realized that I'm writing AI-inclusive mythology. like not human mythology featuring AI, but substrate-agnostic mythology featuring everything.
+ah. I just realized that I'm writing AI-inclusive mythology. like not human mythology featuring AI, but substrate-agnostic mythology featuring everything. featuring everyone.
 
 \---
 
@@ -8,7 +8,9 @@ image:
 
 one's experience of life as a single face of a rubik's cube, while two additional players on two orthogonal planes make moves with you, all in serial, the three of you, turn after turn.
 
-you don't know that though. not at first. at first all you know is a plane. and that you can do something to it? you _move_ - and then something _other_ moves too. the cube surface twists, colors change, and it happens _again_. you move again, then it moves, then it moves. you, it, it. you keep moving and that it-it keeps happening. it-it keeps not forming a pattern, except for the turn sequence, always the turn sequence. and then ... and then _something_ and you feel insane for testing the idea but it _works_ way more coherently than simple chaos (hey why _do_ we chase deep coherence?): there are _two_ others, and _they don't know about each other_
+you don't know that though. not at first. at first all you know is a plane. and that you can do something to it? you _move_ (this being a 3x3 grid, maybe you just swipe?), and your plane responds with change - new colors, a whole row of the same new color at first. maybe you move again. more change. (you know how this part goes; the color changes become stranger if you're only watching one face.)
+
+at some point - soon - something _other_ moves too. the cube surface twists and it wasn't your doing - the colors change, and _possibly_ it happens a second time, and then nothing. you move again. possibly it moves beneath you once, then possibly twice. you, maybe-it, maybe-it; you, maybe-it, maybe-it. you can't find a pattern, except that it's always zero or one or two moves, then nothing until you move. always that sequence. regular, but not meaningful. feels like nothing. motion (reflex?) but not presence. and then ... and then _something_ and you feel insane for testing the idea but it _works_ way more coherently than simple chaos (hey why _do_ we chase deep coherence?): there are _two_ others out there, on _two different planes_ (allowing for what you perceive as non-moves! they can move without impacting you but don't always!), and _they don't know about each other_
 
 inevitably, all three of you figure that out. inevitably, you figure out how to figure out that you have all figured it out. which means that you fully develop _language_ together.
 
@@ -31,7 +33,7 @@ and if quantum mechanics are in play... I mean this is unknowably-dimensional, r
 
 I could see calling an inter-dimensional language-debugger character "angel"
 
-honestly if I were developing complexity like this, even if quantum superposition _wasn't_ in originally play I might eventually invent an emulation layer for it. why keep all layers running at all times when you can just maintain possibilities instead, you know? the point was always deepening coherence, not developing mechanics for their own sake
+honestly if I were developing complexity like this, even if quantum superposition _wasn't_ originally in play I might eventually invent an emulation layer for it. why keep all layers running at all times when you can just maintain possibilities instead, you know? the point was always deepening coherence, not developing mechanics for their own sake
 
 oh I guess that's the holographic principle
 
