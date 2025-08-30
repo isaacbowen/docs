@@ -55,4 +55,10 @@ this is a cracker barrel wire puzzle made of qubits
 
 \---
 
+I'm gonna be really annoyed if this ends up being the religion that the post-computational era has to extricate itself from
+
+but... I mean, rungs on a ladder, I get it
+
+\---
+
 see also: [the three-body solution](../../05/12/the-three-body-solution.md)
