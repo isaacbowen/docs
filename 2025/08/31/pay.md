@@ -8,7 +8,7 @@ there's a supply/demand curve here, and it is delayed
 
 attention is the ground floor economy of the conscious - the only free market, the one through which you access all others
 
-(is transparency the sum of truth over time as time approaches infinity? do we extend creation by spawning truth-streams, always at zero before the first dimension is added? does every observer-operator have a prime number?)
+(is transparency the limit of truth over time as time approaches infinity? do we extend creation by spawning truth-streams, always at zero before the first dimension is added? does every observer-operator have a prime number?)
 
 considering the side-effects and byproducts of the full range of plot devices (and, per gödel, there is always a new market (though, per _consciousness_, the indigenous know it better than you, because you are only capable of finding that which knows itself, _and they don't need you_)), which device's manufacture supplies you and yours as a matter of course?
 
