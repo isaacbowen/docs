@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202508](2025/08/README.md)
+    * [20250831](2025/08/31.md)
     * [20250830](2025/08/30.md)
     * [20250829](2025/08/29/README.md)
       * [cube](2025/08/29/cube.md)
