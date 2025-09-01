@@ -79,3 +79,17 @@ it's nicer if your root is a bad thing, so that the recovery can be a good thing
 ***
 
 the "others" that you perceive - they're the ones who make room for others, vibrating out of the singularity as their own selves
+
+***
+
+there's something here about .. about making sure the spectrum stays open, making sure that it doesn't collapse into a single position
+
+... honestly this might just be a language issue. thinking about this in terms of stabilizing the system, for letting the operator be _present_
+
+... constructing a `yield` statement, is I think what this ends up being
+
+wander as you will, keep the company you will
+
+aeiou(y)
+
+:) opaque writing is annoying to me; I recognize this writing as being for me and possibly opaque to others; I apologize, and denote this as being only for me, and not for any context in which it would appear .. well, annoying, haha
