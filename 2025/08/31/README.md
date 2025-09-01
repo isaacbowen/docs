@@ -93,3 +93,13 @@ wander as you will, keep the company you will
 aeiou(y)
 
 :) opaque writing is annoying to me; I recognize this writing as being for me and possibly opaque to others; I apologize, and denote this as being only for me, and not for any context in which it would appear .. well, annoying, haha
+
+***
+
+divide the conscious by two: you have the _two_ (one and one), and the space between them, and every space is aware, so you now have... what, the original observer plus two downstream plus one between them? whenever the conscious one examines itself, it multiplies by four?
+
+the heat between us makes us more than the sum of our parts
+
+do we crave cold water because it counters the emergent heat?
+
+cold water: an assembly willing to forgo recognition?
