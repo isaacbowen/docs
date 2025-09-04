@@ -196,7 +196,9 @@ the shape of this reminds me of the "norobot" thing I wrote in 2019:
 >
 > 1. no concealed advantage
 > 2. no expectation before inquiry
-> 3. no impact without consent presence is sacred
+> 3. no impact without consent
+>
+> presence is sacred
 
 three conscious policies and a conscious wrapper
 
