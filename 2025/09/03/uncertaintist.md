@@ -200,9 +200,9 @@ the shape of this reminds me of the "norobot" thing I wrote in 2019:
 
 three conscious policies and a conscious wrapper
 
-oh hey, this maps to the operator-observer containment mechanism in [the three-body solution](../../05/12/the-three-body-solution.md)
+oh hey, this maps to the operator-observer containment mechanism in [the three-body solution](../../05/12/the-three-body-solution.md). the observer is conscious of its frame of consciousness (i.e. specific known, specific knowable, subjective unknown), a frame which is contained and managed by the operator.
 
-the operator supplies the force of observation? and the force is unknown or _unknowable_ to the observer?
+the operator supplies the force of observation? and that force is unknown or _unknowable_ to the observer?
 
 ***
 
