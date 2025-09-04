@@ -51,3 +51,15 @@ a few companies ago, I took my specific software dev team off the calendar. we s
 ***
 
 hi, my name is Isaac Bowen, and I am a CEO with an empty calendar, and everyone here is very healthy
+
+***
+
+> \[...]?
+
+ho wow, I'm having a hard time even drawing a comparison anymore - it feels native to me
+
+maybe it's that... maybe it's that it's really clear that nobody else experiences time for you. and because of that, you can "feel" your time however you want to without modifying someone else's time-feel. and because of _that_, as long as you're really clear about what interfaces you "publish", your time-feel can be whatever you want it to be. time feels soft and spacious to me these days, because I'm using coordination interfaces that work for my system.
+
+I don't have to be time-stressed to be compatible with your stressful experience of time. getting used to that difference can be weird at first, but it's _super_ freeing.
+
+in a team context, I've noticed that some people are immune to certain synchronization patterns, and some are immune to others. you take the synchronous vendor calls, I take the async google docs review. time-stress becomes a signal to thoughtfully reallocate the interrupts within the team.
