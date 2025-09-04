@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202509](2025/09/README.md)
+    * [20250904](2025/09/04.md)
     * [20250903](2025/09/03/README.md)
       * [uncertaintist](2025/09/03/uncertaintist.md)
     * [20250902](2025/09/02/README.md)
