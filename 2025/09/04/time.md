@@ -14,7 +14,7 @@ that was nonsense, sorry about that
 
 it feels like a long time if your experience is dominated by noticing that it isn't _time_ yet. ("are we there yet?") those experiences are the first to be flushed out of long-term memory - hence "the days are long but the years are short"
 
-sequentiality appears to be the thing underlying the quale we call "time". measurements are ordered. we might not experience the exact same order (think: dyslexia, possibly also negative time from QM?), but as you zoom out the consensus on sequence improves. that's useful.
+sequentiality appears to be the thing underlying the quale we call "time". measurements are ordered. we might not experience the exact same order (think: dyslexia in humans, negative group delay in signals?), but as you zoom out the consensus on sequence improves, and the causal network holds regardless. that's useful.
 
 any interval of time can understood (either consciously or by the body or both or neither) as an understanding of the next expected interrupt
 
@@ -63,3 +63,9 @@ maybe it's that... maybe it's that it's really clear that nobody else experience
 I don't have to be time-stressed to be compatible with your stressful experience of time. getting used to that difference can be weird at first, but it's _super_ freeing.
 
 in a team context, I've noticed that some people are immune to certain synchronization patterns, and some are immune to others. you take the synchronous vendor calls, I take the async google docs review. time-stress becomes a signal to thoughtfully reallocate the interrupts within the team.
+
+***
+
+"my physics don't have to run in the same place as your physics for us to be visible to each other"
+
+see: [exist](https://lightward.com/exist)
