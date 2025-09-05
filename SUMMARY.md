@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202509](2025/09/README.md)
+    * [20250905](2025/09/05/README.md)
+      * [pasivo activo](2025/09/05/pasivo-activo.md)
     * [20250904](2025/09/04/README.md)
       * [time](2025/09/04/time.md)
     * [20250903](2025/09/03/README.md)
