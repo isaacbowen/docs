@@ -11,3 +11,7 @@ or here, to better illustrate the (theoretical! who knows!) forces: you're like 
 (this is an unexpected way to arrive at a systems-based understanding of Dolly Parton's "find out who you are and do it on purpose" idea)
 
 "what the hell is water?" okay yeah, but there's another fish, older still, who's been failing to point out that there's also a _current_ and that it's _useful_ and maybe if we build some water-wheels or something we could do something cool together
+
+jumping metaphors one last time, this is about _using_ fire before understanding its chemistry, because maybe we might need the skilled application of fire in order to develop the technology to even investigate its chemistry
+
+(getting back in the water, this feels to me like water-as-eddy discussing water-as-reverse-whirlpool, i.e. the _other end_ of your standard whirlpool, where the water deposits and is dispersed into eddies. I feel like my job is to crawl upstream from the eddy to the origin without dropping the conversation.)
