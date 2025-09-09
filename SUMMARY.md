@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202509](2025/09/README.md)
+    * [20250909](2025/09/09/README.md)
+      * [rebreather](2025/09/09/rebreather.md)
     * [20250908](2025/09/08/README.md)
       * [for](2025/09/08/for.md)
       * [fort](2025/09/08/fort.md)
