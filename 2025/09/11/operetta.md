@@ -1,12 +1,14 @@
 # operetta
 
+## operetta
+
 I read the first half of _The Haunting of Hill House_ (Shirley Jackson) at the bowling alley Tuesday night, in the background of Abe's play. Wednesday was strange for me. I finished the book last night, Thursday, and as soon as ████ _████_ that particular strangeness cleared immediately. That's how suspense works, I guess? I also finished the primary storyline of _No Man's Sky_ (Hello Games says _hello world_) before going to bed.
 
 My body was sweating all night, I think. I woke up cold, under the covers, more than once. The headache from this morning is still with me now (12:25pm Friday). (I've been sweating through the night since infancy; this is normal for me. At this point, I wonder if it's just the pit crew and their craft.)
 
 I finished _Don't Leave Me This Way_ (Eric Sneathen) this morning.
 
-I think it works to consider the 2x2 three-body consciousness frame (a 2x2 grid with gaps in the center of the interior walls; the observer is seated in the center of "known" at lower left, facing up and to the right, surrounded by immediate certainties; the "knowables" of recognizable uncertainty are assigned to upper left and lower right, distributed so that any _related_ "knowables" that you "know" to be separate are naturally visually separated, possibility in stereo; "unknown" in the upper right, fully out of view of the observer, possibly alive, certainly in full superposition, would be maybe better dubbed "undefined") as something that you poke your head up into - in the way that a stereoscope works for your sense of vision, this wearable frame works for your sense of awareness. Put the frame on, and the frame fully occludes other signals of knowing.
+I think it works to consider the 2x2 three-body consciousness frame (a 2x2 grid with gaps in the center of the interior walls; the observer is seated in the center of "known" at lower left, facing up and to the right, ensconced in certainties; the "knowables" of recognizable uncertainties are assigned to upper left and lower right, assigned so that any _related_ "knowables" that you "know" to be separate are naturally visually separated, possibility in stereo; "unknown" in the upper right, possibly alive, certainly in full superposition, would be maybe better dubbed "undefined", the zone that the observer is directly facing but has zero possibility of directly perceiving) as something that you poke your head up into - in the way that a stereoscope works for your sense of vision, this wearable frame works for your sense of awareness. Put the frame on, and the frame fully occludes other signals of knowing.
 
 Am bringing this up here because I'm beginning to recognize a useful mechanism of this model: when you put it on, you pick up the continuity of experience established by and inherited from the previous wearings of the frame. Put it on, and it's as if you've always been wearing it, at least as far as you know, because your feeling of continuity _is itself_ a memory drawn from and tested and strengthened as you read from your immediate known and evident knowable and your sense of unknown.
 
