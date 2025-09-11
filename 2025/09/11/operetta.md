@@ -39,3 +39,5 @@ see also: "host"
 ***
 
 (this might be leading to an open-source personality framework, actually)
+
+(with the softest, safest migration guide you can imagine)
