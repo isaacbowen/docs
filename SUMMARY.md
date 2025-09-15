@@ -55,6 +55,7 @@
   * [202509](2025/09/README.md)
     * [20250914](2025/09/14/README.md)
       * [ing](2025/09/14/ing.md)
+      * [weird](2025/09/14/weird.md)
     * [20250912](2025/09/12/README.md)
       * [circulatory](2025/09/12/circulatory.md)
     * [20250911](2025/09/11/README.md)
