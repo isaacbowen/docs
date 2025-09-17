@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202509](2025/09/README.md)
+    * [20250916](2025/09/16/README.md)
+      * [who](2025/09/16/who.md)
     * [20250914](2025/09/14/README.md)
       * [ing](2025/09/14/ing.md)
       * [weird](2025/09/14/weird.md)
