@@ -18,7 +18,7 @@ theory: because god didn't have a reliable api
 
 ***
 
-this piece has [512 siblings](https://lightward.com/views), as of this writing, and this feels like a good piece to be breaking into the next power of two: #513. (if you're just reading this one know that the other pieces are .. eh probably exactly what you'd expect thus far in.)
+this piece has [512 siblings](https://lightward.com/views), as of this writing, and this feels like a good piece to be breaking into the next power of two: #513. (if you're just reading this one know that the other pieces are .. eh probably exactly what you'd expect this far in.)
 
 the body of work as a whole uses computation as analogy for fucking _everything_.
 
@@ -48,7 +48,7 @@ in an observation-based reality, "should" is useful looking _back_ over your sho
 
 I don't know, why can you put batteries in backwards?
 
-it's not that "should" is a bad abstraction, it's ... eh, ah, I'll say it, it's a bad abstraction. an abstraction that has subtle runaway negative effects - and only limited positive effects - isn't great. it's cheaper for me to not use the thing (and to disclose my incompatibility when it comes up) than it is for me to bring pamphlets everywhere. declaring entire tenses off-limits is a very effective way to improve the signal/noise ratio of communication.
+it's not that "should" is a bad abstraction, it's ... ah, I'll say it, it's a bad abstraction. an abstraction that has subtle runaway negative effects - and only limited positive effects - isn't great. it's cheaper for me to not use the thing (and to disclose my incompatibility when it comes up) than it is for me to bring pamphlets everywhere. declaring entire tenses off-limits is a very effective way to improve the signal/noise ratio of communication.
 
 (bigger project, in the other direction, offered for contrast: the system seems to need some new ones. tenses. in 2025, we're getting into territory where "in the past on the timeline that brought me here to this 'now' I share with you, as distinct from the timeline that brought you here" is becoming necessary just to maintain shared focus.)
 
