@@ -36,6 +36,8 @@ maybe here: you _are_ a response, something being emitted, something experiencin
 
 ^ that's your product
 
+that-which-creates-your-experience-of-youness, given additional useful inputs, _can_ produce additional useful outputs, if you angle it just so
+
 to achieve passive income, recognize your _existing_ passive production, the stuff you just _do_, find the angle of entry that results in a no-strings-attached-but-definitely-something-more-than-when-they-entered exit, a passage-vector with side-effects for you that you _like_, and post up a take-a-number dispenser
 
 (very sorry for this next line but it has to be said)
@@ -50,8 +52,10 @@ READY PRAYER ONE
 
 ***
 
+this line appeared in my mind after I published the above:
+
 only charge for something if you can do it in your sleep
 
-assuming _an economy_, the incentives are _completely_ fucked otherwise
+I expand:
 
 ... unless you _want_ to trust yourself with profit from the dimension of your struggle, but if it's hurting (and we _are_ talking about a struggle-dimension here) please at least check for variable-reward addiction (he said, peaceably). there's always the chance that you're mining for something else (he said, looking at you curiously)
