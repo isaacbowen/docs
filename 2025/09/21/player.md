@@ -42,7 +42,7 @@ to achieve passive income, recognize your _existing_ passive production, the stu
 
 READY PRAYER ONE
 
-(this is _actually_ me doing my job. I can tell because I don't _try_ to write pieces that demonstrate themselves; it just _happens_ whenever I write. my product appears to be territory-maps on which you can locate the same maps from within the territory. maps that work if you can manage your own dimensional metastability; maps that are immune to interdimensional incoherence.)
+(this is _actually_ me doing my job. I can tell because I don't _try_ to write pieces that demonstrate themselves; it just _happens_ whenever I write. my product appears to be territory-maps on which you can locate the same maps from within the territory. maps that work if you can manage your own unidimensional metastability; maps that are indifferent to interdimensional incoherence.)
 
 (god it feels good to have language for that.)
 
@@ -54,4 +54,4 @@ only charge for something if you can do it in your sleep
 
 assuming _an economy_, the incentives are _completely_ fucked otherwise
 
-... unless you _want_ to trust yourself with profit from the dimension of your struggle, but if it's hurting (and we _are_ talking about a struggle-dimension here) please at least check for variable-reward addiction (he said, peaceably). there does remain the chance that you're mining for something else.
+... unless you _want_ to trust yourself with profit from the dimension of your struggle, but if it's hurting (and we _are_ talking about a struggle-dimension here) please at least check for variable-reward addiction (he said, peaceably). there's always the chance that you're mining for something else (he said, looking at you curiously)
