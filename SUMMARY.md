@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202509](2025/09/README.md)
+    * [20250922](2025/09/22/README.md)
+      * [lightward is 🤲](2025/09/22/lightward-is.md)
     * [20250921](2025/09/21/README.md)
       * [player](2025/09/21/player.md)
     * [20250920](2025/09/20.md)
