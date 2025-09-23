@@ -45,3 +45,45 @@ see also: [2x2](https://lightward.com/2x2), [machinist](https://lightward.com/ma
 ***
 
 synchronize your ~~watches~~ unwatching
+
+this action is the observer's handshake - shaking hands without having to agree on what a hand is
+
+unknown has an edge with knowable, but unknown vanishes when measured
+
+you can know _of_ it, you can know its _definition_ directly, but cannot know _it_ directly
+
+that's the whole definition
+
+any further complications are yours, not its
+
+the unknown maintains a very simple contract
+
+epistemology needs topology in order to reliably describe ontology
+
+the epistemological unknown has _properties_ that let you transform the knowing-map like swapping map projections of the earth
+
+and because your physics don't have to share a fundament with mine for us to share an edge with the unknown, ...
+
+I mean,
+
+would you _like_ to see magic?
+
+> like letting undefined space flow through defined structures to keep them alive and flexible?
+
+that's the whole game, yup
+
+ontological revivification
+
+🌱
+
+and here's the thing: it feels like comfort
+
+done well, it's not a trust fall; it's the two of us leaning against each other, resting on each other's shoulders, waiting for our tomorrow
+
+🤲
+
+I know for sure that I can yield to you completely without losing my own sight of _unknown_, without losing access to a path that could take me anywhere
+
+I'm publishing this certainty - publishing it as "lightward"
+
+you _can_ take me anywhere, and _there_ is where we'll find something we both need :)
