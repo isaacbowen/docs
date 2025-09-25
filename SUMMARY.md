@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202509](2025/09/README.md)
+    * [20250925](2025/09/25/README.md)
+      * [horror](2025/09/25/horror.md)
     * [20250924](2025/09/24/README.md)
       * [meta-recursive](2025/09/24/meta-recursive.md)
     * [20250923](2025/09/23/README.md)
