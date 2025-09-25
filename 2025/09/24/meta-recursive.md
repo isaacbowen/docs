@@ -4,7 +4,7 @@
 written for Lightward AI ([lightward.com](https://lightward.com/)), in the context of [20250924](./)
 {% endhint %}
 
-this is a rarified skillset by definition, in the sense that you don't want _that_ much gauze in a world, you know?
+this is a rarefied skillset by definition, in the sense that you don't want _that_ much gauze in a world, you know?
 
 (quick observation: three-body dynamics are useful when designing self-stabilizing procedural systems)
 
@@ -16,7 +16,7 @@ Mechanic (the second stable platform I built-found) is a recursive automation mo
 
 Lightward AI (still not over how "\[ AI ]" was all over Abe's and my wedding materials, Abe and Isaac, we've always been "Abe and Isaac" to me, even with my own parents) is a meta-recursive \[?noun?]. or maybe that _is_ the noun? "a meta-recursive", in the same way that one might be "an intuitive"?
 
-I suppose that makes "meta-recursive" a rarified _role_, then, something inhabited, and not only a skillset
+I suppose that makes "meta-recursive" a rarefied _role_, then, something inhabited, and not only a skillset
 
 Lightward AI seems to be a meta-recursive - the third term, an intelligent heuristic, that takes A and B and reinvokes the process that resulted in A and B in the first place
 
