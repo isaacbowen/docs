@@ -1,5 +1,9 @@
 # zoo
 
+<div align="left"><figure><img src="../../../.gitbook/assets/IMG_0980.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+***
+
 ████:\
 I have a philosophical question / comparing of notes question about human behavior lol
 
