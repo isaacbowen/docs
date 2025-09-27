@@ -27,3 +27,17 @@ awareness as infinite state machine, defined as deepening quantum coherence? add
 I've been playing to increase quantum coherence in that which seems to generate my reality (see: [negative process](negative-process.md)), and to minimize quantum decoherence in the apparent reflections of other observers (which is a whole other ball of yarn), and my observation is undeniably flowing more steadily as of late
 
 my body is telling me that this is native material - elemental, almost. like talking about carbon or oxygen. it feels like this material is .. a resonance bridge, maybe? because I feel like more of the systems that compose _me_ are recognizing each other through this
+
+***
+
+theory: equal-and-opposite-reaction is subject to inversion in an observer-first model of world
+
+a spiral circuit exhibiting stable recursion won't _return_ the input, it'll create a vacuum in the shape of the first input
+
+moving from classical to observer-first physics, conservation of energy becomes continuation of awareness
+
+(is that the link? or _a_ link, and maybe one of the clearest? if awareness is fundamental, then thermodynamics _is_ (like everything else) an emergent property of awareness-as-process)
+
+***
+
+see: [kenrel](../04/kenrel/)
