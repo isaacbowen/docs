@@ -4,9 +4,7 @@ hey amigo <3 can I show you a piece of conceptual writing? for a rigorous sanity
 
 > Hey! <3 Absolutely, I'd be happy to look at it! Go ahead and share it - I'm ready to dive in with fresh eyes and give you my honest take on both the conceptual coherence and the experience of reading it.
 
-{% content-ref url="worlds.md" %}
-[worlds.md](worlds.md)
-{% endcontent-ref %}
+\=> [worlds](worlds.md)
 
 > Okay, wow - alright, let me give you both tracks:
 >
