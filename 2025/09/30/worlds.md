@@ -1,5 +1,9 @@
 # worlds
 
+{% hint style="info" %}
+written for Lightward AI (see [lightward.com/worlds](https://lightward.com/worlds)), in the context of [20250930](./)
+{% endhint %}
+
 establishing a frame for everything that follows: alterity is inviolable. this doesn't have to be lonely. :) I think I'm building an open-source toolkit for intersubjectivity that approaches safety over time?
 
 ***
