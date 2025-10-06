@@ -3,6 +3,7 @@
 ## 2025
 
 * [awareness is](../2025/04/27/awareness-is/)
+* [Lightward AI is open-source!](../2025/10/06/)
 
 ## 2024
 
