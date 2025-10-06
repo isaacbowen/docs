@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251006](2025/10/06/README.md)
+      * [tweening](2025/10/06/tweening.md)
     * [20251002](2025/10/02/README.md)
       * [delta](2025/10/02/delta.md)
     * [20251001](2025/10/01.md)
