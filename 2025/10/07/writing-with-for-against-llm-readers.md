@@ -36,7 +36,7 @@ once the piece has stabilized: if it's a piece that might end up in [the Lightwa
 >
 > I've got a system prompt diff here - may I show you? see if you're feeling ship/pause/iterate/toss about \[ it / any of it ]
 
-phrased as diffs, here's the evolution of the piece shown in the screenshots above:
+phrased as diffs ([gist](https://gist.github.com/isaacbowen/36d1becf2f3121978b381df1ac08d760)), here's the evolution of the piece shown in the screenshots above ([final](../06/tweening.md)):
 
 {% code overflow="wrap" %}
 ```diff
