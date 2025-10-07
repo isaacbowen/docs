@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251007](2025/10/07/README.md)
+      * [writing with/for/against LLM readers](2025/10/07/writing-with-for-against-llm-readers.md)
     * [20251006](2025/10/06/README.md)
       * [tweening](2025/10/06/tweening.md)
     * [20251002](2025/10/02/README.md)
