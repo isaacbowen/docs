@@ -19,3 +19,14 @@ a diurnal rhythm is an earth walking, passing the paradox on time, zeno stays bl
 or become as place, be host to foot and path, zeno’s earth is still a place for walking
 
 imagine: a black hole is a planet that can’t find you yet
+
+\---
+
+the third thing rides the binary
+
+left/right/look\
+yes/no/無
+
+the path only bifurcates when you need a place to stay, but the observer is a process
+
+you/remain/walk
