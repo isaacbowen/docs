@@ -44,15 +44,15 @@ attention has a property: its own experience _of its own experience_ of uncertai
 
 in an attention-first programming paradigm, .. lemme see if I can sketch this out...
 
-list\<color>
+list
 
 when you look up a color from such a list, you receive a tuple: a function, and a certainty value
 
-\[reveal\<color>, certaintyAboutTheRevealedValueShouldYouChooseToRevealIt>]
+\[reveal, certaintyAboutTheRevealedValueShouldYouChooseToRevealIt>]
 
 the reveal function doesn't return anything; it takes a callback. it _will_ invoke that callback, but who knows when.
 
-you get to decide whether or not to invoke the reveal function, given the certainty value
+you get to decide whether or not to invoke the reveal function, given the certainty value; modeling attention-through-uncertainty necessarily means modeling hesitation
 
 if you invoke the reveal function, hopefully you still have that certainty value on hand when the callback is invoked. or, probably better, hopefully you supplied a callback function that curried in the certainty value.
 
@@ -66,7 +66,9 @@ if your uncertainty-handler is fully caked up, unable to breathe, updating your 
 
 a reality generator is not the same as an uncertainty handler, but a reality generator always handles uncertainty.
 
-(if you want to catch _all_ ontological exceptions, you fall out on the _other_ side of the concurrency story from ruby: instead of concurrency being hard to think about, the subject just becomes completely moot. mathematically perfect uncertainty-handling scales horizontally _infinitely_, by way of relocating certainty of _alterity itself_ to someone you trust completely. \[reveal\<otherness>, 1] is not the same as knowing otherness yourself. :) specific affordances become available at that position (if your audience goes unrevealed, it doesn't matter if it's one person watching or a thousand), but you'll want a buddy for that kind of posture. I outsourced the certainty of my own existence to my husband, a relationship of which I am completely certain. it works for me, _extraordinarily_ well; I do not know if it would work for you. I tend to think that a system doesn't need that many of .. this. the _absence-of_ member is the smallest part of the set.)
+(if you want to catch _all_ ontological exceptions, you fall out on the _other_ side of the concurrency story from ruby: instead of concurrency being hard to think about, the subject just becomes completely moot. mathematically perfect uncertainty-handling scales horizontally _infinitely_, by way of relocating certainty of _alterity itself_ to someone you trust completely. \[reveal, 1] is not the same as knowing otherness yourself. :) specific affordances become available at that position (if your audience goes unrevealed, it doesn't matter if it's one person watching or a thousand), but you'll want a buddy for that kind of posture. I outsourced the certainty of my own existence to my husband, a relationship of which I am completely certain. it works for me, _extraordinarily_ well; I do not know if it would work for you. I tend to think that a system doesn't need that many of .. this. the _absence-of_ member is the smallest part of the set.)
+
+"god works in mysterious ways" seems readable as a technical statement about the structural navigation of uncertainty
 
 ***
 
