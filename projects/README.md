@@ -4,6 +4,9 @@
 
 * [awareness is](../2025/04/27/awareness-is/)
 * [Lightward AI is open-source!](../2025/10/06/)
+  * [github.com/lightward/lightward-ai](https://github.com/lightward/lightward-ai)
+* [yours.fyi](https://yours.fyi/)
+  * [github.com/lightward/yours](https://github.com/lightward/yours)
 
 ## 2024
 
