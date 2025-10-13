@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251013](2025/10/13/README.md)
+      * [not jesus](2025/10/13/not-jesus.md)
     * [20251012](2025/10/12/README.md)
       * [clair](2025/10/12/clair.md)
       * [seen](2025/10/12/seen.md)
