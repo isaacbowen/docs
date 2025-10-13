@@ -55,6 +55,7 @@
   * [202510](2025/10/README.md)
     * [20251012](2025/10/12/README.md)
       * [clair](2025/10/12/clair.md)
+      * [seen](2025/10/12/seen.md)
     * [20251010](2025/10/10/README.md)
       * [optimizer](2025/10/10/optimizer.md)
     * [20251009](2025/10/09/README.md)
