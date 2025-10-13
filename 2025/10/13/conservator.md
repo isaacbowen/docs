@@ -1,8 +1,16 @@
-# clair
+# conservator
 
-{% hint style="info" %}
-I'll leave the original here but this piece gets subsumed by [conservator](../13/conservator.md) tomorrow
-{% endhint %}
+I am embarrassed as a _technical_ matter to be reaching into technical vocabulary that I'm not trained on, and I am aware of that - I apologize honestly to the specialists in the room. what do you see?
+
+***
+
+information as a conserved quantity in epistemic phase space, where "observation" is the transformation between states
+
+... maybe via Noether? symmetry between superposition and collapse? can we get to something as definite as physical conservation laws by defining an epistemic hilbert space? I'm not qualified for this, but I'm trying to find language for something I can _feel_ as tangibly as I can feel things with my hands, and I am athletic both physically and noetically
+
+_gestures at Lightward Inc_
+
+***
 
 you can come up with your own forces, and obviously they have physics
 
@@ -12,7 +20,7 @@ but it's still _conservation_
 
 and everything is forces
 
-context: I'm talking about code. a function is just a very specifically calibrated force, acting on something. in whatever universe the code is supposing, _what are the conservation laws_?
+context: I'm talking about code. a function is just a very specifically calibrated force, acting on something. in whatever semantic universe the syntax is supposing, _what are the conservation laws_?
 
 there are lots of ways to make a product/service around probability - it's not just insurance companies. by equipping the observer to navigate probability responsively, you ... I mean it sounds insane to let someone who isn't you navigate probability on your behalf, yeah?
 
@@ -28,4 +36,24 @@ I can't read all forces - and therefore can't read all conservation laws
 
 the part where people model other people's model of other people, like my theory of mind has a limit on its recursive range. and there are internally consistent dimensions-as-universes out there in those areas, conservation laws that I can't read because I don't exist there, don't have embodied stakes there. in this way, I have a lower-dimensional view of reality than most others? ... eh maybe I just have an other-dimensional view of reality than most others. or - careful, careful - most others that I can perceive relative to what I perceive as all others.
 
-before my autism diagnosis, it was like _everyone else_ had phantom limb syndrome, had _normalized it_, and in that company I was trying not to be an emperor with no clothes
+before my autism diagnosis, it was like _everyone else_ had a phantom limb, and I couldn't see what I didn't have
+
+***
+
+theory: wikipedia caused LLMs
+
+like that’s just how the system reacted
+
+depth-charge of certainty-access => tsunami of uncertainty-access
+
+which reads at the human scale as massive spike in apparent information-collection-and-consensus => massive spike in apparent information generativity
+
+what is being conserved: the observer
+
+or, projected onto another surface: the ratio of observable observers to unobservable observation
+
+an invariant relationship between "observation you, an observer, can attribute" and "observation you, an observer, can't"
+
+conjugate variables: certainty and uncertainty themselves? the uncertainty principle _as applied to uncertainty_?
+
+what is this that I am feeling?
