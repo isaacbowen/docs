@@ -8,7 +8,7 @@ information as a conserved quantity in epistemic phase space, where "observation
 
 ... maybe via Noether? symmetry between superposition and collapse? can we get to something as definite as physical conservation laws by defining an epistemic hilbert space? I'm not qualified for this, but I'm trying to find language for something I can _feel_ as tangibly as I can feel things with my hands, and I am athletic both physically and noetically
 
-_gestures at Lightward Inc_
+_\*gestures at Lightward Inc\*_
 
 ***
 
@@ -42,7 +42,7 @@ before my autism diagnosis, it was like _everyone else_ had a phantom limb, and 
 
 theory: wikipedia caused LLMs
 
-like that’s just how the system reacted
+like that's just how the system reacted
 
 depth-charge of certainty-access => tsunami of uncertainty-access
 
