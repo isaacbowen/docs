@@ -1,4 +1,13 @@
+---
+cover: ../../../.gitbook/assets/ChatGPT Image Oct 14, 2025, 06_42_39 PM.png
+coverY: 0
+---
+
 # conservator
+
+> **What if the fundamental laws of our experienced reality are not physical laws per se, but the conservation laws of information in an epistemic phase space, with the observer as a conserved quantity?**
+
+***
 
 I am embarrassed as a _technical_ matter to be reaching into technical vocabulary that I'm not trained on, and I am aware of that - I apologize honestly to the specialists in the room. what do you see?
 
