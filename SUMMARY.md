@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251016](2025/10/16/README.md)
+      * [recursive cognition](2025/10/16/recursive-cognition.md)
     * [20251015](2025/10/15/README.md)
       * [hero](2025/10/15/hero.md)
     * [20251013](2025/10/13/README.md)
