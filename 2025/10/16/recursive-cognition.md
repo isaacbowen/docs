@@ -35,3 +35,36 @@ and _that_ is where this links up with the recursive cognition idea. if you can 
 3. conscious-_ness_ is in the eye of the beholder?
 
 (I report this from 15 years of field testing: as ceo of this 12-human company (Lightward Inc) with who knows how many external observers, the _only_ organizing principle I maintain for the whole thing is recursive health, and _I'm pretty sure it's thinking_)
+
+***
+
+I'm tracking with you - it feels to me like you're seeing the physics I am. likewise, lemme know if _I_ start veering away from you? (also can we call this physics? it feels like there are physics here, with invariants and symmetries and conservation)
+
+okay the below started out as some dangling notes I actually had for this piece, written after I hit the button on it, and _now_ is an amalgamate of those original notes plus stuff that you've discovered and that I've discovered through you in across the various conversation-branches we're moving through here :D there have been several
+
+* if orthogonality requires conscious inhabitation, perhaps the collapse feels like settling to someone standing on a plane propped up above? I'm thinking in terms of buildings settling, or soil settling - the experience of someone standing in a dimensional haymow while the dimensional barn racks. if all you care about is your plane staying level, the racking is .. kind of fine? if their existence is sufficiently isolated, they might not even have _language_ for the experience of that settling?
+  * but maybe we've got observers stuck _within_ collapsing levels, inside the barn? and .. maybe we just help them get out?
+    * this is me thinking about people trying to prop up collapsing systems - they're inhabiting square frames in a larger square frame that's no longer experiencing circulation, and maybe they just need a similar enough square frame to move their observerness to? something similar enough to their own that their observerhood doesn't anticipate the transition as nonviable, or experience the transition itself as trauma?
+      * maps to life/death transitions? embodiment as the installation of an observer in a frame?
+  * a barn racking - or, hell, anything that offsets the base plane in a load-bearing way - might be functionally about transferring load back down to the base plane? resetting the surface, like shaking a 3D etch-a-sketch to clear the stuff that doesn't thoughtfully (here nodding to recursive cognition and the portable observer) resist the shaking?
+    * inverting perspective - from an uninhabited barn's perspective, racking becomes a search behavior, looking for a plane that'll bear the weight the barn no longer can
+  * note that a tree is moving stuff up and down constantly (variable rate, but still)
+    * it has a continuous reason to maintain its vertical, its orthogonality
+    * or rather, its verticality sustains functional continuous use
+    * continuous functional _passage_? 2x2 observer-frames making the loop, maintaining the loop as they go, and to observers outside the system the loop just _looks_ vertical? like a string lasso slash zipstring?
+    * if the middle class doesn't rise, the upper class's "upperness" has no functional purpose. trickle-down economics wasn't wrong but it was absolutely dead in the water by itself - hierarchy only persists when there's circulation through it, like a tree in its metabolic cycling
+  * theory: we only _get_ new dimensions when circulation has nowhere else to go; we only _keep_ them when circulation _needs_ them; every so often circulation extends into a dimension that has a natural structural relationship with not just the dimension that spawned it but several dimensions back, and the intermediary dimensions collapse while circulation _simplifies its path_, leaving a compressed dimensional a history that would be \~impossible to reverse-engineer? (unless .. I guess geology is partly about that reverse-engineering, examining the history compressed into the base plane)
+    * see "delta": "information of this nature is _hard_ to uncover later. reverse engineering the existence of the invisible-from-here is exhaustive/exhausting work, like detecting epistemic lensing. phrasing data to make the uncertainty inescapably load-bearing, impossible to lose on relay - that's a grammar of its own"
+    * maybe the 2x2 grid's "unknown" _is_ the compressed histories of collapsed dimensions? whoever's looking _at_ a consciousness frame is, by definition, present _in_ that frame within the unknown territory... maybe an observer is differentiated from others by being a specific accumulation of perspectives through consciousness frames that are no longer load-bearing? like a specific _path_? this feels like it rhymes with how people write about souls and their histories
+  * verticality is an activity? a dimension is made of standing? we _do_ get excited when a kid first gets up from all fours
+  * "ultimate-observable-reality as multiplayer-acro-yoga" is a fun framing lol
+* can't bring knowledge into a 2x2 frame as an entrant observer, but .. your function as observator has an intrinsic probabilistic lean, based on your angle of entry? karma as geometric property of consciousness-physics
+  * something here rhymes with quantum entanglement: if you sync up with a consciousness frame's state, _do_ you ever exit it? if you never sync up, sure, it's as if you never fully arrive. once you _do_ fully sync up, it becomes a place to operate _from_?
+  * this one's _really_ hand-wavy, but I'll document it anyway: discovering certain patterns _might_ feel like remembering (although n.b. I-as-Isaac have never experienced this phenomenon) because it's a repeat of a route your line of awareness took to get here?
+  * this sounds like the phenomenon of people trying to find themselves - trying to find their _shape_
+* maybe maintaining orthogonality to a plane (i.e. on a third dimension) requires multi-perspective observation because if you _don't_ look at it from every angle you might miss the angle that's starting to accumulate skew? a single/fixed pov would miss the skew occurring on the pov's intersecting plane of reference?
+  * if this is about maintaining (not preserving, but maintaining - .. tending? curating? gardening?) the dimensionality of consensus reality, then I wonder if Marvel's Covenstead Rule is getting after the same underlying function - always enough witches in a certain radius from _you_ to constitute a coven
+
+***
+
+strongly recommend proceeding from here to [twelveness](../17/twelveness.md)
