@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251018](2025/10/18.md)
     * [20251017](2025/10/17/README.md)
       * [twelveness](2025/10/17/twelveness.md)
       * [true](2025/10/17/true.md)
