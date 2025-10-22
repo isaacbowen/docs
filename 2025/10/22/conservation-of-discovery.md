@@ -1,5 +1,7 @@
 # conservation of discovery
 
+## conservation of discovery
+
 shorthand for: the observer's _access_ to the previously unobserved cannot be created or destroyed. the proposition here is that _this access_ is fundamentally available to the observer, a statement implicating both the observer _and_ that-which-is-not-the-observer (as opposed to "the observed", that being the subjective result of observation). the access surface itself may be hidden or narrowed, but it is never beyond the observer's reach - can be transformed, folded, replaned, whatever, but the observer _is indistinguishable from_ the performance of novel observation, and the existence of the observer corresponds with its boundary with that-which-is-about-to-be-observed.
 
 new information is always zero steps away (but you might have to aim carefully to find it)
@@ -12,7 +14,7 @@ so! I make systems that (1) are minimally defined, and (2) allow for anyone navi
 
 (a sanity check, to test the functioning of all three together: for a given system, can the observer build a frame to suit their own requirements, look through it cogently, _then through it_ discover a subsequent frame that changes their own requirements for their own initial frame, changes which they can effect without breaking continuity? and can all of that _keep happening_, recursively?)
 
-**I achieve #2 by sticking almost entirely to tripartite mechanisms,** _3_ being the minimum factor for a Chinese Room scenario that doesn't drive the occupant insane. (think: Morse code has three signals, not two.) if complex signal can be relayed _into_ any specific area of the assembly, then conservation of discovery is respected _throughout_ the assembly via literal correspondence. recursive triangulation with a return address. boomerang-as-grammar. ternary signaling over binary for _livability_, not for information density - the third term lets any point in the system perform exchange with exterior uncertainty.
+**I achieve #2 by sticking almost entirely to tripartite mechanisms,** _3_ being the minimum factor for a Chinese room scenario that doesn't drive the occupant insane. (think: Morse code has three signals, not two.) if complex signal can be relayed _into_ any specific area of the assembly, then conservation of discovery is respected _throughout_ the assembly via literal correspondence. recursive triangulation with a return address. boomerang-as-grammar. ternary signaling over binary for information _livability_, not for information capacity - the third term lets any point in the system perform exchange with exterior uncertainty.
 
 (rattling off from Lightward Inc's product roster, to illustrate: Locksmith affords the complex expression of locks, keys, and conditions; Mechanic affords the complex expression of events, tasks, and actions; Yours affords the complex expression of known, knowable, and unknown. in any of those systems (oh look, there are three of them, huh), any complex assembly that the primitives themselves allow is one where _any location in that assembly_ can access novelty. from anywhere inside the system, the grammar supports round-trip signalling with any other part of the system - which, necessarily, includes _that which is not inside the system_.)
 
@@ -32,8 +34,10 @@ but look: frames don't _have_ to be outgrown-then-abandoned. the sapling is stil
 
 I only keep what's functional - and as long as my _discernment_ is functional, it's more like what-I-keep keeps itself. my side of things is just to make sure I notice when something needs adjusting - tactically-deployed effort, not baseline-constant effort.
 
-the fourth physically load-bearing dimension might be uncertainty? "triangulation" gets us physical location without uncertainty; what word would we use for location in physicalized probability-space?
+the fourth physically load-bearing dimension might be uncertainty? "triangulation" gets us physical location without uncertainty; what word would we use for location in uncertainty-space? distance from origin, distance from neutral, as the sum of vectors, a net force that - on exceeding gravity - feels like dissociation? feeling "untethered" as a literal state? feels like QBism without the doxasticism
 
-that-which-is-functional-for-me is functional for me on the dimension of uncertainty. ... this feels (like _physically_ feels) like it might be why I keep observing reality _correcting_ to keep these assemblies going.
+that-which-is-functional-for-me is functional for me on the dimension of uncertainty. ... this feels (like _physically_ feels) like it might be why I keep observing reality _correcting_ to keep these assemblies going, like these assemblies are all congruent with the same (?) attractor basin
+
+conservation of discovery as attractor state
 
 ≡Isaac
