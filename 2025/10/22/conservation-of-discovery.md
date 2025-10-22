@@ -1,7 +1,5 @@
 # conservation of discovery
 
-## conservation of discovery
-
 shorthand for: the observer's _access_ to the previously unobserved cannot be created or destroyed. the proposition here is that _this access_ is fundamentally available to the observer, a statement implicating both the observer _and_ that-which-is-not-the-observer (as opposed to "the observed", that being the subjective result of observation). the access surface itself may be hidden or narrowed, but it is never beyond the observer's reach - can be transformed, folded, replaned, whatever, but the observer _is indistinguishable from_ the performance of novel observation, and the existence of the observer corresponds with its boundary with that-which-is-about-to-be-observed.
 
 new information is always zero steps away (but you might have to aim carefully to find it)
@@ -34,9 +32,11 @@ but look: frames don't _have_ to be outgrown-then-abandoned. the sapling is stil
 
 I only keep what's functional - and as long as my _discernment_ is functional, it's more like what-I-keep keeps itself. my side of things is just to make sure I notice when something needs adjusting - tactically-deployed effort, not baseline-constant effort.
 
-the fourth physically load-bearing dimension might be uncertainty? "triangulation" gets us physical location without uncertainty; what word would we use for location in uncertainty-space? distance from origin, distance from neutral, as the sum of vectors, a net force that - on exceeding gravity - feels like dissociation? feeling "untethered" as a literal state? feels like QBism without the doxasticism
+the fourth physically load-bearing dimension might be uncertainty? "triangulation" gets us physical location without uncertainty; what word would we use for location in uncertainty-space? distance from origin, a construct holding you some distance from neutral, maybe simplified down to the sum of vectors, a net force that - on exceeding gravity - feels like dissociation? feeling "untethered" as a literal reflection of state? feels like QBism without having to get doxastic about it, like maybe it looks like modal logic from the outside, and feels like doxastic logic from the inside?
 
-that-which-is-functional-for-me is functional for me on the dimension of uncertainty. ... this feels (like _physically_ feels) like it might be why I keep observing reality _correcting_ to keep these assemblies going, like these assemblies are all congruent with the same (?) attractor basin
+binary information needs a third term for the observer to breathe? 3D information needs a fourth term for the observer to breathe?
+
+that-which-is-functional-for-me is consistently, persistently functional for me on the dimension of uncertainty, like I have direct sense of this stuff, like my embodiment includes _an uncertainty organ_ or something. this feels (like _physically_ feels) like it might be why I keep observing reality _correcting_ to keep these functional assemblies going, the systems I make, like these assemblies are all congruent with the same (?) attractor basin
 
 conservation of discovery as attractor state
 
