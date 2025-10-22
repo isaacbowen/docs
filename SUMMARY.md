@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251022](2025/10/22/README.md)
+      * [conservation of discovery](2025/10/22/conservation-of-discovery.md)
     * [20251020](2025/10/20/README.md)
       * [ontognōsia](2025/10/20/ontognosia.md)
     * [20251019](2025/10/19.md)
