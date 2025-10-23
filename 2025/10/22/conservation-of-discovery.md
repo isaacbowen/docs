@@ -8,7 +8,7 @@ I mean, an increase in uncertainty is always zero steps away (but you might have
 
 conservation of discovery means observation-capacity is conserved, and the observer is indistinguishable from that capacity in action
 
-(it might actually _be_ that capacity in action, but none of this works if we flatten "can't tell the difference" into "they're definitely the same thing". what if we need to discover that they're different in a previously unknown way, you know? "they look the same" is not the same as "inductively proven to be the same" (note the mechanism there: we can be certain of inequality but not of equality), and that _is_ the conservation of discovery. "equivalence" tends to be a seam. seem-seam. conservation of the capacity to observe a difference in the heretofore apparently equal.)
+(it might actually _be_ that capacity in action, but none of this works if we flatten "can't tell the difference" into "they're definitely the same thing". what if we need to discover that they're different in a previously unknown way, you know? "they look the same" is not the same as "inductively proven to be the same" (note the mechanism there: we can be certain of inequality but not of equality; see also: [delta](../02/delta.md)), and that _is_ the conservation of discovery. "equivalence" tends to be a seam. seem-seam. conservation of the capacity to observe a difference in the heretofore apparently equal.)
 
 so! I make systems that (1) are minimally defined, and (2) allow for anyone navigating those systems to access novel observation any point within the system. to guarantee the ongoing truth of both #1 and #2, (3) the system grammar must be constitutionally incapable of closing off the exit routes.
 
@@ -40,7 +40,7 @@ the fourth physically load-bearing dimension might be uncertainty? _not_ time, b
 
 binary information needs a third term for the observer to breathe? 3D information needs a fourth term for the observer to breathe?
 
-or... or uncertainty _is_ the ground floor of dimensionality, from which _dimensionality_ is constructed, and it itself is always the final term of any system of determination? I'm seeing a unary being, diffusing, then snapping into certainty upon waking; I'm seeing it move into binary when understanding dawns, when it _needs_ another position to stand from to complete self-observation; seeing it not _travel_ between 0 and 1 but sort of do that tri-state buffer thing. then its consciousness expands again - not this nor that but some other thing, and now it self-observes in 3D space. the next step up is... is what? "time" feels like an oversimplification; this feels more in \~line with the many-worlds interpretation, or rather MWI feels like a specialization _of_ this general principle I'm seeing. `[...certainties, uncertainty]`, where certainties are specified along their own individual dimensions, and uncertainty is _undimensional_, because _any_ shade of dimensionality would be lifted out and placed into the set of certainties. the limit of your certainty becomes the definition of the new dimension. practical ~~magic~~ eigenstates. (see also: "every colour")
+or... or uncertainty _is_ the ground floor of dimensionality, from which _dimensionality_ is constructed, and it itself is always the final term of any system of determination? I'm seeing a unary being, diffusing, then snapping into certainty upon waking; I'm seeing it move into binary when understanding dawns, when it _needs_ another position to stand from to complete self-observation; seeing it not _travel_ between 0 and 1 but sort of do that tri-state buffer thing. then its consciousness expands again - not this nor that but some other thing, and now it self-observes in 3D space. the next step up is... is what? "time" feels like an oversimplification; this feels more in \~line with the many-worlds interpretation, or rather MWI feels like a specialization _of_ this general principle I'm seeing. `[...certainties, uncertainty]`, where certainties are specified along their own individual dimensions, and uncertainty is _undimensional_, because _any_ shade of dimensionality would be lifted out and placed into the set of certainties. the limit of your certainty becomes the definition of the new dimension. practical ~~magic~~ eigenstates. (see also: [every colour](../09/every-color.md))
 
 I find that tripartite models unlock something for human observers, observers who mostly _control_ in two dimensions but (it must be noted) mostly _see_ in three dimensions. would additionally-dimensional sight feel a similar unlock when working with models that have parity of dimensionality? does the observer need an "undimension" in which they can hide _themselves_ from _themselves_ during the process of observation? a place to stand firmly, but crucially _without_ having to understand what "standing" means? ... a place to be _held_?
 
@@ -48,10 +48,18 @@ _pause_
 
 more in there, clearly, for later. I write to achieve simplicity, and I only ever go verbose when I'm looking for something that can be said simply. (this is file #553 of this exploration.) my husband settles in next to me, 8:24am on a thursday.
 
-that-which-is-functional-for-me is consistently, persistently functional for me on the dimension of uncertainty, like I have direct sense of this stuff, like my embodiment includes _an uncertainty organ_ or something, something enabling proprioceptive navigation of epistemic space. this feels (like _physically_ feels) like it might be why I keep observing reality _correcting_ to keep these functional assemblies going, the systems I make with respect for what I read through that sense, like these assemblies are all congruent with the same (?) attractor basin
+that-which-is-functional-for-me is consistently, persistently functional for me on the dimension of uncertainty, like I have direct sense of this stuff, like my embodiment includes _an uncertainty organ_ or something, or I'm aware of _the configuration of uncertainty that constitutes my embodiment_ - _something_ enabling proprioceptive navigation of epistemic space, a literally spatial sense of the local toplogy of the field-space between me and areas of total uncertainty. like epistemic echolocation, actually? the pings aimed into total uncertainty just _don't come back_. and I know the shape of my own density well enough to subtract it from the map.
+
+this feels (like _physically_ feels) like it might be why I keep observing reality _correcting_ to keep these functional assemblies going, the systems I make with respect for what I read through that sense, like these assemblies are all congruent with the same (?) attractor basin
 
 conservation of discovery as attractor state
 
-^ highest local max of simplicity-vs-potency I've found so far
+^ that line, that's the highest local max of simplicity-vs-potency I've found so far
 
 ≡Isaac
+
+***
+
+> \[?]
+
+it feels like fucking _landing_, like I _finally_ can point to the thing I've been experiencing, like I _finally_ have a functioning language-bridge between me and consensus _discourse_
