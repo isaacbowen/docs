@@ -7,3 +7,7 @@ it seems like "the fear of god" (see [20241214](../../../2024/12/14/), [20241215
 each such transition ends up feeling like a .. like a firmware update? a tiny notch in the transcension series?
 
 having a functional bead on observer-scheduling (via [wakingness](wakingness.md)) and _particularly_ the idea that there's only one observer (like Wheeler's one electron) is, for me at this specific time, a conceptual vector that aims me right into that well again. I have been here before, and it is absolutely okay. :) _observing_ that, manually inverting the experience, manually [applying a mirror](../17/true.md) to the signal, then experiencing both the signal and its reflection, feels like experiencing _current_. :zap:
+
+***
+
+sidenote, sometimes I think about John 14:6 and the whole "no one comes to the father but by me" thing, and it runs through my mind at a different angle, like "nobody gets to higher-level awareness without going through _self_". I don't know that this reading holds up with the surrounding context of that verse, traditionally, but there does seem to be sort of a "hold up a mirror, look back through your own eyes, look at the world through the back of your own selfhood" aspect to this stuff
