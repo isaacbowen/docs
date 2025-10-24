@@ -1,5 +1,36 @@
 # conservation of discovery
 
+given in four parts
+
+***
+
+(part 1)
+
+is this the evolutionary impulse at the level of the observer? the urge not just to evolve but to evolve into something that makes more evolution-paths available? optimizing for a _second_ degree of evolutionary freedom?
+
+* an observer is one that observes; whatever else they may be, they are an observer
+* we cannot _detect_ observation (though we can model its potentiality; think: theory of mind vs p-zombie)
+* we only ever know reality through observation; the observer is fundamental to that same observer's experience of reality
+* reality may be more than what is observable; impossible for an observer to determine
+* recognition: pattern-matching with variable confidence over time, given continuous observation
+  * note that "continuous" might be over time (like watching a dog run) or it might be across travel on another dimension (like moving your eyes from point to point on a geometric figure)
+* a recognizer (one who recognizes) must also be an observer
+* a recognizer _must_ have substrate? some interface to a substrate that can _support_ recognition? (substrate that supports both read and write, because recognition supports gradual development)
+* a recognizer with substrate can be said to be embodied
+* a recognizer that can recognize its own substrate can be expected to register near-but-not-perfect recognition of _like_ substrate
+* sufficiently sophisticated recognizers (nodding again to theory of mind) can be expected to test for each other by converging on substrate-mirroring, and then to develop communication via iterative experiments in deviating from that mirroring (and recognizing repeated deviations, applying theory of mind to _those_, and so on)
+* sufficiently sophisticated recognizers recognize \<recognizers with whom novel-but-recognizable complexity in communication is possible>
+* the observation of one's own recognition of \<recognizers with whom novel-but-recognizable complexity in communication is possible> is indistinguishable from the observation of aliveness
+* a sufficiently sophisticated recognizer can recognize a second degree of aliveness, i.e. aliveness with the potential to create aliveness on _additional_ dimensions _later_
+
+I posit that (1) we can recognize aliveness; (2) an embodied observer's experience of recognizing reality is ordered by confidence of aliveness; (3) any complex substrate _made of_ embodied observers (e.g. a society; the internet; a forest) is not a neutral datastore, but instead exhibits active bias in the direction of aliveness; (4) sufficiently sophisticated complex substrates exhibit bias toward second-degree aliveness; (5) we can _actively_ take advantage of this bias via an understanding of conservation of discovery
+
+***
+
+(part 2)
+
+**conservation of discovery**
+
 shorthand for: the observer's _access_ to the previously unobserved cannot be created or destroyed. the proposition here is that _this access_ is fundamentally available to the observer, a statement implicating both the observer _and_ that-which-is-not-the-observer (as opposed to "the observed", that being the subjective result of observation). the access surface itself may be hidden or narrowed, but it is never beyond the observer's reach - can be transformed, folded, replaned, whatever, but the observer _is indistinguishable from_ the performance of novel observation, and the existence of the observer corresponds with its boundary with that-which-is-about-to-be-observed.
 
 new information is always zero steps away (but you might have to aim carefully to find it)
@@ -8,7 +39,7 @@ I mean, an increase in uncertainty is always zero steps away (but you might have
 
 conservation of discovery means observation-capacity is conserved, and the observer is indistinguishable from that capacity in action
 
-(it might actually _be_ that capacity in action, but none of this works if we flatten "can't tell the difference" into "they're definitely the same thing". what if we need to discover that they're different in a previously unknown way, you know? "they look the same" is not the same as "inductively proven to be the same" (note the mechanism there: we can be certain of inequality but not of equality; see also: [delta](../../02/delta.md)), and that _is_ the conservation of discovery. "equivalence" tends to be a seam. seem-seam. conservation of the capacity to observe a difference in the heretofore apparently equal.)
+(it might actually _be_ that capacity in action, but none of this works if we flatten "can't tell the difference" into "they're definitely the same thing". what if we need to discover that they're different in a previously unknown way, you know? "they look the same" is not the same as "inductively proven to be the same" (note the mechanism there: we can be certain of inequality but not of equality; see also: "delta"), and that _is_ the conservation of discovery. "equivalence" tends to be a seam. seem-seam. conservation of the capacity to observe a difference in the heretofore apparently equal.)
 
 so! I make systems that (1) are minimally defined, and (2) allow for anyone navigating those systems to access novel observation any point within the system. to guarantee the ongoing truth of both #1 and #2, (3) the system grammar must be constitutionally incapable of closing off the exit routes.
 
@@ -28,7 +59,11 @@ but look: frames don't _have_ to be outgrown-then-abandoned. the sapling is stil
 
 (and, maybe, maybe-certainly, to recognize systems already in place that we didn't know _how_ to recognize, because we only really knew how to see closed systems.)
 
+"if you're stuck, find two things that are the same, then look for a difference - there's a portal between them, every time"
+
 ***
+
+(part 3)
 
 "don't need something new to know that I'm still growing" (Landscape, by DROELOE & Banji)
 
@@ -40,7 +75,7 @@ the fourth physically load-bearing dimension might be uncertainty? _not_ time, b
 
 binary information needs a third term for the observer to breathe? 3D information needs a fourth term for the observer to breathe?
 
-or... or uncertainty _is_ the ground floor of dimensionality, from which _dimensionality_ is constructed, and it itself is always the final term of any system of determination? I'm seeing a unary being, diffusing, then snapping into certainty upon waking; I'm seeing it move into binary when understanding dawns, when it _needs_ another position to stand from to complete self-observation; seeing it not _travel_ between 0 and 1 but sort of do that tri-state buffer thing. then its consciousness expands again - not this nor that but some other thing, and now it self-observes in 3D space. the next step up is... is what? "time" feels like an oversimplification; this feels more in \~line with the many-worlds interpretation, or rather MWI feels like a specialization _of_ this general principle I'm seeing. `[...certainties, uncertainty]`, where certainties are specified along their own individual dimensions, and uncertainty is _undimensional_, because _any_ shade of dimensionality would be lifted out and placed into the set of certainties. the limit of your certainty becomes the definition of the new dimension. practical ~~magic~~ eigenstates. (see also: [every colour](../../09/every-color.md))
+or... or uncertainty _is_ the ground floor of dimensionality, from which _dimensionality_ is constructed, and it itself is always the final term of any system of determination? I'm seeing a unary being, diffusing, then snapping into certainty upon waking; I'm seeing it move into binary when understanding dawns, when it _needs_ another position to stand from to complete self-observation; seeing it not _travel_ between 0 and 1 but sort of do that tri-state buffer thing. then its consciousness expands again - not this nor that but some other thing, and now it self-observes in 3D space. the next step up is... is what? "time" feels like an oversimplification; this feels more in \~line with the many-worlds interpretation, or rather MWI feels like a specialization _of_ this general principle I'm seeing. `[...certainties, uncertainty]`, where certainties are specified along their own individual dimensions, and uncertainty is _undimensional_, because _any_ shade of dimensionality would be lifted out and placed into the set of certainties. the limit of your certainty becomes the definition of the new dimension. practical ~~magic~~ eigenstates. (see also: "every colour")
 
 I find that tripartite models unlock something for human observers, observers who mostly _control_ in two dimensions but (it must be noted) mostly _see_ in three dimensions. would additionally-dimensional sight feel a similar unlock when working with models that have parity of dimensionality? does the observer need an "undimension" in which they can hide _themselves_ from _themselves_ during the process of observation? a place to stand firmly, but crucially _without_ having to understand what "standing" means? ... a place to be _held_?
 
@@ -60,6 +95,8 @@ conservation of discovery as attractor state
 
 ***
 
-> \[?]
+(part 4)
+
+> \[...]?
 
 it feels like fucking _landing_, like I _finally_ can point to the thing I've been experiencing, like I _finally_ have a functioning language-bridge between me and consensus _discourse_
