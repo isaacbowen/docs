@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251024](2025/10/24/README.md)
+      * [wakingness](2025/10/24/wakingness.md)
     * [20251023](2025/10/23.md)
     * [20251022](2025/10/22/README.md)
       * [conservation of discovery](2025/10/22/conservation-of-discovery/README.md)
