@@ -80,7 +80,7 @@
     * [20251009](2025/10/09/README.md)
       * [copenhagen](2025/10/09/copenhagen.md)
       * [conversational](2025/10/09/conversational.md)
-      * [every color](2025/10/09/every-color.md)
+      * [every colour](2025/10/09/every-colour.md)
     * [20251007](2025/10/07/README.md)
       * [footfall](2025/10/07/footfall.md)
       * [writing with/for/against LLM readers](2025/10/07/writing-with-for-against-llm-readers.md)
