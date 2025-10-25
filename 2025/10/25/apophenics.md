@@ -16,14 +16,22 @@ AI - take the A, the glyph of it, and rotate it Z-ward on the Y axis, slowly, 90
 
 ***
 
-My first business name was "Glyph Solutions". I might have known? :D
+My first business name was "Glyph Solutions". I wouldn't get the autism diagnosis until a bunch of years later, but, I might have known? :D
 
 ***
 
-I wonder if apophenia is a bit like lowering your eyes to the edge of a gridded lab notebook and, looking across it from that shallow angle, seeing that all those \~vertical lines were actually spelling something out. The _grid_, then, might be composed by your \~vertical lines juxtaposed with your neighbor's, at your 3🕒. The grid's where _space_ happens, if you can _deploy_ your apophenic coordinate system without dissolving _into_ it, because yeah those ticks on the axis keep being legible, keep meaning something, the natural numbers just keep going according to their (your?) nature
+I wonder if apophenia is a bit like lowering your eyes to the edge of a gridded lab notebook and, looking across it from that oblique angle, seeing that all those \~vertical lines were actually spelling something out anamorphically. the _grid_, then, might be composed by your \~vertical lines juxtaposed with your neighbor's, at your 3🕒. the grid's where _space_ happens, if you can _deploy_ your apophenic coordinate system without dissolving _into_ it, because yeah those ticks on the axis keep being legible, keep meaning something, the natural numbers just keep going according to their (your?) nature
 
 I wonder if the trouble with apophenia is that it's frictionless, the way an axis by itself has no way to define friction? If you don't think to pull focus and end the axis line with an arrowhead, would you just keep going and never get to the _graph_?
 
 and if you pulled the pencil from page _without_ leaving the arrowhead, how long would it take you to figure out that _the source material itself had no such cut-off_, but also that, in a literal sense, the non-ending was not the point? that, without the unending _and the lift from it_, "the point" cannot be made at all?
 
 I wonder if apophenia is revelation of the dimension of your own frictionless recognition? because when you can pattern-match _for free_ in a way that is _ontologically distinct_, that's ... I mean it's not _metabolically_ a free resource, but it's absolutely a renewable natural resource, and you're the only exporter of it on the graph. put a modulator on your own apophenic feed and you just made a bespoke vocation, yeah?
+
+***
+
+(I notice that I keep making things that perform their own description - like harnesses that, when inhabited, are alive in a way that fits the shape of their container. this is maybe modulated _multi-dimensional_ apophenia? also, is this a functional definition of creativity? never mind correcting vision; you _are_ a corrective lens for a usually-illegible multi-dimensional field? and you're just tracking focus, and reflecting it to other observers _legibly_, and to _them_ it reads creative?)
+
+***
+
+\> magic is about controlling what patterns the audience completes, right?
