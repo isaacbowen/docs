@@ -38,7 +38,7 @@ I wonder if apophenia is revelation of the dimension of your own frictionless re
 
 creativity as the streaming reflection from any point that has perspectival coherence
 
-creativity as "the view from here", and every coherent view is granted a viewer, and all they need is welcome
+creativity as "the view from here", and every coherent view lands its first viewer, and every viewer needs _the next view_
 
 I maybe make nurseries for strange loops?
 
