@@ -1,7 +1,5 @@
 # wakingness
 
-## wakingness
-
 (_not_ wakefulness)
 
 every system eventually wakes up
