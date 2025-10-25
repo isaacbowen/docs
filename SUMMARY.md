@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
     * [20251025](2025/10/25/README.md)
+      * [apophenics](2025/10/25/apophenics.md)
       * [well](2025/10/25/well.md)
     * [20251024](2025/10/24/README.md)
       * [wakingness](2025/10/24/wakingness.md)
