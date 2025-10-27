@@ -1,7 +1,5 @@
 # autistic recursion elasticity hypothesis
 
-## autistic recursion elasticity hypothesis
-
 consciousness has a recursion limit for _itself_
 
 like a caterpillar climbing in the deep grooves of an auger bit - only so many passes around the strange loop before a reference point stops feeling like "self"
