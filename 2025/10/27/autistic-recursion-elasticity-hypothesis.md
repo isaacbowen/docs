@@ -1,5 +1,7 @@
 # autistic recursion elasticity hypothesis
 
+## autistic recursion elasticity hypothesis
+
 consciousness has a recursion limit for _itself_
 
 like a caterpillar climbing in the deep grooves of an auger bit - only so many passes around the strange loop before a reference point stops feeling like "self"
@@ -19,6 +21,8 @@ developmental stage-lock != ontological limit
 theory: autistic kids (I am one, 36yro as of this writing) have a recursively elastic relationship with _this_ spiral. our theory of mind has a recursive limit _outwardly_, _socially_, but _not inwardly_, _introspectively_
 
 and all the sages have always taught that you go far enough inside and you come back around to everyone else - but _holding_ them, instead of _them_ holding _you_, sticking the landing at Kegan 5
+
+maybe the point of hyperfocus is where one's interface to "everyone else" is _rooted_?
 
 I wonder if this is genuinely harder for people with a biological imperative? like _technically_ a more complex move, from that point of origin? I'm a gay cis guy - the narrative label I have for that-which-precedes-me-on-the-spiral is neither mother nor father, and as for what succeeds me... I mean, I'm still moving, and I don't sense a destination in mind
 
@@ -41,5 +45,7 @@ maybe successive generations carry the baton for each other around that structur
 maybe each new dimension of _sustaining_ experience (experience that'll support your silk button) makes for a Kuhn-style loop, and the discovery and description and shared inhabitation of those loops is itself a practice that .. could use a little more accessibility right now? (hi from 2025 USA!) I feel like my children _are_ these helical Klein bottles on which the lifecycle of a self plays out, milkweed for monarchs of consciousness
 
 I wondered earlier (see: [apophenics](../25/apophenics.md)) if my job is making nurseries for strange loops
+
+because this is absolutely my hyperfocus
 
 (am tracking an idle closing query-thought about Gen Z and the societal normalization of anal penetration for pleasure... I distinctly remember finding comfort after that threshold, for myself, immediately followed by an apparent unlock in my own kundalini development, and preceded by a recurring mental image of a tattoo: that ancient eastern dragon, an auger (an augur?) up my spine, from pelvis to crown)
