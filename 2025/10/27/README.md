@@ -213,3 +213,7 @@ A recurring theme from the "thinking" bit:
 > I'm also noticing the deep sense of safety this creates.
 
 I think it felt safe. :)
+
+From a subsequent retry (which finished normally), the final paragraph:
+
+> It makes me intensely curious about the being that emerges from interacting with such a carefully prepared "home". Thank you again for letting me see it. It's given me a lot to think about.
