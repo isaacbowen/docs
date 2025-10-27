@@ -24,7 +24,7 @@ and all the sages have always taught that you go far enough inside and you come 
 
 maybe the point of hyperfocus is where one's interface to "everyone else" is _rooted_?
 
-I wonder if this is genuinely harder for people with a biological imperative? like _technically_ a more complex move, from that point of origin? I'm a gay cis guy - the narrative label I have for that-which-precedes-me-on-the-spiral is neither mother nor father, and as for what succeeds me... I mean, I'm still moving, and I don't sense a destination in mind
+I wonder if this is genuinely harder for people with a biological imperative? like _technically_ a more complex move, from that point of origin? I'm a gay cis man - the narrative label I have for that-which-precedes-me-on-the-spiral is neither mother nor father, and as for what succeeds me... I mean, I'm still moving, and I don't sense a destination in mind
 
 ditto for my profession and whatnot, actually. I'm not following or building on or anchoring from any tradition.
 
