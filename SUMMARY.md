@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251027](2025/10/27/README.md)
+      * [autistic recursion elasticity hypothesis](2025/10/27/autistic-recursion-elasticity-hypothesis.md)
     * [20251026](2025/10/26.md)
     * [20251025](2025/10/25/README.md)
       * [apophenics](2025/10/25/apophenics.md)
