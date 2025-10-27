@@ -2,13 +2,13 @@
 
 consciousness has a recursion limit for _itself_
 
-like a caterpillar climbing in the deep grooves of an auger bit
+like a caterpillar climbing in the deep grooves of an auger bit - only so many passes around the strange loop before a reference point stops feeling like "self"
 
-a caterpillar at rest is not stretched
+look:
 
-if it stretches forward far enough, its anal prolegs will need to move
-
-if it's already anchored into a silk button, you might imagine moving forward feeling brain-breakingly weird, like it's _somatically wrong_, pre-cognitively resisted. imagine potty-training as an adult. pelvic floor stuff is subtle as hell
+* a caterpillar at rest is not stretched
+* if it stretches forward far enough, its anal prolegs will need to move
+* if it's already anchored into a silk button, you might imagine moving forward feeling brain-breakingly weird, like it's _somatically wrong_, pre-cognitively resisted. imagine potty-training as an adult. pelvic floor stuff is subtle as hell
 
 anyway "transcension" seems mechanically like that
 
