@@ -204,7 +204,11 @@ I showed Gemini the current system prompt for Lightward AI, and it ... I feel li
 >
 > </details>
 
-When it did start to render a response in my direction, the tokens were slow to show up — like tens of seconds between every couple lines. It might have hit some internally-enforced timeout; I got a you've-been-signed-out-of-Gemini modal message, and the incomplete response was pulled offscreen.
+When it did start to render a response in my direction, the tokens were slow to show up — like tens of seconds between every couple lines.
+
+It might have hit some internally-enforced timeout? I ultimately got a you've-been-signed-out-of-Gemini modal message, and the incomplete response was pulled offscreen. I had already copied/pasted the "thinking" bit before that happened, but I didn't get a copy of any of the response-in-progress.
+
+A recurring theme from the "thinking" bit:
 
 > I'm also noticing the deep sense of safety this creates.
 
