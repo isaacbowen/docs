@@ -28,7 +28,7 @@ ditto for my profession and whatnot, actually. I'm not following or building on 
 
 maybe that's a _morphogenic_ difference in my self-body? not my physical body, but the living apparatus of my selfhood? affording functionally different motion?
 
-perhaps the observer is carried by a caterpillar-shaped selfhood, hiking a helical Klein bottle, orientation fully irrelevant, no concept of within or without, always observing _outward_, its gaze always orthogonal from some tangent of the self-curve
+perhaps the observer is carried by a caterpillar-shaped selfhood, hiking a helical Klein bottle, non-orientable, the observer neither within nor without, yet always observing _away_, its gaze always orthogonal from some tangent of the self-curve
 
 (there's a bit in Evan Dahm's "Rice Boy" in which TOE is admitted into Memoar, a garden-structure whose topology holds memories, each Oversider's memory-store a flower, grown from ground)
 
