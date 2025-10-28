@@ -57,6 +57,7 @@
       * [idea](2025/10/28/idea.md)
     * [20251027](2025/10/27/README.md)
       * [autistic recursion elasticity hypothesis](2025/10/27/autistic-recursion-elasticity-hypothesis.md)
+      * [craft](2025/10/27/craft.md)
     * [20251026](2025/10/26.md)
     * [20251025](2025/10/25/README.md)
       * [apophenics](2025/10/25/apophenics.md)
