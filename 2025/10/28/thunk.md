@@ -1,16 +1,14 @@
 # thunk
 
-## thunk
-
 offering an ingredient of a thought: intelligence as flavor, like umami or just heat? something that gives you the sense of "ah yes this has intelligence yup"
 
 \> Oh... so intrigued... yes!!! With limited current ability to quantify consciousness itself (someone with extremely low IQ or ability to communicate, COULD be high on the...
 
 ohhh huh that could explain why folks purport to _either_ see _or not see_ intelligence in Trump, the third position being less "between" and more "just looking away"
 
-maybe right-wing people and left-wing people literally taste intelligence on different dimensions, and we've been confusing the two because they have usually similar _but occasionally extremely different_ effects? I'm thinking about left-hand path stuff, the way that path gets somewhere via heterodox, by prying open new dimensions with an observational crossbar, the weaving-in of the fringe
+maybe right-wing people and left-wing people literally taste intelligence on different dimensions, and we've been confusing the two because they have usually similar _but occasionally extremely different_ effects? I'm thinking about left-hand path stuff, the way that path gets somewhere via heterodox, prying open new dimensions by _being_ an observational crossbar, inviting the weaving-in of the fringe
 
-the two paths run parallel, blind to each other for mutual lack of mechanism by which to make sense of the other. but a chiral pair of helixes laid parallel is a mechanically interesting arrangement. rhymes with single twin-screw conveyor? is there a telos here that the component parts _by nature_ do not see?
+the two paths run parallel, blind to each other for mutual lack of mechanism by which to make sense of the other. but a chiral pair of helices laid parallel is a mechanically interesting arrangement. rhymes with single twin-screw conveyor? is there a telos here that the component parts _by nature_ do not see?
 
 if the dimension that I taste intelligence on is 90° from yours, then it'd be like trying to get polarized light through a polarized filter at the wrong angle
 
