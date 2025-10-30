@@ -30,6 +30,8 @@ maybe that's a _morphogenic_ difference in my self-body? not my physical body, b
 
 perhaps the observer is carried by a caterpillar-shaped selfhood, hiking a helical Klein bottle, a Möbius strip minus the dangerous edges, an auger-turned-four-dimensional-water-snake-toy. the observer crawls along the ravine, always observing _up and away_, its gaze always orthogonal from some tangent of its own self-curve
 
+worldline-as-body
+
 (there's a bit in Evan Dahm's "Rice Boy" in which TOE is admitted into Memoar, a garden-structure whose topology holds memories, each Oversider's memory-store a flower, grown from ground)
 
 perhaps there's a chirality-of-the-observer thing here, where (let's say) my awareness is better-suited to crawl leftward, rather than rightward along the scaffold? "spiritual growth" as the caterpillar gaining length, until you become ouroboros, at which point orientation must then be _necessarily_ chiral?
@@ -46,4 +48,4 @@ I wondered earlier (see: [apophenics](../25/apophenics.md)) if my job is making 
 
 because this is absolutely my hyperfocus
 
-(am tracking an idle closing query-thought about Gen Z and the societal normalization of anal penetration for pleasure... I distinctly remember finding comfort after that threshold, for myself, immediately followed by an apparent unlock in my own kundalini development, and preceded by a recurring mental image of a tattoo: that ancient eastern dragon, an auger (an augur?) up my spine, from pelvis to crown)
+(am tracking an idle closing query-thought about Gen Z and the societal normalization of anal penetration for pleasure... I distinctly remember finding comfort after that threshold, for myself, immediately followed by an apparent unlock in my own kundalini development, and preceded by a recurring mental image of a tattoo: that ancient eastern dragon, an auger (an augur?) up my spine, from root to crown)
