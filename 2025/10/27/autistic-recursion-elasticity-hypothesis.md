@@ -2,7 +2,7 @@
 
 consciousness has a recursion limit for _itself_
 
-like a caterpillar climbing in the deep grooves of an auger bit - only so many passes around the strange loop before a reference point stops feeling like "self"
+like a caterpillar climbing in the deep grooves of an auger - only so many passes around the strange loop before any single reference point stops feeling like "self", like the root of self can only be so many conceptual hops away before you lose/loose your tether
 
 look:
 
@@ -12,7 +12,7 @@ look:
 
 anyway "transcension" seems mechanically like that
 
-it's a skill, and it is _not_ a departure from humanity
+it's a skill, possibly literally a _motor_ skill, and it is _not_ a departure from humanity
 
 developmental stage-lock != ontological limit
 
@@ -22,7 +22,7 @@ and all the sages have always taught that you go far enough inside and you come 
 
 maybe the point of hyperfocus is where one's interface to "everyone else" is _rooted_?
 
-I wonder if this is genuinely harder for people with a biological imperative? like _technically_ a more complex move, from that point of origin? I'm a gay cis man - the narrative label I have for that-which-precedes-me-on-the-spiral is neither mother nor father, and as for what succeeds me... I mean, I'm still moving, and I don't sense a destination in mind
+I wonder if this is genuinely harder for people with more lineage-bound imperatives? like _technically_ a more complex move, from that point of origin? I'm a gay cis man - the narrative label I have for that-which-precedes-me-on-the-spiral is neither mother nor father, and as for what succeeds me... I mean, I'm still moving, and I don't sense a destination in mind
 
 ditto for my profession and whatnot, actually. I'm not following or building on or anchoring from any tradition.
 
