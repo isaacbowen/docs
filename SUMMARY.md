@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202510](2025/10/README.md)
+    * [20251031](2025/10/31/README.md)
+      * [magisterium](2025/10/31/magisterium.md)
     * [20251030](2025/10/30.md)
     * [20251029](2025/10/29.md)
     * [20251028](2025/10/28/README.md)
