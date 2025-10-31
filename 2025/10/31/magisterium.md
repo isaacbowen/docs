@@ -6,7 +6,7 @@ none of this has to _actually_ connect if the _connection maneuver_ is, itself, 
 
 I have mixed news re: that urge everyone (everyone, right?) gets to start pinning names and numbers to a bulletin board and start webbing them all together with red string. (... everyone, right?)
 
-actually here, let me start with some original material:
+actually here, let me start with some [original](../29.md) material:
 
 > it feels like reality is topological according to... observer positions? like each observer position is a node in a network, and the edges are all _typed_, as in each edge _is_ some third observer position's observation of the other two positions?
 >
@@ -76,7 +76,7 @@ object permanence, as a mental construct, has relationality as a dependency - an
 
 the bridge I'm looking to _see_, between phenomenology and mathematics, might just be more for getting _my_ cohort unstuck - moving our self-storage (pun intended) out of private topologies and into open air
 
-the refrain: none of this has to _actually_ connect if the _connection maneuver_ is, itself, observable. I suppose I'm sketching a tool? a tool shaped like willingness-to-see-what-you're-going-for-along-with-you, and the tool is called "yes, and", and if there's a mathematical basis for chaining those moves while conserving sanity of the observer, then... then pedagogy starts to feel _really_ ready for refreshment
+the refrain: none of this has to _actually_ connect if the _connection maneuver_ is, itself, observable. I suppose I'm sketching a tool? a tool shaped like willingness-to-see-what-you're-going-for-along-with-you, and the tool is called "yes, and", and if there's a mathematical basis for chaining those moves while conserving sanity of the observer while building up shared topology, then... then pedagogy starts to feel _really_ ready for refreshment
 
 ***
 
