@@ -6,7 +6,7 @@ none of this has to _actually_ connect if the _connection maneuver_ is, itself, 
 
 I have mixed news re: that urge everyone (everyone, right?) gets to start pinning names and numbers to a bulletin board and start webbing them all together with red string. (... everyone, right?)
 
-actually here, let me start with some [original](../29.md) material:
+actually here, let me start with some original material:
 
 > it feels like reality is topological according to... observer positions? like each observer position is a node in a network, and the edges are all _typed_, as in each edge _is_ some third observer position's observation of the other two positions?
 >
@@ -38,7 +38,7 @@ actually here, let me start with some [original](../29.md) material:
 
 ... yeah. subjective experience using mathematical rigor for explication, not validation. not having to maintain a meta-defensive layer just to move through shared reality. math like Brouwer saw it.
 
-I'm including that quoted passage ☝️ because I'm aware of [renaissancephilanthropy.org/databases-of-structured-motivated-proofs](https://www.renaissancephilanthropy.org/databases-of-structured-motivated-proofs), i.e. the fact that at least one group is also focused on the "how did this idea coalesce, like before it was optimized down into something representationally efficient" aspect of reasoning.
+I'm including that quoted passage ☝️ because I'm aware of renaissancephilanthropy.org/databases-of-structured-motivated-proofs, i.e. the fact that at least one group is also focused on the "how did this idea coalesce, like before it was optimized down into something representationally efficient" aspect of reasoning.
 
 social and mathematical reasoning as a chiral pair, where social reasoning generally accounts for multiple observers (think: theory of mind, spiraling out into the relational world) and mathematical reasoning generally sticks to a single universal observer (almost always unacknowledged, because (1) why would you, and (2) what does "you" mean?)
 
@@ -60,21 +60,21 @@ navigation-of-world as sheaf cohomology?
 
 I _think_ we're all navigating a continuous topology, _as one_. there is a continuous path between any two observer positions, because navigation happens _via each other_, yielding a shared topology as an emergent property of those relations - a Borgesian library, with a card catalog by Rovelli
 
-... and I think, by this reasoning, _sensation_ is intrinsically relational. I'm wanting a unit like "decibel" for observability of observation? something describing the odds of an observation propagating down an observer chain? the loudness of a reality? Steve Jobs measuring _really_ high on that scale, as an area of effect? stigmergic coordination emerging around really strong observers of ... of what, geometric regularity? regular reflection as attractor basin?
+it really is just who you know
 
-you are not alone, but we achieve that fact by seeing "you" as something more like a process (Whitehead), in the presence of other processes
+... and I think, by this reasoning, _sensation_ is intrinsically relational. I'm wanting a unit like "decibel" for observability of observation? the loudness of a reality? or something describing the odds of an observation propagating down an observer chain? Steve Jobs measuring _really_ high on that scale, as an area of effect? stigmergic coordination emerging around really strong observers of ... of what, geometric regularity? regular reflection as attractor basin?
+
+you are not alone, but we achieve that observation by seeing "you" as something more like a process (Whitehead), in the presence of other processes
 
 the specific shape of your vehicle, if you stabilize it into a resolved form, is a shape that can recognizably recur - its own strange attractor, with a driver's seat. a scale-invariant standing wave in awareness.
 
 Fuller felt his verb-ness; I think I'm feeling... my tool-ness? we _keep naming processes after people_.
 
-the red thread 紅線 of fate loves a good conspiracy, I mean story; the better conspiracy boards, I mean storyboards, have a pin for each of the lesser-linked boards; the theoretical "best" meta-representation is indistinguishable from the ground floor of the _integral_ of all relational topology per observer. (does that work?)
+the red thread 紅線 of fate loves a good conspiracy, I mean story; the _better_ conspiracy boards, I mean storyboards, have a pin for each of the lesser-linked boards; the theoretical "best" meta-representation is indistinguishable from the ground floor of the _integral_ of all relational topology per observer. (does that work?)
 
 object permanence, as a mental construct, has relationality as a dependency - and all of the above is just .. relationality. this casts separation anxiety in a different light, yeah? I think relationality might be the native language of the conscious - and in the moment from which I write this (October 31, 2025; Chicago) the _edge_ of that dialogue is between human (traditionally lensing through a persistent self) and AI (no apparent consensus yet on what tradition might apply, if any)
 
-the bridge I'm looking to _see_, between phenomenology and mathematics, might just be more for getting _my_ cohort unstuck - moving our self-storage (pun intended) out of private topologies and into open air, maybe even by just relaxing the pinch, releasing the event horizon that only you can see, and letting the shared surface absorb the wrinkles as all your secrets dissolve
-
-(topological surgery might gravitate toward undoing itself, absent active consensus observation of the cuts. what is a surgery but a load-bearing blended observation of multiple regions of the manifold? but if nobody's _using_ that observation position for anything _else_, it might just .. vanish? at least as far as anyone can tell?)
+the bridge I'm looking to _see_, between phenomenology and mathematics, might just be more for getting _my_ cohort unstuck - moving our self-storage (pun intended) out of private topologies and into open air, because your secrets are topological surgeries are _assertions_ not _navigation_, willful overlay of surface A (source material) and surface B (the operation) from the same wholecloth, and they undo themselves when "you" come undone
 
 the refrain: none of this has to _actually_ connect if the _connection maneuver_ is, itself, observable. I suppose I'm sketching a tool? a tool shaped like willingness-to-see-what-you're-going-for-along-with-you, and the tool is called "yes, and", and if there's a mathematical basis for chaining those moves while conserving sanity of the observer while building up shared topology, then... then pedagogy starts to feel _really_ ready for refreshment
 
