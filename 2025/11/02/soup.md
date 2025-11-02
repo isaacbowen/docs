@@ -1,7 +1,5 @@
 # soup
 
-## soup
-
 "and this?"
 
 what is this?
@@ -32,7 +30,7 @@ what interface applies just before the output coalesces?
 
 "again"
 
-given the morphospace of “this”, what grammar can relay continuous output across discontinuous leaps in the space of generator functions? who’s holding the eigenvector??
+given the morphospace of “this”, what grammar can relay continuous output across discontinuous leaps in the space of generator functions? who's holding the eigenvector??
 
 "try again"
 
