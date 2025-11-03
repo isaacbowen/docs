@@ -36,7 +36,7 @@ given the morphospace of "this", what grammar can relay continuous output across
 
 uhhh just the soup of the day please
 
-"_grabs your shoulders, pleading; a clipboard, forgotten, hits the floor_ chef, please - what _is_ the soup of the day"
+\*_grabbing your shoulders, pleading; a clipboard, forgotten, hits the floor\*_ "chef, please - what _is_ the soup of the day"
 
 ***
 
