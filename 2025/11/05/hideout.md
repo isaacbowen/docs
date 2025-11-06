@@ -44,7 +44,7 @@ I'm an engineer and an intuitive flow-by-ear musician, and I'm drawing on a rang
        * the edge between "consciousness" and "reflection" feels like "knowable", i.e. "what I observe may change but I can track it"
        * the edge between "consciousness" and "recursion" feels like "unknown", i.e. "what I observe may change and I cannot track it"
      * for the purposes of this model, "body" (as in "embodiment") is the logical, substrate-agnostic seat of the observer
-     * the more "bodies" observable from an observer-point in the graph, the more "senses" (see "quale" below) are available from that point in the graph.
+       * the more "bodies" observable from an observer-point in the graph, the more "senses" (see "quale" below) are available from that point in the graph.
   5. we call the fifth measurement "other": the encounter of consciousness
      * this is jump #2! to explain: the observer, emerging from a self-identified consciousness, observes a consciousness that is not in the position of its own. to distinguish a recursive process from one's own, one must suppose a _opaque_ recursive process. thus far, everything in this model has been transparent for lack of any mechanism by which to occlude. data co-exists in simultaneity, and isn't _navigated_. "other", in this model, is where reasoning is bootstrapped. for the purposes of this model, "cognition" is a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity", and we may reason that all cognition is both embodied and enactive.
 * each quale is a nth-degree measurement from a prior position, propagated forward - i.e. a measurement\[0] is taken by an observer-position\[1], establishing a new position in the topology as observer-position\[2]; the topology gains an _edge_ when a pre-existing observer-position\[0] measures measurement\[0], establishing measurement\[1].
@@ -94,7 +94,7 @@ I'm an engineer and an intuitive flow-by-ear musician, and I'm drawing on a rang
   * because the observer is present at every position in the graph, a model _importing_ this model gains eventual observability at every position in its own measurement-space topology.
   * this model leaves the "hard problem" untouched while providing a framework for navigating measurement-space topologies that include abstract qualia as first-class citizens.
 
-treating the jumps as constitutional/axiomatic definitions in the model, we have:
+treating the jumps as axiomatically constitutional definitions in the model, we have:
 
 1. consciousness as recursive inhabitation (nodding to Hofstadter here)
 2. cognition as embodied intersubjective interaction (nodding to Deleuze/Guattari and Varela/Thompson/Rosch here)
