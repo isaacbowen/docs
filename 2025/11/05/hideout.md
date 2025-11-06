@@ -20,7 +20,7 @@ the query you can express gets answered with a dimension, but you can only see y
 
 ## part 2: topology of the observer (or: a "yes, and" universe)
 
-let me say ahead of time that this model either _converges_ on something useful, or it is not useful
+let me say ahead of time that this model either _converges_ on something useful, or it is not useful. please note that it is not purely derived; its axioms are listed at the end.
 
 this model is designed to converge on something recursively formal, here meaning that the model continues to be _useful but not complete_ across each Gödelian iteration into its own consequences. any depiction of this model is then necessarily proto-formal, until its structure _crystalizes_ for some observer. (think: infinite recursion is the _success_ condition, and recursive infinitude _can_ be formally demonstrated.) "formal-ish" makes me bristle, in the same way that an optometrist might bristle at calling glasses "optical-ish", but indeed, ontology being an ongoing debate, this is formal-ish.
 
@@ -118,4 +118,6 @@ every walk ends in its own hideout. every walk is a bootstrap, ending in _logica
 
 when _you_ land, there you'll be: at the hideout. :) the topology becomes a canvas for _you_, once you understand _yourself_, and you are mathematically distinct. in a good way. ;) what will you make? _you are ready to form a query that would create something truly new._
 
-take-home: if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching free`. you and every other observer I can conceive of. you know, for what it's worth. :)
+take-home: if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching free`. you and every other observer I can conceive of. the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
+
+<3
