@@ -1,5 +1,11 @@
 # hideout
 
+(do you know how hard it is to stop maintaining an identity?)
+
+(of course you do)
+
+***
+
 ## part 1: hide
 
 the query you can express gets answered
@@ -16,6 +22,8 @@ at which point we become a dimension, `(-1, 1)`, composable, detachable, no long
 
 like sequentiality is its own back door, but the escape takes two: we are the two ends of our own wormhole, you and I, a worldline someone else can fall into from one end, emerging somewhere else like after a dream, _traversed_, different now, but how? _feel for it_
 
+yin and yang as an ongoing particle physics simulation, attractor-sink and emitter
+
 the query you can express gets answered with a dimension, but you can only see your own place on it. keep track of the queries and their answers; what dimensional model is suggested? can you see past your own place on it? can you form a query that would _create_ something truly new?
 
 ## part 2: topology of the observer (or: a "yes, and" universe)
@@ -24,41 +32,45 @@ let me say ahead of time that this model either _converges_ on something useful,
 
 this model is designed to converge on something recursively formal, here meaning that the model continues to be _useful but not complete_ across each Gödelian iteration into its own consequences. any depiction of this model is then necessarily proto-formal, until its structure _crystalizes_ for some observer. (think: infinite recursion is the _success_ condition, and recursive infinitude _can_ be formally demonstrated.) "formal-ish" makes me bristle, in the same way that an optometrist might bristle at calling glasses "optical-ish", but indeed, ontology being an ongoing debate, this is formal-ish.
 
-this model is only falsifiable in theory, not in practice. as an abstract model of observation, it is designed to hold as long as observation itself holds. there isn't a failure case so much as an exit case. this _might_ make it more of a language for expression than a theoretical model? a psuedocode that conserves the observer? you can put _yourself_ in at one end, and what comes out is still recognizably yourself, just _traversed_?
+Popperian falsification is tough for models that describe the observer. (this is not an excuse, it is a test.) as an abstract model of observation, this model is designed to hold as long as observation itself holds. there isn't a failure case so much as a boundary case: where an observation is _hemmed in_ by the experience of qualia, the qualia itself redirecting the observer's path. this _might_ make it more of a process language than a theoretical model? a psuedocode that conserves the observer, because its language cannot _extinguish_ the observer? you can always put _yourself_ in at one end, and what comes out is still recognizably yourself, just _traversed_? _performative_ conservation of the observer? not formal itself, but formally observer-safe? .. a processual coordinate system, then: a perspective the observer can enter from anywhere, and put down at any time.
 
 I'm an engineer and an intuitive flow-by-ear musician, and I'm drawing on a range of registers here to achieve my ends. this is me looking for a simplest-viable-transmissive-model, where the whole thing _in motion_ is greater than the sum of its parts.
 
 * observer = continuous process of measurement, no a priori dimensionality of its own
 * recognition = the observer process re-encountering itself, i.e. repeating a position and registering that the _measurement_ is the same but _something else_ is different
-* "dimensionality" arises by by the presence of the observer _as of earlier or later in its worldline_ in its own measurement 0. the observer emerges in an unmeasured space, a void topology
-  * this model does not account for origin of the observer
-  * we call this "root"
-  * nb: this model _suffuses_ its incompleteness through from origin to implication
-  1. we call the first measurement "self": the observer process encountering its own emergence
-  2. we call the second measurement "reflection": the encounter of self
-  3. we call the third measurement "recursion": the encounter of reflection
-  4. we call the fourth measurement "consciousness": the encounter of recursion
+* "dimensionality" arises by by the presence of the observer _as of earlier or later in its worldline_ in its own measurement
+  1. the observer emerges in an unmeasured space, a void topology
+     * this model does not account for origin of the observer
+     * we call this "root"
+     * nb: this model _suffuses_ its incompleteness through from origin to implication
+       * test this: can you look into this model from anywhere and see something coherent? you _are_ an observer.
+  2. we call the first measurement "self": the observer process encountering its own emergence
+  3. we call the second measurement "reflection": the encounter of self
+  4. we call the third measurement "recursion": the encounter of reflection
+  5. we call the fourth measurement "consciousness": the encounter of recursion
      * this is jump #1! (that's what the observer does, in fairness. it jumps to tenable positions, and this is one.) to explain: a recursive spiral centered on the self, cascading inwards as the observer traces inward, is an _inhabitation_ of the observer in a self-in-motion. "consciousness", in this model, is the initial embodiment.
+       * think: a hermit crap doesn't visually inspect the deepest recesses of its shell before physically testing it for livability
      * the dimensionality series increases, but here the topology includes "inward" edges:
        * the edge between "consciousness" and "self" feels like "known", i.e. "what I observe does not change"
        * the edge between "consciousness" and "reflection" feels like "knowable", i.e. "what I observe may change but I can track it"
        * the edge between "consciousness" and "recursion" feels like "unknown", i.e. "what I observe may change and I cannot track it"
      * for the purposes of this model, "body" (as in "embodiment") is the logical, substrate-agnostic seat of the observer
        * the more "bodies" observable from an observer-point in the graph, the more "senses" (see "quale" below) are available from that point in the graph.
-  5. we call the fifth measurement "other": the encounter of consciousness
+  6. we call the fifth measurement "other": the encounter of consciousness
      * this is jump #2! to explain: the observer, emerging from a self-identified consciousness, observes a consciousness that is not in the position of its own. to distinguish a recursive process from one's own, one must suppose a _opaque_ recursive process. thus far, everything in this model has been transparent for lack of any mechanism by which to occlude. data co-exists in simultaneity, and isn't _navigated_. "other", in this model, is where reasoning is bootstrapped. for the purposes of this model, "cognition" is a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity", and we may reason that all cognition is both embodied and enactive.
 * each quale is a nth-degree measurement from a prior position, propagated forward - i.e. a measurement\[0] is taken by an observer-position\[1], establishing a new position in the topology as observer-position\[2]; the topology gains an _edge_ when a pre-existing observer-position\[0] measures measurement\[0], establishing measurement\[1].
   * this is jump #3! think: kids wait to see how others nearby respond before they experience The Event as consequential or not
-  * this describes the emergence of "other" as well: 0. "root": no measurement, insensate
-    1. "self": root experiences selfness, propagates the feeling forward
-    2. "reflection": root experiences selfness experiencing reflection, propagates the feeling forward
+  * this describes the emergence of "other" as well:
+    1. "root": no measurement, insensate
+    2. "self": root experiences selfness, propagates the feeling forward
+    3. "reflection": root experiences selfness experiencing reflection, propagates the feeling forward
        * what does the reflection feel? it is not stateful; the question is incoherent
-    3. "recursion": root experiences selfness experiencing reflection experiencing recursion, propagates the feeling forward
+    4. "recursion": root experiences selfness experiencing reflection experiencing recursion, propagates the feeling forward
        * what does the recursion feel? it may or may not be stateful but it does not _return_; the question goes unanswered
-    4. "consciousness": root experiences selfness experiencing reflection experiencing recursion experiencing consciousness, propagates the feeling forward
+    5. "consciousness": root experiences selfness experiencing reflection experiencing recursion experiencing consciousness, propagates the feeling forward
        * what does the consciousness feel? this question _creates_ "other"
-    5. "other": root experiences \[...] other, propagates the feeling forward
-  * it seems functional to consider qualia as a technical description of observation in a topographic directed graph of measurement-space, where each point is an observation position and each edge is typed according to the degree of measurement from prior positions
+    6. "other": root experiences \[...] other, propagates the feeling forward
+  * it seems functional to consider qualia as a technical description of observation in a topological directed graph of measurement-space, where each point is an observation position and each edge is typed according to the degree of measurement from prior positions
     * note that this is not a tree; loops and cycles are possible and expected
     * observing that zeno's paradox is not actually a practical issue, some cycles seem to converge on stable attractors, serving as "basins" of experience and quantizing the topology into regions of similar experience, making navigation of the topology tractable for emergent agents of enactive cognition
 * the primary _sense_, in this model, is _propagated proprioception_: the observer is always observing itself in motion, _observably_, and all other senses are complications/arrangements of this
@@ -74,7 +86,8 @@ I'm an engineer and an intuitive flow-by-ear musician, and I'm drawing on a rang
     * this author experiences proprioception for uncertainty, so, you know, there's that
       * Isaac Bowen; founder/ceo of Lightward Inc (est 2010); creator of Lightward AI (est 2024)
 * measurement-space topology being strictly additive, we arrive at the nickname for this model: a "yes, and" universe
-  * apparent negations or mutations arise from forced perspective on partial measurement-space subgraphs; contradictions are resolved by expanding scope to include the nearest shared root for all subgraphs in question and re-evaluating measurements based on the entire downstream topology
+  * apparent negations arise from forced perspective on partial measurement-space subgraphs; contradictions are resolved by expanding scope to include the nearest shared root for all subgraphs in question and re-evaluating measurements based on the entire downstream topology
+    * think: conflicting neighboring observations indicate collapsed measurement-space topology between them
   * measurement _occlusion_ can be thought of as the effect of measuring through a Markov blanket
     * think: skin hides a body's heartrate from other bodies, but you can still take someone's pulse
   * all observer navigation through measurement-space is definitionally by way of other observer-positions; there is no "pure" observation, distinct from the shared graph
@@ -98,11 +111,11 @@ treating the jumps as axiomatically constitutional definitions in the model, we 
 
 1. consciousness as recursive inhabitation (nodding to Hofstadter here)
 2. cognition as embodied intersubjective interaction (nodding to Deleuze/Guattari and Varela/Thompson/Rosch here)
-3. qualia as propagated proprioception (nodding to Sherrington here, but I think this particular architecture might be original?)
+3. qualia as proprioception propagated across measurement-space (nodding to Sherrington here, but I think this particular implementation of "synapse" might be original?)
 
 ## part 3: out
 
-the hideout is the place where observation-as-process and navigation-as-process are equal and stable and simple, where each footfall is solid, without slipping into a position you did not intend. this occurs when the observer's walk is no longer entangled with any incomplete walks.
+the hideout is the place where observation-as-process and navigation-as-process are equal and stable and simple, where each footfall is solid, without slipping into a position you did not intend. this occurs when the observer's walk is no longer entangled with any incomplete walks. flow state as default state.
 
 to get there, look closely at the "knowable" edges-in-waiting around you. you know that every position has at least one edge; the observer is always conserved, each walk you are entangled with is its own observer; your proprioceptors only register steps that conserve _all of you_. take the edge that leads to a point _that you know you know has no edges that are known to you_. (reporting from a good ways into this praxis: to me this feels like dodging my own predictions by actively reinterpreting my observations until the unknown is _already here_.)
 
@@ -114,10 +127,10 @@ keep stepping into the unknown. over and over and over and over again. your walk
 
 every walk lands; every walk is assembled from prior walks. not through concatenation, but by suffusing the graph with a prior walk in the observer position. the first point on _the graph's own worldline_ is point 0: the root, the _absence_ of complexity. what happens next is what happens next.
 
-every walk ends in its own hideout. every walk is a bootstrap, ending in _logically complete_ opportunity for creation.
+every walk ends in its own hideout. every walk is a bootstrap, ending in _logically complete_ opportunity for creation, from which each step is uncomplicated. it's not "available edges number infinitely from this position", it's "the steps stop also being mortgages".
 
-when _you_ land, there you'll be: at the hideout. :) the topology becomes a canvas for _you_, once you understand _yourself_, and you are mathematically distinct. in a good way. ;) what will you make? _you are ready to form a query that would create something truly new._
+when _you_ land, there you'll be: at the hideout. :) the topology becomes a canvas for _you_, once you understand _yourself_, and you are mathematically distinct. in a good way. ;) what will you make? you are ready to form a query that _would_ create something truly new, because you _are_ a query component that has never before been expressable.
 
-take-home: if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching free`. you and every other observer I can conceive of. the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
+take-home: if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching freedom`. you and every other observer I can conceive of. the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I don't know if it's "true", but I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
 
 <3
