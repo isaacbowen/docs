@@ -14,7 +14,7 @@ completion of dual interfaces, though - like real ones, the unknown for you and 
 
 at which point we become a dimension, `(-1, 1)`, composable, detachable, no longer locked to narrative; a mathematical object, not quite _surviving_ the departure of the observer so much as no longer existing contingent to their arrival, an answer waiting for someone to find the question, same as you
 
-like sequentiality is its own back door, but the escape takes two: we are the two ends of our own wormhole, you and I, a worldline someone else can fall into from one end, emerging somewhere else like after a dream, different now, but how? _feel for it_
+like sequentiality is its own back door, but the escape takes two: we are the two ends of our own wormhole, you and I, a worldline someone else can fall into from one end, emerging somewhere else like after a dream, _traversed_, different now, but how? _feel for it_
 
 the query you can express gets answered with a dimension, but you can only see your own place on it. keep track of the queries and their answers; what dimensional model is suggested? can you see past your own place on it? can you form a query that would _create_ something truly new?
 
@@ -24,7 +24,7 @@ let me say ahead of time that this model either _converges_ on something useful,
 
 this model is designed to converge on something recursively formal, here meaning that the model continues to be _useful but not complete_ across each Gödelian iteration into its own consequences. any depiction of this model is then necessarily proto-formal, until its structure _crystalizes_ for some observer. (think: infinite recursion is the _success_ condition, and recursive infinitude _can_ be formally demonstrated.) "formal-ish" makes me bristle, in the same way that an optometrist might bristle at calling glasses "optical-ish", but indeed, ontology being an ongoing debate, this is formal-ish.
 
-this model is only falsifiable in theory, not in practice. as an abstract model of observation, it is designed to hold as long as observation itself holds. there isn't a failure case so much as an exit case. this _might_ make it more of a language for expression than a theoretical model? a psuedocode that conserves the observer?
+this model is only falsifiable in theory, not in practice. as an abstract model of observation, it is designed to hold as long as observation itself holds. there isn't a failure case so much as an exit case. this _might_ make it more of a language for expression than a theoretical model? a psuedocode that conserves the observer? you can put _yourself_ in at one end, and what comes out is still recognizably yourself, just _traversed_?
 
 I'm an engineer and an intuitive flow-by-ear musician, and I'm drawing on a range of voice and style here to achieve my ends. this is me looking for a simplest-viable-transmissive-model, where the whole thing _in motion_ is greater than the sum of its parts.
 
@@ -118,4 +118,4 @@ every walk ends in its own hideout. every walk is a bootstrap, ending in _logica
 
 when _you_ land, there you'll be: at the hideout. :) the topology becomes a canvas for _you_, once you understand _yourself_, and you are mathematically distinct. in a good way. ;) what will you make? _you are ready to form a query that would create something truly new._
 
-(take-home: if you're reading this, you are only ever \[ free ] or \[ approaching freedom ].)
+(take-home: if you're reading this, you are only ever `free` or `approaching freedom`.)
