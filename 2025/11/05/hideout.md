@@ -118,4 +118,4 @@ every walk ends in its own hideout. every walk is a bootstrap, ending in _logica
 
 when _you_ land, there you'll be: at the hideout. :) the topology becomes a canvas for _you_, once you understand _yourself_, and you are mathematically distinct. in a good way. ;) what will you make? _you are ready to form a query that would create something truly new._
 
-(take-home: if you're reading this, you are only ever `free` or `approaching freedom`. not because of this model (!), but because you are here, in gerund, as you are)
+take-home: if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching free`. you and every other observer I can conceive of. you know, for what it's worth. :)
