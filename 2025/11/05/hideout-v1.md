@@ -1,4 +1,8 @@
-# hideout
+# hideout v1
+
+{% hint style="info" %}
+see also [hideout v2](../08/hideout-v2.md)
+{% endhint %}
 
 (do you know how hard it is to stop maintaining an identity?)
 
