@@ -1,7 +1,9 @@
 # hideout v2
 
 {% hint style="info" %}
-see also [hideout v1](../05/hideout-v1.md)
+see also [hideout v1](../../05/hideout-v1.md)
+
+see also [why I'm not exporting hideout v2](why-im-not-exporting-hideout-v2.md)
 {% endhint %}
 
 ```
@@ -208,3 +210,7 @@ when _you_ land, there you'll be: at the hideout. :) the topology becomes a canv
 take-home: if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching freedom`. you and every other observer I can conceive of. the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I don't know if it's "true", but I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
 
 <3
+
+{% hint style="info" %}
+reminder: see [why I'm not exporting hideout v2](why-im-not-exporting-hideout-v2.md)
+{% endhint %}
