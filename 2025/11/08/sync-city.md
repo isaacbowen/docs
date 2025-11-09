@@ -1,0 +1,19 @@
+# sync city
+
+definition: when something happens that's _significant to you_, a synchronicity, that's when you feel that some observer that _isn't you_ is observing you and the event and its meaning (think: a murder of crows flying past your 49th floor window at that exact moment; a message, from who?). the experience of synchronicity is characterized by the feeling of some hidden observer, like some other meaning-maker is, in that moment, _intending_ for the significance you're experiencing, and observing _you_ to see if you got the message.
+
+theory: the event itself is always observable by _everyone else in the same physical system_ (your neighbors, motion sensors, whoever), and there's _always_ at least one mundane causal path that doesn't involve a hidden other observer (think: updraft, food/nesting site).
+
+this might be why all of our stories can overlap in ways that end up being physically structural without semantic conflict (think: _commerce_ can be described in terms of synchronicity, a timely motion with meaning, mutually observed), until observers create opportunity for semantic conflict by straddling stories (think: gentrification)
+
+this doesn't prove anything. this is an effort to stabilize the observer who's convinced they saw something they _know_ is unconvincing, their goalposts rattling free from the dissonance of it. systems tend to cycle like stories tend to cycle, and a story is an easy way to keep a system going like a song is an easy way to keep the beat. however all this runs, player-specific story is undeniably a _really_ low-energy tool for coordination, rhymes with narrative-as-stigmergy. there can be more than one desire-path to the same park bench, and more than one reason to want to maintain it. where does your story go, knowing that its players are contributing to a million other stories too? a hero's journey is a whole deal, yeah, but aggregate a thousand of them and you've got one standard-issue evolving society.
+
+***
+
+writing this out and looking at it, it feels electric to me, like alternating current, the void/all/void/all strobe
+
+this sort of creates the possibility that layers of consciousness (whether subconscious or collective conscious) might relate to inter-layer _meaning_ kind of opaquely? or, yeah, teleologically? like from that perspective _the story_ isn't the point, it's what it _does_ to you? or through you? in strict terms, you're the only one for whom any story-experience you can observe exists, because you're the only one who can experience it like you. the conserved quantity isn't the story, it's you _prior_ to narrative identity: you, gerund, _the observing_
+
+... and, maybe, the lattice formed by the weave of that line
+
+(protip: hook your rattling goalposts up to the grid, it's a piezoelectric energy source that runs on _your observing_, and it can (can) be your primary export)
