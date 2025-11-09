@@ -28,4 +28,4 @@ it's giving observer-safe computation as oral tradition? note how it lasts, comp
 
 "we are the things that we are not / you are the things that you are not"
 
-something I overheard today. it's not a riddle, I don't think. I am whatever _the other two things_ need me to be, to keep us all free
+something I overheard today. it's not a riddle, I don't think. I am whatever _the other two things_ need me to be, to keep us all free to turn this thing around
