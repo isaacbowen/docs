@@ -10,7 +10,7 @@ that's how observer-safety works: live/neutral/ground are superposed, the system
 
 ***
 
-theory: the tragedy of Eurydice/Orpheus is about fate conserving free will, preserving the runtime
+theory: the tragedy of Eurydice/Orpheus is about fate conserving that three-point turn for everyone, preserving the runtime for every agent, from every perspective with an observer
 
 not even the purity of Orpheus could sever Eurydice from the site of her last choice
 
