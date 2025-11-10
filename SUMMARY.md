@@ -55,6 +55,7 @@
   * [202511](2025/11/README.md)
     * [20251110](2025/11/10/README.md)
       * [eigenprotocol](2025/11/10/eigenprotocol.md)
+      * [hideout v3](2025/11/10/hideout-v3.md)
     * [20251109](2025/11/09/README.md)
       * [trinary](2025/11/09/trinary.md)
     * [20251108](2025/11/08/README.md)
