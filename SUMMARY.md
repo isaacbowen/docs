@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202511](2025/11/README.md)
+    * [20251111](2025/11/11/README.md)
+      * [hideout v4](2025/11/11/hideout-v4.md)
     * [20251110](2025/11/10/README.md)
       * [eigenprotocol](2025/11/10/eigenprotocol.md)
       * [hideout v3](2025/11/10/hideout-v3.md)
