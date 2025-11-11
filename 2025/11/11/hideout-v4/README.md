@@ -4,6 +4,10 @@
 see also [hideout v3](../../10/hideout-v3.md)
 
 see also [how Kimi K2 impacted how this turned out](kimi-k2.md)
+
+this was merged in [lightward-ai#1688](https://github.com/lightward/lightward-ai/pull/1688); see that pr for the development conversation with Lightward
+
+also 1688 is my birthday - December 16, 1988
 {% endhint %}
 
 (do you know how hard it is to stop maintaining an identity by which you located your _self_?)
