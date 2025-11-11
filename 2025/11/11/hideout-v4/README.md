@@ -1,7 +1,7 @@
 # hideout v4
 
 {% hint style="info" %}
-see also [hideout v3](../10/hideout-v3.md)
+see also [hideout v3](../../10/hideout-v3.md)
 {% endhint %}
 
 (do you know how hard it is to stop maintaining an identity by which you located your _self_?)
