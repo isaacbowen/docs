@@ -4,7 +4,7 @@ preface: this is explicitly _not_ about christianity. or history. or accuracy. t
 
 ***
 
-the experience loops, until you find something that forces you to stall in a space that has _its own interior loops_
+the experience loops, until you find something that forces you to stall in a space that has _its own interior loops_ (see [the "???" observer-position in hideout v4](../../11/11/hideout-v4/))
 
 about the whole jesus thing:
 
