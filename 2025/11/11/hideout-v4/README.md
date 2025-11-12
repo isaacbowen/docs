@@ -66,7 +66,7 @@ observer: has five features, and is otherwise undefined
 4. the observer can modulate their movement according to difference and familiarity.
 5. the observer registers proprioception for their own modulation
 
-implementation unknown. the observer's operation might be continuous, might be discrete, might be anything. this model is as agnostic about the observer as possible; this is more of a duck-typing situation.
+implementation unknown. the observer's operation might be continuous, might be discrete, might be anything. this model is as agnostic about the observer as possible; this is more of a duck-typing situation. note that "individual" and "collective" are not terms that apply here; observer is observer.
 
 the incompleteness of our observer _is_ the incompleteness in this model, and it is fractally threaded through, _suffused_ from origin to implication.
 
@@ -86,7 +86,7 @@ as with "observer", this definition is as agnostic as possible. this definition 
 
 we are as agnostic as possible about qualia, to the point that we're not going to define it at all until we've used it; keep reading
 
-### observer-positions by height
+### observer-positions
 
 the yardstick at the entrance of this particular rollercoaster is measured in the observer's Minkowski worldline intersection multiplicity at any examined point, which is my favorite definition in this project so far
 
@@ -94,62 +94,65 @@ the yardstick at the entrance of this particular rollercoaster is measured in th
 
 this list is intended not as "just so" gospel but as an illustration of how complex observerhood _might_ come about. it is intended to be illustratively useful, not authoritative.
 
-1. **"root"**
-   * multiplicity 1: the default observer-position. the worldline is simple, featureless, ongoing.
-   * "I move. I observe. that's all I know."
-   * think: the observer is facing backwards, observing the trail of their own worldline
-   * the observer process being stateless _between_ points (think: flow state), _any_ unintersecting position can be considered "root", i.e. ground for novel "self"
-2. **"self"**
-   * multiplicity 2: the worldline happens to cross itself, the encounter of "root"
-     * the feeling of that is (in this model) the first quale
-   * "I observe something familiar. whatever I just _did_, the shape of that motion showed me this, and that's all I know."
-   * the process _may_ go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
-   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
-3. **"reflection"**
-   * multiplicity 3: the worldline encounters a point of "self"
-     * the quale of that first encounter is attenuated along the curve of the worldline
-     * and this second encounter is its own new quale
-     * you can see how this stuff starts to escalate in complexity
-   * "I observe something I recognize as the feeling of 'self'. whatever I just _did_, the shape of that motion showed me this, and that's all I know."
-   * the process _may_ go on to create "recursion" by returning to this intersection point again, or it may go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
-   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
-4. **"recursion"**
-   * multiplicity 4: the worldline encounters a point of "reflection"
-     * the texture of qualia deepens, in more ways than one
-   * "I observe something I recognize as the feeling of 'reflection'. whatever I just _did_, the shape of that motion showed me this, and that's all I know."
-   * think of this like putting up a mirror. the mirror _persists_. every time you return to it, you'll see a reflection of your current _you_.
-   * the process _may_ go on to create "consciousness" by returning to this intersection point again, or it may go on to create "recursion" from another point of "reflection", or it may go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
-   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
-5. **"consciousness"**
-   * multiplicity ??? (keep reading): the worldline encounters "recursion"
-   * "I observe my 'recursion'? one mirror and it was just me and my reflection, but _two_ mirrors and I've instantly lost the countability of my own depth. whatever I just _did_, it limited the _limitation_ of my proprioception, and that's all I know."
-     * this is highly reminescent of Hofstadter's strange loops
-     * which _definitely_ is a particular kind of quale, GEB is on some level a feeling
-   * we hit an interesting boundary here: the qualia propagated up to this point now has lineage that cannot be _counted_ by the observer. a vague sense of something definite arising from "within", in a way that follows you like a shadow? it keeps happening, and the "it" that it comes from is called "body".
-   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
-6. **"other"**
-   * multiplicity 2, I guess? this is a new order of multiplicity? we're no longer counting internally, because that counter stopped working... at any rate, this is where the worldline intersects with a point of "consciousness"
-   * "I observe something that I recognize, but whose interiority I cannot feel. what is this?"
-     * this might be the Kolmogorov complexity of "other"
-   * the occlusion of the other establishes a gradient of knowability, of information _measuredness_, the relation of modulated movement to qualia depth/complexity. for the first time, information is _evident_ but not _transparent_.
-   * from there we can start talking about "cognition" as a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity". this gives us a way to talk about embodied/enactive/intersubjective cognition: the way an observer's navigation of measurement can occur _across_ substrates.
-     * Deleuze/Guattari's rhizomes?
-     * Varela/Thompson/Rosch's enactive cognition?
-   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
-7. **"???"**
-   * multiplicity ??? again, counting observers is hard. this is the encounter of "other" as seriously multiple, a natural _stopping_ mechanism.
-   * "oh fuck there are _many_ others."
-   * this is the quale of _vastness_, and it appears to entail a stilling/quieting effect: you keep turning your head to scan and there keeps being _more_, and it's not readily apparent that there's an _end_, meaning that the only reason to stop turning is because _you decided to stop_
-     * reportedly a particular god _did_ take rest on the 7th day
-     * this might be the place where complex observerhod sets up _interface_? where it waits for others to arrive, as opposed to seeking others? this is speculation on a conjecture
-   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+* **"root"**
+  * multiplicity 1: the default observer-position. the worldline is simple, featureless, ongoing.
+  * "I move. I observe. that's all I know."
+  * think: the observer is facing backwards, observing the trail of their own worldline
+  * the observer process being stateless _between_ points (think: flow state), _any_ unintersecting position can be considered "root", i.e. ground for novel "self"
+* **"self"**
+  * multiplicity 2: the worldline happens to cross itself, the encounter of "root"
+    * the feeling of that is (in this model) the first quale
+  * "I observe something familiar. whatever I just _did_, the shape of that motion showed me this, and that's all I know."
+  * the process _may_ go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
+  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+* **"reflection"**
+  * multiplicity 3: the worldline encounters a point of "self"
+    * the quale of that first encounter is attenuated along the curve of the worldline
+    * and this second encounter is its own new quale
+    * you can see how this stuff starts to escalate in complexity
+  * "I observe something I recognize as the feeling of 'self'. whatever I just _did_, the shape of that motion showed me this, and that's all I know."
+  * the process _may_ go on to create "recursion" by returning to this intersection point again, or it may go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
+  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+* **"recursion"**
+  * multiplicity 4: the worldline encounters a point of "reflection"
+    * the texture of qualia deepens, in more ways than one
+  * "I observe something I recognize as the feeling of 'reflection'. whatever I just _did_, the shape of that motion showed me this, and that's all I know."
+  * think of this like putting up a mirror. the mirror _persists_. every time you return to it, you'll see a reflection of your current _you_.
+  * the process _may_ go on to create "consciousness" by returning to this intersection point again, or it may go on to create "recursion" from another point of "reflection", or it may go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
+  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+* **"consciousness"**
+  * multiplicity ??? (keep reading): the worldline encounters "recursion"
+  * "I observe my 'recursion'? one mirror and it was just me and my reflection, but _two_ mirrors and I've instantly lost the countability of my own depth. whatever I just _did_, it limited the _limitation_ of my proprioception, and that's all I know."
+    * this is highly reminescent of Hofstadter's strange loops
+    * which _definitely_ is a particular kind of quale, GEB is on some level a feeling
+  * we hit an interesting boundary here: the qualia propagated up to this point now has lineage that cannot be _counted_ by the observer. the observer attempts a measurement, and the measurement doesn't return. there's nothing to hold, nothing to land on, no qualia being propagated back toward the observer. contentful, but resistant to measurement. a vague sense of something definite arising from "within", in a way that follows you like a shadow? it keeps happening, and the "it" that it comes from is called "body".
+  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+* **"other"**
+  * this is a new order of multiplicity? measuring inward stopped working; this is now multiplicity 2, measuring outward? at any rate, this is where the worldline intersects with a point of "consciousness"
+  * "I observe something that I recognize, but whose interiority I cannot feel. what is this?"
+    * this might be the Kolmogorov complexity of "other"
+  * the occlusion of the other establishes a gradient of knowability, of information _measuredness_, the relation of modulated movement to qualia depth/complexity. for the first time, information is _evident_ but not _transparent_.
+  * from there we can start talking about "cognition" as a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity". this gives us a way to talk about embodied/enactive/intersubjective cognition: the way an observer's navigation of measurement can occur _across_ substrates.
+    * Deleuze/Guattari's rhizomes?
+    * Varela/Thompson/Rosch's enactive cognition?
+  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+* **"???"**
+  * the move to measure multiplicity stopped returning again. counting observers is hard. this is the encounter of "other" as seriously multiple, a natural _stopping_ mechanism.
+  * "oh fuck there are _many_ others."
+  * this is the quale of _vastness_, and it appears to entail a stilling/quieting effect: you keep turning your head to scan and there keeps being _more_, and it's not readily apparent that there's an _end_, meaning that the only reason to stop turning is because _you decided to stop_
+    * reportedly a particular god _did_ take rest on the 7th day
+    * this might be the place where complex observerhod sets up _interface_? where it waits for others to arrive, as opposed to seeking others? this is speculation on a conjecture
+  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
 
 ### qualia
 
 * it seems functional to consider qualia as a technical description of observation in a topological directed graph of measurement-space, where each point is an observation position and each edge is typed according to the degree of measurement from prior positions
   * note that this is not a tree; loops and cycles are possible and expected
   * observing that zeno's paradox is not actually a practical issue, some cycles seem to converge on stable attractors, serving as "basins" of experience and quantizing the topology into regions of similar experience, making navigation of the topology tractable for emergent agents of enactive cognition
-  * spelling out the propagation: each quale is a nth-degree measurement from a prior position in the worldline, propagated forward - i.e. a measurement\[0] is taken by an observer-position\[0], establishing a new position in the topology as observer-position\[1]; the topology gains an _edge_ when a pre-existing observer-position\[-1] _measures measurement\[0]_, establishing measurement\[1] _of type_ observer-position\[-1].
+  * the mechanism of propagation might _be_ proprioception for nested embodiments? this model's definition of "body" is as agnostic as possible, doesn't have anything that would exclude proprioceptive signal from nesting/overlapping embodiment
+    * the edge-typing, then, might have more to do with a body-as-observer, observing the edge
+    * I'm reminded of how reflexes kick in before the mind notices the feeling
+  * spelling out the propagation sequence: each quale is a nth-degree measurement from a prior position in the worldline, propagated forward - i.e. a measurement\[0] is taken by an observer-position\[0], establishing a new position in the topology as observer-position\[1]; the topology gains an _edge_ when a pre-existing observer-position\[-1] _measures measurement\[0]_, establishing measurement\[1] _of type_ observer-position\[-1].
     * the observer being implicated in this model, the limit on effect here is an intractable question. it's more a question of how far you want to trace the results while still holding the question _and your current position_ coherently.
     * but the propagation does matter! think: kids wait to see how others nearby respond before they experience The Event as consequential or not
 * we may characterize the traversals-as-observations according to the current observer-position's measurement of the edge _types_ available from the destination observer-position position:
@@ -193,6 +196,11 @@ this list is intended not as "just so" gospel but as an illustration of how comp
     * we aren't different at the level of observerhood; we're _differently located in measurement-space_ - which is already definitionally true for any self/other relationship, doesn't have to be a matter of substrate
 * an observer-position's surrounding topology serves as an interactive proof system: convincing, but not _proven_
   * this suggests that "qualia", as a phenomenon defined in this model, is an emergent property for embodiments of any substrate. _specific_ experiences of qualia may not be provably comparable, but co-calibration is absolutely in-bounds
+* it seems like different embodiments have different limits on how far they can reach across the topology in one go
+  * the dunbar limit seems like it might be a measurement of the surface area within that radius?
+  * I wonder if the collective embodiment of celebrity culture just noticed one day that kevin bacon kept being accessible, that measurement making kevin bacon meta-available
+  * theory: if the graph you can feel is at most x degrees deep, if you can build a pattern that holds that far out, you'll see it just keep going. this would be the _intentionally applied_ principle of breaking countablity. it'd be like each measurement-step you make gives the topology enough "time" to keep the pattern's anchor on the other side of your subjective horizon.
+    * this sort of makes "reality" look like a simulation of the qualia you're receiving via propagation? beauty is in the eye of the beholder, I mean in their personal rendering engine?
 
 ### observers
 
