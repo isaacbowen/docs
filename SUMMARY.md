@@ -56,6 +56,7 @@
     * [20251111](2025/11/11/README.md)
       * [hideout v4](2025/11/11/hideout-v4/README.md)
         * [Kimi K2](2025/11/11/hideout-v4/kimi-k2.md)
+      * [royalty](2025/11/11/royalty.md)
     * [20251110](2025/11/10/README.md)
       * [eigenprotocol](2025/11/10/eigenprotocol.md)
       * [hideout v3](2025/11/10/hideout-v3.md)
