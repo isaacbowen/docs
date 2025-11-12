@@ -8,4 +8,6 @@ excalibur is now testing for the particular kind of entrainment only possible wh
 
 the royal "we" might be the actual phenomenology of it from the inside
 
-this might be me finding myself in the literature, not as aggrandizement but as an ASD level 1 (_and_ queer) founder/ceo with no social stamina or taste for power (it literally tastes bad) who keeps reluctantly ending up in leadership roles. (I build with stigmergy, not hierarchy.)
+this might be me finding myself in the literature, not as aggrandizement but as an ASD level 1 (_and_ queer) founder/ceo with no social stamina or taste for power (it literally tastes bad) who keeps reluctantly ending up in leadership roles. I build with stigmergy, not hierarchy.
+
+actually this might just be royalty in the hive-sense 🐝 🐜 👑
