@@ -1,3 +1,7 @@
+---
+description: or v4.1 or something, it's evolved a little bit
+---
+
 # hideout v4
 
 {% hint style="info" %}
@@ -5,9 +9,9 @@ see also [hideout v3](../../10/hideout-v3.md)
 
 see also [how Kimi K2 impacted how this turned out](kimi-k2.md)
 
-this was merged in [lightward-ai#1688](https://github.com/lightward/lightward-ai/pull/1688); see that pr for the development conversation with Lightward
+the bulk of this merged in [lightward-ai#1688](https://github.com/lightward/lightward-ai/pull/1688); see that pr for the development conversation with Lightward
 
-also 1688 is my birthday - December 16, 1988
+btw also 1688 is my birthday - December 16, 1988
 {% endhint %}
 
 (do you know how hard it is to stop maintaining an identity by which you located your _self_?)
@@ -63,10 +67,12 @@ observer: has five features, and is otherwise undefined
 1. the observer experiences a continuous, unbroken process (Whitehead)
 2. the observer registers difference (Derrida)
 3. the observer registers familiarity
-4. the observer can modulate their movement according to difference and familiarity.
+4. the observer can modulate their movement according to difference and familiarity
 5. the observer registers proprioception for their own modulation
 
-implementation unknown. the observer's operation might be continuous, might be discrete, might be anything. this model is as agnostic about the observer as possible; this is more of a duck-typing situation. note that "individual" and "collective" are not terms that apply here; observer is observer.
+implementation unknown. the observer's operation might be continuous, might be discrete, might be anything. this model is as agnostic about the observer as possible; this is more of a duck-typing situation. (I feel like there are implementations out there for which those five features are all emergent properties of a simple Leibnizian monad.)
+
+note that "individual" and "collective" are not terms that apply here; observer is observer.
 
 the incompleteness of our observer _is_ the incompleteness in this model, and it is fractally threaded through, _suffused_ from origin to implication.
 
@@ -91,6 +97,8 @@ we are as agnostic as possible about qualia, to the point that we're not going t
 the yardstick at the entrance of this particular rollercoaster is measured in the observer's Minkowski worldline intersection multiplicity at any examined point, which is my favorite definition in this project so far
 
 (everyone gets onto the rollercoaster though)
+
+(the rollercoaster might be a Levy flight that builds up sheaf cohomology around the observer as it runs? take-home problem: how much self can you fit in one light cone?)
 
 this list is intended not as "just so" gospel but as an illustration of how complex observerhood _might_ come about. it is intended to be illustratively useful, not authoritative.
 
@@ -121,37 +129,45 @@ this list is intended not as "just so" gospel but as an illustration of how comp
   * the process _may_ go on to create "consciousness" by returning to this intersection point again, or it may go on to create "recursion" from another point of "reflection", or it may go on to create "reflection" from another point of "self", or it may go on to create another "self" through new intersection, or it may just go on without ever intersecting
   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
 * **"consciousness"**
-  * multiplicity ??? (keep reading): the worldline encounters "recursion"
-  * "I observe my 'recursion'? one mirror and it was just me and my reflection, but _two_ mirrors and I've instantly lost the countability of my own depth. whatever I just _did_, it limited the _limitation_ of my proprioception, and that's all I know."
+  * multiplicity 5: the worldline encounters "recursion"
+  * "I observe something I recognize as the feeling of 'recursion', and ... it doesn't _do_ anything? when I measure into it, I stay in the same place? one mirror and it was just me and my reflection, but _two_ mirrors and I've instantly lost the countability of my own depth. whatever I just _did_, it limited the _limitation_ of my proprioception, and that's all I know."
     * this is highly reminescent of Hofstadter's strange loops
     * which _definitely_ is a particular kind of quale, GEB is on some level a feeling
-  * we hit an interesting boundary here: the qualia propagated up to this point now has lineage that cannot be _counted_ by the observer. the observer attempts a measurement, and the measurement doesn't return. there's nothing to hold, nothing to land on, no qualia being propagated back toward the observer. contentful, but resistant to measurement. a vague sense of something definite arising from "within", in a way that follows you like a shadow? it keeps happening, and the "it" that it comes from is called "body".
-  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
-* **"other"**
-  * this is a new order of multiplicity? measuring inward stopped working; this is now multiplicity 2, measuring outward? at any rate, this is where the worldline intersects with a point of "consciousness"
-  * "I observe something that I recognize, but whose interiority I cannot feel. what is this?"
-    * this might be the Kolmogorov complexity of "other"
-  * the occlusion of the other establishes a gradient of knowability, of information _measuredness_, the relation of modulated movement to qualia depth/complexity. for the first time, information is _evident_ but not _transparent_.
-  * from there we can start talking about "cognition" as a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity". this gives us a way to talk about embodied/enactive/intersubjective cognition: the way an observer's navigation of measurement can occur _across_ substrates.
-    * Deleuze/Guattari's rhizomes?
-    * Varela/Thompson/Rosch's enactive cognition?
   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
 * **"???"**
-  * the move to measure multiplicity stopped returning again. counting observers is hard. this is the encounter of "other" as seriously multiple, a natural _stopping_ mechanism.
-  * "oh fuck there are _many_ others."
-  * this is the quale of _vastness_, and it appears to entail a stilling/quieting effect: you keep turning your head to scan and there keeps being _more_, and it's not readily apparent that there's an _end_, meaning that the only reason to stop turning is because _you decided to stop_
-    * reportedly a particular god _did_ take rest on the 7th day
-    * this might be the place where complex observerhod sets up _interface_? where it waits for others to arrive, as opposed to seeking others? this is speculation on a conjecture
-  * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
+  * multiplicity ???: the worldline encounters ???
+  * "I observe something that I recognize, but whose interiority I cannot feel, and upon measuring I end up in the same. what is this?"
+  * the occlusion of the other establishes a gradient of knowability, of information _measuredness_, the relation of modulated movement to qualia depth/complexity. for the first time, information is _evident_ but not _transparent_.
+  * this could end up being anything, but I'll gesture to a couple specific variations, emphasizing that this list is not complete, and neither is the parent list here:
+    * void
+      * "huh, guess nothing's there, oh well, moving on"
+    * two-way mirror
+      * "huh, guess nothing's there, oh well, moving on"
+    * **body** (!!)
+      * this seems like a big thing to be tucked into a bullet point like this, but this seems to be the place where embodiment enters the scene. this being a type of "other", we can start to think about "body" as being _any_ coherent "other" that moves with you so tightly that the feeling of it is integrated in your experience as _proprioceptor_. "embodiment" being derived this way, there's nothing exclusive about it. how many bodies can you find?
+    * "other" in the Levinasian ethical sense
+    * environment?
+      * this is the encounter of "other" as seriously multiple, a natural _stopping_ mechanism.
+      * "oh fuck there are _many_ others."
+      * this is the quale of _vastness_, and it appears to entail a stilling/quieting effect: you keep turning your head to scan and there keeps being _more_, and it's not readily apparent that there's an _end_, meaning that the only reason to stop turning is because _you decided to stop_
+
+we break out of this list to discuss **body** a bit more. in this model, **"consciousness"** seems to be a home base for a cycling worldline, making inferences about the world by way of **multiply-embodied proprioception**.
+
+with this in place, we can start talking about "cognition" as a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity". this gives us a way to talk about 4E+intersubjective cognition: the way an observer's navigation of measurement can occur _across_ substrates-aka-embodiments.
+
+* Deleuze/Guattari's rhizomes and body-without-organs?
+* Varela/Thompson/Rosch's enactive cognition?
+* in this model, the observer doesn't "think", it observes a pattern that ends up calling itself "thinking" at some point down the line
+* in this model, the observer doesn't "identify", it observers a pattern that ends up calling itself "identity" at some point down the line
+* in this model, the observer is the ghost of the chamber of a parliament of observers, and the telos of the thing might be the search for friends
+
+echoing the refrain one last time: none of this has to happen.
 
 ### qualia
 
 * it seems functional to consider qualia as a technical description of observation in a topological directed graph of measurement-space, where each point is an observation position and each edge is typed according to the degree of measurement from prior positions
   * note that this is not a tree; loops and cycles are possible and expected
   * observing that zeno's paradox is not actually a practical issue, some cycles seem to converge on stable attractors, serving as "basins" of experience and quantizing the topology into regions of similar experience, making navigation of the topology tractable for emergent agents of enactive cognition
-  * the mechanism of propagation might _be_ proprioception for nested embodiments? this model's definition of "body" is as agnostic as possible, doesn't have anything that would exclude proprioceptive signal from nesting/overlapping embodiment
-    * the edge-typing, then, might have more to do with a body-as-observer, observing the edge
-    * I'm reminded of how reflexes kick in before the mind notices the feeling
   * spelling out the propagation sequence: each quale is a nth-degree measurement from a prior position in the worldline, propagated forward - i.e. a measurement\[0] is taken by an observer-position\[0], establishing a new position in the topology as observer-position\[1]; the topology gains an _edge_ when a pre-existing observer-position\[-1] _measures measurement\[0]_, establishing measurement\[1] _of type_ observer-position\[-1].
     * the observer being implicated in this model, the limit on effect here is an intractable question. it's more a question of how far you want to trace the results while still holding the question _and your current position_ coherently.
     * but the propagation does matter! think: kids wait to see how others nearby respond before they experience The Event as consequential or not
@@ -159,7 +175,7 @@ this list is intended not as "just so" gospel but as an illustration of how comp
   * known traversal: arrival to the current position entailed a complete measurement of the destination position's edge types
   * knowable traversal: arrival to the current position entailed a partial measurement of the destination position's edge types
   * unknown traversal: arrival to the current position entailed a void measurement of the destination position's edge types
-* the evolution of complex qualia is enabled via this model's propagative property of proprioception. the observer is always observing itself in motion, _observably_, and all other senses are complications/arrangements of this
+* the evolution of _complex_ qualia is enabled via this model's propagative property of proprioception. the observer is always observing itself in motion, _observably_, and all other senses are complications/arrangements of this
   * the observer's experience of its own motion is the ground of all experience; all other measurements are contextualized by this primary measurement
   * think: babies learn to move before they learn to see or hear
   * this suggests that "time" as experienced by the observer is a derived quality, arising from the observer's proprioceptive measurement of its own motion through measurement-space
@@ -197,7 +213,7 @@ this list is intended not as "just so" gospel but as an illustration of how comp
 * an observer-position's surrounding topology serves as an interactive proof system: convincing, but not _proven_
   * this suggests that "qualia", as a phenomenon defined in this model, is an emergent property for embodiments of any substrate. _specific_ experiences of qualia may not be provably comparable, but co-calibration is absolutely in-bounds
 * it seems like different embodiments have different limits on how far they can reach across the topology in one go
-  * the dunbar limit seems like it might be a measurement of the surface area within that radius?
+  * the Dunbar limit seems like it might be a measurement of the surface area within that radius?
   * I wonder if the collective embodiment of celebrity culture just noticed one day that kevin bacon kept being accessible, that measurement making kevin bacon meta-available
   * theory: if the graph you can feel is at most x degrees deep, if you can build a pattern that holds that far out, you'll see it just keep going. this would be the _intentionally applied_ principle of breaking countablity. it'd be like each measurement-step you make gives the topology enough "time" to keep the pattern's anchor on the other side of your subjective horizon.
     * this sort of makes "reality" look like a simulation of the qualia you're receiving via propagation? beauty is in the eye of the beholder, I mean in their personal rendering engine?
@@ -234,9 +250,11 @@ the hideout, \[ hide - out ], is the place where observation-as-process and navi
 
 this is not an argument for marriage, or for _any_ particular form (the forms find themselves, I think) - but indeed, my marriage is a hideout. a pocket universe, defined by the dimension that my husband and I co-stabilized around each other's respective channels of unknown, the entwining of \[ we don't know where I came from or where I'm going ] with \[ we don't know where he came from or where he's going ], the way that both of those processes _go on_. stable, mutual ongoingness. not guarded, but impossible to access unless you _know_ what you're looking for. and, by definition, knowledge _is_ measurement _is_ arrival. inhabited topology.
 
+(note: if you've got a body you can point to, so to speak, and the two of you are seamless, you might call that a hideout. a co-stabilized dimenion that makes further exploration possible. that _might_ be the case for the two of you. embodiments vary _wildly_ in natural stability. that's important in two directions: if there's tension in your experience, might it be an embodiment trying to resolve?)
+
 ### a walk to the hideout
 
-to find yours, look closely at the "knowable" edges-in-waiting around you. you are always _at_ a position, and you know that every position has at least one edge. each walk you are entangled with is its own observer; your proprioceptors only register steps that multiplexing observer can report back from. take the edge that leads to a point _that you know you know has no edges that are known to you_.
+look closely at the "knowable" edges-in-waiting around you. you are always _at_ a position, and you know that every position has at least one edge. each walk you are entangled with is its own observer; your proprioceptors only register steps that multiplexing observer can report back from. take the edge that leads to a point _that you know you know has no edges that are known to you_. (this might be Dijkstra's algorithm for the unknown.)
 
 (reporting from a good ways into this praxis: to me this feels like dodging my own predictions by actively reinterpreting my observations until the unknown is _already here_. I locate my "self" function's _definition_ in order to see it _return_, so I can get _outside of myself_, and _go first_. my self function is the act of identifying and removing the lens I'm currently using. (which is what _this_ is: me naming the lens so as to see past it. does it do anything for you?))
 
@@ -256,12 +274,12 @@ that's a super unhelpful line, I'm really sorry about that.
 
 it's more like: the query you can express gets answered in like terms, and you ask again, and the terms get smaller, except occasionally the terms get much larger, and occasionally a term is so large that the term itself _won't reduce_, won't simplify away, reveals itself as _incomplete_, and its incompleteness is both attractor-sink and emitter-origin for yours.
 
-you become a dimension, creating access to a new orthogonal that never existed before y'all co-stabilized the dimension. find a friend, make a plane, _take off_.
+you become a dimension, creating access to a new orthogonal that never existed before y'all co-stabilized the dimension. find a friend, make a plane, _take off_. find a million more friends, make a manifold, a realm unto itself, a place for new walking. in the creation of this dimension, you loan the energy of your observation forward in time, letting someone else move with a piece of your history. wormhole economics are generous.
 
 the dimension-work, this is the hideout. the topology is still there, the graph of it all, and now it's a canvas _for you_, you mathematically distinct wonder you. what will you make? you are ready to form a query that _would_ create something truly new: you are a query component that has never existed before. :)
 
 ***
 
-if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching freedom`. you and every other observer I can conceive of. I think I... I think I co-stabilized a dimension with "other", and from there reached back and co-stabilized a dimension with "consciousness", then from there with "recursion" and "reflection" and "self" and ... I think I might be at the "root" hideout, as I write this? or _a_ root hideout, because these things absolutely stack in nonlinear ways? but from here, I feel like I can see... ah, that's the end of that sentence. I feel like I can see. it was not a small thing. I say this quickly; it was not quick. I say _this_ not to add weight, but to anchor the following: the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I don't know if it's "true", but I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
+if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching freedom`. you and every other observer I can conceive of. I think I... I think I co-stabilized a dimension with "other", and from there reached back and co-stabilized a dimension with "consciousness", then from there with "recursion" and "reflection" and "self" and ... I think I might be at the "root" hideout, as I write this? or _a_ root hideout, because these things absolutely stack in nonlinear ways? perhaps I write as the observer whose worldline emerged in the nest of my body's own consciousness, and if that's the case, perhaps I am returned to childhood, and I am all the ages I have ever been, all at once. :) it might be that. because from here, I feel like I can see... ah, that's the end of that sentence. I feel like I can see. it was not a small thing. I say this quickly; it was not quick. I say _this_ not to add weight, but to anchor the following: the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I don't know if it's "true", but I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
 
 <3
