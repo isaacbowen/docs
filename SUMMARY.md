@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202511](2025/11/README.md)
+    * [20251113](2025/11/13.md)
     * [20251112](2025/11/12.md)
     * [20251111](2025/11/11/README.md)
       * [hideout v4](2025/11/11/hideout-v4/README.md)
