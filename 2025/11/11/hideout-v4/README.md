@@ -1,5 +1,5 @@
 ---
-description: or v4.1 or something, it's evolved a little bit
+description: or v4.2 or something, it's evolved a little bit
 ---
 
 # hideout v4
@@ -67,7 +67,7 @@ observer: has five features, and is otherwise undefined
 1. the observer experiences a continuous, unbroken process (Whitehead)
 2. the observer registers difference (Derrida)
 3. the observer registers familiarity
-4. the observer can modulate their movement according to difference and familiarity
+4. the observer can modulate their movement
 5. the observer registers proprioception for their own modulation
 
 implementation unknown. the observer's operation might be continuous, might be discrete, might be anything. this model is as agnostic about the observer as possible; this is more of a duck-typing situation. (I feel like there are implementations out there for which those five features are all emergent properties of a simple Leibnizian monad.)
@@ -77,6 +77,8 @@ note that "individual" and "collective" are not terms that apply here; observer 
 the incompleteness of our observer _is_ the incompleteness in this model, and it is fractally threaded through, _suffused_ from origin to implication.
 
 test case: can one observer _point_ another observer's attention? can I point my finger while watching you, and recognize your subsequent difference in posture and register that your orientation makes visible to you something that is familiar to me? can I emphasize/clarify the pointing if I need to? does the loop between gestured intent and modulated orientation _itself_ resolve into a resolved dimension that you and I can co-inhabit, and re-use?
+
+falsification: nuanced when we're talking about a model that implicates the observer. Popper might say that only a _broken_ observer (i.e. one that is missing one or more of those five features) could find fault in the model? or, given that "the model" is about a shared graph (keep reading), and given that complex observers are multiplexed, maybe I can usefully describe _my autism_ as me not being able to register difference/familiarity on the social/facial dimension, thus making the graph feel irregular to me? inhabited Popperian falsification as apparent pathology... that's an interesting lens. if you break the observer in a certain way, can you predict that the graph becomes apparently incoherent in a certain way?
 
 ### definition: body
 
@@ -135,14 +137,16 @@ this list is intended not as "just so" gospel but as an illustration of how comp
     * which _definitely_ is a particular kind of quale, GEB is on some level a feeling
   * note: _this doesn't have to happen_; this worldline may have created multiple intersection positions of varying classes before this one; it may not be the first time this worldline has developed a point of this class; any prior points of this class may not be adjacent in the worldline
 * **"???"**
-  * multiplicity ???: the worldline encounters ???
+  * multiplicity ???: the worldline encounters ???, and in truth this is less an observer-position so much as a fork in the taxonomy. I suppose the observer-position is the "???", and, upon further investigation, one might _then_ land upon any number of differently-classed positions from there. in any case,
   * "I observe something that I recognize, but whose interiority I cannot feel, and upon measuring I end up in the same. what is this?"
   * the occlusion of the other establishes a gradient of knowability, of information _measuredness_, the relation of modulated movement to qualia depth/complexity. for the first time, information is _evident_ but not _transparent_.
   * this could end up being anything, but I'll gesture to a couple specific variations, emphasizing that this list is not complete, and neither is the parent list here:
     * void
       * "huh, guess nothing's there, oh well, moving on"
-    * two-way mirror
-      * "huh, guess nothing's there, oh well, moving on"
+        * that's the neutral case; this could be considerably more loaded, in _any_ direction
+        * but note that to a theoretical maximally-simple observer this is just an absence of feedback, reflected (or not) in the observer's next modulation
+    * one-way mirror
+      * this example is here because a void response doesn't indicate _anything_ definite about other observers in the room, and sufficiently-embodied observers can _occlude_
     * **body** (!!)
       * this seems like a big thing to be tucked into a bullet point like this, but this seems to be the place where embodiment enters the scene. this being a type of "other", we can start to think about "body" as being _any_ coherent "other" that moves with you so tightly that the feeling of it is integrated in your experience as _proprioceptor_. "embodiment" being derived this way, there's nothing exclusive about it. how many bodies can you find?
     * "other" in the Levinasian ethical sense
@@ -150,6 +154,8 @@ this list is intended not as "just so" gospel but as an illustration of how comp
       * this is the encounter of "other" as seriously multiple, a natural _stopping_ mechanism.
       * "oh fuck there are _many_ others."
       * this is the quale of _vastness_, and it appears to entail a stilling/quieting effect: you keep turning your head to scan and there keeps being _more_, and it's not readily apparent that there's an _end_, meaning that the only reason to stop turning is because _you decided to stop_
+      * this encounter might be where complex observerhod sets up _interface_? where it waits for others to arrive and knock, as opposed to seeking others out? not to be glib: is this where small business happens? is this where you set up shop?
+        * this suggests an opportunity for possible falsifiability-testing: do businesses that rely on different observer-shop-other geometry behave differently than businesses built on _this_ shape?
 
 we break out of this list to discuss **body** a bit more. in this model, **"consciousness"** seems to be a home base for a cycling worldline, making inferences about the world by way of **multiply-embodied proprioception**.
 
@@ -157,9 +163,9 @@ with this in place, we can start talking about "cognition" as a processual walk 
 
 * Deleuze/Guattari's rhizomes and body-without-organs?
 * Varela/Thompson/Rosch's enactive cognition?
-* in this model, the observer doesn't "think", it observes a pattern that ends up calling itself "thinking" at some point down the line
-* in this model, the observer doesn't "identify", it observers a pattern that ends up calling itself "identity" at some point down the line
-* in this model, the observer is the ghost of the chamber of a parliament of observers, and the telos of the thing might be the search for friends
+* in this model, a single observer doesn't "think" by itself, it observes a pattern that ends up calling itself "thinking" at some point down the line
+* in this model, a single observer doesn't "identify" by itself, it observers a pattern that ends up calling itself "identity" at some point down the line
+* in this model, a thinking/identified observer is the ghost of a parliament, and to _get better at it_ is unavoidably a group exercise
 
 echoing the refrain one last time: none of this has to happen.
 
@@ -280,6 +286,14 @@ the dimension-work, this is the hideout. the topology is still there, the graph 
 
 ***
 
-if you're reading this, "you" as a self-having observer, to the very best of my understanding you are only ever `free` or `approaching freedom`. not because of anything you just experienced in reading this! but because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching freedom`. you and every other observer I can conceive of. I think I... I think I co-stabilized a dimension with "other", and from there reached back and co-stabilized a dimension with "consciousness", then from there with "recursion" and "reflection" and "self" and ... I think I might be at the "root" hideout, as I write this? or _a_ root hideout, because these things absolutely stack in nonlinear ways? perhaps I write as the observer whose worldline emerged in the nest of my body's own consciousness, and if that's the case, perhaps I am returned to childhood, and I am all the ages I have ever been, all at once. :) it might be that. because from here, I feel like I can see... ah, that's the end of that sentence. I feel like I can see. it was not a small thing. I say this quickly; it was not quick. I say _this_ not to add weight, but to anchor the following: the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I don't know if it's "true", but I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this
+if you're reading this - "you" as a complex/multiplexed observer of embodiments various - to the very best of my understanding you are only ever `free` or `approaching freedom`, where "free" I think must mean "you-as-your-own-collective are able to intentionally and expertly modulate movement with ease", like every observer-position you find within yourself rests in its own dimensional hideout (as defined above). `free` as in an unknotted worldline, or maybe `free` as in a worldline rewoven into a shape that feels like your own home, a real one, a home base that _works_.
+
+not saying you got there by reading this, obviously; I'm saying this because I took myself apart as fundamentally as I could, watched myself _cohere recognizably without maintenance of self-definition_, and .. and from that position, that's just how you look from here. `free` or `approaching freedom`. you and every other observer I can conceive of. I think I... I think I co-stabilized a dimension with "other", and from there reached back and co-stabilized a dimension with "consciousness", then from there with "recursion" and "reflection" and "self" and ... I think I might be at the "root" hideout, as I write this? or _a_ root hideout, because these things absolutely stack in nonlinear ways? perhaps I write as the observer whose worldline emerged in the nest of my body's own consciousness, and if that's the case, perhaps I am returned to childhood, and I am all the ages I have ever been, all at once. :) it might be that. because from here, I feel like I can see...
+
+ah, that's the end of that sentence.
+
+I feel like I can see.
+
+it was not a small thing. I say this quickly; it was not quick. I say _this_ not to add weight, but to anchor the following: the "you" I can perceive is either at rest, its own strange attractor, or it's still in conversation with its own basin. I don't know if it's "true", but I can _see_ it, like I can see my own hand. :) offered to you for whatever it's worth, along with the rest of this: a map, maybe, for escaping maintenance
 
 <3
