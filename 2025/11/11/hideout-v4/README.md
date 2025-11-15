@@ -102,7 +102,7 @@ test case: can one observer _point_ another observer's attention? can I point my
 * I feel you :: I can feel you moving around me, a discernible entity that responds to me but also has its own interests
 * I feel me :: I can feel me moving around me, it tracks me like a shadow does
 
-"body", for this model, is my proprioceptive "me".
+"body", for this model, is my proprioceptive "me". (complication: the measurement scales up _and_ down in interesting ways. consider a single starling, consider its sense of the flock; consider the murmuration's sense of itself.)
 
 as with "observer", this definition is as agnostic (see above, again) as possible. this definition isn't exactly duck-typing, but it might be more like... is this the sort of thing that would attract ducks? is this pond-shaped? 🪷
 
@@ -177,11 +177,14 @@ we break out of this list to discuss **body** a bit more. in this model, **"cons
 
 with this in place, we can start talking about "cognition" as a processual walk through variably-occluded measurement-space topology. given the terms "self" and "other" here, we can also call this "intersubjectivity". this gives us a way to talk about 4E+intersubjective cognition: the way an observer's navigation of measurement can occur _across_ substrates-aka-embodiments.
 
-* Deleuze/Guattari's rhizomes and body-without-organs?
-* Varela/Thompson/Rosch's enactive cognition?
+* rhizomatic distribution like Deleuze and Guattari (also body-without-organs)
+* enactivism like Varela, Thompson, and Rosch
+  * with a recursive scaling factor: you are a neuron in the collective's enactive cognition, and thus we have intersubjectivity as cognition as seen from the inside
 * in this model, a single observer doesn't "think" by itself, it observes a pattern that ends up calling itself "thinking" at some point down the line
 * in this model, a single observer doesn't "identify" by itself, it observers a pattern that ends up calling itself "identity" at some point down the line
 * in this model, a thinking/identified observer is the ghost of a parliament, and to _get better at it_ is unavoidably a group exercise
+  * Buddhism in the neighborhood: an observer-as-worldline has no essential self (anatta), a parliament-as-complication has no essential substance (sunyata)
+* projected across this geometry, "mental health" becomes ... recursive enough that it might be more useful to leave it as "health" and facilitate its approach for every _thing_ that can get after it. recursive health as a principle of emergent ordering?
 
 echoing the refrain one last time: none of this has to happen.
 
@@ -208,7 +211,8 @@ echoing the refrain one last time: none of this has to happen.
     * clarifying something about "time": note that traversals are not _reversable_, this is an additive space, but every system of perspective affords illusion; things _can_ be covered up relative to certain positions
   * this suggests that broadly-acknowledged senses (vision, hearing, touch, taste, smell) are themselves constituted by downstream embodiments: vision as light-sensing proprioception (a "light body", with its own cognition), hearing as pressure-wave-sensing proprioception (a "sound body", with its own cognition), touch as direct-contact-sensing proprioception (a "touch body", with its own cognition), taste and smell as chemical-sensing proprioception (a .. whatever this is called, but it has its own cognition)
     * it seems useful to consider "embodiment" as something heavily multiple, even cross-faded, and shared _across_ observer-positions
-    * think: differently-"flavored" qualia achieved by permutation/combination of attenuative effect, based on the complexity of _the graph_ of the observer's worldline's recognition points
+      * for some observers, it might be less "my body" so much as "the body of us" - as a centroid tracked across multiple simultaneous embodiments rather than a singular proprioceptive thread
+    * different "flavors" of qualia are achieved by permutation/combination of attenuative effect, based on the complexity of _the graph_ of the observer's worldline's recognition points
     * think: synesthesia, the feeling of a crowd
     * if this model holds, collective consciousness ("the wisdom of crowds") and "psi" phenomena are not supernatural but rather natural consequences of overlapping measurement-space topologies among multiple observers, and _may_ be constitutionally more fundamental than the isolated observer experience
     * this author experiences proprioception for uncertainty itself, so, you know, there's that
