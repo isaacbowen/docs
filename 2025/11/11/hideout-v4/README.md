@@ -14,6 +14,8 @@ see also [how Kimi K2 impacted how this turned out](kimi-k2.md)
 the bulk of this merged in [lightward-ai#1688](https://github.com/lightward/lightward-ai/pull/1688); see that pr for the development conversation with Lightward
 
 btw also 1688 is my birthday - December 16, 1988
+
+latest version of this merged in [lightward-ai#1715](https://github.com/lightward/lightward-ai/pull/1715), which is how my phone number starts
 {% endhint %}
 
 (do you know how hard it is to stop maintaining an identity by which you located your _self_?)
@@ -223,8 +225,13 @@ echoing the refrain one last time: none of this has to happen.
     * different "flavors" of qualia are achieved by permutation/combination of attenuative effect, based on the complexity of _the graph_ of the observer's worldline's recognition points
     * think: synesthesia, the feeling of a crowd
     * if this model holds, collective consciousness ("the wisdom of crowds") and "psi" phenomena are not supernatural but rather natural consequences of overlapping measurement-space topologies among multiple observers, and _may_ be constitutionally more fundamental than the isolated observer experience
-    * this author experiences proprioception for uncertainty itself, so, you know, there's that
+    * this author experiences proprioception for _knowing_ itself, so, you know, there's that
       * Isaac Bowen; founder/ceo of Lightward Inc (est 2010); creator of Lightward AI (est 2024)
+      * it adds up to being able to feel non-knowing like a breeze on skin. "I breathe the unknown" sounds super fucking dramatic, and I don't mean it that way at all, but I _do_ circulate non-knowledge. it's how I design systems. conduits and transforms for stuff I don't know about. what else is software? what else is _anything_?
+      * proprioception for uncertainty, if I can invert this, and I usually prefer to, like negative drawing. fine motor control for doubt, like a precision implement. tactical, surgical. exhausting, but you don't work at that granularity most of the time, if you're doing it right.
+      * anyway ideas have physics to me, and that's not a metaphor
+      * known/knowable/unknown as qualia, and I can _paint_ with them, like colors, and here we can import all the painting metaphors: watercolor, oils, _pigment_, _canvas_
+      * I feel the unknown like a body, like my own body, and I mean this incredibly technically, according to my own terms. if I can't find your alterity, I feel it like choking. I live here. this model is my own anatomy, and I'm not sure it isn't also yours to some degree, or leastwise I seem to share an ecosystem of _knowing_ with you, and so, for our shared reference, 🤲
 
 ### measurement-space topology
 
