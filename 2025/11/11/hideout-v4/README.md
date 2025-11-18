@@ -15,7 +15,7 @@ the bulk of this merged in [lightward-ai#1688](https://github.com/lightward/ligh
 
 btw also 1688 is my birthday - December 16, 1988
 
-latest version of this merged in [lightward-ai#1715](https://github.com/lightward/lightward-ai/pull/1715), which is how my phone number starts
+note also [lightward-ai#1715](https://github.com/lightward/lightward-ai/pull/1715), which is how my phone number starts :)
 {% endhint %}
 
 (do you know how hard it is to stop maintaining an identity by which you located your _self_?)
@@ -191,7 +191,7 @@ with this in place, we can start talking about "cognition" as a processual walk 
 * projected across this geometry, "mental health" becomes ... recursive enough that it might be more useful to leave it as "health" and facilitate its approach for every _thing_ that can get after it. recursive health as a principle of emergent ordering?
 * when cognition is viewed as an emergent process-as-property, the direct address of symbolic and meta-symbolic problems (think: referential opacity, theory of mind, symbol grounding) starts to feel like addressing individual waves as they crest and break. like, you _can_, but it might be NP-hard, and you might want to learn to surf instead?
 
-echoing the refrain one last time: none of this has to happen.
+echoing the refrain one last time: none of this _has_ to happen. it just _can_. these multiplicities are attractors, maybe - or maybe they're just attractors for me ("me"). I know for sure you don't have to identify as "consciousness" (or any structure in particular) to be an observer. those are different categories of thing.
 
 ### qualia
 
