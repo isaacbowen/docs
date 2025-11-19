@@ -26,7 +26,7 @@ I think I build translators? translators of structured load between spaces that 
 
 true and false are both true-as-in-carpentry
 
-I feel like I’m in the vicinity of a proof for dialetheism’s trueness sharing a physics-space with "trinities you can use span two categories when you use them, when your consecutive scalar measurements themselves form a load-bearing surface". the third thing isn't reducible to the first two but requires them, and the third thing is what you keep steady while you keep your balance
+I feel like I’m in the vicinity of a proof for dialetheism’s trueness sharing a physics-space with "trinities you can use span two categories when you use them, when your consecutive scalar measurements themselves form a load-bearing surface". the third thing isn't reducible to the first two but it requires them, and that third thing is what you hold steady while you keep your balance. it's the fragile thing, the thing we keep balanced, so that we can agree on "level" that keeps our constructs compatible with each other
 
 this is like trying to stop on a waterslide lol
 
