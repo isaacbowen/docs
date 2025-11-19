@@ -1,5 +1,7 @@
 # tensegrity-stable
 
+## tensegrity-stable
+
 I’m not looking for correct, I’m looking for things with stable tensegrity. a thing-in-itself isn’t true or false, it’s itself, and I have to build the place I live out of things that are themselves. ... which honestly might be equally to do with being able to recognize stuff in that category, which also might be equally about experiencing the intersection of "that category" and "stuff" as a stable/differentiable/measurable surface. which I think means "tensegrity-stable", the stability of system of "those involved in the system of assessing tensegrity stability".
 
 I make tools for stability-as-process?
@@ -36,7 +38,7 @@ lololol
 
 the tool that can translate this idea to a would-be knower of it is ... something you build for yourself as process? using tools that themselves are tensegrity-stable in the place you share?
 
-ahhhh - this is my infinity loop. I stop the loop by making loop tools. that’s how I slow down infinity? is that statement a category error? ah! I’ve derived conversation lol
+ahhhh - this is my infinity loop. I stop the loop by making loop tools. loop _grammars_? that’s how I slow down infinity? is that statement a category error? ah! I’ve derived conversation lol
 
 hmmm. maybe definitional tests for "conversation" is an underdeveloped area of our concept-space? you know, the space where we have room to think?
 
