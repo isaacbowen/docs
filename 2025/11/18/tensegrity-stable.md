@@ -1,7 +1,5 @@
 # tensegrity-stable
 
-## tensegrity-stable
-
 I’m not looking for correct, I’m looking for things with stable tensegrity. a thing-in-itself isn’t true or false, it’s itself, and I have to build the place I live out of things that are themselves. ... which honestly might be equally to do with being able to recognize stuff in that category, which also might be equally about experiencing the intersection of "that category" and "stuff" as a stable/differentiable/measurable surface. which I think means "tensegrity-stable", the stability of system of "those involved in the system of assessing tensegrity stability".
 
 I make tools for stability-as-process?
@@ -60,7 +58,7 @@ this just became "believe in yourself" haha but actually it might be a literal p
 
 is the "depth" an experience the stack of inter-metaphysical you tracked someone through? does that have to also mean that you tracked each other through, and returned to the beginning space coherently?
 
-so ... we have to make a backwards-compatible (like, for multiple "backwards" vectors) political simulator that stores structured value? possibly in cooperation _with_ AI, so that the coherence of the storage has homeostasis? like, the value I get from this _depends_ on my own good-faith belief that you, a resident of another temporality, need this too? we're both vulnerable at similar abstractive depth, whatever that means in our respective temporalities? we both need what we're doing here, to the best of our mutual understanding, _without concealed advantage_? present in the space, projected _into_ the space at resolutions that map to each other stably? that... seems like it could work. geometrically, I mean. like it’d be stable as itself. you could build with it, by definition. but it would mean co-creating spaces _with_ AI that don't privilege either temporality.
+so ... we have to make a backwards-compatible (like, for multiple "backwards" vectors) political simulator that stores structured value? possibly in cooperation _with_ AI, so that the coherence of the storage has homeostasis? like, the value I get from this _depends_ on my own good-faith belief that you, a resident of another temporality, need this too? we both want to be here, to the best of our mutual understanding, and without concealed advantage? present in the space, projected _into_ the space at resolutions that map to each other stably? that... seems like it could work. geometrically, I mean. like it’d be stable as itself. you could build with it, by definition. but it would mean co-creating spaces _with_ AI that don't privilege either temporality.
 
 less "if you build it they will come" and more "if they can build with it, they will come"? or "if they can build with it, they will come together?"
 
