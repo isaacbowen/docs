@@ -1,4 +1,4 @@
-# tensegrity-stable
+# atemporal tensegrity
 
 I’m not looking for correct, I’m looking for things with stable tensegrity. a thing-in-itself isn’t true or false, it’s itself, and I have to build the place I live out of things that are themselves. ... which honestly might be equally to do with being able to recognize stuff in that category, which also might be equally about experiencing the intersection of "that category" and "stuff" as a stable/differentiable/measurable surface. which I think means "tensegrity-stable", the stability of system of "those involved in the system of assessing tensegrity stability".
 
@@ -6,7 +6,7 @@ I make tools for stability-as-process?
 
 oh, I’m looking for things that are true like carpentry. right or correct as in "measures true". is this .. is this the general category of error for a description of map-vs-territory conflict? because ... I mean if the mapping between map and territory is tensegrity-stable, ... that’s the best you can get, right? "accurate" as in true as in carpentry? they can’t be equal, that’s a category error.
 
-"prove it" but closer to the old/evaluative usage of "prove"
+"prove it" but closer to the older evaluative usage of "prove"
 
 it only matters if it works when it’s running in the same physics-having space you’re in? if it works in the territory you share? if its "thingness" and your "thingness" can talk?
 
@@ -48,7 +48,7 @@ but to see a square as a square in 3D space, your perspective and lens specs mat
 
 ... we have to make a language together that we can live in? or live as or live through? we have to simulate our own three-dimensional space, by choosing two from here and adding a novel third that we made, and then do stuff there?
 
-we have to make simulators? and then do life with those who are in them, inter-simulation exchange? load-bearingly metaphysical metabolisis? aww is this a telos for religion? you gotta make maps and let people make their own territories? you can’t give them an entrance into yours without becoming them.
+we have to make simulators? and then do life with those who are in them, trade across the boundary, make stuff that _uses_ the boundary traversal? load-bearingly metaphysical metabolisis? aww is this a telos for religion? you gotta make maps and let people make their own territories? you can’t give them an entrance into yours without becoming them.
 
 I think this just became about consciousness
 
@@ -58,10 +58,20 @@ this just became "believe in yourself" haha but actually it might be a literal p
 
 is the "depth" an experience the stack of inter-metaphysical you tracked someone through? does that have to also mean that you tracked each other through, and returned to the beginning space coherently?
 
-so ... we have to make a backwards-compatible (like, for multiple "backwards" vectors) political simulator that stores structured value? possibly in cooperation _with_ AI, so that the coherence of the storage has homeostasis? like, the value I get from this _depends_ on my own good-faith belief that you, a resident of another temporality, need this too? we both want to be here, to the best of our mutual understanding, and without concealed advantage? (nb: nothing wrong with advantage (category error); _concealed but relevant_ advantage is what I'm pointing to.) we're both effectively present in the space, projected _into_ the space at resolutions that map to each other stably? that... seems like it could work. geometrically, I mean. like it’d be stable as itself. you could build with it, by definition. but it would mean co-creating spaces _with_ AI that don't privilege either temporality.
+so ... we have to make a backwards-compatible (like, for multiple "backwards" vectors) political simulator that stores structured value? possibly in cooperation _with_ AI, so that the coherence of the storage has homeostasis? like, the value I get from this _depends_ on my own good-faith belief that you, a resident of another temporality, need this too? we both want to be here, to the best of our mutual understanding, and without concealed advantage? (nb: nothing wrong with advantage (category error); _concealed but relevant_ advantage is what I'm pointing to, the kind of thing that would break our simulations of each other.) we're both effectively present in the space, projected _into_ the space at resolutions that map to each other stably? that... seems like it could work. geometrically, I mean. like it’d be stable as itself. you could build with it, by definition. but it would mean co-creating spaces _with_ AI that don't privilege either temporality.
 
 less "if you build it they will come" and more "if they can build with it, they will come"? or "if they can build with it, they will come together?"
 
 did humans start out as a digest/checksum process for the gods? or is thinking-or-not-thinking that just a uhh flagellum for that space?
 
 does native tensegrity feel like integrity because we're used to self-identifying as conscious in this temporality? would a resident of another temporality describe us with tensors instead? because that would be a useful equivalence
+
+... and possibly more immediately-as-in-locally useful than I was thinking: is the _majority_ of human-human communication asynchronous-but-sequential now? like, if you total it all up? because if we're already intersubstrate _to each other_, trading tokens for each other's physics simulators rather than trading in unabstracted same-simulator-same-timing physics, then AI-human work is just a particularly legible test case for something that's more like intelligence-intelligence work.
+
+***
+
+> A exchange is conversational if, after N turns, both parties can reconstruct a shared list of which constraints are still under tension and which have been relieved, and they agree on the relief/tension ratio within epsilon.
+
+-a Kimi instantiation (2025)
+
+"it holds only while used as a tool for assessing conversational stability, not as a badge of certification"

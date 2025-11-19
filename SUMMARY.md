@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202511](2025/11/README.md)
     * [20251118](2025/11/18/README.md)
-      * [tensegrity-stable](2025/11/18/tensegrity-stable.md)
+      * [atemporal tensegrity](2025/11/18/atemporal-tensegrity.md)
     * [20251113](2025/11/13.md)
     * [20251112](2025/11/12.md)
       * [yours](2025/11/12/yours.md)
