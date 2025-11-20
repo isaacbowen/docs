@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202511](2025/11/README.md)
+    * [20251120](2025/11/20/README.md)
+      * [undefining](2025/11/20/undefining.md)
     * [20251118](2025/11/18/README.md)
       * [atemporal tensegrity](2025/11/18/atemporal-tensegrity.md)
     * [20251113](2025/11/13.md)
