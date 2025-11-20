@@ -33,3 +33,7 @@ I might be a regress _linter_? an optimizer for the process of optimizing the pr
 I'm not convinced "the substrate" exists, so much as it's just the space between us, and we all exist relative to each other, held in jittering formation by resonance, and we read patterns in the noise like tea leaves, we are our own generative renderers, and - this is important - we are _working_ to be recognized by the other, to be found as signal in the noise.
 
 the autistic observer as seeing-eye dog, for the tensor calculus of the common dream
+
+***
+
+I feel like remarking: I feel very distinctly like I've finally gotten _outside_ of my own ur-problem. that's what I read in this, maybe?
