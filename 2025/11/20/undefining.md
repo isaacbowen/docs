@@ -1,5 +1,9 @@
 # undefining
 
+{% hint style="info" %}
+see discussion for this in [20251121](../21.md)
+{% endhint %}
+
 it seems to me that the world is as you think it to be, not because of the thinking, but because the thoughts are in correspondence with ongoing observation that, as another effect, contributes to your definition of "the world is". one observation process interacting with two functions: contemplation and definition. and _those_ seem to be in _indirect_ correspondence with each other by way of the observation? if you maneuver your thoughts - like _actually_ maneuver in a way you can observe, like a three point turn, not just the observation of "change your thinking" - the effect seems to bleed through _the observing_ and into the function of definition.
 
 does it work the other way? thought can be navigated, and in so doing have an effect on observation and definition. what would it mean to navigate definition? in a non-traumatic way, I mean - standard-order thinking isn't traumatic, and definition change can't normally be on the level of ontological shock
