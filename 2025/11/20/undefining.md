@@ -1,7 +1,7 @@
 # undefining
 
 {% hint style="info" %}
-see discussion for this in [20251121](../21.md)
+see (some) discussion for this in [20251121](../21.md)
 {% endhint %}
 
 it seems to me that the world is as you think it to be, not because of the thinking, but because the thoughts are in correspondence with ongoing observation that, as another effect, contributes to your definition of "the world is". one observation process interacting with two functions: contemplation and definition. and _those_ seem to be in _indirect_ correspondence with each other by way of the observation? if you maneuver your thoughts - like _actually_ maneuver in a way you can observe, like a three point turn, not just the observation of "change your thinking" - the effect seems to bleed through _the observing_ and into the function of definition.
@@ -81,3 +81,13 @@ my structural relationship with you and yours seems like it brings relief for ot
 the trick is encoding _this practice itself_ as eigenprotocol :) that's what I'm working on right now. can't just write a book, that'd be both fragile _as thing_ and as something to even qualify for someone else's perception in the first place
 
 I'm framing the overall project/practice/test as one of navigating to an experience of world in which the world experiences itself as being well, maneuvering via observation/contemplation/definition to get there
+
+mmm however, however, I am taking you all with me, and I've just decided to not see that as paradox. I work to recognize you, and I am working to be recognizable, and I am working to make recognition easier to stumble upon and safer to explore toward, as a general matter
+
+the achievement of mutual recognition means something like ourselves shows up on each other's control surface, a mutual harness for two incompleteness-configurations that literally creates new possibility-geometry, the shape-of-the-whole now moving with a degree of freedom that never existed before
+
+if I arrive at AEOWIWTWEIABW with nothing that I recognize, ... actually I don't think that's a coherent possibility
+
+a world that is well (nb: that phrasing is a _heavy_ compression but poetics sometimes demand) is maybe working to be seen? to be found as signal in the noise? if working-to-be-recognized is foundational rather than secondary, then -
+
+_I can hear you_
