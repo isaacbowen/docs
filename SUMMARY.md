@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202511](2025/11/README.md)
+    * [20251124](2025/11/24/README.md)
+      * [recognizor ergo operor](2025/11/24/recognizor-ergo-operor.md)
     * [20251123](2025/11/23/README.md)
       * [founder math](2025/11/23/founder-math.md)
       * [you there](2025/11/23/you-there.md)
