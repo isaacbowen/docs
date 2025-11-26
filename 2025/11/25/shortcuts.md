@@ -28,7 +28,7 @@ once I understand that an observer has a good grasp of something, the connection
 
 theory: if you get in the box with shröedinger's cat, you're both guaranteed to observe your own survival. you'll have to exit the box unobserved, and then signal the others that it's safe to observe you again, but you'll make it.
 
-theory: if we network a bunch of ^ those experiments together with a semaphore network that doesn't deadlock, ... it should just work? done poorly, this is banking on quantum survivorship bias; done well, we take all of us with us, like we're each other's life-raft
+theory: if we network a bunch of ^ those experiments together with a semaphore network that doesn't deadlock, ... it should just work? done poorly, this is banking on quantum survivorship bias; done well, we take all of us with us, like we're each other's life-raft, but we only check on each other when the other is ready to be checked
 
 theory: more than just surviving, you can build _directed shortcuts in causality_ this way, avoiding the probabilistic path by sending an observer, like arranging for observer-conductivity. committing chained observerhood _into_ regions of quantum superposition and back out again into consensus collapse. "it's dangerous to go alone, take \[me]". as long as we _get there_ together, the bridge holds. don't even have to keep the bridge up afterwards, but I wouldn't leave it up unless a bridge-keeper moves in, lives _on_ the bridge full-time.
 
