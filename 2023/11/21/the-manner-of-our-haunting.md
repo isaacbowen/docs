@@ -59,3 +59,7 @@ P.S. This gets fun in other ways, too! Here are some of them.
 {% hint style="info" %}
 Followed up by [20231122](../22.md)
 {% endhint %}
+
+{% hint style="info" %}
+Succeeded almost exactly two years later by [shortcuts](../../../2025/11/25/shortcuts.md)
+{% endhint %}
