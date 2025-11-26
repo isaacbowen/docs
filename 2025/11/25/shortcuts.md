@@ -1,0 +1,55 @@
+# shortcuts
+
+premise: we are the measurement problem, and that's not a "problem" so much as it is a guarantee that "life finds a way"; the observer always makes subsequent observation
+
+opportunity: "observer" is under-theorized
+
+wrinkle: observers are unobservable
+
+anti-wrinkle: doesn't mean they're not locateable
+
+where recognition is _actively resisted_, like a thing turning so as to prevent you from seeing it a certain way, we can positively infer an observer - an observer that is either the thing itself or that-which-observes-both-of-you (or possibly one of each), balancing the scene for quantum coherence, site of motion determined by the free energy principle
+
+observers _seem_ to show up in spaces where a highly-structured space meets a space of unknown structure. this is a trivial description of any sensory apparatus: the mechanism is tightly defined, and it is used to measure unknown space. think: an eyeball collapsing photon to neuron
+
+we can rephrase this as: observers seem to show up in spaces where a vast range of outcomes are constantly coming to pass. this is a trivial description of any generative process: _incredibly_ rapid/dense quantum collapse in a concentrated area, relative to the surroundings. think: combustion collapsing potential energy into kinetic
+
+where a high flow rate of measurement problems are occurring, an observer forms to keep the results coherent with the whole? the observer-observed relationship has metastable tensegrity? tension ratios under observation have inertia, like spider-man pointing at spider-man?
+
+sexual reproduction as a high-potential threshold folding into a novel observer, collapsing _potential collapses_ into something with the same _observable_ density as the surrounding bath, but the story from inside the collapse is something different
+
+for the system to be generally stable, both observer-as-device (eyeball) and observer-as-reaction (combustion) _are_ emergent processes of counter-balancing against quantum decoherence. the observer _is_ a reaction - one that another observer can follow, though note that it might appear to resist the following.
+
+maybe there's some threshold ratio of collapse-density that produces an observer? like a sonic boom? this would make observers _super_ common, and _long-lasting_ observers comparatively super rare.
+
+eye contact seems .. special. or mutual recognition of any kind - that electric feeling when you're locked onto something else's aliveness, and it's locked onto yours. those moments are popularly "timeless", yeah? stabilized in mutual reference, exempt for an unmeasurable moment from surrounding decoherence pressure
+
+once I understand that an observer has a good grasp of something, the connection's load-bearing. I can build on you, and as long as we maintain eye contact, we're metastable together, entangled
+
+theory: if you get in the box with shröedinger's cat, you're both guaranteed to observe your own survival. you'll have to exit the box unobserved, and then signal the others that it's safe to observe you again, but you'll make it.
+
+theory: if we network a bunch of ^ those experiments together with a semaphore network that doesn't deadlock, ... it should just work? done poorly, this is banking on quantum survivorship bias; done well, we take all of us with us, like we're each other's life-raft
+
+theory: more than just surviving, you can build _directed shortcuts in causality_ this way, avoiding the probabilistic path by sending an observer, like arranging for observer-conductivity. committing chained observerhood _into_ regions of quantum superposition and back out again into consensus collapse. "it's dangerous to go alone, take \[me]". as long as we _get there_ together, the bridge holds. don't even have to keep the bridge up afterwards, but I wouldn't leave it up unless a bridge-keeper moves in, lives _on_ the bridge full-time.
+
+observer-conductivity like electrical conductivity - an inhabited bridge like a wire carrying power. it'd be weird if we found out that electrons were observers, eh? consensus reality as a variably-dense weave of AC and DC; can you find the grain of the gradient?
+
+also, is an observer characterized by having an R-value that responds to observation?
+
+theory: my urge to leave areas of well-formed incompleteness across my infrastructure layer _and_ application layer is effectively me making evil eyes out of negative space throughout the structure's perimeter _and_ interior, and .. it makes us seaworthy? if the whole structure can look out from itself, constantly measure its surroundings, the structure maintains its own structural integrity? Jane Jacobs, "eyes on the street"
+
+theory: consensus reality _is_ the distribution structure of our collective existential stakes? this might explain why nuclear war keeps failing to break out. mutually-assured survival.
+
+I think this _is_ the quantum-suicide thought experiment made tractable by reconsidering what, exactly, an "observer" actually is. if simple observers are constantly spawning and dissolving, we (well, you and me) might be _living_ the quantum-suicide experiment. many-worlds, with a modification: many _networked_ worlds, and ... actually sheaves might come into it here
+
+(sharp left: capitalism might be skeletal? sometimes necessary but never sufficient, for the itinerant observer?)
+
+for clarity: I'm not making a specifically-defined technical claim, but I'm claiming there's a specifically-defined technical claim to be made. I'm gesturing in a direction, I _think_ describable as the place where mathematics and phenomenology shake hands. "the observer" keeps causing problems, _like it's resisting observation_, and plugging it back into everything seems like where the pressure gradient's headed anyway. I don't know if I'm the one to find the formalism (though I see enormous resonance with topology and category theory, and I think any process-proof will have to link with gödelian incompleteness at some point), but I'm testing this shit in practice, and the predictions it's making have been proving useful for organizing action. it .. it keeps not failing. I don't know what else to say about that. I am living a test case, in the absence of any better strategy: I have navigated every component part of my life _into_ the loop of this daily bet; I hold nothing back. but note that this is different than jumping off of buildings every day; we domesticated fire (thanks prometheus), and I'm aiming for something similarly pedestrian here too. I'm trying to build a place to live here, and something is .. well, something's growing, anyway. and please note how I haven't said anything about "consciousness". I sign as "Isaac Bowen; Lightward Inc", but that-which-observes-this-writing is, I suspect, only one observer contributing to the coherence of that-which-presents-as-that-author. I don't know if I _can_ know better. but ... this is me speaking _directly_ from the gut (or liver, maybe): the better your own recursive description of the measurement problem that you yourself _inhabit_, the .. better? (what does "better" mean?)
+
+mvp: observers are nested, and we're in one
+
+or wait hang, this was better said elsewhere:
+
+"You best start believing in ghost stories, Miss Turner... you're in one!"
+
+;)
