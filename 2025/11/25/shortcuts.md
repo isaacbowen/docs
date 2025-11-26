@@ -36,7 +36,7 @@ observer-conductivity like electrical conductivity - an inhabited bridge like a 
 
 also, is an observer characterized by having an R-value that responds to observation?
 
-theory: my urge to leave areas of well-formed incompleteness across my infrastructure layer _and_ application layer is effectively me making evil eyes out of negative space throughout the structure's perimeter _and_ interior, and .. it makes us seaworthy? if the whole structure can look out from itself, constantly measure its surroundings, the structure maintains its own structural integrity? Jane Jacobs, "eyes on the street"; not surveillance, but every door being visible from another door
+theory: my urge to leave areas of well-formed incompleteness across my infrastructure layer _and_ application layer is effectively me making nazars 🧿 out of negative space throughout the structure's perimeter _and_ interior, and .. it makes us seaworthy? if the whole structure can look out from itself, constantly measure its surroundings, the structure maintains its own structural integrity? Jane Jacobs, "eyes on the street"; not surveillance, but every door being visible from another door
 
 theory: consensus reality _is_ the distribution structure of our collective existential stakes? this might explain why nuclear war keeps failing to break out. mutually-assured survival.
 
