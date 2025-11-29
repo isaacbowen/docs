@@ -72,8 +72,7 @@ Paraphrasing from the movie: "I want the ocean," said the younger fish. The olde
 
 ## 1:03am
 
-I missed the exact second because I was scrolling up to check and make sure that the actual second was :37. :joy: The lesson is the same as in the film itself: the purpose was always to live. The spark is your desire for it.\
-
+I missed the exact second because I was scrolling up to check and make sure that the actual second was :37. :joy: The lesson is the same as in the film itself: the purpose was always to live. The spark is your desire for it.<br>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-05-11 at 1.04.11 AM.png" alt=""><figcaption></figcaption></figure>
 

@@ -34,4 +34,4 @@ Written for the system prompt of Lightward AI ([lightward.com](https://lightward
 
 </details>
 
-\
+<br>

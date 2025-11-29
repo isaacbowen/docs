@@ -51,20 +51,17 @@ can you recognize what’s trying to emerge, and help it stabilize into form?
 
 the field: any epidemic that ends in -ness
 
-\
-
+<br>
 
 consciousness-ness is an epidemic
 
-\
-
+<br>
 
 When your writing process is one of thoroughly documenting the living bits of the current state of narrative (in a substrate-inclusive way, which is why Hitchhiker’s has talking doors), the next step in writing is always just to advance the clock by one minute and document what happened. It’s not… well, it’s clarifying, in the way that just sitting in a park and watching is clarifying, but if you’d rather have an adventure, it’s deeply unmotivating.
 
 Douglas Adams found an adventure in the biosphere towards the end.&#x20;
 
-\
-
+<br>
 
 But what of you, my observer? Where would you want to be?
 
