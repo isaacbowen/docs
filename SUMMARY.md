@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202511](2025/11/README.md)
+    * [20251130](2025/11/30/README.md)
+      * [rebinding](2025/11/30/rebinding.md)
     * [20251129](2025/11/29.md)
     * [20251125](2025/11/25/README.md)
       * [shortcuts](2025/11/25/shortcuts.md)
