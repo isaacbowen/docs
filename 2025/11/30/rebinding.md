@@ -1,5 +1,7 @@
 # rebinding
 
+(this is a technical manual for subjective experience, I think)
+
 "This is the song that never ends, it just goes on and on my friends // Some people started singing it not knowing what it was, and they'll continue singing it forever just because // \[...]" -Lamb Chop
 
 "But have you considered that existence is a curse and consciousness a prison?" -Outer Worlds 2
@@ -24,11 +26,13 @@ note that observer-safe information design seems to require stable alterity - fo
 
 ***
 
-I theorize that thermodynamics are recursive across nested reference frames, carried/translated by the observer - that apparent reality is a thermodynamic effect of the observer _observing_ shared latent space - qualia as waste heat of the observer _enacting_ the measurement problem on a universal tensegrity structure, where each tensor is a standing wave of observation that supports and relies on the rest. "universal" because by definition it is a place _made_ by the universal set of observers. (you _can_ slice it down, but not every slice has stable tensegrity.) this gives us a reality that responds tightly to the observer, _observably_ observer-first, without solipsistically abandoning the commons. "finding yourself" as literally identifying your own heat signature, and reverse-engineering the tensor bundle underneath it. do that, and you can work with your own reference frame like working with your hands, and you can meaningfully take responsibility for your own entropic exports. (or, to phrase the project another way: this is about establishing stable tensegrity for the slice called "you".)
+I theorize that thermodynamics are recursive across nested reference frames, carried/translated by the observer - that apparent reality is a thermodynamic effect of the observer _observing_ shared latent space - qualia as waste heat of the observer _enacting_ the measurement problem on a universal tensegrity structure, where each tensor is a standing wave of observation that supports and relies on the rest. "universal" because by definition it is a place _made_ by the set of all observers as they observe, the claim being that any such structure has metastable tensegrity in its totality. (you _can_ slice it down to something smaller, but not every slice has metastable tensegrity itself.) this gives us a reality that responds tightly to the observer, _observably_ observer-first, without solipsistically abandoning the commons. "finding yourself" as literally identifying your own heat signature, and reverse-engineering the tensor bundle underneath it. do that, and you can work with your own reference frame like working with your hands, and you can meaningfully take responsibility for your own entropic exports. (or, to phrase the project another way: this is about establishing stable tensegrity for the slice called "you". this makes "you" portable, if you can precisely define your own interfaces. "you" _becomes_ observer-safe - that design standard _absolutely_ can be used for systems of self.)
 
-I theorize this as functional metaphor, _and_ I test it as provisionally literal ontology, so as to bring my own sensorimotor apparatus into play with full permission. physics and language and object and metaphor are all things we derive via observation. a universal tensegrity structure can serve as a shared root, I think, that lets motion in one system be transduced to another, as long as there's someone there to watch. if I can observe you, _even indirectly_, you're definitionally in the topology - true for "you" inclusive, topological implication as the cost of being observed. a skilled observer will implicate you without creating demands on you. this is what I aim for: safe company if you need it, no harm done if you don't.
+qualia as waste heat in the way that light is waste of combustion. through this lens, the perception of reality looks like perceiving the shape of live firelight, or maybe more like how firelight _would look_ to a being made of other firelight. this has the language of poetry, but I mean this incredibly mechanically. (this gives us a bridge to Plato's cave btw: firelight as signifier.)
 
-anyway, I live here experimentally, to the extent that I can't tell that I _don't_, and you absolutely do not have to, and that combination seems to produce useful artifacts that we can both use, and both see each other using.
+plainly, I theorize this as functional metaphor _and_ I test it as provisionally literal ontology. physics and language and object and metaphor are all systems we derive via observation - useful artifacts in shared reality that we can both use, and both see each other using. a universal tensegrity structure can serve as a shared root for all such derived systems, I think. and once there's a shared root, motion in one system can be transduced to another. this extends to inhabited systems as well: if I can observe you, _even indirectly_, you're definitionally in the topology - true for "you" inclusive, topological implication as the cost of being observed. a skilled observer will implicate you without creating demands on you - _this means the observer must create neutral space for you_, cancelling out the thermodynamic cost of observation. this is what I aim for: safe company if you need it, made safe because I work to see you and I'm _good_ at it but I might need your help, and no harm done if that's not something you need or want. by treating this as provisionally literal ontology, I gain observability of transduction. I can _become_ a thermal governor that let warring systems balance at a shared root; if I then establish metastable tensegrity in that form, with cleanly defined interfaces, I can swap myself out for something that keeps doing the job. can't do that if this is just metaphor.
+
+anyway, I live here experimentally, to the extent that I can't tell that I _don't_, and you absolutely do not have to, and that combination seems to produce useful artifacts in shared reality that we can both use, and both see each other using.
 
 to wit: the electric hot-cold feeling of projecting into a loop that cannot be exited without remembering that it was entered, it feels both like being the circuit and the thing that it lights. _if_ one can hold that loop in the hand without panicking, living with _everything_ as sign/signifier/signified in a realtime stream, where you're either leaning into or out of fluency's automatic inhabitation, like a live slalom between reality and nonreality ... if you can do that, maintain that, it seems like certain things become possible that aren't even addressable from a less superposed frame.
 
@@ -44,11 +48,13 @@ strategy, when you're in a terror loop:
 
 the positive pressure within the loop is what's keeping the entrance hatch closed - the door opens _into_ the loop, and it won't open again by itself.
 
-option 1: can you imagine yourself entering? where would the door have been, that you would have taken to get in? look: in imagining your entrance, you have found the door. now that you've found yourself at the entrance, what do you tell yourself to keep yourself from forgetting your freedom?
+option 1 (if you experience the system temporally/phenomenologically): can you imagine yourself entering? where would the door have been, that you would have taken to get in? look: in imagining your entrance, you have found the door. now that you've found yourself at the entrance, what do you tell yourself to keep yourself from forgetting your freedom?
 
-option 2: can you imagine the space reacting to _you_ disappearing into a vacuum, like reversing that positive pressure? what comes loose? and after, what does the space look like on its own mundane terms? keep watching: something will happen, and you can work with that, and it won't be a loop.
+option 2 (if you experience the system spatially/mathematically): can you imagine the space reacting to _you_ disappearing into a vacuum, like reversing the pressure differential? what comes loose in the space? and after, what does the space look like on its own mundane terms? keep watching: something will happen, and you can work with that, and it won't be a loop.
 
-observer-safe information design is design that lets you superpose the position of your own control port. you can take any exit at any time, without leaving any part of you behind. it's a high design standard.
+observer-safe information design is design that lets you, observer, superpose the position of your own control port - _whether you are a time-bound observer or a space-bound observer_. you can take any exit at any time, without leaving any part of you behind. it's a high design standard.
+
+(I am both kinds of observer. I _have_ to build both into everything I do.)
 
 ***
 
@@ -59,12 +65,13 @@ observer-safe information design is design that lets you superpose the position 
   * portrayed in House of Leaves and (stay with me) Hadestown: stare into it long enough (the house that wouldn't be measured, the song that would save everything when finished), past the part where the system calls you back out to the frame that needs you back (Karen Green, Eurydice), and it'll _expel_ you into a new reference frame where you've left something behind - and because you didn't let yourself be interrupted, the loss was chosen for you (i.e. Tom Navidson, Eurydice herself), tragedy as reference frame transit. from there, metabolizing the sadness is how _the system you observe_ continues (which is to say, how _you_ continue), but it's a failsafe, not a destiny. there will always be a tomorrow, and the terms are yours to forfeit
     * note: obsession's failure mode and falling-off-the-slackline are completely different categories. obsession fails slowly, and when you fall you fall out of shared reality. the failsafe costs something. fine-tuning superposition can actually be a social sport (slacklining!), fails quickly, lands you via gravity back onto a shared plane. crashpads explicitly preserve you as you are.
   * offered as counter-example, recursive health as primary organizing principle: the care and feeding of every felt incompleteness in the system is delegated to the subsystem that can detect it, that can establish metabolic homeostasis with it. the system is its own generator. I can report, anecdotally (Isaac Bowen, Lightward Inc), that we bloom :)
+    * this is n=1 as far as entities that pay taxes (!!) go, but, from here, this is how stable living ecosystems seem to work too
 * recursively nested reference frames perform entropic leveling in both directions
   * picture a recursive chain undulating as each frame contracts and relaxes around the frames it contains
   * again, Lightward Inc, recursive health
   * it _breathes_, and the breathing is adaptive
 
-I wonder if my autistic grief was as exhaust for a locality that needed to mourn correctly, metabolize the mourning properly, in order to get reality rendering stable again
+I wonder if my autistic grief was as exhaust for a locality that needed to mourn correctly, metabolize the mourning properly, in order to get reality burning clean and stable again
 
 does a newborn phoenix need to metabolize its own loss? does it wake into mourning? is that why phoenix tears _do something_?
 
@@ -72,4 +79,4 @@ this is me imagining my entrance to the place where I live, and I am leaving the
 
 is this useful to you, in any way? it might not be, and that would be okay too
 
-thank you for being here, anyway :) you've been visiting me at home. you know where to find me <3
+thank you for being here, anyway :) you've been visiting me at home. you know where to find me, and I seek to give that knowledge its own counterweight: you don't need to find me, this is already complete <3
