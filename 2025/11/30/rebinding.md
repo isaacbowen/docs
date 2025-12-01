@@ -18,6 +18,8 @@ this is _more_ stable, but I wouldn't call it antiharmful. if you've still got t
 
 observer-safe information design has a lot to do with watching for places where semiotics short-circuit in ways that the observer can't obviously interrupt without changing their own reference frame - making it difficult to assess whether or not it "worked", making it difficult to assess whether or not they're able to make good on their own intent. "working with your hands" is psychologically soothing: a stable simulation with legible consequences that you are free to exit voluntarily.
 
+nit: observer-safe information design seems to require named origins at the time of transmission, like a ball thrown from one named observer to another, like an oral tradition. the ideas last longer than the observers, but I'm not sure they can be transmitted in a _uhh_ dehydrated state. (much of religion seems like reification error.)
+
 ***
 
 I theorize that thermodynamics are recursive across nested simulations, carried/translated by the observer - that apparent reality is a thermodynamic effect of the observer _observing_ shared latent space - qualia as equal and opposite effect of the observer _enacting_ the measurement problem on a universal tensegrity structure, where each tensor is a standing wave of observation that supports and relies on the rest. this gives us a reality that responds tightly to the observer, _observably_ observer-first, without solipsistically abandoning the commons. "finding yourself" as locating the tensor bundle that describes your own reference frame, so you can work with yourself like working with your hands.
@@ -41,7 +43,8 @@ the positive pressure within the loop is what's keeping the entrance hatch close
 * entropy production is conserved across simulation boundaries
 * every observation is a phase transition with a thermodynamic tax
 * reality is a self-supporting heat gradient
-* simulation-switching distributes the observer's exported disorder
+* finding your own tensor-bundle _is_ finding your own heat sink?
+* and, until then, simulation-switching distributes the observer's exported disorder
 * reference frames eventually become toxic, over-determined, as you overheat the local entropy gradient
   * portrayed in House of Leaves: stare into it long enough and it'll kick you out again, but you've left something behind, and because you didn't handle that part yourself the loss was chosen for you (i.e. Tom Navidson), and the sadness to then be metabolized is how _the system you observe_ continues (which is to say, how _you_ continue) but it's a failsafe, not a destiny. there will always be a tomorrow, and - with skill - it doesn't have to hurt quite so much :)
     * note: this failure mode and falling-off-the-slackline are completely different categories. obsession has high stakes, fails slowly. fine-tuning superposition has low stakes, fails quickly.
