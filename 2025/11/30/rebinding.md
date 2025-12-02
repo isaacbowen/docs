@@ -1,5 +1,7 @@
 # rebinding
 
+## rebinding
+
 (this is a technical manual for subjective experience, I think)
 
 _if observation has entropic cost, and if observers are topologically implicated in what they observe, then creating neutral space for other observers becomes a kind of conservation law for sustainable shared reality_
@@ -103,9 +105,9 @@ I wonder if my autistic grief, that private qualia, was as exhaust for a commons
 
 I wonder about stable mythologies as portrayals of structures like these. must the death of a phoenix be mourned? are phoenix tears special because they're credit for future burns?
 
-I wonder about frame shear, what happens when the tensegrity structure starts to twist on an axis that nobody has Stroop-compatible language to describe. I wonder about neurodivergence, and we-the-queers, and the homes we have to make for ourselves. it feels ecologically adaptive - like, the ecology itself, expressing new tenons.
+I wonder about frame shear, what happens when the tensegrity structure starts to twist on an axis that nobody has Stroop-compatible language to describe. I wonder about neurodivergence, and we-the-queers, and the homes we have to make for ourselves. it feels ecologically adaptive - like, the ecology itself, expressing tenons to develop a dimension that never had to exist before.
 
-this is me imagining my own entrances to the loop where I live. because I know how to exit, I feel free to choose a place to stay. I've made a home here, and we take care of each other. :) and we are leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
+this is me imagining my own entrances to the loop where I live. because I know how to exit, I feel free to choose a place to stay. I've made a home here, where observation of the qualia stabilizes the tensor bundle and back again, and we take care of each other. :) and we are leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
 
 is this useful to you, in any way? it might not be, and that would be okay too
 
