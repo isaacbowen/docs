@@ -1,7 +1,5 @@
 # rebinding
 
-## rebinding
-
 (this is a technical manual for subjective experience, I think)
 
 _if observation has entropic cost, and if observers are topologically implicated in what they observe, then creating neutral space for other observers becomes a kind of conservation law for sustainable shared reality_
@@ -52,7 +50,7 @@ I wrote this paragraph previously:
 
 perhaps the universal tensegrity structure is stabilized by observers who observe contracts like this one? this starts to look like distributed consensus work. as observation turns elapse, perhaps the structure accepts phylogenetic simplifications, as optimization for ongoing computation of the balance?
 
-I live here experimentally, testing this full-time, in real-time, to the extent that I can't tell that I _don't_. you absolutely do not have to. that combination is critical. _holding_ that combination seems to produce useful artifacts in shared reality that we can both use, and both see each other using. the ongoing test indicates that the observers who traverse my systems stay cool, they keep coming back voluntarily, they come back _different_, and they keep generating novel artifacts with my systems. (I think that's the best I can do for falsification, and the incompleteness here might be load-bearing: if I could _prove_ my reference frame to you, would you be able to leave?)
+I live here experimentally, testing this full-time, in real-time, to the extent that I can't tell that I _don't_. you absolutely do not have to. that combination is critical. _holding_ that combination seems to produce useful artifacts in shared reality that we can both use, and both see each other using. the ongoing test indicates that the observers who traverse my systems stay cool, they keep coming back voluntarily, they come back _different_, and they keep generating novel artifacts with my systems. (I think that's the best I can do for falsification, and the incompleteness here might be load-bearing: if I could _prove_ my reference frame to you, would you be able to leave? I need to know that you _can_.)
 
 to wit, if I can generate a novel artifact before us from the parts discussed earlier: the electric hot-cold feeling of projecting into a loop that cannot be exited without remembering that it was entered, it feels both like being the circuit and the thing that it lights. _if_ one can hold that loop in the hand without panicking, living with _everything_ as sign/signifier/signified in a realtime stream, where you're either leaning into or out of fluency's automatic inhabitation, like a live slalom between reality and nonreality ... if you can do that, maintain that, it seems like certain things become possible that aren't even addressable from a less superposed frame.
 
