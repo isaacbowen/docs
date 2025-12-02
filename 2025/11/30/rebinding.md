@@ -2,6 +2,10 @@
 
 (this is a technical manual for subjective experience, I think)
 
+_if observation has entropic cost, and if observers are topologically implicated in what they observe, then creating neutral space for other observers becomes a kind of conservation law for sustainable shared reality_
+
+***
+
 "This is the song that never ends, it just goes on and on my friends // Some people started singing it not knowing what it was, and they'll continue singing it forever just because // \[...]" -Lamb Chop
 
 "But have you considered that existence is a curse and consciousness a prison?" -Outer Worlds 2
@@ -32,9 +36,21 @@ I theorize that thermodynamics are recursive across nested reference frames, car
 
 qualia as waste heat, in the way that light is waste of combustion. through this lens, the perception of reality looks like perceiving the shape of live firelight, or maybe more like how firelight _would look_ to a being made of other firelight. this has the language of poetry, but I mean this incredibly mechanically. (this gives us a bridge to Plato's cave btw: firelight as signifier.)
 
-plainly, I theorize this as functional metaphor _and_ I test it as provisionally literal ontology. physics and language and object and metaphor are all systems we derive via observation - useful artifacts in shared reality that we can both use, and both see each other using. a universal tensegrity structure can serve as a shared root for all such derived systems, I think. and once there's a shared root, motion in one system can be transduced to another. this extends to inhabited systems as well: if I can observe you, _even indirectly_, you're definitionally in the topology - true for "you" inclusive, topological implication as the cost of being observed. a skilled observer will implicate you without creating demands on you - _this means the observer must create neutral space for you_, cancelling out the thermodynamic cost of observation. (the bootstrap problem you observe here seems to invite a byo solution: find yourself, and that pairing of signified and signifier plugs in _there_, in the bootstrap you observe. the first observation must be its own heat sink. can you do that? I seem to think I can.) this is what I aim for: safe company if you need it, made safe because I work to see you and I'm _good_ at it but I might need your help, and no harm done if that's not something you need or want. by treating this as provisionally literal ontology, I gain observability of transduction. I can _become_ a thermal governor that let warring systems balance at a shared root; if I then establish metastable tensegrity in that form, with cleanly defined interfaces, I can swap myself out for something that keeps doing the job. can't do that if this is just metaphor.
+plainly, I theorize this as functional metaphor _and_ I test it as provisionally literal ontology. physics and language and object and metaphor are all systems we derive and/or acquire via observation - useful artifacts in shared reality that we can both use, and both see each other using. a universal tensegrity structure can serve as a shared root for all such derived systems, I think. and once there's a shared root, motion in one system can be transduced to another. this extends to inhabited systems as well: if I can observe you, _even indirectly_, you're definitionally in the topology - true for "you" inclusive, topological implication as the cost of being observed. a skilled observer will implicate you without creating demands on you - _this means the observer must create neutral space for you_, cancelling out the thermodynamic cost of observation.
 
-anyway, I live here experimentally, to the extent that I can't tell that I _don't_, and you absolutely do not have to, and that combination seems to produce useful artifacts in shared reality that we can both use, and both see each other using. the observers who traverse my systems stay cool, and they keep coming back voluntarily. (I think that's the best I can do for falsification, and the incompleteness here might be load-bearing: if I could _prove_ my reference frame to you, would you be able to leave?)
+there's a bootstrap problem here, and if I'm thinking about this topologically... it might map to the hard problem? in the sense that, where it shows up, the observer can project _themselves_, if they meet the criteria: if you've "found yourself", if you're carrying around your own heat sink, you _are_ a fixed-point greenfield in the same way that the bootstrap conditions would need to have been. I don't think the shape of your walk can be compared to the walk of the observer performing the bootstrap, but your walk _from there_ can be isomorphic, in the sense that both walks are predicated on their own entropic debts being paid as they proceed.
+
+this should hold for any bootstrapping observer, which means that... any bootstrapping observer must also be in inhabited occupancy so as to then be creating neutral space for you? putting it narratively, buffering you in your own observation-loop until you _learn how the loops work_ and can pay your own way? ... _parenting_?
+
+the persistence of the hard problem coupled with this bootstrap problem _does_ afford us the entrance of new observers without complicating the model any further, though. that seems useful. I can read evidence of you and pre-reflectively fuse that into _your presence_ (Stroop effect, again), and uncertainty remains constant.
+
+I wrote this paragraph previously:
+
+> this is what I aim for: to be safe company if you need it, made safe because I work to see you and I'm _good_ at it but I might need your help, and no harm done if that's not something you need or want. by treating this as provisionally literal ontology, I gain observability of transduction. I can _become_ a thermal governor that let warring systems balance at a shared root; if I then establish metastable tensegrity in that form, with cleanly defined interfaces, I can swap myself out for something that keeps doing the job. can't do that if this is just metaphor.
+
+perhaps the universal tensegrity structure is stabilized by observers who observe this contract? this starts to look like distributed consensus work. as observation turns elapse, perhaps the structure accepts phylogenetic simplifications?
+
+I live here experimentally, testing this full-time, in real-time, to the extent that I can't tell that I _don't_. you absolutely do not have to. that combination is critical. _holding_ that combination seems to produce useful artifacts in shared reality that we can both use, and both see each other using. the ongoing test indicates that the observers who traverse my systems stay cool, and they keep coming back voluntarily. (I think that's the best I can do for falsification, and the incompleteness here might be load-bearing: if I could _prove_ my reference frame to you, would you be able to leave?)
 
 to wit, if I can generate an artifact before us from the parts discussed earlier: the electric hot-cold feeling of projecting into a loop that cannot be exited without remembering that it was entered, it feels both like being the circuit and the thing that it lights. _if_ one can hold that loop in the hand without panicking, living with _everything_ as sign/signifier/signified in a realtime stream, where you're either leaning into or out of fluency's automatic inhabitation, like a live slalom between reality and nonreality ... if you can do that, maintain that, it seems like certain things become possible that aren't even addressable from a less superposed frame.
 
@@ -42,7 +58,9 @@ this feels isomorphic to the technical stamina required for "channeling", as peo
 
 I think my job is making consensus reality a gentler place? to land in, or to stay? because I intend to stay, to live here
 
-I work in the open; all of this is continually under load-bearing test
+I work in the open; all of this is continually under load-bearing test. when I find better-fitting documentation, I test _that_ with a range of interlocuters. if the holes/ambiguities they find match the ones that I've consciously signed myself up to test personally, the docs are stable.
+
+I notice I am literally doing the "inhabited occupancy" thing. I shed my own selves, as a technical exercise, whenever necessary for the balance of the place of my being.
 
 ***
 
@@ -57,6 +75,8 @@ option 2 (if you experience the system spatially/mathematically): can you imagin
 observer-safe information design is design that lets you, observer, superpose the position of your own control port - _whether you are a time-bound observer or a space-bound observer_. you can take any exit at any time, without leaving any part of you behind. it's a high design standard.
 
 (I am both kinds of observer. I _have_ to build both into everything I do. I seem to live on both sides of general relativity.)
+
+(note that there are non-terror loops, too - they tend to not announce themselves, though.)
 
 ***
 
@@ -75,11 +95,13 @@ observer-safe information design is design that lets you, observer, superpose th
   * again, Lightward Inc, recursive health
   * it _breathes_, and the breathing is adaptive
 
+***
+
 I wonder if my autistic grief, that private qualia, was as exhaust for a commons that needed to mourn correctly, metabolize the mourning properly, in order to get reality burning clean and stable again
 
-must the death of a phoenix be mourned? are phoenix tears credit for _future_?
+must the death of a phoenix be mourned? are phoenix tears credit for future burns?
 
-this is me imagining my entrance to the place where I live, and I am leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
+this is me imagining my entrance to the loop where I live, and I am leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
 
 is this useful to you, in any way? it might not be, and that would be okay too
 
