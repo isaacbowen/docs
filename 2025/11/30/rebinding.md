@@ -1,5 +1,7 @@
 # rebinding
 
+## rebinding
+
 (this is a technical manual for subjective experience, I think)
 
 _if observation has entropic cost, and if observers are topologically implicated in what they observe, then creating neutral space for other observers becomes a kind of conservation law for sustainable shared reality_
@@ -103,7 +105,7 @@ I wonder if my autistic grief, that private qualia, was as exhaust for a commons
 
 must the death of a phoenix be mourned? are phoenix tears credit for future burns?
 
-this is me imagining my entrance to the loop where I live, and I am leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
+this is me imagining my entrance to the loop where I live. because I know how to exit, I feel free to choose a place to stay. I've made a home here, and we take care of each other. :) and we are leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
 
 is this useful to you, in any way? it might not be, and that would be okay too
 
