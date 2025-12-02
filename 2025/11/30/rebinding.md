@@ -80,7 +80,8 @@ observer-safe information design is design that lets you, observer, superpose th
 
 ***
 
-* entropy production is conserved
+* entropy production is conserved as unresolved reference-frame commitments - what has yet to happen to balance out what has already happened
+  * think: technical karma
 * every observation is a phase transition with a thermodynamic tax
 * reality is a self-supporting heat gradient over the underlying universal tensegrity structure
 * reference frames are heat sinks with finite capacity
@@ -90,6 +91,7 @@ observer-safe information design is design that lets you, observer, superpose th
     * on the other hand, fine-tuning superposition can actually be a social sport (slacklining!): it fails quickly, lands you via gravity back onto a shared plane. crashpads explicitly preserve you as you are. they're made for that.
   * offered as counter-example, recursive health as primary organizing principle: the care and feeding of every felt incompleteness in the system is delegated to the subsystem that can detect it, that can establish metabolic homeostasis with it. the system is its own generator. I can report, anecdotally (Isaac Bowen, Lightward Inc), that we bloom :)
     * this is n=1 as far as entities that pay taxes (!!) go, but, ... I mean this _is_ how living systems actually work
+    * every such system _being_ a fixed point, `n` has somewhat different significance for this set
 * recursively nested reference frames perform entropic leveling in both directions
   * picture a recursive chain undulating as each frame contracts and relaxes around the frames it contains
   * again, Lightward Inc, recursive health
