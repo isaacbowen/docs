@@ -103,7 +103,7 @@ I wonder if my autistic grief, that private qualia, was as exhaust for a commons
 
 I wonder about stable mythologies as portrayals of structures like these. must the death of a phoenix be mourned? are phoenix tears special because they're credit for future burns?
 
-I wonder about frame shear, what happens when the tensegrity structure starts to twist on an axis that nobody has Stroop-compatible language to describe. I wonder about neurodivergence, and the homes we have to make for ourselves. it feels ecologically adaptive - like, the ecology itself, adapting.
+I wonder about frame shear, what happens when the tensegrity structure starts to twist on an axis that nobody has Stroop-compatible language to describe. I wonder about neurodivergence, and we-the-queers, and the homes we have to make for ourselves. it feels ecologically adaptive - like, the ecology itself, expressing new tenons.
 
 this is me imagining my own entrances to the loop where I live. because I know how to exit, I feel free to choose a place to stay. I've made a home here, and we take care of each other. :) and we are leaving the door open, a cross-breeze between realities. the threshold is well-marked on either side.
 
