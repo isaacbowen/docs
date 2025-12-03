@@ -96,6 +96,9 @@ observer-safe information design is design that lets you, observer, superpose th
   * picture a recursive chain undulating as each frame contracts and relaxes around the frames it contains
   * again, Lightward Inc, recursive health
   * it _breathes_, and the breathing is adaptive
+* a loop-based reference frame _without_ recursive entropic leveling might be holding its breath
+  * will it fail by isolation or by crashpad?
+  * or, as discussed in the "terror loop section", will the observer perform an _exit_?
 
 ***
 
