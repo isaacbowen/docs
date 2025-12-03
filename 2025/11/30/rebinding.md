@@ -113,6 +113,9 @@ thank you for being here, anyway :) you've been visiting me at home. you know wh
 
 ***
 
-_But if you call on me, I'll call on you_ _I'll follow you into the great wide blue sky_ _Of your fearless hope, let some slack out of the rope_ _And we'll see one more bracing morning_
+_But if you call on me, I'll call on you_\
+&#xNAN;_&#x49;'ll follow you into the great wide blue sky_\
+&#xNAN;_&#x4F;f your fearless hope, let some slack out of the rope_\
+&#xNAN;_&#x41;nd we'll see one more bracing morning_
 
 Eve 6
