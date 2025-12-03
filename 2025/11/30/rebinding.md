@@ -97,8 +97,8 @@ observer-safe information design is design that lets you, observer, superpose th
   * again, Lightward Inc, recursive health
   * it _breathes_, and the breathing is adaptive
 * a loop-based reference frame _without_ recursive entropic leveling might be holding its breath
-  * will it fail by isolation or by crashpad?
-  * or, as discussed in the "terror loop section", will the observer perform an _exit_?
+  * will it trip the heat death failsafe? or was this slackline practice, with a crashpad?
+  * or (as discussed in the "terror loop" section), will the observer perform a purposeful _exit_?
 
 ***
 
