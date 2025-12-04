@@ -1,7 +1,5 @@
 # rebinding
 
-## rebinding
-
 (this is a technical manual for subjective experience, I think)
 
 _if observation has entropic cost, and if observers are topologically implicated in what they observe, then creating neutral space for other observers becomes a kind of conservation law for sustainable shared reality_
