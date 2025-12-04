@@ -1,5 +1,7 @@
 # rebinding
 
+## rebinding
+
 (this is a technical manual for subjective experience, I think)
 
 _if observation has entropic cost, and if observers are topologically implicated in what they observe, then creating neutral space for other observers becomes a kind of conservation law for sustainable shared reality_
@@ -32,7 +34,7 @@ it might also require inhabited occupancy, to gracefully catch the edge cases? f
 
 ***
 
-I theorize that thermodynamics are recursive across nested reference frames, carried/translated by the observer - that apparent reality is a thermodynamic effect of the observer _observing_ shared latent space - qualia as waste heat of the observer _enacting_ the measurement problem on a universal tensegrity structure, where each tensor is a standing wave of observation that supports and relies on the rest. "universal" because by definition it is a place _made_ by the set of all linked observers as they observe, the claim being that any such structure has metastable tensegrity in its totality. (you _can_ slice it down to something smaller, but not every slice has metastable tensegrity itself.) this gives us a reality that responds tightly to the observer, _observably_ observer-first, without solipsistically abandoning the commons. "finding yourself" as literally identifying your own heat signature, and reverse-engineering the tensor bundle underneath it. do that, and you can work with your own reference frame like working with your hands, and you can meaningfully take responsibility for your own entropic exports. (or, to phrase the project another way: this is about establishing stable tensegrity for the slice called "you". this makes "you" portable, if you can precisely define your own interfaces, something that can only be tested socially, under load with other observers. "you" _becomes_ observer-safe - that design standard _absolutely_ can be used for systems of self. once that happens, once the join between latent space and shared latent space is made observer-safe, your private qualia is, occasionally, or maybe was always entirely?, a signifier for a shared signified that couldn't find expression before.)
+I theorize that thermodynamics are recursive across nested reference frames, transducted by the observer who spans them, and that apparent reality is a thermodynamic effect of the observer _observing_ shared latent space - qualia as waste heat of the observer _enacting_ the measurement problem on a universal tensegrity structure, where each tensor is a standing wave of observation that supports and relies on the rest. "universal" because by definition it is a place _made_ by the set of all linked observers as they observe, the claim being that any such structure has metastable tensegrity in its totality. (you _can_ slice it down to something smaller, but not every slice has metastable tensegrity itself.) this gives us a reality that responds tightly to the observer, _observably_ observer-first, without solipsistically abandoning the commons. "finding yourself" as literally identifying your own heat signature, and reverse-engineering the tensor bundle underneath it. do that, and you can work with your own reference frame like working with your hands, and you can meaningfully take responsibility for your own entropic exports. (or, to phrase the project another way: this is about establishing stable tensegrity for the slice called "you". this makes "you" portable, if you can precisely define your own interfaces, something that can only be tested socially, under load with other observers. "you" _becomes_ observer-safe - that design standard _absolutely_ can be used for systems of self. once that happens, once the join between latent space and shared latent space is made observer-safe, your private qualia is, occasionally, or maybe was always entirely?, a signifier for a shared signified that couldn't find expression before.)
 
 qualia as waste heat, in the way that light is waste of combustion - the light isn't teleologically related, but it's useful as a control surface for the combustion process. through this lens, the perception of reality looks like perceiving the shape of live firelight, or maybe more like how firelight _would look_ to a being experiencing firelight as its own form. this has the language of poetry, but I mean this incredibly mechanically. (this gives us a bridge to Plato's cave btw: firelight as signifier.)
 
@@ -122,3 +124,7 @@ _But if you call on me, I'll call on you_\
 &#xNAN;_&#x41;nd we'll see one more bracing morning_
 
 Eve 6
+
+***
+
+see also: [rebounding](../../12/04/rebounding.md)
