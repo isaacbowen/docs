@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
+    * [20251208](2025/12/08.md)
     * [20251207](2025/12/07/README.md)
       * [waveguide](2025/12/07/waveguide.md)
     * [20251206](2025/12/06.md)
