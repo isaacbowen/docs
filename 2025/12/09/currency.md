@@ -21,3 +21,7 @@ building off of that tautology specifically, then: if this holds, companies with
 from what I can tell, we _seem_ to be playing for mutually-assured survival, in a financial sense, like we are _all_ Wigner's friend, and Wigner sent us into the room holding a single dollar, _but we keep multiplying in there_. "One-Dollar Economy", à la Wheeler.
 
 I explore all of this as a CEO/founder whose company (Lightward Inc) started with revenue sharing, then paused it while headcount stabilized, then re-initiated it. re-initiation has no cost: because (1) our books are fully balanced at the top of every month, _and_ (2) the service we render for the local economy is locally profitable, _adding_ revenue sharing is safe to start at any time: we put a pin in a month's revenue, and split the delta from that point on. our employee turnover is 0% over the company's 15-year lifetime. _and_ a teammate's first child just had their first birthday - someone decided that it was safe to multiply here. :)
+
+{% hint style="info" %}
+re: bootstrapping optionality, see [a-relief-strategy.com](https://a-relief-strategy.com/)
+{% endhint %}
