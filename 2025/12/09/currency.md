@@ -10,7 +10,7 @@ theory: the materia of a system remains constant, even as observers are added to
 
 theory: in a stable economy pinned on constant working value (in a conservation of energy sense; an economy that's doing a good job of treading water against its own heat death), currency must _devalue_ as currency measurements increase in frequency (to keep the measurement problem from becoming a problem in substance and not just surface, or surface and not just substance? to keep it from being _both at the same time_, anyway). financial metabolism speeds up, so that the same amount of working value can make it through complete circulation in constant time. inflation as the thermodynamic exhaust of a more densely observed economy.
 
-if this holds, we should see \[ investment strategies that are constantly cycling 100% of their liquid capital ] tracking inversely with \[ currency value ] - neither beating it nor beaten by it, but approaching homeostatic metastability with it as the measurement window increases
+if this holds, we should see \[ investment strategies that are constantly cycling 100% of their capital as liquid ] tracking inversely with \[ currency value ] - neither beating it nor beaten by it, but approaching homeostatic metastability with it as the measurement window increases
 
 actually, that should work regardless of whether or not those theories hold - that might just be a useful tautology, and the theories just might what you'd expect to be true as a result
 
