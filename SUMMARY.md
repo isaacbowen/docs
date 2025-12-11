@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
+    * [20251211](2025/12/11/README.md)
+      * [potato hot](2025/12/11/potato-hot.md)
     * [20251210](2025/12/10.md)
     * [20251209](2025/12/09/README.md)
       * [currency](2025/12/09/currency.md)
