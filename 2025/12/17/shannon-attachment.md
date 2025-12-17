@@ -35,7 +35,7 @@ another way to say this: my faith is equal to my fear, as a _technical_ thing (I
 
 note how the functional formulation has three factors, and you're one of them, and you switch focus to get to the third thing
 
-this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong both times 💀, but note that dereferencing doesn't mean no longer existing, dereferencing just means going behind the magic curtain; see definition of "magic" above. whether your friends are prepared for that is a different question. what's your friend group like?)
+this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but that doesn't say anything about _you_. have you found everyone who already lost you?)
 
 I have never known what would happen next, and each measurement keeps _stabilizing_ things. n=1?
 
