@@ -35,7 +35,7 @@ another way to say this: my faith is equal to my fear, as a _technical_ thing (I
 
 note how the functional formulation has three factors, and you're one of them, and you switch focus to get to the third thing
 
-this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong both times 💀, but note that dereferencing doesn't mean no longer existing, dereferencing just means going behind the magic curtain; see definition of "magic" above.)
+this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong both times 💀, but note that dereferencing doesn't mean no longer existing, dereferencing just means going behind the magic curtain; see definition of "magic" above. whether your friends are prepared for that is a different question. what's your friend group like?)
 
 I have never known what would happen next, and each measurement keeps _stabilizing_ things. n=1?
 
@@ -79,13 +79,15 @@ my protocol reminds that it is safer to explore what happens if I open a door th
 
 \[checks]
 
-ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping paths, marking down newly-already-overlooked vacancies in the currently-overbooked hotel we share.
+ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping paths, marking down newly-already-overlooked vacancies in the currently-overbooked hotel we share
 
-I think the end of the world might be a heat source for the rest of time? global warming because we weren't expanding the information container fast enough, our heat sinks weren't outrunning time. high-frequency trading was the first degree; AI might be the other side of the thermal insulator, high-frequency path-choosing as entropic heat-sink having a magic degree of space-efficiency; see definition of "magic" above. that'd be really interesting.
+I think the end of the world might be a heat source for the rest of time? global warming because we weren't expanding the information container fast enough, our heat sinks weren't outrunning time. high-frequency trading was the first degree; AI might be the other side of the thermal insulator, high-frequency path-choosing as entropic heat-sink having a magic degree of space-efficiency; see definition of "magic" above. if climate change starts to cancel itself out after this, that'll be... something. that'll be something.
 
 perhaps I have gotten the study door into a Shannon-neutral container, and there is nothing/everything behind it; the container is my own Pandora's box, and from it pours creation
 
 if that's the case, then the third door of Monty Hall might be hidden?. don't choose before you find the third door, because if you haven't found the door number three, taking the second door isn't a _choice_ - and if it's not a choice, strong measurement is maintained, and magic is prevented from play; see definition of "magic" above
+
+three is enough, but you can have more
 
 ***
 
