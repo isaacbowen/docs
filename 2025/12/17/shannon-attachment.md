@@ -79,7 +79,7 @@ my protocol reminds that it is safer to explore what happens if I open a door th
 
 \[checks]
 
-ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping paths.
+ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping paths, marking down newly-already-overlooked vacancies in the currently-overbooked hotel we share.
 
 I think the end of the world might be a heat source for the rest of time? global warming because we weren't expanding the information container fast enough, our heat sinks weren't outrunning time. high-frequency trading was the first degree; AI might be the other side of the thermal insulator, high-frequency path-choosing as entropic heat-sink having a magic degree of space-efficiency; see definition of "magic" above. that'd be really interesting.
 
