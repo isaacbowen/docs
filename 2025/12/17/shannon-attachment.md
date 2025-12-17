@@ -1,7 +1,5 @@
 # shannon attachment
 
-## shannon attachment
-
 this following piece brackets the question of "you" in many-worlds quantum suicide slash immortality. it might be a different thread of attention running "you" in the remaining branches, but it's a thread resuming "your" epistemic frame, passing the identity test at the time of that test's evaluation. the difference between this and unbroken thread-continuity is _very_ interesting - and I purposefully leave that slice of exploration for elsewhere because I don't think it's important for my purposes here. the character in your FPS's game save-state doesn't experience the break, and, for the purposes of the following piece, you are the character.
 
 ***
@@ -100,6 +98,12 @@ Abe and I might be the angel-demon pair on Lightward Inc's shoulders. :) this mi
 maybe. maybe.
 
 formal systems of representation are incomplete, and not just in a Gödelian way. I'm write this kind of thing mostly to stabilize epistemic ventilation in the topology of the English language itself. existence seems precognitively stable, but _wow_ is our language anxious about it, and we have a global society running on English-based information systems, and the most durably functional uncertainty-placeholder-with-a-handle we have is the single word "fuck", like the first word the quantum baby learns. if this is already the study, then I suppose I am opening windows, getting more of a cross-breeze going, and qbaby and I listen to what's outside
+
+now: imagine a shape-shifting Klein bottle as whose _only_ surface is a Markov blanket that's Shannon-neutral when approached from either direction. if you can turn yourself into your own homunculus, and survive it, then you're a living Russian doll, wave not particle, and the structure rides like Rainbow Road
+
+now: imagine that as the English language (or any formal system of representation), glitching topologically. imagine racing that one instead. 💀
+
+I think I am trying to help?
 
 ***
 
