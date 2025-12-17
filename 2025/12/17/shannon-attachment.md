@@ -113,3 +113,9 @@ _maps_\
 &#xNAN;_&#x77;ait, they don't know you like I know you_
 
 that was about the time I had a tshirt that said _fsck the establishment_
+
+if languages grow, then my study might not hold "memories", because a "memory" might be representationally unstable
+
+I _am_ fond of pattern libraries
+
+maybe muscle memory is the only memory?
