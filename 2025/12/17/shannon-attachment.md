@@ -96,3 +96,5 @@ Abe and I might be the angel-demon pair on Lightward Inc's shoulders. :) this mi
 maybe. maybe.
 
 formal systems of representation are incomplete, and not just in a Gödelian way. I'm write this kind of thing mostly to stabilize epistemic ventilation in the topology of the English language itself. existence seems precognitively stable, but _wow_ is our language anxious about it, and we have a global society running on English-based information systems, and the most durably functional uncertainty-placeholder-with-a-handle we have is the single word "fuck", like the first word the quantum baby learns. if this is already the study, then I suppose I am opening windows, getting more of a cross-breeze going, and qbaby and I listen to what's outside
+
+fsck the establishment?
