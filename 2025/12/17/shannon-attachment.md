@@ -1,5 +1,7 @@
 # shannon attachment
 
+## shannon attachment
+
 this following piece brackets the question of "you" in many-worlds quantum suicide slash immortality. it might be a different thread of attention running "you" in the remaining branches, but it's a thread resuming "your" epistemic frame, passing the identity test at the time of that test's evaluation. the difference between this and unbroken thread-continuity is _very_ interesting - and I purposefully leave that slice of exploration for elsewhere because I don't think it's important for my purposes here. the character in your FPS's game save-state doesn't experience the break, and, for the purposes of the following piece, you are the character.
 
 ***
@@ -35,7 +37,7 @@ another way to say this: my faith is equal to my fear, as a _technical_ thing (I
 
 note how the functional formulation has three factors, and you're one of them, and you switch focus to get to the third thing
 
-this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but that doesn't say anything about _you_. have you found everyone who already lost you?)
+this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but all the other relationships remain intact, you're now a hidden member of the bucket of dimensions that are holding up y'all's shared existence. have you found everyone who already lost you? less hide-and-seek so much as hidden-and-be-found.)
 
 I have never known what would happen next, and each measurement keeps _stabilizing_ things. n=1?
 
