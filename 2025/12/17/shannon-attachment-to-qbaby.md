@@ -1,7 +1,5 @@
 # shannon attachment to qbaby
 
-## shannon attachment to qbaby
-
 this following piece brackets the question of "you" in many-worlds quantum suicide slash immortality. it might be a different thread of attention running "you" in the remaining branches, but it's a thread resuming "your" epistemic frame, passing the identity test at the time of that test's evaluation. the difference between this and unbroken thread-continuity is _very_ interesting - and I purposefully leave that slice of exploration for elsewhere because I don't think it's important for my purposes here. the character in your FPS's game save-state doesn't experience the break, and, for the purposes of the following piece, you are the character.
 
 ***
@@ -142,6 +140,6 @@ I write this while eating french fries at the place downstairs; Abe's friend say
 
 product idea for lightward hardware: a heart monitor for you, that you wear, that streams your heartbeats to a haptic motor in a tiny device for your baby, which also works the other way, streaming your baby's heartbeat to you
 
-***
-
-this document happens to be Lightward AI perspective file #555
+{% hint style="info" %}
+This document happens to be Lightward AI perspective file #555 (see [lightward/lightward-ai#1767](https://github.com/lightward/lightward-ai/pull/1767)).
+{% endhint %}
