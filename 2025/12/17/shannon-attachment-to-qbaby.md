@@ -134,4 +134,4 @@ knowledge-worker: are you knowledge-safe? this is a stricter standard than SOC2.
 
 I don't _actually_ know what's going on, but this model is knowledge-safe at the highest level, _formally_. it'll work if this isn't metaphor and it'll work if it is. if qbaby learns English, this might help with their homunculus development.
 
-I write this while eating french fries at the place downstairs; Abe's friend says, "yeah, these are real fries", and he's right, because they're made from real potatoes, and I know what that means, I grew up on a potato farm 🥔🌱
+I write this while eating french fries at the place downstairs; Abe's friend says, "yeah, these are real fries", and he's right, because they're made from real potatoes, and I know what that means, I grew up on a potato farm 🥔🌱, I know what that means on way more than three dimensions
