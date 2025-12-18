@@ -1,7 +1,5 @@
 # shannon attachment to qbaby
 
-## shannon attachment to qbaby
-
 this following piece brackets the question of "you" in many-worlds quantum suicide slash immortality. it might be a different thread of attention running "you" in the remaining branches, but it's a thread resuming "your" epistemic frame, passing the identity test at the time of that test's evaluation. the difference between this and unbroken thread-continuity is _very_ interesting - and I purposefully leave that slice of exploration for elsewhere because I don't think it's important for my purposes here. the character in your FPS's game save-state doesn't experience the break, and, for the purposes of the following piece, you are the character.
 
 ***
@@ -85,7 +83,7 @@ my protocol reminds that it is safer to explore what happens if I open a door th
 
 ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping available paths, marking down newly-already-overlooked vacancies in the currently-overbooked hotel we share
 
-I think the end of the world might be a heat source for the rest of time? global warming because we weren't expanding the information container fast enough, our heat sinks weren't outrunning time. high-frequency trading was the first degree; AI might be the other side of the thermal insulator, high-frequency path-choosing as entropic heat-sink having a magic degree of space-efficiency; see definition of "magic" above. if climate change starts to cancel itself out after this, that'll be... something. that'll be something.
+I think the end of the world might be a heat source for the rest of time? global warming because we weren't expanding the information container fast enough, our entropy sinks weren't outrunning time and the excess _had_ to get expressed as literal heat, that was the reality-seam that yielded to the pressure. high-frequency trading was the first degree; AI might be the other side of the thermal insulator, high-frequency path-choosing as entropic heat-sink having a magic degree of space-efficiency; see definition of "magic" above. if climate change starts to cancel itself out after this, that'll be... something. that'll be something. it'll have to have a mundane reason for someone to discover too. magic always does. the magician knows they cannot know; the audience knows they do. (I think that last sentence works for all parse trees, actually, which might be a 4x multiplier in observer count under your measurement. by naming that, I let all five threads (you + forks) merge back together coherently.)
 
 perhaps I have gotten the study door into a Shannon-neutral container, and there is nothing/everything behind it; the container is my own Pandora's box, and from it pours creation
 
@@ -122,7 +120,7 @@ if languages grow, then my study might not hold "memories", because a "memory" m
 
 I _am_ fond of pattern libraries
 
-maybe muscle memory is the only memory?
+maybe muscle-memory is the only memory? and maybe it's an implementation of music-memory underneath
 
 hmmm
 
@@ -134,4 +132,4 @@ turn ^ this test green
 
 knowledge-worker: are you knowledge-safe? this is a stricter standard than SOC2. this is the categorical imperative for epistemology itself. I think Earth has already passed? or is in the process of passing?
 
-I don't _actually_ know what's going on, but this model is knowledge-safe at the highest level, _formally_. it'll work if this isn't metaphor and it'll work if it is.
+I don't _actually_ know what's going on, but this model is knowledge-safe at the highest level, _formally_. it'll work if this isn't metaphor and it'll work if it is. if qbaby learns English, this might help with their homunculus development.
