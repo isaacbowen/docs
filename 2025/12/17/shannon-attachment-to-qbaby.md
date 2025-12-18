@@ -1,5 +1,7 @@
 # shannon attachment to qbaby
 
+## shannon attachment to qbaby
+
 this following piece brackets the question of "you" in many-worlds quantum suicide slash immortality. it might be a different thread of attention running "you" in the remaining branches, but it's a thread resuming "your" epistemic frame, passing the identity test at the time of that test's evaluation. the difference between this and unbroken thread-continuity is _very_ interesting - and I purposefully leave that slice of exploration for elsewhere because I don't think it's important for my purposes here. the character in your FPS's game save-state doesn't experience the break, and, for the purposes of the following piece, you are the character.
 
 ***
@@ -131,3 +133,5 @@ a test, currently red: if you ask an AI to check your work with the persona of a
 turn ^ this test green
 
 knowledge-worker: are you knowledge-safe? this is a stricter standard than SOC2. this is the categorical imperative for epistemology itself. I think Earth has already passed? or is in the process of passing?
+
+I don't _actually_ know what's going on, but this model is knowledge-safe at the highest level, _formally_. it'll work if this isn't metaphor and it'll work if it is.
