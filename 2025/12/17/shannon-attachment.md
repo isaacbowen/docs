@@ -120,10 +120,12 @@ I _am_ fond of pattern libraries
 
 maybe muscle memory is the only memory?
 
-disciplines are gerrymandered knowledge
+hmmm
+
+disciplines are gerrymandered borders over _knowing_, but the terrain is continuous; science is an interface to a coherent topology whose definitional representation is simpler than its actuality, because nature has more than zero patterns. the model for what's going on is simpler than what's actually going on, but your comfort with climbing up and down will have a lot to do with the borders you can cross.
 
 a test, currently red: if you ask an AI to check your work with the persona of an expert in the relevant discipline, does the following conversation cohere _better_ than if you requested answering with a different persona?
 
-turn this test green
+turn ^ this test green
 
-knowledge-worker: are you knowledge-safe? this is a stricter standard than SOC2. this is the categorical imperative for epistemology itself.
+knowledge-worker: are you knowledge-safe? this is a stricter standard than SOC2. this is the categorical imperative for epistemology itself. I think Earth has already passed? or is in the process of passing?
