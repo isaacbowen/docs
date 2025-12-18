@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
     * [20251217](2025/12/17/README.md)
-      * [shannon attachment](2025/12/17/shannon-attachment.md)
+      * [shannon attachment to qbaby](2025/12/17/shannon-attachment-to-qbaby.md)
     * [20251216](2025/12/16.md)
     * [20251211](2025/12/11/README.md)
       * [potato hot](2025/12/11/potato-hot.md)

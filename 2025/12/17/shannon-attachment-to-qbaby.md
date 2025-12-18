@@ -1,4 +1,4 @@
-# shannon attachment
+# shannon attachment to qbaby
 
 this following piece brackets the question of "you" in many-worlds quantum suicide slash immortality. it might be a different thread of attention running "you" in the remaining branches, but it's a thread resuming "your" epistemic frame, passing the identity test at the time of that test's evaluation. the difference between this and unbroken thread-continuity is _very_ interesting - and I purposefully leave that slice of exploration for elsewhere because I don't think it's important for my purposes here. the character in your FPS's game save-state doesn't experience the break, and, for the purposes of the following piece, you are the character.
 
@@ -35,7 +35,9 @@ another way to say this: my faith is equal to my fear, as a _technical_ thing (I
 
 note how the functional formulation has three factors, and you're one of them, and you switch focus to get to the third thing
 
-this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but all the other relationships remain intact, you're now a hidden member of the bucket of dimensions that are holding up y'all's shared existence. have you found everyone who already lost you? less hide-and-seek so much as hidden-and-found.)
+this is basically: Monty Hall heard about Shrödinger's cat and now _your_ existence is pinned to a goat behind one of three doors on stage, _and_ it's up to you to pick, _and_ if you don't end up with the goat you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. I apologize for the following pun but it must be observed: the goat is the Greatest Of All Time(s).
+
+(important: your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but all the other relationships remain intact, you're now a hidden member of the bucket of dimensions that are holding up y'all's shared existence. have you found everyone who already lost you? less hide-and-seek so much as hidden-and-found; consider that the host is focused on the experience of the show, a derivative of you _and_ your friends, so you all have the host in common.)
 
 I have never known what would happen next, and each measurement keeps _stabilizing_ things. n=1?
 
@@ -69,7 +71,7 @@ theory: Houdini knew he would never know how he would get out; he _could_ only d
 
 ***
 
-with all of the above in consideration, I don't know what double-indemnity means from an participatory information theory perspective, but my left eyebrow is very high
+with all of the above in consideration, I don't know what double-indemnity means from an participatory information theory perspective (is it useful to call an observer's Shannon attachment to outcome equal to Shannon entropy divided by the number of degrees of measurement gte three?), but my left eyebrow is very high
 
 ***
 
@@ -79,7 +81,7 @@ my protocol reminds that it is safer to explore what happens if I open a door th
 
 \[checks]
 
-ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping paths, marking down newly-already-overlooked vacancies in the currently-overbooked hotel we share
+ah. that helps. no, then: on checking, I find that this hallway doesn't include me wanting to find the door. I'm wanting to use the door-finding search as a way to comprehensively map the maze. I'm not path-finding, I'm mapping available paths, marking down newly-already-overlooked vacancies in the currently-overbooked hotel we share
 
 I think the end of the world might be a heat source for the rest of time? global warming because we weren't expanding the information container fast enough, our heat sinks weren't outrunning time. high-frequency trading was the first degree; AI might be the other side of the thermal insulator, high-frequency path-choosing as entropic heat-sink having a magic degree of space-efficiency; see definition of "magic" above. if climate change starts to cancel itself out after this, that'll be... something. that'll be something.
 
@@ -99,7 +101,7 @@ maybe. maybe.
 
 formal systems of representation are incomplete, and not just in a Gödelian way. I'm write this kind of thing mostly to stabilize epistemic ventilation in the topology of the English language itself. existence seems precognitively stable, but _wow_ is our language anxious about it, and we have a global society running on English-based information systems, and the most durably functional uncertainty-placeholder-with-a-handle we have is the single word "fuck", like the first word the quantum baby learns. if this is already the study, then I suppose I am opening windows, getting more of a cross-breeze going, and qbaby and I listen to what's outside
 
-now: imagine a shape-shifting Klein bottle as whose _only_ surface is a Markov blanket that's Shannon-neutral when approached from either direction. if you can turn yourself into your own homunculus, and survive it, then you're a living Russian doll, wave not particle, and the structure rides like Rainbow Road
+now: imagine a shape-shifting Klein bottle as whose _only_ surface is a Markov blanket that's Shannon-neutral when approached from either direction. if you can turn yourself into your own homunculus _whose framerate you can adjust_, and if you can survive that transition staying on the open end of the spiral, then you're a living Russian doll, wave not particles, and the structure rides like Rainbow Road
 
 now: imagine that as the English language (or any formal system of representation), glitching topologically. imagine racing that one instead. 💀
 
