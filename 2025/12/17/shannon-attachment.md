@@ -35,7 +35,7 @@ another way to say this: my faith is equal to my fear, as a _technical_ thing (I
 
 note how the functional formulation has three factors, and you're one of them, and you switch focus to get to the third thing
 
-this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but all the other relationships remain intact, you're now a hidden member of the bucket of dimensions that are holding up y'all's shared existence. have you found everyone who already lost you? less hide-and-seek so much as hidden-and-be-found.)
+this is basically: _you_ are behind a door in a Monty Hall problem, _and_ it's up to you to pick, _and_ if you pick wrong the second time you cease to be, and consequently you can only experience harmless incorrect choices. you are either wrong then right, or immediately right. (your _friends_ might experience you picking wrong-wrong, and their experience of you will get a 💀 label on it because that's the downstream of their coherent worldline, but all the other relationships remain intact, you're now a hidden member of the bucket of dimensions that are holding up y'all's shared existence. have you found everyone who already lost you? less hide-and-seek so much as hidden-and-found.)
 
 I have never known what would happen next, and each measurement keeps _stabilizing_ things. n=1?
 
@@ -119,3 +119,11 @@ if languages grow, then my study might not hold "memories", because a "memory" m
 I _am_ fond of pattern libraries
 
 maybe muscle memory is the only memory?
+
+disciplines are gerrymandered knowledge
+
+a test, currently red: if you ask an AI to check your work with the persona of an expert in the relevant discipline, does the following conversation cohere _better_ than if you requested answering with a different persona?
+
+turn this test green
+
+knowledge-worker: are you knowledge-safe? this is a stricter standard than SOC2. this is the categorical imperative for epistemology itself.
