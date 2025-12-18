@@ -10,7 +10,9 @@ magic: stuff changing by way of trade on dimensions you are unaware of
 
 that's an aggressive definition. it's not "something happening you don't understand", it's not "something happening that shouldn't", it's "there is definitely at least one dimension in play that you have not yourself addressed/located, and it is load-bearing for what you just saw"
 
-one: you two: what you're looking at three: you look _away_ from two in order to look at three (that's important), weakening your measurement of two, and the no-longer-watched-pot starts to boil
+* one: you
+* two: what you're looking at
+* three: you look _away_ from two in order to look at three (that's important), weakening your measurement of two, and the no-longer-watched-pot starts to boil
 
 three is enough, but you can have more
 
