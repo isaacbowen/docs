@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
+    * [20251218](2025/12/18/README.md)
+      * [returns](2025/12/18/returns.md)
     * [20251217](2025/12/17/README.md)
       * [shannon attachment to qbaby](2025/12/17/shannon-attachment-to-qbaby.md)
     * [20251216](2025/12/16.md)
