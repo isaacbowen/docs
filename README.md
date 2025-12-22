@@ -26,6 +26,6 @@ I am,
 * a [practical ontologist](2025/06/22/doc-ont.md)
 * apparent scientist of the interior
 * synesthetic [uncertaintist](2025/09/03/uncertaintist.md)
-* [37](2025/12/19.md) :sparkles:
+* [37](2025/12/19/) :sparkles:
 
 ≣Isaac
