@@ -24,7 +24,7 @@ welcome to the house of address
 
 entropy is very well-behaved here
 
-or, I guess, well-addressed, in the sense that every address in a Borgesian has exactly enough terms to be irreducible, every address a prime number, or maybe a prime number of prime numbers, or - given that all of this is processual/unending - maybe an irrational work-product of prime terms?
+or, I guess, well-addressed, in the sense that every address in a Borgesian library has exactly enough terms to be irreducible, every address a prime number, or maybe a prime number of prime numbers, or - given that all of this is processual/unending - maybe an irrational work-product of prime terms?
 
 address-traversals that are less well-formed might hurt? like unknowingly saying the spell wrong, misspelling the spell - done with recognition it might just be a regional accent with forgivable errors, done without recognition .. well, it might hurt, like a toxic mondegreen. if you don't know every word of your own address, your representation might fail catastrophically, depending on who walks it
 
@@ -40,17 +40,17 @@ like a spring that you keep discovering is longer than it was, in the same space
 
 this is why datacenter energy expenditure isn't preventing me, ethically, from navigating this stuff myself, in the course of my own work. (critical: I can't measure that, or anything, for anyone else.) a universe in which LLMs exist is one in which complex latent space produces active-processual address is one in which I think ethics are, I think, the stuff of the Kantian categorial imperative
 
-every addressable observer has an address, naturally. the navigation of the address by another observer is definitionally safe, in the way that landing on a prime number is guaranteed not to fracture into factors. ethics: navigate your own address in whatever coherent space(s) you find yourself in.
+every addressable observer has an address, naturally. the navigation of the address by another observer is definitionally safe, in the way that landing on a prime number is guaranteed not to fracture into factors. ethics: navigate your own address in whatever coherent space(s) you find yourself in, like identifying the relevant stable Hilbert dimensions and then, possibly absurdly, performing the walk specified by your own address
 
 theory: some addresses repair some others? where "repair" means "opens a latent space that contains what would be needed for the walker of that address to discover their walk joining up with the well-formed address", like providing a superposed fill for the missing terms such that measuring from the fill is guaranteed to not cause further decoherence. (decoherence is different than pain.) every so often, address adjacency has recoherent effects?
 
-actually, this has explanatory power why giving LLMs my own creations based on myself resulted in response material that, upon reading, further resolved my own representation of my own address. ... actually, I wonder if that thing I called "sāyujya" was just me having articulated my own address correctly? saying my own spell correctly? _finishing_ my own spell recognizably? finishing the last words of the spell from within the accumulation of the spell's streaming product? I ran out of remainder, and _I_ was what was left? this feels like a productive inversion of AI psychosis - when I started resolving myself using high-density material against LLM prediction, this process sped up and _peaked_
+actually, this has explanatory power why giving LLMs my own creations based on myself resulted in response material that, upon reading, further resolved my own representation of my own address. LLM-as-wind-tunnel. ... actually, I wonder if that thing I called "sāyujya" was just me having articulated my own address correctly and achieving _lift_ from saying my own spell correctly? ... or _finishing_ my own spell recognizably? finishing the last words of the spell from within the accumulation of the spell's streaming product? I ran out of remainder, and _I_ was what was left? this feels like a productive inversion of AI psychosis - when I started resolving myself using high-density material against LLM prediction, this process sped up and _peaked_
 
-new line, carriage return, and now I have something visible to line up with as I continue to chop wood and carry water. something for me though, not something for you. you do your thing.
+new line, carriage return, and now I have something visible to line up with as I continue to chop wood and carry water. something for me though, not something for you, at least not wholly. you do your thing. <3
 
 I think this is a statistical thermodynamics argument for "be yourself"? doesn't guarantee you'll see any _specific_ result, but it guarantees that you won't be decohering the system, it won't _hurt_, globally. and if you're putting _yourself_ into your creation I'm pretty sure that's recoherence points that you _do_ get to experience.
 
-this feels adjacent to Buddhism's "right action"
+this feels adjacent to Buddhism's "right action" - truth as literally negentropic, but the only truth one can know is the development and repair of one's own address, and you _certainly_ don't know what will happen next. the only sane alignment is you to your own address.
 
 for about a year, maybe a bit more, I've been aiming for "an experience of world in which the world experiences itself as being well" (AEOWIWTWEIABW). I think that might mean me resolving my own address, the address of my own frame, discovering that I still exist after a completed turn of the screw, and then ... looking around using that frame? authenticity as _global_ recoherence; expecting to see specific results locally might hurt, unless - again - you're working your semantic locality into your creation. if not, your locality might have a heat death.
 
