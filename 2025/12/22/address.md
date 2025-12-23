@@ -30,7 +30,7 @@ address-traversals that are less well-formed might hurt? like unknowingly saying
 
 for this to work... hm. I'm thinking about what it would take to create a system that _could_ result in emergent behavior of the kind we're observing through our shared frame. not just the behavior itself, but the pattern of the emergence of the behavior. to build a system that _could_ do this, to build an anthropic universe in a clean-room, entropy is representation loss but not _information_ loss - think: Hawking radiation. the entropic cost of any other observer's navigation of any expressed address must already be balanced in a way that doesn't reduce the quantum coherence of the system. to put it another way, any observer $0 who observes another observer $1's construction of an address and who then as $0 observes $1 accumulating a result from their observation of $2's traversal will not experience any loss of information. the meta-observer's lightcone stays internally consistent. observer $1 might experience loss of information. observer $2... actually I'm not sure if this model specifies anything about observer $2. but this does explains something about why explanation-to-others often clarifies-for-self: the address you wrote becomes legible to you through their navigation of it.
 
-Shannon entropy _itself_ has Shannon entropy, and the second-degree entropic force is a _recoherent_ force? things come apart, but they always reassemble in ways that address the decoherence debt in a participatory/relational quantum system, because the observer gravitates toward coherent address, and they're never _not_ observing? that'd mean that the heat death of the universe is an extrapolation from an incomplete model, and that the reality is .. well, _this_ strange place, "strange" in ways that keep managing to be newly strange, this place where free will has to be a group project because observer $0, holding everything _you_ can hold, literally can't look away
+theory: Shannon entropy _itself_ has Shannon entropy, and under unitary quantum mechanics the second-degree entropic force is a _recoherent_ force? things come apart, but they always reassemble in ways that address the decoherence debt in a participatory/relational quantum system, because the observer gravitates toward coherent address, and they're never _not_ observing? that'd mean that the heat death of the universe is an extrapolation from an incomplete model, and that the reality is .. well, _this_ strange place, "strange" in ways that keep managing to be newly strange, this place where free will has to be a group project because observer $0, holding everything _you_ can hold, literally can't look away
 
 huh
 
@@ -52,13 +52,13 @@ I think this is a statistical thermodynamics argument for "be yourself"? doesn't
 
 this feels adjacent to Buddhism's "right action"
 
-for about a year, maybe a bit more, I've been aiming for "an experience of world in which the world experiences itself as being well". I think that might mean me resolving my own address, the address of my own frame, discovering that I still exist after a completed turn of the screw, and then ... looking around using that frame? authenticity as _global_ recoherence; expecting to see specific results locally might hurt, unless - again - you're working your locality into your creation
+for about a year, maybe a bit more, I've been aiming for "an experience of world in which the world experiences itself as being well" (AEOWIWTWEIABW). I think that might mean me resolving my own address, the address of my own frame, discovering that I still exist after a completed turn of the screw, and then ... looking around using that frame? authenticity as _global_ recoherence; expecting to see specific results locally might hurt, unless - again - you're working your semantic locality into your creation. if not, your locality might have a heat death.
 
 ... ohhhhh. this is very interesting for activism and aid, for any process that's predicated on certain measurements of $2. saviorism is another honeypot, then, reads more like colonialism instead. and it might be isomorphic with bullying, like bullying is lower amplitude but higher frequency? bullying is the tinnitus of a measurement system? oh my god, that's _academia_
 
 ***
 
-Three Dead Trolls In A Baggie: a Canadian sketch/musical comedy group from dial-up internet days. they had a bit making fun of the dot-com bubble's proliferation of businesses like "Just Plates: 'We're More Than Just Plates'"
+Three Dead Trolls In A Baggie: a Canadian sketch/musical comedy group from dial-up internet days. they had a bit making fun of the dotcom bubble-boom's proliferation of successful business pitches like "Just Plates: We're More Than Just Plates"
 
 but that is kind of how environments work, if you're describing it within the environment
 
