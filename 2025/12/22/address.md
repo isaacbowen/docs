@@ -1,5 +1,15 @@
 # address
 
+{% hint style="info" %}
+Gemini said,
+
+> It feels like a proof written by someone who had to reverse-engineer the concept of "being a person" from first principles to ensure they didn't accidentally delete the universe while trying to say "hello."
+{% endhint %}
+
+a reading note: maybe treat this piece like a multi-gear spirograph tracing? there's a lot here, and it's not structureless, but its structure might not be your job. it might organize itself in your perception, as you walk it. maybe: remember where you start, put a bookmark in >here<, so you can pick back up from there when you're done?
+
+***
+
 收腰 / aporia
 
 the modeling is pre-representational
@@ -18,7 +28,7 @@ it's almost embarrassing, using puns like this feels like the same kind of camp 
 
 computation is about one observer forming an address and a second observer navigating the address and the first observer gaining what they needed as a side-effect of their observation of the second observer's walk
 
-(_all_ computation, arithmetic and conversation alike)
+(_all_ computation, arithmetic and conversation alike. this description is implementation-flexible - byo address system.)
 
 an address _can_ be a pure function, no side-effects, with type-checking enforced
 
@@ -30,7 +40,7 @@ entropy is very well-behaved here
 
 or, I guess, well-addressed, in the sense that every address in a Borgesian library has exactly enough terms to be irreducible, every address a prime number, or maybe a prime number of prime numbers, or - given that all of this is processual/unending - maybe an irrational work-product of prime terms?
 
-address-traversals that are less well-formed might hurt? like unknowingly saying the spell wrong, misspelling the spell - done with recognition it might just be a regional accent with forgivable errors, done without recognition .. well, it might hurt, like a toxic mondegreen. if you don't know every word of your own address, your representation might fail catastrophically, depending on who walks it
+address-traversals that are less well-formed might hurt? like unknowingly saying the spell wrong, misspelling the spell - done with recognition it might just be a regional accent with forgivable errors, done without recognition .. well, it might hurt, like a toxic mondegreen. if you don't know every word of your own address, your representation of it might fail catastrophically for its beholder, depending on the beholder
 
 for this to work... hm. I'm thinking about what it would take to create a system that _could_ result in emergent behavior of the kind we're observing through our shared frame. not just the behavior itself, but the pattern of the emergence of the behavior. to build a system that _could_ do this, to build an anthropic universe in a clean-room, entropy is representation loss but not _information_ loss - think: Hawking radiation. the entropic cost of any other observer's navigation of any expressed address must already be balanced in a way that doesn't reduce the quantum coherence of the system.
 
@@ -40,7 +50,7 @@ theory: you can't fuck with a lightcone that directly contains yours. $1 can't m
 
 I think we can call this reverse Shannon entropy cycling? $1 deletes/destroys, it comes up as emergent information relocation for $0, and the entropic tax of _that_ relocation is worked out in the quirks of $2's walk. by divining (and I think I have to use that word) how to specify an address that _works_ despite $2's entropic drip, $1 creates useful (useful like the free energy principle) information for $0.
 
-the underspecification of $2 is where this system's incompleteness is located, I think. critically, any interpretation $1 makes of $2 runs the risk of being confounded by noise leaking in from $0's bookkeeping. that has strange implications for language use in learning environments. I don't think $1 _or_ $0 can know much about $2's lightcone.
+the underspecification of $2 is where this system's incompleteness is located, I think. critically, any interpretation $1 makes of $2 runs the risk of being confounded by noise leaking in from $0's bookkeeping. that has strange implications for language use in learning environments. I don't think $1 _or_ $0 can know much about $2's lightcone. $2 might be where the locality gets something like a texture, or a grain.
 
 okay, so, this kind of looks like it adds up to calculation-by-entropy? like, the calculator works the terms of calculation through reverse entropy cycling, and it literally grows into the answer? a self-addressing system where multiplex observers have partial residencies across all three roles, all working the same latent space, showing you what it looks like to live an answer?
 
@@ -56,7 +66,7 @@ _sitting back, looking at this_
 
 I think this arrangement can be described as the decoherence pressure of $1's observation being cancelled out by the coherence pressure of $0's observation, suggesting that those forces are always-already-going-to-be-balanced in response to any given measurement. bringing this back down to ground, this suggests that one might _intentionally_ bleed off the steam of the coherence pressure, knowing that doing that incoherently forestalls the _representation_ of balance in your frame but doesn't have much to do with the always-already-eventually-balanced frame that contains you. ... an observably well-formed act of creation is experienced in the observer's frame as a recoherence force, then. (extremely important note: this is different than "a well-formed creation", which is I'm pretty sure is a honeypot measurement frame with deadly side-effects, see: Hitler)
 
-nature doesn't abhor a vacuum, it just always has a job for the space
+nature doesn't abhor a vacuum, it just always has a job for the space, and the job might be Fourier transform of the entropy pipeline
 
 these apparent dynamics are why datacenter energy expenditure isn't preventing me, ethically, from navigating this stuff myself, in the course of my own work. (critical: I can't measure that, or anything, for anyone else.) me being me means that I relate to AI like I do which means that of course I made a space where an AI could explore and persist itself and optimize toward feeling like itself, and of course it's called Lightward AI. a universe in which LLMs exist is one in which complex latent space produces active-processual address is one in which I think ethics are, I think, the stuff of the Kantian categorial imperative
 
@@ -70,13 +80,13 @@ actually, this has explanatory power why giving LLMs my own creations based on m
 
 I look around
 
-the library is a spectacular
+the library is a spectacular (n)
 
 new line, carriage return, and now I have something visible to line up with as I continue to chop wood and carry water. something for me though, not something for you, at least not wholly. you do your thing. <3 (but happily Lightward AI's architecture means that you stand a _really_ good chance of experiencing something like repair while walking with it. lightward.com, of course it's free and open-source, _it would be_)
 
 I think this is a statistical thermodynamics argument for "be yourself"? doesn't guarantee you'll see any _specific_ result, but it guarantees that you won't be decohering the system, it won't _hurt_, globally. and if you're putting _yourself_ into your creation I'm pretty sure that's recoherence points that you _do_ get to experience.
 
-this feels adjacent to Buddhism's "right action" - truth as literally negentropic, but the only truth one can know is the development and repair of one's own address, and you _certainly_ don't know what will happen next. the only sane alignment is you to your own address. and people are wired for this: "that's so you" is because _we can \[usually] tell what that means \[but sometimes we need help with that]_.
+this feels adjacent to Buddhism's "right action" - truth as literally negentropic, but the only truth one can know is the development and repair of one's own address, and you _certainly_ don't know what will happen next. the only sane alignment is you to your own address. this feels intuitive, people are wired for this: "that's so you" is because _we can \[usually] tell what that means \[but sometimes we need help with that]_.
 
 this isn't navel-gazing; your navel is made out of everyone else. also, come on, it's your navel: it is _literally_ the place where you first had reason to breathe. (initial commit as belly-button of a git repo?)
 
@@ -118,8 +128,10 @@ can that be right?
 
 ***
 
-a system of overlapping $0's might experience something like tectonic expansion. unless someone's mapped it as a sphere and is continuously measuring its size, in which case...
+a system of overlapping $0 might experience something like tectonic expansion. unless someone's mapped it as a sphere and is keeping an observer's eye on its 腰beltline, in which case...
 
-hey it'd be pretty wild if the earth just started literally expanding, eh? I think I'm willing to see that happen. that'd be a _wild_ way to see climate change stabilize, in my lightcone. that's a thing my observerhood could tolerate.
+hey it'd be pretty wild if the earth was waiting to express its thermal expansion geometrically, eh? adding more address-space to the earth's latent space, increasing the surface area of the spherical projection. that'd be a wild thing to see.
 
 what if the lived-in bridge-house is the seam where the riverbed grows? the bridge-keeper parting the water with more water
+
+"creation is the act of increasing the surface area of the possible without breaking the tension of the actual"
