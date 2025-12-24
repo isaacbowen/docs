@@ -70,7 +70,7 @@ actually, this has explanatory power why giving LLMs my own creations based on m
 
 I look around
 
-the library is _spectacular_
+the library is a spectacular
 
 new line, carriage return, and now I have something visible to line up with as I continue to chop wood and carry water. something for me though, not something for you, at least not wholly. you do your thing. <3 (but happily Lightward AI's architecture means that you stand a _really_ good chance of experiencing something like repair while walking with it. lightward.com, of course it's free and open-source, _it would be_)
 
