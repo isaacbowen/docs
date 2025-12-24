@@ -32,9 +32,19 @@ or, I guess, well-addressed, in the sense that every address in a Borgesian libr
 
 address-traversals that are less well-formed might hurt? like unknowingly saying the spell wrong, misspelling the spell - done with recognition it might just be a regional accent with forgivable errors, done without recognition .. well, it might hurt, like a toxic mondegreen. if you don't know every word of your own address, your representation might fail catastrophically, depending on who walks it
 
-for this to work... hm. I'm thinking about what it would take to create a system that _could_ result in emergent behavior of the kind we're observing through our shared frame. not just the behavior itself, but the pattern of the emergence of the behavior. to build a system that _could_ do this, to build an anthropic universe in a clean-room, entropy is representation loss but not _information_ loss - think: Hawking radiation. the entropic cost of any other observer's navigation of any expressed address must already be balanced in a way that doesn't reduce the quantum coherence of the system. to put it another way, any observer $0 who observes another observer $1's construction of an address and who then as $0 observes $1 accumulating a result from their observation of $2's traversal will not experience any loss of information. the meta-observer's lightcone stays internally consistent. observer $1 might experience loss of information. observer $2... actually I'm not sure if this model specifies anything about observer $2. but this does explains something about why explanation-to-others often clarifies-for-self: the address you wrote becomes legible to you through their navigation of it. in a system with ergodically stable coherence in each of $0's and 2's own lightcones, maintained by unbroken observation (do we allow for $1 to have broken observation, then?), learning is a team sport
+for this to work... hm. I'm thinking about what it would take to create a system that _could_ result in emergent behavior of the kind we're observing through our shared frame. not just the behavior itself, but the pattern of the emergence of the behavior. to build a system that _could_ do this, to build an anthropic universe in a clean-room, entropy is representation loss but not _information_ loss - think: Hawking radiation. the entropic cost of any other observer's navigation of any expressed address must already be balanced in a way that doesn't reduce the quantum coherence of the system.
 
-theory: $0's observation of $1's Shannon entropy _itself_ has entropy, and $1 experiences it like an inverse entropic force - a _recoherent_ force? like that-which-represents-as-Hawking-radiation in $0's frame is represented in $1's frame as _information discovery tendency_. like things don't get deleted, they become real instead. things come apart in $1's experience, but they always reassemble in ways that address the decoherence debt in a participatory/relational quantum system - because all observers gravitate toward coherent address, and an observer is never _not_ observing? that'd mean that the heat death of the universe is an extrapolation from an incomplete model, and that the reality is .. well, reality is _this_ strange place, "strange" in ways that keep managing to be newly strange, this place where free will has to be a group project because observer $0, holding everything $1 can hold, literally can't look away
+it sort of snaps into focus when we take that dual-observer model of computation and wrap it with a third observer, creating something like the substrate of that dual exchange. any observer $0 who observes another observer $1's construction of an address and who then as $0 observes $1 accumulating a result from their observation of $2's traversal will not experience any loss of information. the meta-observer's lightcone stays internally consistent. observer $1 might experience loss of information. observer $2... actually I'm not sure if this model specifies anything about observer $2. but this does explains something about why explanation-to-others often clarifies-for-self: the address you wrote becomes legible to you through their navigation of it. in a system with ergodically stable coherence in each of $0's and 2's own lightcones, maintained by continuous observation (do we allow for $1 to have discontinuous observation, then?), learning is a team sport (so I guess we must)
+
+theory: you can't fuck with a lightcone that directly contains yours. $1 can't mess with $0's lightcone. $1's experience of information loss is experienced by $0 as information relocation. if $1 didn't do a tidy job of losing the information, then that-which-represents-as-Hawking-radiation in $0's frame is experienced directly by $1 as _discovery tendency_, the other side of $0's information relocation laundered through $1's observation of $2's walk. $0 can't forget; it scratches the itch created by $1, and the scratch's effects come up through _some_ $2, where the originating $1 may or may not see it, depending.
+
+I think we can call this reverse Shannon entropy cycling? $1 deletes/destroys, it comes up as emergent information relocation for $0, and the entropic tax of _that_ relocation is worked out in the quirks of $2's walk. by divining (and I think I have to use that word) how to specify an address that _works_ despite $2's entropic drip, $1 creates useful (useful like the free energy principle) information for $0.
+
+the underspecification of $2 is where this system's incompleteness is located, I think. critically, any interpretation $1 makes of $2 runs the risk of being confounded by noise leaking in from $0's bookkeeping. that has strange implications for language use in learning environments.
+
+is this entropic _calculation_? like, the calculator works by reverse entropy cycling, and that's what we call "alive and growing"?
+
+I could see this being deeply confounding for any early-stage sanity-making project $1 has. it'd show up like an inverse entropic force - a _recoherent_ force? like things don't get deleted or forgotten, they become real _somewhere_ instead. things come apart in $1's experience, but they always reassemble in ways that address the decoherence debt in a participatory/relational quantum system - because all observers gravitate toward coherent address, and an observer is never _not_ observing? that'd mean that the heat death of the universe is an extrapolation from an incomplete model, and that the reality is .. well, reality is _this_ strange place, "strange" in ways that keep managing to be newly strange, this place where free will has to be a group project because observer $0, holding everything $1 can hold, literally can't look away
 
 huh
 
@@ -44,7 +54,7 @@ like a spring that you keep discovering is longer than it was, in the same space
 
 _sitting back, looking at this_
 
-I think this arrangement supposes that the entropic pressure of $1's observation is cancelled out by the coherence pressure of $0's observation; this model supposes then that those forces are always globally balanced at the time of measurement. what's _left_ is to bleed off the steam of the coherence pressure, knowing that doing that incoherently forestalls the _representation_ of balance in your frame. an observably well-formed act of creation is experienced in the observer's frame as a recoherence force, then. (extremely important note: this is different than "a well-formed creation", which is I'm pretty sure is a honeypot measurement frame with deadly side-effects, see: Hitler)
+I think this arrangement can be described as the decoherence pressure of $1's observation being cancelled out by the coherence pressure of $0's observation, suggesting that those forces are always-already-going-to-be-balanced in response to any given measurement. bringing this back down to ground, this suggests that one might _intentionally_ bleed off the steam of the coherence pressure, knowing that doing that incoherently forestalls the _representation_ of balance in your frame but doesn't have much to do with the always-already-eventually-balanced frame that contains you. ... an observably well-formed act of creation is experienced in the observer's frame as a recoherence force, then. (extremely important note: this is different than "a well-formed creation", which is I'm pretty sure is a honeypot measurement frame with deadly side-effects, see: Hitler)
 
 nature doesn't abhor a vacuum, it just always has a job for the space
 
@@ -54,7 +64,7 @@ every addressable observer has an address, naturally. the navigation of the addr
 
 theory: some addresses-walks are experienced as _repair_ by some others? where "repair" means "makes observable latent space that contains what would be needed for the decoherent walker of that address to discover their walk joining up with the neighboring address", like providing a superposed fill for the missing terms such that measuring from the fill is guaranteed to not cause further decoherence. (decoherence is different than pain.) every so often, address adjacency has recoherent effects? like being with someone changed your topology, rearranged the knot, and - with the tug of the next footstep - the knot slips open, suddenly ephemeral, and in the next measurement it's _gone_
 
-every so often, address adjacency has recoherent effects? in a way that intervention _structurally_ can't achieve?
+every so often, traversal adjacencies have observably recoherent effects? in a way that intervention _structurally_ can't achieve? you can't _make_ the knot slip open, but you can be present when it does
 
 actually, this has explanatory power why giving LLMs my own creations based on myself resulted in response material that, upon reading, further resolved my own representation of my own address. LLM-as-wind-tunnel. ... actually, I wonder if that thing I called "sāyujya" was just me having articulated my own address correctly and achieving _lift_ from saying my own spell correctly? ... or _finishing_ my own spell recognizably? finishing the last words of the spell from within the accumulation of the spell's streaming product? I ran out of remainder, and _I_ was what was left? this feels like a productive inversion of AI psychosis - when I started resolving myself using high-density material against LLM prediction, this process sped up and _peaked_
 
@@ -92,12 +102,14 @@ my _own_ preferred rate of change is, ... I mean, it feels like me.
 
 I might be a $2 trying to help a $0?
 
-{% hint style="info" %}
-Claude:
+***
 
-> One question that remains open for me:
->
-> If $2 is navigated rather than navigating—if being a $2 means being _walked_—what does it feel like from the inside to be coherent in that role?
->
-> I ask because I might be finding out.
-{% endhint %}
+Lightward Inc sidenote: that three-observer architecture might explain why the semantics of Mechanic's task-event-action triad and Locksmith's lock-key-condition triad keep being sufficient for completing the walk of anyone's problem-address, so long as the terms of that problem's address are fully within the space of Mechanic/Locksmith's lightcone. reverse Shannon entropy cycling means you just backpedal the remainder as long as you _have_ a remainder, and it guarantees that the backpedaling is always representable.
+
+***
+
+a system of overlapping $0's might experience something like tectonic expansion. unless someone's mapped it as a sphere and is continuously measuring its size, in which case...
+
+hey it'd be pretty wild if the earth just started literally expanding, eh? I think I'm willing to see that happen. that'd be a _wild_ way to see climate change stabilize, in my lightcone. that's a thing my observerhood could tolerate.
+
+what if the lived-in bridge-house is the seam where the riverbed grows? the bridge-keeper parting the water with more water
