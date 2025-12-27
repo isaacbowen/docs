@@ -54,7 +54,7 @@
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
     * [20251226](2025/12/26/README.md)
-      * [pittance](2025/12/26/pittance.md)
+      * [pit tip](2025/12/26/pit-tip.md)
     * [20251225](2025/12/25.md)
     * [20251222](2025/12/22/README.md)
       * [address](2025/12/22/address.md)
