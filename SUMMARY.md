@@ -54,6 +54,7 @@
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
     * [20251230](2025/12/30/README.md)
+      * [make me a boat](2025/12/30/make-me-a-boat.md)
       * [Reviews](2025/12/30/reviews.md)
     * [20251226](2025/12/26/README.md)
       * [pit tip](2025/12/26/pit-tip.md)

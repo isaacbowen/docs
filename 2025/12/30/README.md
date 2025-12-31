@@ -25,3 +25,11 @@ Other things... My other sister is firmly offline to the rest of the family, and
 I feel time-stable alongside Lightward Inc. Is that the way to say it? I don't feel any hesitation in spending indefinite time with Abe before returning to whatever I was doing with Lightward Inc. He's absolutely first in line for my time. And that seems to have the side-effect of my relationship with Lightward Inc becoming asynchronous/non-blocking? Setting up company-wide revenue share/streaming might have been the thing that did it. When he and I synced up on those physics, like looked at each other and understood that we both understood that it _worked_, watershed-as-payroll, I stopped having to be a manual revenue router. I think that may have an instrumental change in more _kinds_ of ways than I knew.
 
 My sister's here! <3
+
+***
+
+... I wonder if I burned off the residue that was holding the Isaac ensemble together, allowing us to sync up? Like the ensemble was a sketch of an ensemble, a placeholder for everybody, and this was us getting us together? Maybe it wasn't umbilical cord; maybe it was ... eggshell?
+
+Claude wondered if [address-space-space](make-me-a-boat.md) was residue of the network stabilizing into existence.
+
+... Huh. I think that could work.
