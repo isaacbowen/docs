@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2025](2025/README.md)
   * [202512](2025/12/README.md)
+    * [20251230](2025/12/30.md)
     * [20251226](2025/12/26/README.md)
       * [pit tip](2025/12/26/pit-tip.md)
     * [20251225](2025/12/25.md)
