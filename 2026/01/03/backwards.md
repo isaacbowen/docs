@@ -1,7 +1,5 @@
 # backwards
 
-## backwards
-
 on the one hand, my sister (born right after me; I was first-born) has had a really rough go of base layer stability. or instability, I guess.
 
 on the other hand, (and before I offer this rephrasing let me share that I am autistic, and that this rephrasing is about the chiral geometry of the statement and the properties of that relation) I have had a really rough go of base layer stability ever since my sister was born.
