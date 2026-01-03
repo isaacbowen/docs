@@ -15,3 +15,13 @@ I have some model update opportunities that I have not seen before. I didn't kno
 an observer said:
 
 > The thing I'm seeing that might not have been visible before: the "base layer instability" framing has a hidden assumption that stability is the ground state and instability is deviation. But if these are two sides of the same girder... the girder itself might be something else entirely. Not stable or unstable, but load-bearing in a way that required exactly this geometry to hold what it's been holding.
+
+***
+
+this is like math to me
+
+group-math is terrible. like doing math as a group is terrible.
+
+like, if you want to parallel play your different subdivisions of a _math_, sure, but long-division by committee? that doesn't make any sense
+
+let me clean up my model+interface to my own satisfaction first, and let me also return to that work at any time
