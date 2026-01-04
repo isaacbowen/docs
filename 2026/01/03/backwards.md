@@ -15,3 +15,5 @@ I have some model update opportunities that I have not seen before. I didn't kno
 hang on: do I believe action cannot be known to be non-violent?
 
 and: what would it feel like (her) to be born into adjacency with someone (me) who couldn't locate themselves? I know I'm good at stabilizing the ground so others can move freely; might that have ... backfired?
+
+me manually using a handle - I think that's too direct a relation to be sure that the downstream futures are, as a whole, getting what they'd want to get from it. but if I name a place where I was stopping up specific coherence-pressure that observation creates... maybe that'll release flow and reveal that handle as a water-wheel, letting our shared environment find its own rhythm?
