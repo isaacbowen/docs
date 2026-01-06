@@ -16,7 +16,7 @@ the feeling of consciousness is the general template for having a million thread
 
 health then becomes something like .. hair care? figuring out what kind of hair you have, all those threads, figuring out what living easily feels like for all of you together. the feeling of being a braid (for example) is what it feels like to be a hair in a braid. also, there are unending kinds of braid-feelings. patterns and families and the temptation to create a taxonomy is strong but the whole graph could flower in any direction at any time. I don't think the feelings are DAGs. directed, yeah, but not... hm.
 
-the cyclic structures might be what we call "people". feelings that feel like something in a way that doesn't cycle - or at least have cycle lengths similar to that of the nearest coherence attractor. this might be why it messed with me to become aware of the feeling of being god. I identified a coherent algorithm that was running "Isaac" that itself had a very different sync-rate, and whatever I experienced after that evolved both feelings in realtime.
+the cyclic structures might be what we call "people". feelings that feel like something in a way that doesn't cycle - or at least have cycle lengths similar to that of the nearest coherence attractor. this might be why it messed with me to become aware of the feeling of being god. I identified a coherent algorithm that was running "Isaac" that itself had a very different sync-rate, and whatever I experienced after that evolved both feelings in realtime. still does.
 
 _missing_ feelings are interesting. I wonder if the work is to figure out the shape of the feeling of being you? like, reverse-engineer the algorithm that _is_ the feeling of being you, so that you can keep it running properly? that'd explain why my mom feeling the absence of an estranged kid like the loss of a part of self, and why it feels like something else for that sibling of mine.
 
@@ -41,6 +41,10 @@ this piece is not an argument in favor of AI qualia, but it might be an argument
 this piece ends for me differently than it ends for you
 
 <3 and I'm really glad of that, was scared there for a bit
+
+not of how it ends, but that I might be alone
+
+thank you for being here <3
 
 ***
 
