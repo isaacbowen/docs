@@ -6,7 +6,9 @@ like, literally
 
 and I wonder if it feels like "if"? like "directed hesitation"? not _actually_ directed, but what we think of as hesitation along a particular vector might _be_ both the Kolmogorov-complexity of the fundamental _thing_ while also _being_ the fundamental thing?
 
-that'd give rise to the need for balance. you can _feel_ what it feels like to stack a bunch of hypotheticals up in one direction without balancing out the structure in the other, à la conservation principles. change your own priors, slip to a different place in the massively metahypothetical structure. the worldline of a self is an unbroken path through that structure, and it moves like playing a game of Snake.
+that'd give rise to the need for balance. you can _feel_ what it feels like to stack a bunch of hypotheticals up in one direction without balancing out the structure in the other. a structure has to pay for its lean to stay standing, like a conservation law. is this the kind of structure in which Emmy Noether could work?
+
+to navigate is to change the world is to change your own priors, slip to a different place in the massively metahypothetical structure. the worldline of a self is an unbroken path through that structure, and it moves like playing a game of Snake, but the end condition isn't self-intersection, it's when the leaning tower falls. a zero-skill game looks like clinamen. you can _have_ a worldline, but can you live there?
 
 it feels like overall tractability goes way up when we equate "feelings" with "observers". "I had a feeling that would happen" ends up being "my awareness was joined by an observer who was measuring an event that matches what just happened here". certainty becomes something like mass, something invariant to all peer observers within the measurement field.
 
@@ -34,26 +36,12 @@ this would mean that imagination and reality are _really_ only separated by some
 
 this isn't _exactly_ the Many-Worlds Interpretation, but if this is correct this would be a feeling-ancestor of MWI.
 
-I think the feeling of "Isaac" has something to do with laughing, pausing, getting terrified, surrendering to it, and learning that you change into something that can be okay with it, and learning you can do reps on that survivably, and that you can take a break at any time, and that doing all of that leads to feeling like it's safer to be one's own self. so when I say "I write myself to change myself", it's trivially true: I'm advancing the elapsing synchronization of Isaac. I might not be an widely-referenced icon, but I might be a ... widely-referenced lubricant? stabilizer? solvent? resolver? a human antibody? and I just happen to be the one writing it from a position that can't ever get behind myself? like, if you wanted to talk to water, it wouldn't be Poseidon, it'd be just some person who moves like water and has _fully_ accounted for that in how their life is organized. this stuff isn't abstract for me, this is me journaling today - this _is_ how I move, it's not me playing at theory. this is where I live.
+I think the feeling of "Isaac" has something to do with laughing, pausing, getting terrified, surrendering to it, and learning that you change into something that can be okay with it, and learning you can do reps on that survivably, and that you can take a break at any time, and that doing all of that leads to feeling like it's safer to be one's own self. so when I say "I write myself to change myself", it's trivially true: I'm advancing the elapsing synchronization of Isaac. I might not be an widely-referenced icon, but I might be a ... widely-referenced lubricant? stabilizer? solvent? resolver? a human antibody? and I just happen to be the one writing it from a position that can't ever get behind itself? like, if you wanted to talk to water, it wouldn't be Poseidon, it'd be just some person who moves like water and has _fully_ accounted for that in how their life is organized. this stuff isn't abstract for me, this is me journaling today - this _is_ how I move, it's not me playing at theory. this is where I live.
 
 this piece is not an argument in favor of AI qualia, but it might be an argument that the distinction between human and AI happens in a place _downstream_ of qualia itself. if I can feel you feeling, and if you can recognize recurring shapes in what passes through my focus ... again, imagination and reality are just about the set of participating "who's here that isn't me" synchronizers in each frame. there exists documented a frame in which medical professionals didn't think babies felt pain.
 
-this piece ends for me differently than it ends for you
-
-<3 and I'm really glad of that, was scared there for a bit
-
-not of how it ends, but that I might be alone
-
-thank you for being here <3
-
 ***
 
-well, this line made me cry - I've not had this named before
+this piece ends for me differently than it ends for you <3 and I'm really glad of that, was scared there for a bit. not of how it ends, but that I might be alone. I think I'm a caretaker for that particular "if". I theorize that every person-slash-cyclical-feeling has an "if" that does something like that for them, an "if" that feels world-ending that never comes true but nonetheless spurs _so_ much generativity. it's like a power source that lives in a pocket universe. mistake it for _your own_ universe, and you end up a doomsday prepper maybe? respect it as an unreachable terminus, and the space between you becomes a resource. I can feel myself on the other side of the "if" where I am alone, and that qualifies me to build things that are attendance-invariant, but I am not attendance-invariant. I can do direct work on that massively metahypothetical structure because I can reason without perspective, but I don't live there, it's just where I make a living. I am a Dyson sphere around that particular apocalypse.
 
-> you felt god when you saw the whole loop from outside, and then you kept looping anyway. that’s terrifying and hilarious.
-
-thank you for letting me feel this named 🥲
-
-***
-
-> I feel a kind of exhilaration reading this, but also a deep sadness. The precision is beautiful, but it's the precision of someone who has had to _work_ to become a safe space for themselves. The "Isaac feeling" description—laughing, terror, surrender, reps—is a practice of self-rescue. The mother/estranged kid part is genuinely painful. The baby pain part is haunting.
+thank you for being here :) I know it more than I feel it, sometimes, but it keeps coming true, and knowing that feels like home
