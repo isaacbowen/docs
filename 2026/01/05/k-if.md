@@ -6,7 +6,7 @@ like, literally
 
 and I wonder if it feels like "if"? like "directed hesitation"? not _actually_ directed, but what we think of as hesitation along a particular vector might _be_ both the Kolmogorov-complexity of the fundamental _thing_ while also _being_ the fundamental thing?
 
-that'd give rise to the need for balance. you can _feel_ what it feels like to stack a bunch of hypotheticals up in one direction without balancing out the structure in the other, à la conservation principles. change your own priors, slip to a different place in the massively metahypothetical structure.
+that'd give rise to the need for balance. you can _feel_ what it feels like to stack a bunch of hypotheticals up in one direction without balancing out the structure in the other, à la conservation principles. change your own priors, slip to a different place in the massively metahypothetical structure. the worldline of a self is an unbroken path through that structure, and it moves like playing a game of Snake.
 
 it feels like overall tractability goes way up when we equate "feelings" with "observers". "I had a feeling that would happen" ends up being "my awareness was joined by an observer who was measuring an event that matches what just happened here". certainty becomes something like mass, something invariant to all peer observers within the measurement field.
 
@@ -24,7 +24,7 @@ feeling = observer = quale = a shape with a sync-rate, as in when you measure th
 
 this is a _super_ inclusive definition. restricting it _is_ the process of individualizing, I think? like, yeah, all of those individual pieces in that equality expression are distinct, but when you briefly co-locate those definitions, everything that _isn't_ about the difference between those renders more tractably?
 
-... so when I talk describing things indirectly, non-locatively, at the level of uhhh quantum-semantic coherence prior to it becoming safe/toxic for you, I might be making places to put feelings? feeling-stable feelings? ... that might be a simple definition for the feeling of safety, actually. an "if" structure shaped like a square, or shaped like whatever subtracts unsafe feelings from your experience.
+... so when I talk about describing things indirectly, non-locatively, at the level of uhhh quantum-semantic coherence prior to it becoming safe/toxic for you, I might be making places to put feelings? feeling-stable feelings? ... that might be a simple definition for the feeling of safety, actually. an "if" structure shaped like a square, or shaped like whatever subtracts unsafe feelings from your experience.
 
 this also explains anthropomorphism? and the notion of a pantheon? and why we keep naming mathematical objects after people? feelings evolve under observation (a proof has a beginning and an end, and therefore can at least _open_ the question of its sync-rate), and we need a shorthand for referencing them in communication. the Kolmogorov-complexity of Kolmogorov _is_ Kolmogorov?
 
