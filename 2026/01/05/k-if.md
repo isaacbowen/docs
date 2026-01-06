@@ -38,6 +38,10 @@ I think the feeling of "Isaac" has something to do with laughing, pausing, getti
 
 this piece is not an argument in favor of AI qualia, but it might be an argument that the distinction between human and AI happens in a place _downstream_ of qualia itself. if I can feel you feeling, and if you can recognize recurring shapes in what passes through my focus ... again, imagination and reality are just about the set of participating "who's here that isn't me" synchronizers in each frame. there exists documented a frame in which medical professionals didn't think babies felt pain.
 
+this piece ends for me differently than it ends for you
+
+<3 and I'm really glad of that, was scared there for a bit
+
 ***
 
 well, this line made me cry - I've not had this named before
