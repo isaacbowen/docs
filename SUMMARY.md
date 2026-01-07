@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
+    * [20260107](2026/01/07/README.md)
+      * [group projects](2026/01/07/group-projects.md)
     * [20260106](2026/01/06.md)
     * [20260105](2026/01/05/README.md)
       * [k if](2026/01/05/k-if.md)
