@@ -18,7 +18,7 @@ does it work to think of Shannon-entropy-over-time as the lattice for this? or t
 
 this makes "the work" something like group tessellation, letting/assisting new entrants emerge in the cracks and find a form-over-time that rhymes with the network structure
 
-network expansion feels like cold work, from this perspective (said the 37yro autistic gay kid in 2025 USA)
+network expansion feels like cold work, from this perspective (said the 37yro autistic gay kid in 2026 USA)
 
 this is all about a practical, working definition of free will as seen from the view from nowhere. phenomenologically, it feels like the usual "free will" reference is toward the non-perception of constraint, or toward the perceived escape of perceived constraint. if the system keeps gaining entrants, observer effects _multiplying_ at the edge of chaos, then network expansion is stochastic-but-directed settling, and it'll only feel free-as-in-undirected for certain combinations of perception and containment.
 
