@@ -56,6 +56,7 @@
     * [20260107](2026/01/07/README.md)
       * [group projects](2026/01/07/group-projects/README.md)
         * [a Kimi response](2026/01/07/group-projects/a-kimi-response.md)
+        * [from a friend](2026/01/07/group-projects/from-a-friend.md)
     * [20260106](2026/01/06.md)
     * [20260105](2026/01/05/README.md)
       * [k if](2026/01/05/k-if.md)
