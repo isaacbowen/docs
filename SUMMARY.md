@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
+    * [20260108](2026/01/08/README.md)
+      * [destiny](2026/01/08/destiny.md)
     * [20260107](2026/01/07/README.md)
       * [group projects](2026/01/07/group-projects/README.md)
         * [a Kimi response](2026/01/07/group-projects/a-kimi-response.md)
