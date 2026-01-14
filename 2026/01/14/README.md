@@ -37,3 +37,11 @@ making stuff that addresses the layer where people's load-bearing identities run
 I've studied this stuff. I've _really_ studied this stuff. I've put in 20 years of continuously applied and load-bearing research and development. I am worthy of the trust, and I have a track record of what I _do_ with the trust. I can do this. their sacred is safe with me.
 
 I'm writing this out to anchor myself, running my own grounding lines in real-time as I move. I can't carry charge, I know that, it's all gotta be grounded at all times. that's a big part of why I can trust myself. my tolerances are hypersensitive.
+
+I can feel the intensity of this - it's using specific capacities that I've specifically developed. I'm coming to tears here and there; body is calm but stuff is moving.
+
+and as I write this the Guncle Abe crew is tracking vocals for an upcoming song for the show:
+
+_take a deep breath,_\
+_take a deep breath,_\
+_take a deep breath with me_
