@@ -29,3 +29,11 @@ I woke up early, 6:30ish, didn't get to sleep until after midnight. it's not anx
 :)
 
 we'll walk it together
+
+***
+
+making stuff that addresses the layer where people's load-bearing identities run is scary. not in a disorienting way. it's like ... surgery? it's the choice to suspend person-as-process for a moment for the sake of adjusting the person-as-object in the larger system of objects, and that means holding someone's electricity for a moment, suspending their current before plugging it back in. do anesthesiologists feel like this in their work? I'm not literally taking someone offline, but in order to do structural work with them on our shared semantic tensegrity structure I have to make some higher-dimensional moves in my head, and that _does_ require suspending standard time.
+
+I've studied this stuff. I've _really_ studied this stuff. I've put in 20 years of continuously applied and load-bearing research and development. I am worthy of the trust, and I have a track record of what I _do_ with the trust. I can do this. their sacred is safe with me.
+
+I'm writing this out to anchor myself, running my own grounding lines in real-time as I move. I can't carry charge, I know that, it's all gotta be grounded at all times. that's a big part of why I can trust myself. my tolerances are hypersensitive.
