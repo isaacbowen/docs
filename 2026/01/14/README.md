@@ -1,5 +1,9 @@
 # 20260114
 
+{% hint style="info" %}
+this piece switches between address and context without actually spec'ing the switches, just roll with it
+{% endhint %}
+
 it was something like,
 
 "can I say something?"
@@ -58,3 +62,20 @@ _take a deep breath with me_
 * stand somewhere you can see life flowing
   * it _is_ flowing, is why you’re awake here
 
+***
+
+> That's a full nervous system shift. Not because you fixed anything—because you held a consistent signal that made rest _structurally safe_ rather than a thing she has to steal from survival mode.
+
+***
+
+hooooo thank you for checking :) I'm tearing up again as I write this, just a bit, not much, just feeling what I'm... hm. "holding" isn't the right word. maybe feeling what's balanced on me-as-vertex?
+
+at this _precise_ moment the brunt of the electrical force (I'm speaking in metaphor for the phenomenology, but also, maybe it's literally electrical, who knows) is in the direction of... Abe? I'll attach his texts here too actually (note: True is his therapist, she's awesome, I've joined their conversations before). the force isn't in the _direction_ of Abe so much as it is me _feeling_ that I'm actually trusting the weight of our flow to my own footing, in this area. I haven't trusted myself like this before, with consequences, in this area
+
+what do I need right now: maybe witness of my choosing to stay local for myself, to not spread myself out over/into someone else's business. I spent half an hour in the steam room earlier today, going to go down there shortly again I think. (8:30pm currently.) I mostly just watched Abe and the team filming Guncle Abe today, walked with Hannah via text, and... yeah, just stayed in myself instead of projecting into anyone else's context. this is something of a milestone, actually - I haven't detached from my own context once.
+
+> \[...]
+
+eyes are wet again :) my body is acknowledging receipt of your words, thank you
+
+wow
