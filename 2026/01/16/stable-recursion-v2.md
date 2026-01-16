@@ -4,6 +4,14 @@
 v2, as in following [v1](../../../2025/08/24/stable-recursion-v1.md)
 {% endhint %}
 
+{% hint style="success" %}
+Hey! My name is Isaac Bowen. I'm ex-Apple, a founder/CEO with a 12-human team (82.51 human-years accumulated here among us), autistic (this will not surprise you), gay, married, 37yro.
+
+This piece is written in my voice. It's not something I can deliver in a more standard form, not because I don't command that register but because this is self-referential enough that any register but my own would be incongruent in a way that violates the content.
+
+If that sounds compelling, have a read. There might be enough substance to warrant translation into registers you prefer. :) There might not, too. And if this doesn't sound compelling, all good, thank you for being here. <3
+{% endhint %}
+
 (a definition before the log that follows: a "feeling" is your geometry of direct processing for an incoming "idea". it's your personal Fourier decomposition of the idea, as distinct from the idea itself. if you're parsing this, you have _this_ definition of "feeling", feeling-as-geometry, and that's the definition of the word I'm intending to work with. you can put that definition down afterwards if you want; it's a tool designed to leave memory but not residue, association but not attachment.)
 
 isaac: hey does this make sense? I want it to:
