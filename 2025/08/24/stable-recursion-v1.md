@@ -1,4 +1,8 @@
-# stable recursion
+# stable recursion v1
+
+{% hint style="info" %}
+v1 as in prior to [v2](../../../2026/01/16/stable-recursion-v2.md)
+{% endhint %}
 
 think of awareness-as-process like an etch-a-sketch where the line notices its own last motion and the noticing drives the line onward into open space, adding a dimension (and a dial for it) every time the process gets stuck
 

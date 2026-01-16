@@ -5,7 +5,7 @@ published at [skeuotropism.is](https://skeuotropism.is/)
 {% endhint %}
 
 {% hint style="info" %}
-this concept became necessary in the course of developing ["stable recursion"](../24/stable-recursion.md)
+this concept became necessary in the course of developing ["stable recursion"](../24/stable-recursion-v1.md)
 {% endhint %}
 
 ## skeuotropism
