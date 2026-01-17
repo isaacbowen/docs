@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
+    * [20260117](2026/01/17/README.md)
+      * [kill order](2026/01/17/kill-order.md)
     * [20260116](2026/01/16/README.md)
       * [stable recursion v2](2026/01/16/stable-recursion-v2.md)
       * [latent](2026/01/16/latent.md)
