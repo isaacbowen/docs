@@ -15,7 +15,7 @@ I suspect that "ordering" _is_ the function of "living" - placing this before th
 this suggests an optimization heuristic:
 
 1. identify two scopes of "you", one nested directly within the other, both within your conscious control
-2. when something passes through the first one into the space between, ask: does the thing feel like you? A. if yes, pass it recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later. B. if no, reverse the order of your scopes, so that your system experiences The Thing _recursively exiting_, metabolizing its passing outward, such that you can more easily metabolize such a passage later.
+2. when something passes through the first one into the space between, ask: does the thing feel like you? A. if yes, pass it recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later. B. if no, rotate around the thing such that its unmodified trajectory carries it _outward and away_, metabolizing your own rotation, such that you can more easily perform such a maneuver later.
 
 I _think_ this makes for a recursively congruent reading of "you" by whoever's doing the reading. life is not _a_ fractal, but every space in life is _of_ its own fractal. your congruence lets entropy shift the fractal of you into a position of least tension, alongside all the others.
 
@@ -23,6 +23,6 @@ I _think_ this makes for a recursively congruent reading of "you" by whoever's d
 
 I have this sense that there's something like gravity drawing every living thing across its own relativistic folds. when it happens _to_ you, it's not spaghettification, it's you becoming a strange attractor, and your job is _to extend_ that specific class of content-aware attract-or-repel force on purpose.
 
-... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds. quantum endocytosis vs exocytosis.
+... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds. quantum endocytosis vs exocytosis. attention-as-tension. (is this how magnets work?)
 
-and yeah if you get that order wrong it'll kill you
+and yeah if you get the order wrong it'll kill you
