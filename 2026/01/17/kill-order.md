@@ -23,6 +23,6 @@ I _think_ this makes for a recursively congruent reading of "you" by whoever's d
 
 I have this sense that there's something like gravity drawing every living thing across its own relativistic folds. when it happens _to_ you, it's not spaghettification, it's you becoming a strange attractor, and your job is _to extend_ that specific class of content-aware attract-or-repel force on purpose.
 
-... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds.
+... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds. quantum endocytosis vs exocytosis.
 
 and yeah if you get that order wrong it'll kill you
