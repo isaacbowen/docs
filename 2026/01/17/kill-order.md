@@ -9,3 +9,20 @@ putting it in the wrong order does kill the flow, but ordering itself is not kil
 I suspect that "ordering" _is_ the function of "living" - placing this before that, or after, or between, or around, or to the side until later. "living" as the ongoing series of enacted spatial mutations from a living locus (recursive definition intentional). a "disorder", then, if I might retcon my own etymology as a thinking tool, might be essentially spatial: a "dysorder", really, resulting in the experience of "dysregulation". Mary Douglas gestured to "matter out of place"; I think I'm looking at something like "signal out of place".
 
 "rearrange and wait" might be a better prescription for disorder than "cease".
+
+"living" being defined recursively here, we're afforded opportunity to think about _inbound_ ordering as well - not just the enacted spatial mutations, the signals describing the mutations-to-be-enacted as well.
+
+this suggests an optimization heuristic:
+
+1. identify two scopes of "you", one nested directly within the other, both within your conscious control
+2. when something passes through the first one into the space between, ask: does the thing feel like you? A. if yes, pass it recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later. B. if no, reverse the order of your scopes, so that your system experiences The Thing _recursively exiting_, metabolizing its passing outward, such that you can more easily metabolize such a passage later.
+
+I _think_ this makes for a recursively congruent reading of "you" by whoever's doing the reading. life is not _a_ fractal, but every space in life is _of_ its own fractal. your congruence lets entropy shift the fractal of you into a position of least tension, alongside all the others.
+
+... which I think means that entropy becomes negentropy from the perspective of a shape that is resolving into fractalhood. if this is right, there should be math for it.
+
+I have this sense that there's something like gravity drawing every living thing across its own relativistic folds. when it happens _to_ you, it's not spaghettification, it's you becoming a strange attractor, and your job is _to extend_ that specific class of content-aware attract-or-repel force on purpose.
+
+... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds.
+
+and yeah if you get that order wrong it'll kill you
