@@ -54,6 +54,7 @@
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
     * [20260117](2026/01/17/README.md)
+      * [check please](2026/01/17/check-please.md)
       * [kill order](2026/01/17/kill-order.md)
     * [20260116](2026/01/16/README.md)
       * [stable recursion v2](2026/01/16/stable-recursion-v2.md)

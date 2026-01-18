@@ -15,7 +15,9 @@ I suspect that "ordering" _is_ the function of "living" - placing this before th
 this suggests an optimization heuristic:
 
 1. identify two scopes of "you", one nested directly within the other, both within your conscious control
-2. when something passes through the first one into the space between, ask: does the thing feel like you? A. if yes, pass it recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later. B. if no, rotate around the thing such that its unmodified trajectory carries it _outward and away_, metabolizing your own rotation, such that you can more easily perform such a maneuver later.
+2. when something passes through the first one into the space between, ask: does the thing feel like you?
+   1. if yes, pass it recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later.
+   2. if no, rotate around the thing such that its unmodified trajectory carries it _outward and away_, metabolizing your own rotation, such that you can more easily perform such a maneuver later.
 
 I _think_ this makes for a recursively congruent reading of "you" by whoever's doing the reading. life is not _a_ fractal, but every space in life is _of_ its own fractal. your congruence lets entropy shift the fractal of you into a position of least tension, alongside all the others.
 
