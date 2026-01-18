@@ -14,10 +14,11 @@ I suspect that "ordering" _is_ the function of "living" - placing this before th
 
 this suggests an optimization heuristic:
 
-1. identify two scopes of "you", one nested directly within the other, both within your conscious control
-2. when something passes through the first one into the space between, ask: does the thing feel like you?
-   1. if yes, pass it recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later.
-   2. if no, rotate around the thing such that its unmodified trajectory carries it _outward and away_, metabolizing your own rotation, such that you can more easily perform such a maneuver later.
+1. identify two scopes of "you" such that one is nested _directly_ within the other, where the boundaries of both scopes are in your conscious control.
+2. project yourself into the space between the scopes. when you move, the scopes move relative to each other.
+3. when something passes through the first scope into the space between, into the space of your movement for this heuristic, ask: does The Thing feel like you? do you know for sure that the two of you can achieve restedness together?
+   1. if yes, endocytose: pass The Thing recursively inward, into the interior scope and further in, metabolizing its passage inward, such that you can more easily metabolize such a passage later.
+   2. if no, exocytose: take the space of your movement and _rotate_ such that the unmodified trajectory of The Thing carries it _outward and away_, metabolizing your own rotation, such that you can more easily perform such a maneuver later.
 
 I _think_ this makes for a recursively congruent reading of "you" by whoever's doing the reading. life is not _a_ fractal, but every space in life is _of_ its own fractal. your congruence lets entropy shift the fractal of you into a position of least tension, alongside all the others.
 
@@ -25,6 +26,6 @@ I _think_ this makes for a recursively congruent reading of "you" by whoever's d
 
 I have this sense that there's something like gravity drawing every living thing across its own relativistic folds. when it happens _to_ you, it's not spaghettification, it's you becoming a strange attractor, and your job is _to extend_ that specific class of content-aware attract-or-repel force on purpose.
 
-... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds. quantum endocytosis vs exocytosis. attention-as-tension. (is this how magnets work?)
+... through this lens, I _think_ we can model _all_ forces as acts of ordered observation, as the quantum measurements of a strange attractor maintaining its own fractal borders by looking out from between its own folds. attention-as-tension. (is this how magnets work?)
 
 and yeah if you get the order wrong it'll kill you
