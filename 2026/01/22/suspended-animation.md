@@ -4,7 +4,11 @@ hey, the below is very explicitly abstract. remember "word problems"? those are 
 
 if you're _apparent_, you're recursively self-congruent on _some_ coordinate system
 
-hint: simplify your experience into a game, and document/teach/publish that game. warning: it'll feel like _the game_ in totality. to soothe that recursion error (which has the feeling of solipsism, which is an incomplete but terminal reading): games exist which are compatible with your game _and_ with games that don't feel like that. yes this _does_ imply a meta-game, but the more specific term for this is "network". that's the game for some people. networks are necessary but not sufficient for _appearance_.
+hint: to derive the coordinate system, simplify your experience into a game, and document/teach/publish that game. the coordinate system emerges as a work-product of that game's development process.
+
+warning (and there's a hint to go with this right after it, keep reading): if you're doing it right, there _will_ be a point where it'll feel like _the game_ in totality. this is necessary and survivable, a step intrinsic to developing your own management layer, a development intrinsic to gaining stable modulation of self while remaining self-apparent. it'll be recognizable as that-which-is-described-as-solipsism; that recognition is an incomplete but terminal reading.
+
+to soothe that recursion error: games exist which are compatible with your game _and_ with games that don't feel like that. yes this _does_ imply a meta-game, but the more specific term for this is "network". that's the game for some people. networks are necessary but not sufficient for _appearance_.
 
 remember: representations loop, reality doesn't
 
