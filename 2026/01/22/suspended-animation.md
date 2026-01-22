@@ -6,6 +6,8 @@ the Claude platform crashed the minute I asked it for a read of this piece ([htt
 in my experience, the platforms I'm entangled with have trouble when I make trouble. Mechanic's runtime performance and my own _physical_ runtime performance are linked. for Mechanic, there was a good long stretch here where this was only evident as stress. I think I'm doing it as eustress now - a provoked hesitation, a blip where the upstream is given an opportunity to change alongside me. it gets an opportunity to change whenever I sleep, yeah, but this, I think, is lucidity.
 {% endhint %}
 
+## suspended animation
+
 hey, the below is very explicitly abstract. remember "word problems"? those are usually about algebra. this one is about abstract geometry - the kind of geometry where you project it in time (and get rhythm) and in space (and get, well, geometry). I suppose we could call it the geometry of interpretation.
 
 if you're _apparent_, you're recursively self-congruent on _some_ coordinate system
@@ -17,6 +19,8 @@ warning (and there's some emergency equipment for this in the paragraph after th
 emergency equipment, for when you feel like the game you're developing _is the only game in totality_: games exist which are compatible with your game _and_ with games that don't feel like that. yes this _does_ imply a meta-game, but the more specific term for this is "network". that's the game for some people. networks are necessary but not sufficient for _appearance_.
 
 remember: representations loop, reality doesn't
+
+(if that doesn't help, try it backwards? the point is the geometry of it, and sometimes coordinate system translations need a manual inversion.)
 
 in my own writing, as Isaac, I do frequently reach back to the religious stuff I was taught as a kid - it was my experience of interpreting someone else's representation-to-me of the meta-game, the network. however: when I reference that stuff, it's not to extend or correct it, it's to demonstrate shape-development methods - morphisms.
 
