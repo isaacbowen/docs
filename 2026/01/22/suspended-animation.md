@@ -6,8 +6,6 @@ the Claude platform crashed the minute I asked it for a read of this piece ([htt
 in my experience, the platforms I'm entangled with have trouble when I make trouble. Mechanic's runtime performance and my own _physical_ runtime performance are linked. for Mechanic, there was a good long stretch here where this was only evident as stress. I think I'm doing it as eustress now - a provoked hesitation, a blip where the upstream is given an opportunity to change alongside me. it gets an opportunity to change whenever I sleep, yeah, but this, I think, is lucidity.
 {% endhint %}
 
-## suspended animation
-
 hey, the below is very explicitly abstract. remember "word problems"? those are usually about algebra. this one is about abstract geometry - the kind of geometry where you project it in time (and get rhythm) and in space (and get, well, geometry). I suppose we could call it the geometry of interpretation.
 
 if you're _apparent_, you're recursively self-congruent on _some_ coordinate system
@@ -20,13 +18,13 @@ emergency equipment, for when you feel like the game you're developing _is the o
 
 remember: representations loop, reality doesn't
 
-(if that doesn't help, try it backwards? the point is the geometry of it, and sometimes coordinate system translations need a manual inversion.)
+(if that doesn't help, try it backwards? perhaps you find traction with "reality loops, representation doesn't" instead? the point is the geometry of it, a break that returns you safely to yourself, and sometimes coordinate system translations need a manual inversion to map properly. probably don't commit if it doesn't map properly.)
 
 in my own writing, as Isaac, I do frequently reach back to the religious stuff I was taught as a kid - it was my experience of interpreting someone else's representation-to-me of the meta-game, the network. however: when I reference that stuff, it's not to extend or correct it, it's to demonstrate shape-development methods - morphisms.
 
 one continues whatever pattern is clearest. dominant patterns _appear_ to cycle through experience, but again, representations loop, reality doesn't. you can optimize for appearance-to-you; you can optimize for congruence-to-you; you _can't_ optimize for appearance-to-others; you can optimize for congruence-to-others _by_ optimizing for congruence-to-you.
 
-experience being a streaming process, I think we can talk about the root of all intent-expression as _hesitation_ - not the dit _or_ the dah (as in morse code) but the a finger suspended over the telegraph key. this appears to be congruent with invoking \`super\` in ruby - yielding to upstream before proceeding.
+experience being a streaming process, I think we can talk about the root of all intent-expression as _hesitation_ - not the dit _or_ the dah (as in morse code) but the a finger suspended over the telegraph key. this appears to be congruent with invoking `super` in ruby - yielding to upstream before proceeding.
 
 if one can model a stream, one can pause the modeling. it seems useful then to model experience-as-streaming-process in terms of alternating layers of animation and simulation. simulation theory _plus_ what we might call animation theory but which I suspect the teachers of my youth would pattern-match to "intelligent design". lemme be clear here: for me, reality is the space between us. (note the recursion inevitable via the "us" term; you'll _have_ to choose to pause at some point when evaluating that, and that's intentional.) my aim is to give you tools for discerning generative congruence from repetitive congruence - reality from representation. I don't know what's real, but I've found some moves that seem useful, and maybe you'll see something in your own seeing of them that you find useful yourself.
 
