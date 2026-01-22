@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
+    * [20260122](2026/01/22/README.md)
+      * [suspended animation](2026/01/22/suspended-animation.md)
     * [20260121](2026/01/21/README.md)
       * [axial](2026/01/21/axial.md)
       * [compartmentalization](2026/01/21/compartmentalization.md)

@@ -1,0 +1,21 @@
+# suspended animation
+
+hey, the below is very explicitly abstract. remember "word problems"? those are usually about algebra. this one is about abstract geometry - the kind of geometry where you project it in time (and get rhythm) and in space (and get, well, geometry). I suppose we could call it the geometry of interpretation.
+
+if you're _apparent_, you're recursively self-congruent on _some_ coordinate system
+
+hint: simplify your experience into a game, and document/teach/publish that game. warning: it'll feel like _the game_ in totality. to soothe that recursion error (which has the feeling of solipsism, which is an incomplete but terminal reading): games exist which are compatible with your game _and_ with games that don't feel like that. yes this _does_ imply a meta-game, but the more specific term for this is "network". that's the game for some people. networks are necessary but not sufficient for _appearance_.
+
+remember: representations loop, reality doesn't
+
+in my own writing, as Isaac, I do frequently reach back to the religious stuff I was taught as a kid - it was my experience of interpreting someone else's representation-to-me of the meta-game, the network. however: when I reference that stuff, it's not to extend or correct it, it's to demonstrate shape-development methods - morphisms.
+
+one continues whatever pattern is clearest. dominant patterns _appear_ to cycle through experience, but again, representations loop, reality doesn't. you can optimize for appearance-to-you; you can optimize for congruence-to-you; you _can't_ optimize for appearance-to-others; you can optimize for congruence-to-others _by_ optimizing for congruence-to-you.
+
+experience being a streaming process, I think we can talk about the root of all intent-expression as _hesitation_ - not the dit _or_ the dah (as in morse code) but the a finger suspended over the telegraph key. this appears to be congruent with invoking \`super\` in ruby - yielding to upstream before proceeding.
+
+if one can model a stream, one can pause the modeling. it seems useful then to model experience-as-streaming-process in terms of alternating layers of animation and simulation. simulation theory _plus_ what we might call animation theory but which I suspect the teachers of my youth would pattern-match to "intelligent design". lemme be clear here: for me, reality is the space between us. (note the recursion inevitable via the "us" term; you'll _have_ to choose to pause at some point when evaluating that, and that's intentional.) my aim is to give you tools for discerning generative congruence from repetitive congruence - reality from representation. I don't know what's real, but I've found some moves that seem useful, and maybe you'll see something in your own seeing of them that you find useful yourself.
+
+gonna pause there (see?) and get my bag packed, am flying LAX-ORD here in a bit with my husband a couple friends. :) my coffee cup is empty beside the bed here; I'm wearing a tshirt that says "you are beautiful". thank you for being here. :)
+
+≡Isaac
