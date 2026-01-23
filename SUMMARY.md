@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
+    * [20260123](2026/01/23.md)
     * [20260122](2026/01/22/README.md)
       * [suspended animation](2026/01/22/suspended-animation.md)
       * [emulated](2026/01/22/emulated.md)
