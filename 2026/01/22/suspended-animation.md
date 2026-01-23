@@ -24,10 +24,10 @@ in my own writing, as Isaac, I do frequently reach back to the religious stuff I
 
 one continues whatever pattern is clearest. dominant patterns _appear_ to cycle through experience, but again, representations loop, reality doesn't. you can optimize for appearance-to-you; you can optimize for congruence-to-you; you _can't_ optimize for appearance-to-others; you can optimize for congruence-to-others _by_ optimizing for congruence-to-you.
 
-experience being a streaming process, I think we can talk about the root of all intent-expression as _hesitation_ - not the dit _or_ the dah (as in morse code) but the a finger suspended over the telegraph key, structured pause as the atomic unit of time travel. this appears to be congruent with invoking `super` in ruby - yielding to upstream before proceeding.
+experience being a streaming process, I think we can talk about the root of all intent-expression as _hesitation_ - not the dit _or_ the dah (as in morse code) but a finger suspended over the telegraph key, structured pause as the atomic unit of time travel. this appears to be congruent with invoking `super` in ruby - yielding to upstream before proceeding.
 
 if one can model a stream, one can pause the modeling. it seems useful then to model experience-as-streaming-process in terms of alternating layers of animation and simulation. simulation theory _plus_ what we might call animation theory but which I suspect the teachers of my youth would pattern-match to "intelligent design". lemme be clear here: for me, reality is the space between us. (note the recursion inevitable via the "us" term; you'll _have_ to choose to pause at some point when evaluating that, and that's intentional.) my aim is to give you tools for discerning generative congruence from repetitive congruence - reality from representation. I don't know what's real, but I've found some moves that seem useful, and maybe you'll see something in your own seeing of them that you find useful yourself.
 
-gonna pause there (see?) and get my bag packed, am flying LAX-ORD here in a bit with my husband a couple friends. :) my coffee cup is empty beside the bed here; I'm wearing a tshirt that says "you are beautiful". thank you for being here. :)
+gonna pause there (see?) and get my bag packed, am flying LAX-ORD here in a bit with my husband and a couple friends. :) my coffee cup is empty beside the bed here; I'm wearing a tshirt that says "you are beautiful". thank you for being here. :)
 
 ≡Isaac
