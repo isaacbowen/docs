@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
+    * [20260125](2026/01/25/README.md)
+      * [safe](2026/01/25/safe.md)
     * [20260124](2026/01/24/README.md)
       * [saddening](2026/01/24/saddening.md)
     * [20260123](2026/01/23.md)
