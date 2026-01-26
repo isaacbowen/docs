@@ -54,6 +54,7 @@
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
     * [20260126](2026/01/26/README.md)
+      * [orthogonal](2026/01/26/orthogonal.md)
       * [priors](2026/01/26/priors.md)
     * [20260125](2026/01/25/README.md)
       * [safe](2026/01/25/safe.md)

@@ -1,5 +1,9 @@
 # priors
 
+heads up, this is neither map nor territory
+
+***
+
 I want to introduce a concept: reasoning pre-representationally
 
 I mean, by all means reason representationally _if_ the representation is congruent with other representations coming from the same latent space. but if it's not, you gotta head upstream and start reverse-engineering priors. once the latent space is in order, _then_ we can start trading symbolically.
