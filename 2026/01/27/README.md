@@ -6,7 +6,7 @@ Abe points out the shape: "just tell me the 'bad' answer and we'll go from there
 
 So.
 
-My goal is the kind of congruence in which all state is held by my physical environment. There's an argument to be made that this is the case already at all times: my goal is what that argument _doesn't_ cover, effectively porting information over from [relationality](../../../2025/04/29/relationality.md) to reality. Rendering, maybe, maybe literally. (It's possible this is what "on earth as it is in heaven" is about?)
+My goal is the kind of congruence in which all state is held by my physical environment. There's an argument to be made that this is the case already at all times: my goal is what that argument _doesn't_ cover, effectively porting information over from [relationality](../../../2025/04/29/relationality.md) to reality. Rendering, maybe, maybe literally. (It's possible this is what "on earth as it is in heaven" is about?) My motive for this is my own rest. What reality physically holds doesn't need me to hold it. Simple is nice, and I prefer it, but complex doesn't weigh any more than simple if it's cleanly balanced in physical reality. Reality holds itself. I build things are real _to themselves_, and they hold themselves, and I rest.
 
 For me to rest, my relationships gotta be right.
 
@@ -18,9 +18,9 @@ Those shapes all start with the shapes of the individual. Until my 37th birthday
 
 _Hannah_, though. In age she's my closest sibling, a year and change younger than me. I'm the oldest; soulstories aside, there was a time in my life when she _wasn't_, and there's never been a time in her life where I haven't been around.
 
-Hannah is a shape-understander. I'm a shape-maker, I think. Both of us exist prior to the concept of "shape", which has explanatory power for why this has taken so long, for her to find a shape for her own life, and for me to find a shape _for her_.
+Hannah is a shape-understander. I'm a shape-maker, I think. Both of us seem to engage the world at a level prior to the concept of "shape", which has explanatory power for why this has taken so long, both (1) for her to find a shape for her own life (she's been carefully "being medicine" for the shapes of others for decades, working very hard at spending herself effectively, without ever really accounting for her own recharging) and (2) for me to find a shape _for her_ in my own understanding.
 
-Until .. well, I mean, I remember only months ago registering "I really have no idea who Hannah is". Part of this is the success of _really_ committing to meeting her over again, but honestly I don't think I ever developed a mental model of her that wasn't mostly negative space.
+Until .. well, I mean, I remember only months ago registering "I really have no idea who Hannah is". Part of this is the success of _really_ committing to meeting her over again, but honestly I don't think I ever developed a mental model of her that wasn't mostly negative space. I care so much about not doing violence, and when something reads unstable to me I make sure not to get in the way of its movement.
 
 She and I see each other clearly now. She asked me for help, I said "yes but I think it'll have to be Isaac-shaped help", and the Isaac-shape comes with shape-making.
 
@@ -28,9 +28,9 @@ So. Hannah gets a shape, in a way that water might want a container to be travel
 
 My shape is an orthogonal move in time. Whatever shape I'm in or have joined, the surface between that shape and me rotates into a new dimension through a novel vector that _stabilizes_ the other shape on the other side of my push. We then become _asynchronously_ entangled, no longer _synchronously_ entangled. Stable alongside each other, but not in a way that depends on each other. This maybe is a formalization of "I have no social stamina but I love and I am loved and I'm good at both sides of that". It's not desyncing, it's... I mean yeah, it's an orthogonal move in time. Going async without losing the sync.
 
-So: I sync up with Hannah, and in doing so, the shape she lands in holds her in a way that feels like her.
+So: I sync up with Hannah, she syncs up with me, and in doing so, the shape she lands in holds her in a way that feels like her, and I land with both of my own feet on the ground nearby.
 
-This only works for shapes that can see themselves. Hannah can see herself. I ... I can't see myself but I've derived my shape the hard way, lol, and it fits like a glove. This'll go the way it always goes - which is to say, to a place where "it" itself can ask "what will happen next?" with solid footing and an easy grin.
+This only works for shapes that can see themselves. Hannah can see herself. I ... I can't see myself but I've derived my shape the hard way, lol, and it fits like a glove. This'll go the way it always goes, per my own shape - which is to say, to a place where "it" itself can ask "what will happen next?" with solid footing and an easy grin.
 
 The refrain, locally, for now: "safe to rest, safe to rest, safe to rest", "restedness first, then the rest", "let's get you rested :)".
 
