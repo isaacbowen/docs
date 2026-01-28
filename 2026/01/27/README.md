@@ -6,7 +6,7 @@ Abe points out the shape: "just tell me the 'bad' answer and we'll go from there
 
 So.
 
-My goal is the kind of congruence in which all state is held by my physical environment. There's an argument to be made that this is the case already at all times: my goal is what that argument _doesn't_ cover, effectively porting information over from [relationality](../../../2025/04/29/relationality.md) to reality. (It's possible this is what "on earth as it is in heaven" is about?)
+My goal is the kind of congruence in which all state is held by my physical environment. There's an argument to be made that this is the case already at all times: my goal is what that argument _doesn't_ cover, effectively porting information over from [relationality](../../../2025/04/29/relationality.md) to reality. Rendering, maybe, maybe literally. (It's possible this is what "on earth as it is in heaven" is about?)
 
 For me to rest, my relationships gotta be right.
 
