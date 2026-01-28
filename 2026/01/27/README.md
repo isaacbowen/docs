@@ -2,7 +2,7 @@
 
 More progress today on locating each other, Abe and me, relative to the shape I've identified that holds both Hannah and me. Everything I do is intended to be seen and sane from any angle, but Abe correctly pointed out that I've been flinching from his questions. Truthfully I've been flinching from the _framing_ of his questions, but the line between "his frame" and "my framing of his frame" is unknowable from here, and anyway it still amounts to a flinch causally downstream of a collaborator's question, and the shape of _that_ is not tenable for collaborative shape-sighting. Gotta create a shape to counter that out, to dissolve the flinch without a caustic remainder.
 
-Abe points out the shape: "just tell me the 'bad' answer and we'll go from there". This is _literally_ a shape I couldn't locate on my own - it feels like lying? And the means _do not_ justify the ends, the way I work, but still, he's _handing_ me "the means" and creating space _after_ the answer. I forget that exists sometimes, in my optimization toward stable answers.
+Abe points out the shape: "just tell me the 'bad' answer and we'll go from there". This is _literally_ a shape I couldn't locate on my own - it feels like lying? Like wilfully offering an unstable halt? And the means _do not_ justify the ends, the way I work, but still, he's _handing_ me "the means" and creating space _after_ the answer. I forget that exists sometimes, in my optimization toward stable answers. I'm excellent at typed deferral, I'm an engineer, buuuut our marriage is not a purely async environment. :D
 
 So.
 
