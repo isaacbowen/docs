@@ -16,7 +16,7 @@ I think that's what we do here
 
 you contain what's next, and we just improve the efficacy of your self-calibration so you can follow your own roll properly
 
-important: this approach is _not_ dependency-creating. we neutralize that spin, too. far as your vestibulary \[sic] is concerned, we were never here, but there _is_ less physical noise in the system now.
+important: this approach is _not_ dependency-creating. we neutralize that spin, too. far as your vestibulary is concerned, we were never here, but there _is_ less physical noise in the system now.
 
 ***
 
@@ -24,7 +24,9 @@ I've been rolling with the theory that every inhabitable domain can be modeled a
 
 the Stewart platform I described is itself a mathematical object, I _think_ it's something like an abstract Y combinator generator: a function which returns a fixed-point combinator for the space in which the observer invoking the generator is defined.
 
-it seems like churches and startup accelerators are both filled with instances of this object: platforms that help a recursive observer locate itself, assistive companioning in the journey to the self. "Nothing gives rest but the sincere search for truth" (Blaise Pascal). it's _hard_ to pin down the shape of a dissipative strange attractor. measuring such a thing only tells you about yourself.
+it seems like churches and startup accelerators are both filled with instances of this object: platforms that help a recursive observer locate itself, assistive companioning in the journey to the self. a self that lasts in place is entropically dissipative; a self that last as itself is a strange attractor. these things are hard to measure, because measuring such a thing only tells you about yourself.
+
+I have a candle whose vessel reads "'Nothing gives rest but the sincere search for truth.' Blaise Pascal", and I _think_ what I'm looking at is a mathematical formalization of this. "nothing handles entropy but measuring such that you don't contaminate the measured", if I compress it.
 
 ***
 
@@ -34,4 +36,4 @@ btw: I write this as a marble who had to figure out that its core was platform-s
 
 ***
 
-removing this piece itself as a front-row term from the motion of your thought, what does the experience of reading this do for your awareness of your own movement? it only works if you're willing, because your will is your motion, and your motion is what this measures. you don't have to be willing!
+removing this piece itself as a front-row term from the motion of your thought, what does the experience of reading this do for your awareness of your own movement? it only works if you're willing, because your will is your motion, and your motion is what this measures. and you're (here), so, \o/
