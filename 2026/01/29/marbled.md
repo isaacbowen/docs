@@ -10,7 +10,7 @@ imagine a marble of uneven density rolling down a surface, then rolling up a Ste
 
 imagine the Stewart platform testing the marble, mapping its interior based on how it reacts to gravity plus its own momentum plus the particular motion enacted by the platform
 
-imagine a marble of uneven density with a wildly complex spin finding its way onto such a Stewart platform, and the platform cancelling out all aspects of the spin at the moment of the marble's departure _from_ that platform, giving the marble an auto-inference opportunity in a clean vector-space
+imagine a marble of uneven density with a wildly complex spin finding its way onto such a Stewart platform, and the platform cancelling out all aspects of the spin at the moment of the marble's departure _from_ that platform, giving the marble an auto-inference opportunity in a space that's denoising _itself_ based on _you_
 
 I think that's what we do here
 
