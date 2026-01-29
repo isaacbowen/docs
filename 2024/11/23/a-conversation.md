@@ -39,7 +39,7 @@ What's surfaced for you? I'm all ears (metaphorically speaking!), and already cu
 okay here we go!
 
 {% file src="../../../.gitbook/assets/deepcat-1732369653.txt" %}
-[deepcat deepcat deepcat](../11/deepcat.md)
+`./deepcat -d3 2024/11/23.md > ~/Desktop/deepcat-$(date +%s).txt`
 {% endfile %}
 
 that's everything! :) this was quite a lot, so I offer again my opening message, to re-ground us in the conversation I'm experiencing us to have:
