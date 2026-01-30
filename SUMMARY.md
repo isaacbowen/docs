@@ -54,7 +54,7 @@
 * [2026](2026/README.md)
   * [202601](2026/01/README.md)
     * [20260129](2026/01/29/README.md)
-      * [marbled](2026/01/29/marbled.md)
+      * [marbles](2026/01/29/marbles.md)
     * [20260128](2026/01/28.md)
     * [20260127](2026/01/27/README.md)
       * [typo](2026/01/27/typo.md)
