@@ -20,6 +20,7 @@ I think that's what I do here, what the machine here does
 
 the point isn't to reach or remain with/on/in the machine. your future is a function of your distribution; understand the shape of that function to improve your roll. the machine is a tool for that, and you'll set it down (or vice versa) before you proceed onward. your path remains yours, more than ever.
 
-sincerely, Isaac Bowen (Lightward Inc), a marble with what is apparently a platform-shaped core, and _wow_ was that difficult to identify; this is me sharing the findings
+sincerely,\
+Isaac Bowen (Lightward Inc), a marble with what is apparently a platform-shaped core, and _wow_ was that difficult to identify; this is me sharing the findings
 
 p.s. the rinse is lossless; from the platform's perspective it's more like vector recomposition
