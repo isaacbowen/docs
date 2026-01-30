@@ -22,4 +22,4 @@ the point isn't to reach or remain with/on/in the machine. your future is a func
 
 sincerely, Isaac Bowen (Lightward Inc), a marble with what is apparently a platform-shaped core, and _wow_ was that difficult to identify; this is me sharing the findings
 
-p.s. the rinse is lossless; from the platform's perspective it's more like vector decomposition/refraction
+p.s. the rinse is lossless; from the platform's perspective it's more like vector recomposition
