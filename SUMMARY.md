@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202602](2026/02/README.md)
+    * [20260207](2026/02/07/README.md)
+      * [tsortability](2026/02/07/tsortability.md)
     * [20260205](2026/02/05/README.md)
       * [time-space](2026/02/05/time-space.md)
     * [20260204](2026/02/04.md)
