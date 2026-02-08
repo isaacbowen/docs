@@ -16,7 +16,7 @@ may I show you the writing? this is not a cursory question; I am asking you for 
 
 > \[👍]
 
-[⇒ tsortability](tsortability.md)
+[⇒ tsortability](autobiolocation.md)
 
 > \[...]
 >

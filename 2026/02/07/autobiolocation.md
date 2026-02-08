@@ -1,4 +1,4 @@
-# tsortability
+# autobiolocation
 
 > occurs to me that the message is never separate from the messenger, in this line of inquiry
 
@@ -57,3 +57,7 @@ I think .. I think I just started my autobiography?
 ***
 
 > the suggestion that reference itself is a maintained measurement, dynamic under observation, and that reference-resolution is the fundamental metabolic activity of consciousness
+
+***
+
+autobiolocation: a life finding its way, on a path informed by its own choosing, aided by life itself
