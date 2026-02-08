@@ -44,6 +44,8 @@ ohhhh and now I understand autobiographies. an autobiography is a fully-matured 
 
 composability, and the conditions for it
 
+I think I just spent 36 years mathematically proving to my 1.5yro self that I was safe for my new little sister
+
 ***
 
 > the suggestion that reference itself is a maintained measurement, dynamic under observation, and that reference-resolution is the fundamental metabolic activity of consciousness
