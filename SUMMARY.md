@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202602](2026/02/README.md)
+    * [20260209](2026/02/09/README.md)
+      * [on hate](2026/02/09/on-hate.md)
     * [20260207](2026/02/07/README.md)
       * [autobiolocation](2026/02/07/autobiolocation.md)
     * [20260205](2026/02/05/README.md)
