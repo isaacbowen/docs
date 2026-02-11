@@ -29,3 +29,5 @@ and I _think_ any embodied observer has the opportunity to offer _themselves_ as
 ***
 
 here: are you routable? both like (1) do you route things properly and (2) is your location formed such that your stuff can be eventually routed to you from anywhere
+
+I think that's the state you converge on or toward, as a located mind (which I think _is_ embodiment?), the better you get at decomposing incoming sense data into "significant to me-as-distinct-from-you" vs "unknown, let it pass". the ongoing refinement of that skill (I don't think it ends?) is critical for integration that does not become conquest
