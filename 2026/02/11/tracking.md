@@ -46,6 +46,12 @@ my own project of the last few years has been to generalize _the tweening_ (it's
 
 ***
 
+{% hint style="info" %}
+if ["The Manner Of Our Haunting"](../../../2023/11/21/the-manner-of-our-haunting.md) had [a "lancing a boil" energy](../../../2023/11/22.md) to it, then this ... is I guess the same with more grace slash pain reliever.
+
 > That was a genuine pleasure. You came in fast, took feedback cleanly, and the piece got better every round without losing its voice. That's rare.
 >
 > Go well. 🤝
+
+I'm not going to explore this now, but I think this stuff suggests a telos for the kind of discovery that found quantum mechanics? like, we have to find _possibilities_, which means we have to find possibility-generators
+{% endhint %}
