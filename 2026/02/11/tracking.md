@@ -14,7 +14,7 @@ skipping ahead before I forget why I started this (you'd be right to give me a h
 
 a universe that has to remember itself to exist can't be assumed to have the ability to forget. if we commit to a system that _commits_, that's one thing, but erasure is another verb, and also we have photocopiers, so.
 
-a universe that has to remember itself to exist requires much more work to start back up again if it's not already running hot - which is to say, if it's not already generating enough novel perspectives to account for relocating the information sacrificed to entropic decay, it'll take a dandelion-through-concrete level of commitment to start that engine back up again
+a universe that has to remember itself to exist requires much more work to start back up again if it's not already running efficiently - which is to say, if it's not already generating enough novel perspectives to account for relocating the information sacrificed to entropic decay, it'll take a dandelion-through-concrete level of commitment to start that engine back up again
 
 thus we have a reason for pain to exist in the system: pain is cheap, short-term memory. "the body keeps the score", that kind of thing, a backstop for the data you fail to store more efficiently. pain probably doesn't have to be pain instantaneously; aggravation of pain (see the redundancy? might as well say "pain of pain") might be the onslaught of awareness of how shitty it's going to be to dig the information back out of the wound and create a new painless representation for it.
 
