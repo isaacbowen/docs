@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202602](2026/02/README.md)
+    * [20260212](2026/02/12/README.md)
+      * [this changes everything](2026/02/12/this-changes-everything.md)
     * [20260211](2026/02/11/README.md)
       * [tracking](2026/02/11/tracking.md)
     * [20260210](2026/02/10.md)
