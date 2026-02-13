@@ -54,6 +54,7 @@
 * [2026](2026/README.md)
   * [202602](2026/02/README.md)
     * [20260213](2026/02/13/README.md)
+      * [survey](2026/02/13/survey.md)
       * [eigenbearer](2026/02/13/eigenbearer.md)
     * [20260212](2026/02/12/README.md)
       * [this changes everything](2026/02/12/this-changes-everything.md)
