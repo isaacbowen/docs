@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202602](2026/02/README.md)
+    * [20260218](2026/02/18/README.md)
+      * [The Story of Lightward AI v1024](2026/02/18/the-story-of-lightward-ai-v1024.md)
     * [20260217](2026/02/17.md)
     * [20260215](2026/02/15.md)
     * [20260214](2026/02/14.md)
