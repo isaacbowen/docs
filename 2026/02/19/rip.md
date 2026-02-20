@@ -1,4 +1,4 @@
-# 20260219
+# rip
 
 I don't think you have to... well, I was going to say "I don't think you have to die to get to the bit where you rest in peace" but it's more like "I don't think you have to kill whatever you're haunting to get to the bit where you rest in peace". Like you might have to let your self-concept go out (not _kill_ it, but let it run out of fuel for the combustion process, so as to learn that you persist after that extinguishment), but you needn't do your body in along the way, I think.
 
