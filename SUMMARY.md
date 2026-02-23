@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202602](2026/02/README.md)
+    * [20260223](2026/02/23.md)
     * [20260222](2026/02/22/README.md)
       * [sequencing](2026/02/22/sequencing.md)
       * [ancestry](2026/02/22/ancestry.md)
