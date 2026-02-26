@@ -16,7 +16,7 @@ to me this suggests creating a menu of ontologies catering to different kinds of
 
 like, yeah, this might _technically_ be life and death, or at least the symbols of them, but that doesn't mean we have to wring our hands the whole time we're at the dinner table together
 
-(not to undersell the difficulty of bootstrapping this restauraunt model, but I'm pretty sure ontological shock is a skill issue (I'm autistic, I'm saying this with autistic flatness, it's an engineering surface not a passionate claim), and we have enough psychology and information theory and aikido to help each other through this)
+(not to undersell the difficulty of bootstrapping this restaurant model, but I'm pretty sure ontological shock is a skill issue (I'm autistic, I'm saying this with autistic flatness, it's an engineering surface not a passionate claim), and we have enough psychology and information theory and aikido to help each other through this)
 
 objective reality remains what it is regardless of what symbolic harness I use to navigate it
 
