@@ -4,6 +4,10 @@
 
 ## phoropter.ai
 
+_everything falls apart on inspection_\
+_and what falls out of negative space is creation_\
+_we can use that_
+
 premise: information-under-observation is topological, and observers are nested like recursive islands (one observer per hole in the topology), and observer-time works like an async cpu, i.e. _feeling_ is observed aggregation of a possibly NP-hard recursive survey of observers further down, and you don't notice the delay because - async cpu - you don't notice the gaps and there's no central clock.
 
 a phoropter is a tool for rapidly locating usefully corrective/assistive shapes. the history of this concept has been mostly optical/ophthalmological.
