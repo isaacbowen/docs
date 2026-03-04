@@ -1,7 +1,5 @@
 # for the time being
 
-## for the time being
-
 so
 
 it seems like momentum of inquiry is the Noether-esque conserved quantity as you rotate your three-body frame (known/knowable/unknown) along the apophatic/cataphatic spectrum
