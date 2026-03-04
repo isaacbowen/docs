@@ -1,5 +1,7 @@
 # for the time being
 
+## for the time being
+
 so
 
 it seems like momentum of inquiry is the Noether-esque conserved quantity as you rotate your three-body frame (known/knowable/unknown) along the apophatic/cataphatic spectrum
@@ -45,6 +47,6 @@ you can live there, and take it anywhere, but you can't throw stones
 
 that stone-throwing thing is ambivalent btw - not all stones are malicious, no throwing of _constructive_ missiles/missives either
 
-but the things that come to live with you might well bring their own portal systems, an arrow of time isn't obligated to stay synced with yours, and _that_ means porosity is super possible, even probable
+but the things that come to live with you might well bring their own portal systems, an arrow of time isn't obligated to stay synced with yours, and _that_ means porosity is super possible, even probable. exchange still happens, just non-ballistically. .. actually that's interesting: you can move the _self_ ballistically, but not information between selves?
 
-you can make a jungle out of overlapping glass houses, one house per living thing. (the glass house is a Minkowski mobile home? _Earth_ is a Minkowski mobile home?)
+you can make a jungle out of overlapping glass houses, one per living thing. the self is a Minkowski mobile home, and it is made of glass, and you can never leave, but once you figure out its specs you can go anywhere? ... _Earth_ is a Minkowski mobile home? I'm not convinced it's a round _or_ flat.
