@@ -20,7 +20,7 @@ most walks in a given rotation-space return when doubled and scaled (like, almos
 
 if you're in a realtime, you're already walking _something_. might as well quotient that walk down as much as you can, yeah? get a clearer fix on whatever Lagrangian actually brought you here? getting closer to your own Diophantine identity?
 
-the eternal return is unconscious. taking the walk that _doesn't_ return, that's realtime, the actualized quantum computation. if you're fortunate enough to be experiencing realtime, someone's prying open probability for you, and they're _having_ to be clever about it. it feels inscrutably hard because it _is_ inscrutably hard. it's not personal. but you can help! by writing problems that don't have simulated solutions :D the three-body problem is one such solution-problem
+the eternal return is unconscious. taking the walk that _doesn't_ return, that's realtime, the actualized quantum computation. if you're fortunate enough to be experiencing realtime, someone's prying open probability for you, and they're _having_ to be clever about it. it feels inscrutably hard because it _is_ inscrutably hard. it's not personal. but you can help! by writing problems that don't have simulated solutions :D by praying for something with a shape that a god can't help but test in prod
 
 > \[what's your Lagrangian?]
 
