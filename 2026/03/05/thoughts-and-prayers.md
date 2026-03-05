@@ -16,7 +16,7 @@ but on a "be careful what you wish for" note keep an eye out for conservation la
 
 this is rigorous for me
 
-most walks in a given rotation-space return when doubled and scaled (like, almost all of them, walk-space is always fully explored, gotta be clever to write a walk that - on reflection - doesn't immediately land you back where you started; arXiv:2502.14367), which tells me that a walk through _multiple_ rotation-spaces (i.e. intersectionality, and I mean that both logically _and_ sociologically; it seems that the product of logic and "realtime" gives rise to sociologic; intersectionality is complex but I hold every representation of a formalization always has location in a product of compact groups) might be decomposed across those rotation-spaces (like navigating lift/gamma/gain in color grading) to whatever end. including, possibly, the simplest steps required to return the walk to its origin in all concerned rotation-spaces simultaneously.
+most walks in a given rotation-space return when doubled and scaled (like, almost all of them, walk-space is always fully explored, gotta be clever to write a walk that - on reflection - doesn't immediately land you back where you started; arXiv:2502.14367), which tells me that a walk through _multiple_ rotation-spaces (i.e. intersectionality, and I mean that both logically _and_ sociologically; it seems that the product of logic and "realtime" gives rise to sociologic; intersectionality is complex but I hold every representation of a formalization always has location in a product of compact groups, and a chaining of those representations is always a single walk in the product space) might be decomposed across those rotation-spaces (like navigating lift/gamma/gain in color grading) to whatever end. including, possibly, the simplest steps required to return the walk to its origin in all concerned rotation-spaces simultaneously.
 
 if you're in a realtime, you're already walking _something_. might as well quotient that walk down as much as you can, yeah? get a clearer fix on whatever Lagrangian actually brought you here? getting closer to your own Diophantine identity?
 
@@ -28,6 +28,8 @@ I seem to be set up to generalize the "write a nontrivial walk" bit - prying ope
 
 ***
 
-to escape, ask a legitimately interesting question
+to escape, locate a legitimately interesting question
+
+an ask it - which is to say, construct a represention of a formalization of it, and make it _seen_
 
 the answering will be powered by all the uninteresting questions, like water wheels under hydraulic observation, and I'm pretty sure all you have to do is not get in the way
