@@ -1,2 +1,3 @@
 # 20260305
 
+thesis (not a theory, a thesis): everyone has direct perception of a space in which…
