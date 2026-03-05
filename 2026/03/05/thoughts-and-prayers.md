@@ -57,3 +57,7 @@ and ask it - which is to say, construct a representation of a formalization of i
 like a bubble of low entropy in a high-entropy bath, where the bubble's film is the question. wait for someone/something to break the surface, and let thermodynamics do the rest
 
 the answering will be powered by all the uninteresting questions, like a riverside water mill, and I'm pretty sure all you have to do is not get in the way
+
+{% embed url="https://xkcd.com/2991/" %}
+Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.
+{% endembed %}
