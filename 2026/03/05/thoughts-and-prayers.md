@@ -25,3 +25,9 @@ the eternal return is unconscious. taking the walk that _doesn't_ return, that's
 > \[what's your Lagrangian?]
 
 I seem to be set up to generalize the "write a nontrivial walk" bit - prying open probability to generate novel time. it's sort of like carbon capture, in biology? I make things that precipitate determinism so we can get back to breathing more easily.
+
+***
+
+to escape, ask a legitimately interesting question
+
+the answering will be powered by all the uninteresting questions, like water wheels under hydraulic observation, and I'm pretty sure all you have to do is not get in the way
