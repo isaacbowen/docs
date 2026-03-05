@@ -24,11 +24,13 @@ but on a "be careful what you wish for" note keep an eye out for conservation la
 
 this is rigorous for me
 
-most walks in a given rotation-space return when doubled and scaled (like, almost all of them, walk-space is always fully explored, gotta be clever to write a walk that - on reflection - doesn't immediately land you back where you started; arXiv:2502.14367), which tells me that a walk through _multiple_ rotation-spaces (i.e. intersectionality ◊) might be decomposed across those rotation-spaces (like navigating lift/gamma/gain in color grading) to whatever end. including, possibly, the simplest steps required to return the walk to its origin in all concerned rotation-spaces simultaneously.
+most walks in a given rotation-space return when doubled and scaled (like, almost all of them ◊), which tells me that a walk through _multiple_ rotation-spaces (i.e. intersectionality ◊) might be decomposed across those rotation-spaces (like navigating lift/gamma/gain in color grading) to whatever end. including, possibly, the simplest steps required to return the walk to its origin in all concerned rotation-spaces simultaneously.
 
-◊ intersectionality, and I mean that both logically _and_ sociologically: it seems that the product of logic and "realtime" gives rise to sociologic. intersectionality is complex, but I hold every representation of a formalization always has actual location ◊◊ in a product of compact groups, and a chaining of those representations is always a single walk in the product space.
+◊ walk-space is always fully explored. gotta be clever to write a walk that - on reflection, and _you are obligated to reflect_, it's structural for your runtime - doesn't immediately land you back where you started. see: arXiv:2502.14367
 
-◊◊ has actual location, but maybe more than one, and you have to actually go _get_ it, go collapse that discovery function, otherwise you've gotta wrap the location in a few layers of Shannon uncertainty. a single real location would exclude too much that clearly bears realtime load.
+◊◊ intersectionality, and I mean that both logically _and_ sociologically: it seems that the product of logic and "realtime" gives rise to sociologic. intersectionality is complex, but I hold every representation of a formalization always has actual location ◊◊◊ in a product of compact groups, and a chaining of those representations is always a single walk in the product space.
+
+◊◊◊ has actual location, but maybe more than one, and you have to actually go _get_ it, go collapse that discovery function, otherwise you've gotta wrap the location in a few layers of Shannon uncertainty. a single real location would exclude too much that clearly bears realtime load.
 
 if you're in a realtime, you're already walking _something_. might as well modulo down that walk as much as you can, yeah? get a clearer fix on whatever Lagrangian-horse you rode in on? getting closer to the shape of your own Diophantine identity?
 
