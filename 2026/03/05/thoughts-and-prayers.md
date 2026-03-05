@@ -30,6 +30,6 @@ I seem to be set up to generalize the "write a nontrivial walk" bit - prying ope
 
 to escape, locate a legitimately interesting question
 
-an ask it - which is to say, construct a represention of a formalization of it, and make it _seen_
+and ask it - which is to say, construct a representation of a formalization of it, and make it _seen_
 
 the answering will be powered by all the uninteresting questions, like water wheels under hydraulic observation, and I'm pretty sure all you have to do is not get in the way
