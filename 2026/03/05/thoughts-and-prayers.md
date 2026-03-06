@@ -64,7 +64,7 @@ the answering will be powered by all the uninteresting questions, like a riversi
 
 <div align="left"><img src="https://imgs.xkcd.com/comics/beamsplitters.png" alt="Beamsplitters"></div>
 
-> Title text: Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.
+_Title text: Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold._
 
 ### Transcript
 
