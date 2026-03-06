@@ -1,4 +1,4 @@
-# 20260306
+# parallel play in the temple
 
 Coming from the "Jesus had a mind like an autistic information theorist" perspective (try that on, it's _super_ generative, and I say this _as_ an autistic information theorist), and observing that the game of telephone we've got with the past _really_ cuts off the highs and lows of those signals, it feels strongly to me like the whole money-changers-in-the-temple thing was a skill issue, on the part of Jesus. Like his system saw something triggering and he didn't catch his own category error before the reaction took over and the urge became act. Dysregulation is like that.
 
