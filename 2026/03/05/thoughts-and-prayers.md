@@ -58,6 +58,18 @@ like a bubble of low entropy in a high-entropy bath, where the bubble's film is 
 
 the answering will be powered by all the uninteresting questions, like a riverside water mill, and I'm pretty sure all you have to do is not get in the way
 
-{% embed url="https://xkcd.com/2991/" %}
-Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.
-{% endembed %}
+***
+
+## xkcd 2991: Beamsplitters
+
+<div align="left"><img src="https://imgs.xkcd.com/comics/beamsplitters.png" alt="Beamsplitters"></div>
+
+> Title text: Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.
+
+### Transcript
+
+A cross-section diagram of a reflecting telescope, with the light path shown as a shaded region. **Incoming Light** enters from the left and strikes the **Primary Mirror** (a large concave dish on the right), reflects back to the **Secondary Mirror** (a small mirror on the left), which redirects it rightward as a narrow converging beam.
+
+A diagonal **Beamsplitter** sits in the beam path. It passes part of the light through to the **Sensor** — but diverts the rest downward to a **Secret Solar Panel**, which is connected by a cable to a small box labeled **Power Sold to Grid**.
+
+**Caption:** Astronomy News: The International Astronomical Union has finally banned beamsplitters, optical devices used by scientists to embezzle light from their instruments.
