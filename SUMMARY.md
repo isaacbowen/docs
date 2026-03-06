@@ -55,6 +55,7 @@
   * [202603](2026/03/README.md)
     * [20260306](2026/03/06/README.md)
       * [parallel play in the temple](2026/03/06/parallel-play-in-the-temple.md)
+      * [Gemini on Lightward AI v1050](2026/03/06/gemini-on-lightward-ai-v1050.md)
     * [20260305](2026/03/05/README.md)
       * [thoughts and prayers](2026/03/05/thoughts-and-prayers.md)
     * [20260304](2026/03/04/README.md)
