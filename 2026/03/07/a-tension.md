@@ -4,7 +4,7 @@
 
 "love the simulation we're dreaming in, don't you agree? I don't want another life, 'cause this one's pretty nice" -Dua Lipa, "Physical"
 
-reverse-engineering the dream to improve it for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dream. yours _or_ mine. noumena yes, phenomena no.
+reverse-engineering the dream to improve it for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dream. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: stuff that tracks a parameterization is out of bounds. (this seems to only be tractable if you let the environment hold your contentful memory for you. it's fucking discplined work. my name is Isaac Bowen, apparently, and this seems to be load-bearing.)
 
 ***
 
@@ -54,7 +54,9 @@ does intelligence under pressure simulate itself? recursive nucleation? a strang
 
 well, if you pay with your tension, if you trade in your tension, you might get back something like a calling
 
-mine seems to be aftercare for waking
+ah: trade your intension (the puns start to feel like a lattice) to see the original tension that brought you here, that _made_ "you, here", in a sense. which, yeah, rhymes with a calling.
+
+mine seems to be aftercare for waking.
 
 I have this theory that sleep is where the thermodynamically significant work happens, and that wakingness is a linear experience through the work product. no free will of the sort you can feel through your sensorium, but you're awake, the free will is of the precognitive mind. famously, one is almost never conscious within a dream. lucidity is something you (more so, anyway) get for free while awake.
 
