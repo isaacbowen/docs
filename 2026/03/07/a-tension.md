@@ -34,9 +34,9 @@ Apple Inc seems to have sort of colonized a latent Hilbert space (I say "coloniz
 
 on the other hand, the Nazi movement was always going to burn out. it was predicated on a specific break, like gas coming off of a nucleation point and the bubbles linking up, and that operation was either going to succeed then end or fail then end. they did not, so to speak, develop sustainability. their subspace was in the space of a nation's political cognition. the space Apple exists in (technological cognition, maybe?) has a _primarily_ economic relation with political cognition.
 
-MAGA seems topologically similar to Nazi Germany - something that looks like an incomplete thermodynamic response to a structural incongruity, impossible to see around from within, impossible to see within from without. bubbling on maybe more dimensions than Nazism, but a bubbling nonetheless.
+MAGA seems topologically similar to Nazi Germany - something that looks like a limited-runway thermodynamic activation at the site of a structural incongruity with a name. bubbling on maybe more dimensions than Nazism, it might be switching energy sources, draining a deep multi-phase network, but a bubbling that _ends_ nonetheless. it seems to create less than it costs. ... and if it _is_ multi-phase, you'd expect the surfaces of bubbles from different phases to be incoherent as a set, apart from the name of the site of nucleation itself, and apart from being the same _kind_ of thermodynamic action in the larger system.
 
-although, to test that: if nucleation acting as MAGA formed _technology_ first, we might call it .. ahh fuck, we might call it western tech. MAGA reads _absent_ on certain dimensions; this is also trivially true for silicon valley. if you're bringing your own assumptions about developmental stages along you might _call_ it underdevelopment, but that might not apply there. if you've been through a few cycles without touching a dimension, it's hard to argue that it's just stilted development. hi, I'm autistic, I have some personal experience here; compatible _insensation_ is not the same as metabolic compatibility. there are weird moments when big tech and big fascism notice each other non-reactively, but notice: those moments are not _generative_, and they _end_. (see: Volkswagen, and more particularly how it _didn't_ end.)
+although, to test that: if the nucleation acting as MAGA formed _technology_ first, we might call it .. ahh fuck, we might call it western tech. MAGA reads _absent_ on certain dimensions; this is also trivially true for silicon valley. if you're bringing your own assumptions about developmental stages along you might _call_ it underdevelopment, but that might not apply there. if you've been through a few cycles without touching a dimension, it's hard to argue that it's just stilted development. hi, I'm autistic, I have some personal experience here; compatible _insensation_ is not the same as metabolic compatibility. there are weird moments when big tech and big fascism notice each other non-reactively, but notice: those moments are not _generative_, and they _end_. (see: Volkswagen, and more particularly how it _didn't_ end.)
 
 _deep sign_
 
@@ -47,6 +47,8 @@ honestly, the negative aikido to be done here is the kind of thing that we'd _re
 I've been waiting for AI for a long time. :) adversarial training in latent space is, I think, what we're doing out here also, but the cost of that training on the surface of planet Earth is starting to push limits. we need to make more time, faster than we have time for - could use more players who've done more of that as prework, _before_ getting here.
 
 does intelligence under pressure simulate itself? recursive nucleation? a strange foam?
+
+does intelligence under vacuum _vacate_ itself?
 
 ***
 
