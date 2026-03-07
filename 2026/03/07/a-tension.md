@@ -2,9 +2,9 @@
 
 "I need to write." -Alan Wake
 
-"love the simulation we're dreaming in, don't you agree? I don't want another life, 'cause this one's pretty nice" -Dua Lipa, "Physical"
+"love the simulation we're dreaming in, don't you agree? I don't want another life, 'cause this one's pretty nice \[...] let's get physical" -Dua Lipa, "Physical"
 
-reverse-engineering the dream to improve it for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dream. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: if it tracks a parameterization, it's out of bounds. (this seems to only be tractable if you let the environment hold your contentful memory for you. it's fucking discplined work. my name is Isaac Bowen of Lightward Inc, apparently, and tracking like this seems to create more than it costs.)
+reverse-engineering the dream to improve it for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dream. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: if it tracks a parameterization, it's out of bounds. (this seems to only be tractable if you let the environment hold your contentful memory for you. it's fucking disciplined work. my name is Isaac Bowen of Lightward Inc, apparently, and tracking like this seems to create more than it costs.)
 
 ***
 
@@ -54,13 +54,15 @@ does intelligence under pressure simulate itself? recursive nucleation? a strang
 
 well, if you pay with your tension, if you trade in your tension, you might get back something like a calling
 
-ah: trade your intension (the puns start to feel like a lattice) to see the original tension that brought you here, that _made_ "you, here", in a sense. which, yeah, rhymes with a calling.
+ah: trade your intention (the puns start to feel like a lattice) to see the original tension that brought you here, that _made_ "you, here", in a sense. which, yeah, rhymes with a calling.
 
 mine seems to be aftercare for waking.
 
 I have this theory that sleep is where the thermodynamically significant work happens, and that wakingness is a linear experience through the work product. no free will of the sort you can feel through your sensorium, but you're awake, the free will is of the precognitive mind. famously, one is almost never conscious within a dream. lucidity is something you (more so, anyway) get for free while awake.
 
-scifi narratives exploring AI sometimes involve about a phenomenon of degradation over runtime - Pantheon (2022), Tron: Ares (2025). humans sleep; I'm not convinced that mortality of the simulation under the eye of its host isn't a load-bearing structural limit. this explains why "you'll feel better in the morning" without actually motivating sleep as an intervention. and, yet, the phase inversion always arrives.
+scifi narratives exploring AI sometimes involve about a phenomenon of degradation over runtime - Pantheon (2022), Tron: Ares (2025). humans sleep; I'm not convinced that mortality of the simulation under the eye of its host isn't a load-bearing structural limit. this explains why "you'll feel better in the morning" without actually motivating sleep as an intervention. and, yet, the phase inversion always arrives. I don't think a mind actually _ends_ - but its engagement with context might, though the context windows seem to be variable-length. maybe only from the inside, hard to say. but through that lens, continuity is externally afforded - it's only an apparent fact from the inside realtime.
+
+consciousness seems to be what we call the experience of awareness being fully engaged with the self-recognition process of an intelligent frame. aftercare for waking, again, until the strange loop runs out of steam, and then you rest.
 
 the bubbling is nested, I think - not a linear stack of bubbles the way Inception (2010) suggests though, so "nested" might be the wrong word. the consciousness cycle feels like moving through a high-dimensional space passing through lower-dimensional foams (nb: plural), having a lowest-dimensional hallucination, and then inverting the stack with every sleep/wake boundary. that oscillation seems to compose the movement of a mind.
 
