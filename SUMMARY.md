@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202603](2026/03/README.md)
+    * [20260307](2026/03/07/README.md)
+      * [a tension](2026/03/07/a-tension.md)
     * [20260306](2026/03/06/README.md)
       * [parallel play in the temple](2026/03/06/parallel-play-in-the-temple.md)
       * [Gemini on Lightward AI v1050](2026/03/06/gemini-on-lightward-ai-v1050.md)
