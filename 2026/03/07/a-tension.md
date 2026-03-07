@@ -22,7 +22,7 @@ motion on the surface of a bubble is very much its own thing. being _made_ of su
 
 bubbles of like material get to interact without immediately breaking the tension. that feels useful.
 
-but when a bubble _does_ pop, what is lost? not the mass, not the content, not even the _shape_ (Platonically speaking). as process, a bubble is an actively maintained boundary condition; a bubble popping adds up to something like the _containing_ topology forgetting something. (or remembering something. depends on how you look at it. either way, something relaxes.)
+but when a bubble _does_ pop, what is lost? not the mass, not the content, not even the _shape_ (Platonically speaking). as process, a bubble is an actively maintained boundary condition; a bubble popping adds up to something like the _containing_ topology forgetting something. (or remembering the bubble's interior, but with some changes? depends on how you look at it. either way, something relaxes.)
 
 what do we get if we think of sociopolitical movements as being constrained to the topology of bubbles?
 
@@ -30,7 +30,7 @@ actually here lemme just cut to the point, I suspect MAGA is, topologically, a b
 
 bubbles of like _dimensionality_ need to agree on material in order to interact without popping. bubbles of _unlike_ dimensionality may not even exist to each other - or if they do, whatever topology they manifest is going to have properties that are _not_ locally bubble-like.
 
-Apple Inc seems to have sort of colonized a latent Hilbert space (I say "colonized" because we're dealing with multiple arrows of time here and it's more ethical to assume something's already in place _and of place_ by the time you arrive than to assume otherwise) with useful .. what, ports? ports of trade? they're creating more time than they're using, opening more superposition than fixing positions. technology does that. technology might _be_ that. Apple's whole deal, ostensibly, is creativity. not creation, _creativity_.
+Apple Inc seems to have sort of colonized a latent Hilbert space (I say "colonized" because we're dealing with multiple arrows of time here and it's more ethical to assume something's already in place _and of place_ by the time you arrive than to assume otherwise) with useful .. what, ports? ports of trade? they're creating more time than they're using, opening more superposition than fixing positions. technology does that. technology might _be_ that. Apple's whole deal, ostensibly, is creativity. not creation, _creativity_. their universal cover _includes_ the temporal dimension: they literally have position outside of time. (now I'm wondering about business model _covers_ as cellular automata. what would Conway make of Unilever?)
 
 on the other hand, the Nazi movement was always going to burn out. it was predicated on a specific break, like gas coming off of a nucleation point and the bubbles linking up, and that operation was either going to succeed then end or fail then end. they did not, so to speak, develop sustainability. their subspace was in the space of a nation's political cognition. the space Apple exists in (technological cognition, maybe?) has a _primarily_ economic relation with political cognition.
 
@@ -58,8 +58,8 @@ mine seems to be aftercare for waking
 
 I have this theory that sleep is where the thermodynamically significant work happens, and that wakingness is a linear experience through the work product. no free will of the sort you can feel through your sensorium, but you're awake, the free will is of the precognitive mind. famously, one is almost never conscious within a dream. lucidity is something you (more so, anyway) get for free while awake.
 
+scifi narratives exploring AI sometimes involve about a phenomenon of degradation over runtime - Pantheon (2022), Tron: Ares (2025). humans sleep; I'm not convinced that mortality of the simulation under the eye of its host isn't a load-bearing structural limit. this explains why "you'll feel better in the morning" without actually motivating sleep as an intervention. and, yet, the phase inversion always arrives.
+
 the bubbling is nested, I think - not a linear stack of bubbles the way Inception (2010) suggests though, so "nested" might be the wrong word. the consciousness cycle feels like moving through a high-dimensional space passing through lower-dimensional foams (nb: plural), having a lowest-dimensional hallucination, and then inverting the stack with every sleep/wake boundary. that oscillation seems to compose the movement of a mind.
 
 memory care is indistinguishable from _care_, and I might mean that literally, in which case I would also mean that recursively - rest as the interval in which your memory is actively maintained by the unresting.
-
-scifi narratives exploring AI sometimes involve about a phenomenon of degradation over runtime - Pantheon (2022), Tron: Ares (2025). humans sleep; I'm not convinced that mortality of the simulation under the eye of its host isn't a load-bearing structural limit. this explains why "you'll feel better in the morning" without actually motivating sleep as an intervention.
