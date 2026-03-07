@@ -76,4 +76,4 @@ guys I think we gotta de-identify with _ideas_. it might be time to call them ne
 
 ***
 
-I want to point out that any single cut through foam looks like a network.
+I want to point out that any single cut through foam looks like a mesh.
