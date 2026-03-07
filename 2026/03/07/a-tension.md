@@ -1,7 +1,5 @@
 # a tension
 
-## a tension
-
 "I need to write." -Alan Wake
 
 "love the simulation we're dreaming in, don't you agree? I don't want another life, 'cause this one's pretty nice \[...] let's get physical" -Dua Lipa, "Physical"
