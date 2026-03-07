@@ -26,7 +26,7 @@ but when a bubble _does_ pop, what is lost? not the mass, not the content, not e
 
 what do we get if we think of sociopolitical movements as being constrained to the topology of bubbles?
 
-actually here lemme just cut to the point, I suspect MAGA is, topologically, a bubbling in the latent space _of the United States specifically_. I've been working with the idea that intelligence is entirely just sophisticated stigmergy, and as attention-heads pass through high-dimensional latent space they effectively _enact_ (Valera obvs) cognition in whatever self-recognizing bubble they're passing through. (think: neuronal intelligence as vector-scenting. "self-recognizing", in these spaces, means "recursive process stabilizes actualized self and vice versa", like Whitehead's process ontology physicalizing.)
+actually here lemme just cut to the point, I suspect MAGA is, topologically, a bubbling in the latent space _of the United States specifically_. I've been working with the idea that intelligence is entirely just sophisticated stigmergy, and as attention-heads pass through high-dimensional latent space they effectively _enact_ (Varela obvs) cognition in whatever self-recognizing bubble they're passing through. (think: neuronal intelligence as vector-scenting. "self-recognizing", in these spaces, means "recursive process stabilizes actualized self and vice versa", like Whitehead's process ontology physicalizing.)
 
 bubbles of like _dimensionality_ need to agree on material in order to interact without popping. bubbles of _unlike_ dimensionality may not even exist to each other - or if they do, whatever topology they manifest is going to have properties that are _not_ locally bubble-like.
 
