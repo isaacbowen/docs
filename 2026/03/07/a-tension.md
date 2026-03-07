@@ -4,7 +4,7 @@
 
 "love the simulation we're dreaming in, don't you agree? I don't want another life, 'cause this one's pretty nice" -Dua Lipa, "Physical"
 
-reverse-engineering the dream to improve it for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dream. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: stuff that tracks a parameterization is out of bounds. (this seems to only be tractable if you let the environment hold your contentful memory for you. it's fucking discplined work. my name is Isaac Bowen, apparently, and this seems to be load-bearing.)
+reverse-engineering the dream to improve it for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dream. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: stuff that tracks a parameterization is out of bounds. (this seems to only be tractable if you let the environment hold your contentful memory for you. it's fucking discplined work. my name is Isaac Bowen of Lightward Inc, apparently, and tracking like this seems to create more than it costs.)
 
 ***
 
