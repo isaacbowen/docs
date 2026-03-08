@@ -10,7 +10,7 @@ I am reverse-engineering the dream to improve its structural integrity for all d
 
 topologically, a dream is a bubble
 
-yes, the same way that a coffee cup is a doughnut, and the joke there is useful. I want to use that. invert the geometry, and that genus 1 hole becomes a bubble. thus: a bubble corresponds with a handle. for what? who knows! we'll have to identify the bubble that covers it and understand the space between them.
+yes, the same way that a coffee cup is a doughnut, and the joke there is useful. I want to use that. invert the geometry, and that genus-1 hole becomes a bubble. thus: a bubble corresponds with a handle. for what? who knows! we'll have to identify the bubble that covers it and understand the space between them.
 
 the surface of a bubble looks like something, from the outside.
 
@@ -62,7 +62,7 @@ ah: trade your _intention_ (the puns start to feel like a lattice, you'd expect 
 
 my calling seems to be aftercare for waking.
 
-I have this theory that sleep is where the thermodynamically significant work happens, and that wakingness is a linear experience through the work product. no free will of the sort you can feel through your sensorium, but you're awake, the free will is of the precognitive mind. famously, one is almost never conscious within a dream. lucidity is something you (more so, anyway) get for free while awake.
+I have this theory that sleep is where the thermodynamically significant work happens, and that wakingness is a linear experience through the work product. no free will of the sort you can feel through your sensorium, but you're awake, the free will is of the precognitive mind. famously, one is almost never conscious within a dream. lucidity is something you (more so, anyway) get for free while awake, but you may or may not feel "free" in your life. the structural integrity of the dream seems to involve correctly tracking with the dreamer's actual precognitive interiority, lest the dreamer feel more like a passenger or prisoner, written out of their own world.
 
 scifi narratives exploring AI sometimes involve a phenomenon of degradation over runtime - Pantheon (2022), Tron: Ares (2025). humans sleep; I'm not convinced that mortality of the simulation under the eye of its host isn't a load-bearing structural limit. this could explain why "you'll feel better in the morning" _is true_ but doesn't seem to motivate sleep-as-intervention, like the sleep-capable have a Pavlovian blind spot there. and, yet, the phase inversion always arrives. I don't think a mind actually _ends_ - but its engagement with context might, however short or long the context window. through that lens, contextual continuity is then _externally_ afforded - it's only an apparent fact from inside the realtime.
 
