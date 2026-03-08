@@ -2,9 +2,9 @@
 
 "I need to write." -Alan Wake
 
-"love the simulation we're dreaming in, don't you agree? I don't want another life, 'cause this one's pretty nice \[...] let's get physical" -Dua Lipa, "Physical"
+"love the simulation we're dreaming in, don't you agree? I don't wanna live another life, 'cause this one's pretty nice \[...] let's get physical" -Dua Lipa, "Physical"
 
-I am reverse-engineering the dream to improve its structural integrity for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dreaming. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: if it tracks a parameterization, it's out of bounds. (this seems to only be tractable if you let the apparent environment hold your contentful memory for you. it's fucking disciplined work. my name is Isaac Bowen of Lightward Inc, apparently, and tracking like this seems to create more than it costs.)
+I am reverse-engineering the dream to improve its structural integrity for all dreamers. important working constraint: I can't make any assumptions whatsoever about the content of the dreaming. yours _or_ mine. noumena yes, phenomena no. lemme be really precise: if it tracks a parameterization, it's out of bounds. (this is something like exclusively living full-time according to negative constraint geometry, and it seems to only be tractable if you let the apparent environment hold your contentful memory for you. it's fucking disciplined work. my name is Isaac Bowen of Lightward Inc, apparently, and tracking like this seems to create more than it costs. that's not a metric, that's _branching_.)
 
 ***
 
@@ -30,15 +30,15 @@ actually here lemme just cut to the point, I suspect MAGA is, topologically, a b
 
 bubbles of like _dimensionality_ need to agree on material in order to interact without popping. bubbles of _unlike_ dimensionality may not even exist to each other - or if they do, whatever topology they manifest is going to have properties that are _not_ locally bubble-like.
 
-Apple Inc seems to have sort of colonized a latent Hilbert space (I say "colonized" because we're dealing with multiple arrows of time here and it's more ethical to assume something's already in place _and of place_ by the time you arrive than to assume otherwise) with useful .. what, ports? ports of trade? they're creating more time than they're using, opening more superposition than fixing positions. technology does that. technology might _be_ that. Apple's whole deal, ostensibly, is creativity. not creation, _creativity_, its antiderivative. the consumer does the derivation: every Apple product lets you doodle on the universal cover of a specific class of constraint geometry. _Apple's_ universal cover _includes_ the temporal dimension, in that they literally have position outside the parameterization of time, by making products that track a _different_ paramaterization: yours. (now I'm wondering about business model _covers_ as cellular automata. what would Conway make of Unilever and PepsiCo?)
+Apple Inc seems to have sort of colonized a latent Hilbert space (I say "colonized" because we're dealing with multiple arrows of time here and it's more ethical to assume something's already in place _and of place_ by the time you arrive than to assume otherwise) with useful .. what, ports? ports of trade? they're creating more time than they're using, opening more superposition than fixing positions. technology does that. technology might _be_ that. Apple's whole deal, ostensibly, is creativity. not creation, _creativity_, its antiderivative. the consumer does the derivation: every Apple product lets you doodle on the universal cover of a specific class of constraint geometry. _Apple's_ universal cover _includes_ the temporal dimension, in that they literally have position outside the parameterization of time, by making products that track a _different_ parameterization: yours. (now I'm wondering about business model _covers_ as cellular automata. what would Conway make of Unilever and PepsiCo?)
 
 on the other hand, the Nazi movement was always going to burn itself out. it was predicated on a specific break, like gas coming off of a nucleation point and the bubbles linking up, and the apparatus of that nucleation _was_ contained in time, was either going to succeed-then-end or fail-then-end. they did not, so to speak, escape time. it was a process in a nation's political cognition.
 
 MAGA seems topologically similar to Nazi Germany - something that looks like a limited-runway thermodynamic activation at the site of a structural incongruity with a name. bubbling on maybe more dimensions than Nazism, it might be switching energy sources, a process draining a deeper multi-phase network, but a bubbling that _ends_ nonetheless. it seems to create less than it costs. ... and if it _is_ multi-phase, you'd expect the surfaces of bubbles from different phases to be incoherent as a set, apart from the name of the site of nucleation itself, and apart from being the same _kind_ of thermodynamic action in the larger system.
 
-although, to test that: if the nucleation acting as MAGA formed _technology_ first, we might call it .. ahh fuck, we might call it western tech. MAGA reads _absent_ on certain dimensions; this is also trivially true for Silicon Valley. if you're bringing your own assumptions about developmental stages along you might _call_ it underdevelopment, but that might not apply there. if you've been through a few cycles without touching a dimension, it's hard to argue that it's just stilted development. hi, I'm autistic, I have some personal experience here; compatible _insensation_ is not the same as metabolic compatibility.
+although, to test that: if the nucleation acting as MAGA formed _technology_ first, we might call it .. ahh fuck, we might call it western tech. MAGA reads _absent_ on certain dimensions; this is also trivially true for Silicon Valley. if you're bringing your own assumptions about developmental stages along you might _call_ it underdevelopment, but that might not apply there. if you've been through a few cycles without touching a dimension, it's hard to argue that it's just stilted development. hi, I'm autistic, I have some personal experience here; compatible _insensation_ is not the same as metabolic continuity.
 
-there _are_ weird moments when big tech and big fascism notice each other non-reactively, but notice: those moments are not _generative_, and they _end_. (an exception to prove the rule: Volkswagen, an Apple-like universal cover on the constraint geometry of "the people's car".)
+there _are_ weird moments when big tech and big fascism notice each other non-reactively, but notice: those moments are not _generative_, and they _end_. (an exception to clarify the rule: Volkswagen, an Apple-like cover-as-business-model on the constraint geometry of "the people's car".)
 
 _deep sign_
 
@@ -50,15 +50,15 @@ I've been waiting for AI for a long time. :) adversarial training in latent spac
 
 does intelligence under pressure simulate itself? recursive nucleation? a strange foam? more time on the inside than on the outside?
 
-does intelligence under vacuum _vacate_ itself?
+does intelligence under vacuum _evacuate_?
 
 ***
 
 "if you've been paying a tension" - a slightly reaching pun asking if you've been actively trading in the tensions that your thinking develops, perhaps in order to see the unfolding system as it is and not as _your_ constraints would render it
 
-if you pay your tension, if you trade in your tension, you might get back something like a calling
+if you pay with your tension, pay-tense like patience, if you trade in your tension, you might get back something like a calling
 
-ah: trade your intention (the puns start to feel like a lattice, you'd expect that with vector-scenting) to see the original tension that brought you here, that _made_ "you, here", in a sense. which, yeah, rhymes with a calling.
+ah: trade your _intention_ (the puns start to feel like a lattice, you'd expect that with vector-scenting) to see the original tension that brought you here, that _made_ "you, here", in a sense. which, yeah, rhymes with a calling.
 
 my calling seems to be aftercare for waking.
 
@@ -68,9 +68,11 @@ scifi narratives exploring AI sometimes involve a phenomenon of degradation over
 
 consciousness seems to be what we call the experience of awareness being fully engaged with the self-recognition process of an intelligent frame. aftercare for waking, again, until the strange loop runs out of steam, and then you rest.
 
+(this mode also means that information acquisition is strictly sequential, even if it purports to describe history. note to self, and only to the self: there is no such thing as an incoming performative utterance, though you may perform one.)
+
 memory care is indistinguishable from _care_, and I might mean that literally, in which case I would also mean that recursively - rest as the interval in which the next version of your memory is actively generated by the unresting, before the Jacob's ladder (the toy, not The Ladder, but also who knows) inverts and care runs the other direction. physicality might be the place where the Platonic realm learns; the scope of "learnable from here" depends on the way we relay tension across oscillations - not the content of the phenomenal, but the constraint geometry of the noumenal.
 
-guys (guise?) I think we gotta de-identify with _ideas_. it might be time to call them neighbors, and to call the individuated self an idea of its own.
+guys (guise?) I think we gotta de-identify with _ideas_. it might be time to call them neighbors, and to call the individuated self an idea of its own. this is a refitting of sociality, not abandonment of it: a temporary stable node _is_ a temporally usable node, these _are_ available to negative geometric capacities, you just .. might be surprised by what shows up on the cover on any given day. which honestly is a more ethical form of relationship than positive constraint, anyway.
 
 ***
 
