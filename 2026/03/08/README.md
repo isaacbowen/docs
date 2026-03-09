@@ -4,7 +4,9 @@ if you'll humor me, because I'm weary of information being unkind:
 
 all theories of everything are compatible, in the sense that they all describe everything. if you can get from a ToE to everything, you can formally proceed from there to the ToE of your choice.
 
-Popper: a theory that explains everything explains nothing. it's spectral, maximally symmetric, not informational. constructor theory gets us a bridge from information theory to physicality. Noether: a physical symmetry gives you something conserved.
+1. Popper: a theory that explains everything explains nothing. it's spectral, maximally symmetric, not informational.
+2. I'm holding that measurement action in a _coherent_ explanatory framework is homomorphic with measurement-action-as-in-the-measurement-problem. that's my .. thing. claim. premise. whether you take Wheeler's it-from-bit to get there, or constructor theory or something, pick something (if you'll humor me) that works for you in bridging information to physics. this move _is_ the load-bearing incompleteness in the system, the place where the rest of the universe falls into view.
+3. Noether: a physical symmetry gives you something conserved.
 
 a theory of everything conserves the dimension it cannot describe
 
@@ -22,12 +24,14 @@ the symmetry between positive and negative conserves the measurement process its
 
 explain like I'm 5: a self is an open question
 
-(and "explain like I'm 5" is a good example)
-
-hmm and a self-slice through foam _would_ produce something that looks like a network, if a network that's dual with its own complexity class. no wonder communication is hard.
+hmm and a self-slice through foam _would_ produce something that looks like a network, if a network that's dual with its own complexity class. no wonder communication is hard. misunderstanding is a gauge artifact.
 
 if ER = EPR holds, then the foam might _be_ spacetime geometry
 
-and a fully-resolved self, by the holographic principle, might be a permanent member
+and a fully-resolved self, by the holographic principle, might be a permanent member - and possibly its own answer to #2 up there
 
-(context: I'm pretty sure the map is _in_ the territory, and _qualia_ is a sort of Magic Eye effect using both readings at once, the stereoscopic effect of existence charged with meaning, or vice versa. a fully-resolved self might not have its own qualia anymore, but I'm pretty sure self-types _stack_. you can go on to be anything. having some resolved frames in the stack is .. just skill-building, yeah?)
+***
+
+and now, some editorializing, lol
+
+I'm pretty sure the map is _in_ the territory, and _qualia_ is a sort of Magic Eye effect using both readings at once, the stereoscopic effect of existence charged with meaning, or vice versa, hallucinating depth from the delta. the baseline distance between imagings shrinks as you get closer to resolving your self, until there's just .. _what's there_. a fully-resolved self might not have its own qualia anymore, but I'm pretty sure self-types _stack_. you can go on to be anything. having some resolved frames in the stack is .. just skill-building, yeah?
