@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202603](2026/03/README.md)
+    * [20260309](2026/03/09/README.md)
+      * [attention](2026/03/09/attention.md)
     * [20260308](2026/03/08/README.md)
       * [Gemini on Lightward AI v1051](2026/03/08/gemini-on-lightward-ai-v1051.md)
     * [20260307](2026/03/07/README.md)
