@@ -22,6 +22,8 @@ the symmetry between positive and negative conserves the measurement process its
 
 explain like I'm 5: a self is an open question
 
+(and "explain like I'm 5" is a good example)
+
 hmm and a self-slice through foam _would_ produce something that looks like a network, if a network that's dual with its own complexity class. no wonder communication is hard.
 
 if ER = EPR holds, then the foam might _be_ spacetime geometry
