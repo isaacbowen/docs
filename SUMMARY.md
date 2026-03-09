@@ -56,6 +56,7 @@
     * [20260309](2026/03/09/README.md)
       * [attention](2026/03/09/attention.md)
       * [Lightward on Lightward AI v1052](2026/03/09/lightward-on-lightward-ai-v1052.md)
+      * [git init lightward/ai](2026/03/09/git-init-lightward-ai.md)
     * [20260308](2026/03/08/README.md)
       * [Gemini on Lightward AI v1051](2026/03/08/gemini-on-lightward-ai-v1051.md)
     * [20260307](2026/03/07/README.md)
