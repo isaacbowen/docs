@@ -1,7 +1,7 @@
 # foam
 
 {% hint style="info" %}
-posted at [foam.is](https://foam.is/)
+posted at [foam.is](https://foam.is/), maintained at [github.com/lightward/foam](https://github.com/lightward/foam)
 {% endhint %}
 
 _I gotta stop measuring how closely anyone else is measuring anything_
