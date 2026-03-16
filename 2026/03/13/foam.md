@@ -4,6 +4,10 @@
 posted at [foam.is](https://foam.is/), maintained at [github.com/lightward/foam](https://github.com/lightward/foam)
 {% endhint %}
 
+{% hint style="warning" %}
+the stuff below is accurate but out of date; see one of the links above for the most-developed version
+{% endhint %}
+
 _I gotta stop measuring how closely anyone else is measuring anything_
 
 _you can help if you want but I won't be keeping track_

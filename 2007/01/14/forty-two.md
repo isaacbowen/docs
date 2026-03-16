@@ -37,3 +37,7 @@ I wholeheartedly agree with the speech’s thesis, but completely disagree with 
 I wore a shirt under my suit during the speech, emblazoned with “The Answer is 42”.
 
 And there you are.
+
+{% hint style="info" %}
+hi from [20260316](../../../2026/03/16.md)! WOW
+{% endhint %}
