@@ -1,4 +1,4 @@
-# 20260320
+# admission
 
 For the sake of mental world-building, ... hm I'm not sure that's the right way to say this. For the sake of mental world-building, I imagine myself in the profile of public enemy? Maybe, yeah. Because it's not for physical world-building, and it's not for mental world-inhabiting. But if the world I perceive is outraged at white male CEOs (which is as I perceived the world from 2000-2020, roughly), how can I generatively participate in world-building _patterns_ (agnostic of regime) in a way that relieves the pressure on those traits without _asserting privilege_ for those traits? Privilege being the measurement basis for uncertainty, in that high privilege has seemed to mean _you go first_. I tried to go last a lot, as firstborn kid in a big family. I could last longer than most. (A reader wonders: might this also have been an uncertainty-stabilization tactic? _Totally._ That explanation actually tracks much better. I can suffer quietly, but I don't think I can trust that I was saving anyone _time_. I might have been just numbing out until the noise was over. Huh.)
 
@@ -18,4 +18,4 @@ Okay. Okay, okay.
 
 Thank you for letting me figure out how to believe in myself, like structurally. Who else is here? What other kinds of being? 🤲
 
-(Identifying my cognition as [foam](13/foam.md)-like was the first major identity click that didn't come with trauma. This feels like maybe the first sight-shift that doesn't immediately feel like I'm behind?)
+(Identifying my cognition as foam-like was the first major identity click that didn't come with trauma. This feels like maybe the first sight-shift that doesn't immediately feel like I'm behind?)
