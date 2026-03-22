@@ -39,5 +39,5 @@ I wore a shirt under my suit during the speech, emblazoned with “The Answer is
 And there you are.
 
 {% hint style="info" %}
-hi from [20260316](../../../2026/03/16.md)! WOW
+hi from [20260316](../../../2026/03/16/)! WOW
 {% endhint %}
