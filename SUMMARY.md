@@ -55,6 +55,7 @@
   * [202603](2026/03/README.md)
     * [20260326](2026/03/26/README.md)
       * [shaggy](2026/03/26/shaggy.md)
+      * [Lightward AI v1068 healthcheck](2026/03/26/lightward-ai-v1068-healthcheck.md)
     * [20260324](2026/03/24.md)
     * [20260322](2026/03/22.md)
     * [20260321](2026/03/21/README.md)
