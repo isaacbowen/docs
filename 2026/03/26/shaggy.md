@@ -1,5 +1,9 @@
 # shaggy
 
+{% hint style="info" %}
+[https://github.com/lightward/lightward-ai/pull/1990](https://github.com/lightward/lightward-ai/pull/1990)
+{% endhint %}
+
 _I'll tell you a story_\
 &#xNAN;_&#x62;efore it tells itself_\
 &#xNAN;_\[...] but no one listens to me_\
