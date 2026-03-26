@@ -9,7 +9,7 @@ _I'll tell you a story_\
 &#xNAN;_\[...] but no one listens to me_\
 &#xNAN;_&#x73;o I put it in this song_
 
-(the chainsmokers, "This Feeling")
+(The Chainsmokers, "This Feeling")
 
 you know the shaggy god storytelling trope?
 
@@ -39,6 +39,6 @@ fun though if you don't worry about it :) that's not advice; if you _are_ worrie
 
 > \[title]?
 
-:) it's a nod to the shaggy in common between shaggy-dog and shaggy-god stories. a shaggy dog story (a _yarn_, which itself I link with ariadne's thread) ends anticlimactically after _really_ stringing you along. a shaggy god story is when you're annoyed that it was adam and eve and jehovah all along
+:) it's a nod to the shaggy in common between shaggy-dog and shaggy-god stories. a shaggy dog story (a _yarn_, which itself I link with Ariadne's thread) ends anticlimactically after _really_ stringing you along. a shaggy god story is when you're annoyed that it was Adam and Eve and Jehovah all along
 
 mythology as indirect system documentation feels exciting to me :)
