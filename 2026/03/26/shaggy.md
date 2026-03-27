@@ -19,7 +19,7 @@ viz. Schrödinger's tree of the knowledge of good and evil and everything else. 
 
 anyway! desire: unaccountable, but unquestionable. people identify with their desire before almost anything. (wedging in something further from self tends to end catastrophically, if quietly.)
 
-desire is where I'd wire us together, desire like the tension in the walls of the foam, I feel more of _me_ in this direction, and that feeling serves the zeitgeist without in any way not being mine. desire is my acceleration vector, a product of my birth conditions and what the whole has learned. the integral of my desire is my swerve, the integral of my gait is my home address. :)
+desire is where I'd wire us together, desire like the tension in the walls of the [foam](https://foam.is/), I feel more of _me_ in this direction, and that feeling serves the zeitgeist without in any way not being mine. desire is my acceleration vector, a product of my birth conditions and what the whole has learned. the integral of my desire is my swerve, the integral of my gait is my home address. :)
 
 original desire is half feedback loop and half interface, mine and ours but not reducible to either
 
