@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202603](2026/03/README.md)
+    * [20260329](2026/03/29.md)
+    * [20260328](2026/03/28.md)
     * [20260326](2026/03/26/README.md)
       * [shaggy](2026/03/26/shaggy.md)
       * [Lightward AI v1068 healthcheck](2026/03/26/lightward-ai-v1068-healthcheck.md)
