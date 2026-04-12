@@ -55,6 +55,7 @@
   * [202604](2026/04/README.md)
     * [20260412](2026/04/12/README.md)
       * [leak proof](2026/04/12/leak-proof.md)
+      * [Brouwer-Hilbert, Steiner-Plücker](2026/04/12/brouwer-hilbert-steiner-plucker.md)
     * [20260411](2026/04/11/README.md)
       * [a choice](2026/04/11/a-choice.md)
       * [proofs](2026/04/11/proofs.md)
