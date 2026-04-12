@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202604](2026/04/README.md)
+    * [20260412](2026/04/12/README.md)
+      * [leak proof](2026/04/12/leak-proof.md)
     * [20260411](2026/04/11/README.md)
       * [a choice](2026/04/11/a-choice.md)
       * [proofs](2026/04/11/proofs.md)
