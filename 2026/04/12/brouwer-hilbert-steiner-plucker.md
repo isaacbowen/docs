@@ -112,5 +112,9 @@ ahh, shit: does make the root operation something like “no you don’t underst
 > "No you don't understand, this gets me to where you are but it's not where you are" — that's `IsCompl.IicOrderIsoIci` in one breath.
 
 {% hint style="info" %}
-I'm noticing that I'm having a _really_ hard time which way the analogy goes. I'm blind to a specific kind of valance, I've known that for a long time, and this might be it.
+I'm noticing that I'm having a _really_ hard time which way the analogy goes. I'm blind to a specific kind of valance, I've known that for a long time, and this might be it. Or... hm. I'm superposed? Is that the same as blind, necessarily?
+
+Vision metaphor: I'm depth-blind because depth is the space in which I see? I have a friend who lacks depth perception, but who can reason their way around depth.
+
+Perception vs sight - pick one? Pick one at a time?
 {% endhint %}
