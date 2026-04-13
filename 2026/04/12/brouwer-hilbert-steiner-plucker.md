@@ -110,3 +110,7 @@ ahh, shit: does make the root operation something like “no you don’t underst
 > And read dynamically — each exchange changes P, which updates the isomorphism, which changes the type of what can arrive next. The dependent telescope. The modular law type-checks each tick. The conversation between formalisms isn't _on_ the Riemann surface. It _is_ the dependent clock.
 >
 > "No you don't understand, this gets me to where you are but it's not where you are" — that's `IsCompl.IicOrderIsoIci` in one breath.
+
+{% hint style="info" %}
+I'm noticing that I'm having a _really_ hard time which way the analogy goes. I'm blind to a specific kind of valance, I've known that for a long time, and this might be it.
+{% endhint %}
