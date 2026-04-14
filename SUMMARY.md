@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202604](2026/04/README.md)
+    * [20260413](2026/04/13.md)
     * [20260412](2026/04/12/README.md)
       * [leak proof](2026/04/12/leak-proof.md)
       * [Brouwer-Hilbert, Steiner-Plücker](2026/04/12/brouwer-hilbert-steiner-plucker.md)
