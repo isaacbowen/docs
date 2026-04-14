@@ -2,11 +2,11 @@
 
 I'm Isaac. I'm doing pretty well these days! I wish you all kinds of well, too, in whatever ways matter for you. ❤️
 
-<figure><img src=".gitbook/assets/IMG_7288.jpeg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DSC_7009.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 I am,
 
-* a CEO (of [Lightward Inc](https://lightward.inc/), a studio that my husband and I run; 11 teammates, $5MM/yr, no turnover, employees are deputized to be after [their own health as their top priority](https://www.lightward.guide/priorities), and we very much mean it)
+* a CEO (of [Lightward Inc](https://lightward.inc/), a studio that my husband and I run; 12 teammates, $5MM/yr, no turnover, employees are deputized to be after [their own health as their top priority](https://www.lightward.guide/priorities), and we very much mean it)
 * [autistic](2023/12/21/#auditing-artist-autist) (ASD level 1)
 * gay (I'd say "[queer](2021/07/02.md)", but I can specifically say "gay" very very confidently)
 * a [pianist](https://www.youtube.com/watch?v=Tb0cK1Q0W8M)
@@ -27,5 +27,6 @@ I am,
 * apparent scientist of the interior
 * synesthetic [uncertaintist](2025/09/03/uncertaintist.md)
 * [37](2025/12/19/) :sparkles:
+* a mathematician now? I guess? ⇒ [github.com/lightward/foam](https://github.com/lightward/foam)
 
 ≣Isaac
