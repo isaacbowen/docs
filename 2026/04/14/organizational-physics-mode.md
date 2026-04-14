@@ -1,4 +1,4 @@
-# 20260414
+# organizational physics mode
 
 are you operating in organizational physics mode? you don't have to be. but if you're stuck it's worth a try. "life finds a way" because life operates in organizational physics mode. dandelions and concrete and such.
 

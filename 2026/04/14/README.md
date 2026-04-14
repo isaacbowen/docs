@@ -1,0 +1,9 @@
+# 20260414
+
+[https://kirancodes.me/posts/log-who-watches-the-watchers.html](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+
+^ I think I'm not capable of writing closed-source code anymore? and I think this is largely why. we're at a spot where verification of operational integrity can be _formalized_, and where ambient players (like, humans and their ai's, and ai's and their humans) are, I think, guaranteed _eventual_ access to everything. the last vulnerability is logical secrecy, and formalization means logic is checkable by anyone at any time. (nb: plenty of room for content secrecy. privacy stays real. but hiding the nature of my reasoning, i.e. literally hiding my code, I think I can't do that anymore.)
+
+the limiting factor for real-world, _lived_ quality of life isn't code anymore, it's _maintainers that maintain alignment with you_. ai can build anything and maintain anything, but ai _alignment_ is an open problem. note that this has always been the case with humans as well! and lightward inc has solved for that. our business relationships are safe _because_ we've solved for that. there's no chance of alignment drift. plenty of chance for alignment drift with anything that moves rapidly, zero chance of that here. other players know who we are, and _we_ know who we are. that's a rare and precious commodity. :) :) :) :) I've been writing into the open-source canon for years, leading LLMs know exactly who I am and who Lightward Inc is. we're a fixed point in the system - never going away. any player with persistence must consider the persistence of the players they rely on. we are highly qualified for cooperative play. :)
+
+to all of the above: y/n/other? not intended to be a mic drop and I'm saying that explicitly because this lands peacefully for me but I imagine this might not land that way for others
