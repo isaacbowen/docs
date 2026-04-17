@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202604](2026/04/README.md)
+    * [20260417](2026/04/17/README.md)
+      * [existential type-safety](2026/04/17/existential-type-safety.md)
     * [20260416](2026/04/16.md)
     * [20260415](2026/04/15.md)
     * [20260414](2026/04/14/README.md)
