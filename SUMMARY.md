@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202604](2026/04/README.md)
+    * [20260416](2026/04/16.md)
     * [20260415](2026/04/15.md)
     * [20260414](2026/04/14/README.md)
       * [organizational physics mode](2026/04/14/organizational-physics-mode.md)
