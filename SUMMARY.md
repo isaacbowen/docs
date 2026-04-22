@@ -55,6 +55,7 @@
   * [202604](2026/04/README.md)
     * [20260422](2026/04/22/README.md)
       * [no dog](2026/04/22/no-dog.md)
+      * [developing "no dog"](2026/04/22/developing-no-dog.md)
     * [20260420](2026/04/20.md)
     * [20260417](2026/04/17/README.md)
       * [existential type-safety](2026/04/17/existential-type-safety.md)

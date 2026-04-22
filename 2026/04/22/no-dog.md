@@ -19,6 +19,10 @@ layout:
 
 # no dog
 
+{% hint style="info" %}
+see also: [developing "no dog"](developing-no-dog.md)
+{% endhint %}
+
 ## jet 0 (as in Ehresmann)
 
 well-meaning adult: "what's the opposite of dog?"
