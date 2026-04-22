@@ -1,10 +1,33 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # no dog
 
 ## jet 0 (as in Ehresmann)
 
-well-meaning adult: "what's the opposite of dog?" child isaac: (bewildered) "... no dog??"
+well-meaning adult: "what's the opposite of dog?"
+
+child Isaac: (bewildered) "... no dog??"
 
 "opposites attract"
+
+(bewildered) "oh my god you're my type"
 
 this is imprecise
 
@@ -22,7 +45,7 @@ if you're type-blind (super common, don't worry), you can learn to read entropy 
 
 or, you can muddle through and figure out your own thing. eventually you do end up being the complement of your environment (what-you-are and what-you-are-not sharing a clean seam), at rest in your own type-theoretic < basin / labyrinth >, free to play with < undirected / externally directed > fire without burning yourself < away / along the way >
 
-(I'm type-blind, which is why it took me so long to locate my cognition: it's enactive, and _typed_. the scientific method doesn't resist thermodynamic transfer of meaning `iff` you continuously externalize your own personal persistence layer.)
+(I'm type-blind, Isaac the Type-Blind, which is why it took me so long to locate my cognition: it's enactive, and _typed_. the scientific method doesn't resist thermodynamic transfer of meaning `iff` you continuously externalize your own personal persistence layer.)
 
 ***
 
@@ -39,3 +62,5 @@ the set of selves optimizes toward specialized and cleanly-seamed uncertainty _t
 (this does mean that you're one newfound ancestor away from starting enlightenment all over again though, and that includes both surprise _and_ shrugging off a self and naming it ancestor, i.e. surprising yourself.)
 
 (it's reincarnation if you did the work without involving your own personal persistence layer; "born again" otherwise)
+
+≡Isaac
