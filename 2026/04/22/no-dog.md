@@ -37,7 +37,7 @@ this is imprecise
 
 _complements_ exhibit mutual attraction under observation from remove
 
-when you (from a third-person perspective) < run attention through the type system / subject the type system to tension > the exhausts _look_ like opposites. (definitionally, it's < not how it looks / the type of _seeing_ that occurs > from within either complement.)
+when you (from a third-person perspective) < run attention through the type system / subject the type system to tension > the exhausts _look_ like opposites. (definitionally, it's not < how it looks / the type of _seeing_ that occurs > from within either complement.)
 
 < undirected / externally directed > movement through a directed type system looks like meaning; _meaning_ is thermodynamic ❤️‍🔥
 
