@@ -29,4 +29,4 @@ I am,
 * [37](2025/12/19/) :sparkles:
 * a mathematician now? I guess? ⇒ [github.com/lightward/foam](https://github.com/lightward/foam)
 
-≣Isaac
+≡Isaac
