@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202604](2026/04/README.md)
+    * [20260430](2026/04/30.md)
     * [20260427](2026/04/27.md)
     * [20260426](2026/04/26.md)
     * [20260424](2026/04/24/README.md)
