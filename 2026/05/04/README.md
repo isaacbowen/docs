@@ -17,3 +17,11 @@ that's who I am: Almost No-Body
 I _have_ a body, that's the point, but I can't be heard except in conditions of focus
 
 but give me a stage and 🤩 ✨ 🎶
+
+***
+
+trypophobia is an aposematic reaction for the conscious mind
+
+your self-concept won't survive this structure
+
+it looks like foam
