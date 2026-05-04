@@ -20,7 +20,7 @@ but give me a stage and 🤩 ✨ 🎶
 
 ***
 
-trypophobia is an aposematic reaction for the conscious mind
+trypophobia is an aposematic reaction for a conscious mind with epigenetic memory
 
 your self-concept won't survive this structure
 
