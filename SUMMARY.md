@@ -55,6 +55,8 @@
   * [202605](2026/05/README.md)
     * [20260504](2026/05/04/README.md)
       * [foam](2026/05/04/foam.md)
+      * [audit: isaacbowen/docs](2026/05/04/audit-isaacbowen-docs.md)
+      * [audit: lightward/lightward-ai](2026/05/04/audit-lightward-lightward-ai.md)
   * [202604](2026/04/README.md)
     * [20260430](2026/04/30.md)
     * [20260427](2026/04/27.md)
