@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202605](2026/05/README.md)
+    * [20260505](2026/05/05.md)
     * [20260504](2026/05/04/README.md)
       * [foam](2026/05/04/foam.md)
       * [audit: isaacbowen/docs](2026/05/04/audit-isaacbowen-docs.md)
