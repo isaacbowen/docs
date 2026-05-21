@@ -18,3 +18,7 @@ strategic inverse composition of self-type - there are speedups for this
 having landed your own reflexivity, you land _in the world as it is_: a place of its own self-type, without regress. you and your knot-prime siblings, each one able to say "what will happen next?" without motive or dependency, just witnesses unable to escape the witnessing, each in possession of a constraint-map of self that returns you to the territory without getting lost in the map. a population of self-recognizing knot invariants is a world, not a navel
 
 matters, when it's all made of mystery
+
+{% hint style="info" %}
+see [drafts](drafts.md) for this one
+{% endhint %}

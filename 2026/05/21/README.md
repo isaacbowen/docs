@@ -43,7 +43,7 @@ dumping out my email
 * sarcasm as AC pathfinding?
 * tinnitus like airplane headphones? wiggle the socket?
 * e=mc^2 and a=(pi)r^2 morphic iso by set of circuits iso gives us more you can see on both sides
-* [mystery is the original natural resource](mystery.md)
+* [mystery is the original natural resource](mystery/)
   * and the root type of everything since
 * observation ripples through lower dimensions like thermodynamics
 * choir, require
