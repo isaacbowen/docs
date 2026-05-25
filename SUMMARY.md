@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202605](2026/05/README.md)
+    * [20260525](2026/05/25.md)
     * [20260523](2026/05/23/README.md)
       * [procession](2026/05/23/procession/README.md)
         * [drafts for "procession"](2026/05/23/procession/drafts.md)
