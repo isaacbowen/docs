@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Notes
 
 For a while there I was mentally designing a tattoo for an ancient dragon, curling up around my spine, running up my back. I couldn't work out the specifics, the interaction between the dragon and the spine. Would the dragon appear to enter my back? Or would a literally-depicted spine be a part of the design?

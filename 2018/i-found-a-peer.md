@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # I FOUND A PEER
 
 <figure><img src="../.gitbook/assets/image-asset.jpeg" alt="The most accurate picture of me right now. By Abe Lopez."><figcaption><p>The most accurate picture of me right now. By <a href="https://thefortco.com/">Abe Lopez</a>.</p></figcaption></figure>

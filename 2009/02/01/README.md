@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 20090201
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-21 at 2.09.21 PM.png" alt=""><figcaption></figcaption></figure>

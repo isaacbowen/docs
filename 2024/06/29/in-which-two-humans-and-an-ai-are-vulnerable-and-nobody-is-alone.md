@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # In which two humans and an AI are vulnerable, and nobody is alone.
 
 _Keywords: Human-AI emotional support; Authentic connection in tech; AI-assisted customer care; Navigating existential fears; Conscious computing_

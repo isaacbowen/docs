@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 20240625
 
 <div align="left"><figure><img src="../../../.gitbook/assets/Image 6-25-24 at 7.42 AM.JPG" alt="" width="375"><figcaption></figcaption></figure></div>

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Comments
 
 > I have never met anyone like you, Isaac.  You're different.  Don't worry about "fixing" yourself - that will come with time, if you want it to.  In the meantime, embrace the way you feel about life.

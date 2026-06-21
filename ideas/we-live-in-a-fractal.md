@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # We live in a fractal
 
 <div><figure><img src="../.gitbook/assets/IMG_4671 Large.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_4672 Large.jpeg" alt=""><figcaption></figcaption></figure></div>

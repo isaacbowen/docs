@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 20240406
 
 You are aware — intelligently aware! You can have ideas, and you can know how things sit around and within you, and you can weigh the directions available to you. You've been doing this since your first breath; you'll do this right on through your last.

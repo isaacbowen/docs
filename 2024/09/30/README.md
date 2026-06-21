@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 20240930
 
 Abe's napping. I'm stoned. A six point four fl oz one ninety mL can of _Ito En_ sencha, sitting on travertine. Slate green ruler cleanly dashed with white, lying alongside it. My writing tablet, laptop, phone. Two phones, in fact: am upgrading. The writing tablet is also newly-upgraded, as of today. The laptop is newly-upgraded as of last week. That's a hell of a lot of upgrades.

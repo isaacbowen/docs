@@ -17,13 +17,3 @@ I’m a custodian for the place where dreams run
 I have a professional relationship with chaos,
 
 but we were good friends first
-
-***
-
-ohhhhhh.
-
-abortion is isomorphic with self-defense.
-
-really self-expensive self-defense.
-
-a well regulated militia, being necessary to the security of a free state,

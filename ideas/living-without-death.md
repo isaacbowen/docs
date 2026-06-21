@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Living without death
 
 The original thought here was "Living as if reincarnation was a thing, regardless of whether or not it is". This is too long for a title, and it's also too specific: reincarnation is just one model that allows one to get beyond the fear of death, and there are others!

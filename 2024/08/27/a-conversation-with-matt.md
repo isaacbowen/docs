@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # A conversation with Matt
 
 This is a cleaned-up-for-readability Slack conversation from yesterday (Monday, August 26, 2024). Shared with Matt's permission. :)

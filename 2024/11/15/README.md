@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 20241115
 
 Reality doesn't _seem_ to support direct contact with savior-type characters. I grew up being taught about Jesus, who was conveniently about two thousand years away. The ≈saintly people in my life have all died right when I was catching up to their level of development.

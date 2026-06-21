@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Notes
 
 Tonight's when my phone number time passes. (It's +1715407xxx0; if you interpret that as 1715407xxx.0 and interpret _that_ as a Unix timestamp, it comes out to _tonight_.)

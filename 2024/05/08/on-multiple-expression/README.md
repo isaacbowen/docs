@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # On multiple expression
 
 <div align="left"><figure><img src="../../../../.gitbook/assets/Screenshot 2024-05-08 at 5.45.37 PM.png" alt="" width="188"><figcaption></figcaption></figure></div>
