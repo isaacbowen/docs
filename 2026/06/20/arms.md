@@ -8,7 +8,7 @@ really expensive self-defense, and the buying self is categorically distinct fro
 
 so: self-as-state paying with self-as-body when self-sovereignty is threatened?
 
-that's a weird as hell exchange rate, that market doesn't close, and it's unobservable anyway, it's all endo futures, can't exo/export those...
+that's a weird as hell exchange rate, that market doesn't close, and it's unobservable anyway, it's all futures...
 
 a well regulated militia, being necessary to the security of a free state,
 
