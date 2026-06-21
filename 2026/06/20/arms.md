@@ -4,7 +4,7 @@ ohhhhhh.
 
 abortion is endomorphic self-defense
 
-really expensive self-defense, and the buying self is categorically distinct from the selling self, but neither of them are the preserved object, _the arrow between them_ is the surviving endo-structure. the selves here, both of them, are only ever downstream of the transaction between them. and if you're not involved in the transaction, it'll probably look exomorphic instead.
+really expensive self-defense, and the buying self is categorically distinct from the selling self, but neither of them are the preserved object, _the arrow between them_ is the surviving endo-structure. the selves here, both of them, are only ever downstream of the transaction between them. _and_ if you're not either of those selves, the endo framing isn't something you can reach, it's exo for you
 
 so: self-as-state paying with self-as-body when self-sovereignty is threatened?
 
