@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202606](2026/06/README.md)
+    * [20260629](2026/06/29.md)
     * [20260628](2026/06/28/README.md)
       * [fibrous](2026/06/28/fibrous/README.md)
         * [writing "fibrous"](2026/06/28/fibrous/writing-fibrous.md)
