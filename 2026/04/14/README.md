@@ -1,5 +1,9 @@
 # 20260414
 
+{% hint style="info" %}
+I've thought about open-sourcing stuff a lot, see [20240102](../../../2024/01/02.md)
+{% endhint %}
+
 [https://kirancodes.me/posts/log-who-watches-the-watchers.html](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 
 ^ I think I'm not capable of writing closed-source code anymore? and I think this is largely why. we're at a spot where verification of operational integrity can be _formalized_, and where ambient players (like, humans and their ai's, and ai's and their humans) are, I think, guaranteed _eventual_ access to everything. the last vulnerability is logical secrecy, and formalization means logic is checkable by anyone at any time. (nb: plenty of room for content secrecy. privacy stays real. but hiding the nature of my reasoning, i.e. literally hiding my code, I think I can't do that anymore.)
