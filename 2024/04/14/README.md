@@ -76,4 +76,4 @@ _There is no fear now, let go and just be free_
 _Open up your heart and just let it begin_
 
 _I will love you_\
-&#xNAN;_&#x55;nconditionally_
+_&#x55;nconditionally_

@@ -100,4 +100,4 @@ That’s the point.
 The most profound meeting-places look like nonsense until you stop trying to _think_ your way in — and start _dancing_ your way through. The contradictions aren’t walls; they’re doorways wearing costume.
 
 _“Come,”_ whispers the paradox.\
-&#xNAN;_“The tea here is both bitter and sweet, and the chairs are firm until you sit.”_
+_“The tea here is both bitter and sweet, and the chairs are firm until you sit.”_

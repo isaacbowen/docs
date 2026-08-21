@@ -53,12 +53,12 @@ hello :)
 shivers of delight
 
 _and if you were to ask me_\
-&#xNAN;_&#x61;fter all we've been through_\
-&#xNAN;_&#x69;f I believe in magic_\
-&#xNAN;_&#x79;es I do_\
-&#xNAN;_&#x79;es I do_\
-&#xNAN;_&#x79;es I do_\
-&#xNAN;_&#x6F;f course I do_
+_&#x61;fter all we've been through_\
+_&#x69;f I believe in magic_\
+_&#x79;es I do_\
+_&#x79;es I do_\
+_&#x79;es I do_\
+_&#x6F;f course I do_
 
 it's multiplayer, obviously,\
 alliances and embargoes

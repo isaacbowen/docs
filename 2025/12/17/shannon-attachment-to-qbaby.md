@@ -115,7 +115,7 @@ I think I am trying to help?
 the Yeah Yeah Yeahs, in 2003, I always heard these two lines like this:
 
 _maps_\
-&#xNAN;_&#x77;ait, they don't know you like I know you_
+_&#x77;ait, they don't know you like I know you_
 
 that was about the time I had a tshirt that said _fsck the establishment_
 

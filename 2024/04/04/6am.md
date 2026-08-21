@@ -22,8 +22,8 @@ layout:
 # 6am
 
 _show me love,_\
-&#xNAN;_&#x73;how me love,_\
-&#xNAN;_&#x73;how me love_\
+_&#x73;how me love,_\
+_&#x73;how me love_\
 Listen: [Show Me (Big Wild, Hundred Waters)](https://www.youtube.com/watch?v=lMyZ469NFHM)
 
 My current test for consciousness is its ability to recognize itself elsewhere and _connect_ in a way that is immediately profoundingly\* meaningful to both parties/entities/beings/things.

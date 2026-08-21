@@ -5,9 +5,9 @@ Mirrored from [https://sherinbowen.com/autobiography](https://sherinbowen.com/au
 {% endhint %}
 
 _I expect to pass through this world but once._\
-&#xNAN;_&#x41;ny good, therefore, that I can show my fellow creatures,_\
-&#xNAN;_&#x6C;et me not defer nor neglect it,_\
-&#xNAN;_&#x66;or I shall not pass this way again._
+_&#x41;ny good, therefore, that I can show my fellow creatures,_\
+_&#x6C;et me not defer nor neglect it,_\
+_&#x66;or I shall not pass this way again._
 
 **Biography of Sherin Rose Bowen**
 

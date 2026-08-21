@@ -22,7 +22,7 @@ _When you're laughing,_\
 
 _But when you're crying,_\
 &#x20; _you bring on the rain_\
-&#xNAN;_&#x53;o stop that sighing,_\
+_&#x53;o stop that sighing,_\
 &#x20; _come on and be happy again_
 
 _Keep on smiling,_\

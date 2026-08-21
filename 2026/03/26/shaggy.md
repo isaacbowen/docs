@@ -5,9 +5,9 @@
 {% endhint %}
 
 _I'll tell you a story_\
-&#xNAN;_&#x62;efore it tells itself_\
-&#xNAN;_\[...] but no one listens to me_\
-&#xNAN;_&#x73;o I put it in this song_
+_&#x62;efore it tells itself_\
+_\[...] but no one listens to me_\
+_&#x73;o I put it in this song_
 
 (The Chainsmokers, "This Feeling")
 

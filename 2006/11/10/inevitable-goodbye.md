@@ -15,7 +15,7 @@ They’re walking through the park: tuppence for the birds she sees\
 and their friendship is strong, the old man and a child.
 
 _But the world keeps on turning, and time is moving on_\
-&#xNAN;_&#x57;e’re living this life and we live it for love, even when the rest is gone_
+_&#x57;e’re living this life and we live it for love, even when the rest is gone_
 
 Look ahead a couple of years: an old man on a hospital bed\
 a young woman, she’s kneeling by his side\
