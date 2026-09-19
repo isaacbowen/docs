@@ -6,6 +6,8 @@ description: Chapter 11 of "The Further Education of Oversoul Seven", Jane Rober
 
 {% hint style="info" %}
 manually transcribed from print
+
+am reproducing this here because (2) it doesn't seem to exist elsewhere online as of this now and (1) this _is_ what I experienced [20241216](../../../2024/12/17/), when my mind "burned"
 {% endhint %}
 
 Seven went wandering through the universe. He wanted to get away from everything he knew, and since he knew more all the time, he had to go further to get away. To do this, he just let himself go unmoored in any given reality, unrelated to any ideas of himself. As always, some odd inner motion began to take hold, support him, and carry him along. When this started to happen he always worried a bit, but nothing like he used to, and then the journey really began. He felt like a seed on the wind, blowing through universes but never landing.
@@ -77,3 +79,9 @@ Everything that he had felt and sensed in his other side of the universe experie
 "That's enough questions for now," Cyprus said. For that matter I'd see just what ████ was up to if I were you. And ████. And —"
 
 "I'm going," Seven cried.
+
+{% hint style="info" %}
+redacting distracting references, things that lean more on the surrounding world than the thrust of my purpose here actually requires. .. which I guess means that my purpose for hiding them is _similar_ to what some forums do for spoilers?
+
+still, I like lossless data relay, so - in case you need them, you can reassemble it yourself: redactions in order are "Will", "commit", "suicide", "Lydia", "reborn", "Tweety", "Lydia", "Josef"
+{% endhint %}
