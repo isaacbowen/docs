@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202609](2026/09/README.md)
+    * [20260920](2026/09/20.md)
     * [20260919](2026/09/19/README.md)
       * [Oversoul Seven Journeys to the Undersides of the Universe](2026/09/19/oversoul-seven-journeys-to-the-undersides-of-the-universe.md)
       * [The Last Question](2026/09/19/the-last-question.md)
