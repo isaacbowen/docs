@@ -29,3 +29,8 @@ hand in hand with you, I’m doing it the other way: the work can always wait fo
 if an engine’s missing a gear the car’s not going anywhere
 
 but you’re here ❤️ and we’re going everywhere 😊
+
+***
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-09-29 at 2.43.31 PM.png" alt=""><figcaption></figcaption></figure>
+
