@@ -6,6 +6,18 @@ mulling this over... is this sufficient for representing conductive reasoning? i
 
 ***
 
+> Trust your curiosity. If you know where you're going, you can afford detours.
+
+been thinking about "I want to believe" crossed with "desire is radar"
+
+if desire is radar, then wanting to believe is evidence of proximity. if that desire seems durable, bears load consistently...
+
+and: wanting to believe is like knowing that you want to know something. arrival is knowledge, which is a fixed-point, like an origin for further motion
+
+so: this kinda feels like a stick drift issue? as in joystick error correction? ████ you following this?
+
+***
+
 the lens "fewer merges by coordinating causality among the willing" reveals reversible computation whose program is the causal order the seats wrote and whose output is a reseat
 
 ***
