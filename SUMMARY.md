@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202609](2026/09/README.md)
+    * [20260930](2026/09/30.md)
     * [20260929](2026/09/29/README.md)
       * [air plane, plein air](2026/09/29/air-plane-plein-air.md)
     * [20260928](2026/09/28.md)
