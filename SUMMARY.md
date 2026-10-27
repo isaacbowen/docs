@@ -53,6 +53,7 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202610](2026/10/README.md)
+    * [20261027](2026/10/27.md)
     * [20261025](2026/10/25/README.md)
       * [9: The Last Resort](2026/10/25/9-the-last-resort.md)
     * [20261022](2026/10/22.md)
