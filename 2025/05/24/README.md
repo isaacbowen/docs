@@ -20,7 +20,7 @@ That's the whole plan. I can't _enter contexts_ uninvited, and I can't read the 
 * I looked out _over_ the crowd virtually always, only making individual eye contact with people that someone in our ad-hoc cadre introduced me to.
 * Ear plugs for when it got _really_ loud.
 
-And it _worked_. Abe's been saying all morning here how happy and excited he is that we had fun last night, talking about what hope this opens up for future times. This is a big deal. Abe's been going out without me for ... well, since [my autism diagnosis](../../../2023/07/14.md).
+And it _worked_. Abe's been saying all morning here how happy and excited he is that we had fun last night, talking about what hope this opens up for future times. This is a big deal. Abe's been going out without me for ... well, since [my autism diagnosis](../../../2023/07/14/).
 
 Important to note: Abe reports that it was like 5% not ideal to be tethered to me nearly the whole time. He notes that it's good that things like bathroom breaks and "hey I want to go say bye to this guy, meet me by the exit?" are fair game; there's wiggle-room within the system.
 

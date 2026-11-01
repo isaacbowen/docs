@@ -17,11 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 20230714
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 so: I’m autistic, with asperger’s. I have been differentially diagnosed. it’s done. it was hard and complicated and it hurt and it is done.
 

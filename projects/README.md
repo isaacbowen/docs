@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Projects
@@ -47,7 +49,7 @@ layout:
 
 * Moved all of Lightward's infrastructure off of Heroku (onto Fly, Crunchy Bridge, and Redis.com)
 * Recreating isaacbowen.com as a repository of writing
-* [ASD level 1 diagnosis](../2023/07/14.md)
+* [ASD level 1 diagnosis](../2023/07/14/)
 
 ## 2022
 
