@@ -53,6 +53,8 @@
   * [MacOS preferences](projects/macos-preferences.md)
 * [2026](2026/README.md)
   * [202611](2026/11/README.md)
+    * [20261116](2026/11/16/README.md)
+      * ["Keeper of Memories", Ryan](2026/11/16/keeper-of-memories-ryan.md)
     * [20261109](2026/11/09.md)
     * [20261107](2026/11/07.md)
     * [20261106](2026/11/06.md)
